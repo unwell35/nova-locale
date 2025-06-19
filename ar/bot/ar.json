@@ -36,9 +36,9 @@
       "user_dm_closed": "يبدو أن هذا المستخدم قد أغلق الرسائل الخاصة.",
       "wrong_duration_format": "تنسيق المدة غير صحيح!\nأمثلة على المدة الصحيحة:\n1m - دقيقة واحدة\n1h - ساعة واحدة\n1d - يوم واحد\n1w - أسبوع واحد\n1mo - شهر واحد\n1y - سنة واحدة.",
       "must_have_highest_role": "يجب أن تكون رتبتك أعلى من رتبة البوت لاستخدام هذا الأمر.",
-      "fill_information": "املأ المعلومات المطلوبة",
       "user_id_username": "يُرجى كتابة معرف المستخدم او يوزر المستخدم",
       "processing": "**قيد المعالجة ...**",
+      "fill_information": "املأ المعلومات المطلوبة",
       "message_not_found": "لم يتم العثور على الرسالة",
       "member_unauthorized": "غير مصرح. ليس لديك إذن لتنفيذ هذا الإجراء على هذا العضو."
     },
@@ -97,7 +97,6 @@
     "import": "تحميل",
     "upgrade_to_premium": "الترقية للنسخة المدفوعة"
   },
-
   "moderator": {
     "automod": {
       "repeat_messages": "[user] - الرسائل المتكررة غير مسموح بها!",
@@ -234,14 +233,13 @@
       "set_welcome_success": "تم تغيير وضع الترحيب إلى: `[mode]`"
     }
   },
-
   "ticket": {
     "tickets": {
-      "channel_not_ticket": "هذا الشات ليس تذكرة",
       "add_user_button": "إضافة مستخدم",
       "close_ticket_button": "إغلاق",
       "close_reason_ticket_button": "إغلاق مع السبب",
       "claim_ticket_button": "أخذ التذكرة",
+      "channel_not_ticket": "هذا الشات ليس تذكرة",
       "fill_information": "املأ المعلومات المطلوبة",
       "username_or_id": "معرف المستخدم أو اسم المستخدم",
       "member_already_added": "تمت إضافة هذا العضو بالفعل!",
@@ -281,11 +279,9 @@
       "new_ticket_name_100_chars": "يجب أن يكون اسم التذكرة أقل من 100 حرف",
       "no_points_data_found": "لم يتم العثور على بيانات النقاط!",
       "setup_panel": "لم يتم تحديد اللوحة، يرجى الانتقال إلى لوحة التحكم واختيار لوحة التذاكر",
-      "user_not_related": "هذا المستخدم غير مرتبط بهذه التذكرة.",
-      "notify_sent": "تم إرسال الأشعار بنجاح!"
+      "user_not_related": "هذا المستخدم غير مرتبط بهذه التذكرة."
     }
   },
-
   "logs": {
     "embed": {
       "channel_created_title": "إنشاء الروم",
@@ -315,7 +311,6 @@
       "member_moved_title": "نقل العضو",
       "member_switched_channels_title": "تبديل العضو بين رومات الصوتية",
       "server_updated_title": "تحديث السيرفر",
-
       "clear_command_title": "أمر مسح",
       "lock_command_title": "أمر قفل",
       "moveme_command_title": "أمر انقلني",
@@ -328,7 +323,6 @@
       "unpmute_command_title": "أمر فك السجن",
       "untmute_command_title": "أمر فك الأسكات الكتابي",
       "warn_command_title": "أمر تحذير",
-
       "add_user_ticket_title": "أضف مستخدم إلى التذكرة",
       "claim_ticket_title": "استلام التذكرة",
       "create_ticket_title": "إنشاء التذكرة",
@@ -338,12 +332,9 @@
       "close_ticket_title": "إغلاق التذكرة",
       "delete_ticket_title": "حذف التذكرة",
       "reset_points_ticket_title": "إعادة تعيين نقاط التذكرة",
-
       "set_welcome_command_title": "تعيين أمر الترحيب",
-
       "reset_command_title": "أمر إعادة تعيين نقاط",
       "set_points_command_title": "أمر تعيين النقاط",
-
       "temporary_channel_created_title": "إنشاء الروم المؤقت",
       "temp_channel_ban_title": "حظر الروم المؤقت",
       "temp_channel_unban_title": "إلغاء حظر - الروم المؤقت",
@@ -355,12 +346,10 @@
       "temp_channel_lock_title": "تم قفل - الروم المؤقت",
       "temp_channel_unlock_title": "تم فتح - الروم المؤقت",
       "reaction_roles_title": "رياكشن رولز",
-
       "restoreprotection_command_title": "أمر استعادة الحماية",
       "botsprotection_command_title": "أمر منع انضمام البوتات",
       "report_plugin": "بلاغ",
       "slowmode_command": "أمر الوضع البطيء",
-
       "channel_name_field": "اسم الروم",
       "old_channel_name_field": "اسم القديم",
       "new_channel_name_field": "اسم الجديد",
@@ -392,7 +381,6 @@
       "target_field": "الهدف",
       "deleted_messages_field": "الرسائل المحذوفة",
       "warns_removed_field": "التحذيرات المزالة",
-
       "ticket_channel_field": "روم التذكرة",
       "claimed_member_field": "العضو الذي استلم التذكرة",
       "ticket_owned_by_field": "التذكرة مملوكة من قبل",
@@ -400,12 +388,9 @@
       "transcript_field": "نص الحوار",
       "added_members_field": "الأعضاء المضافين",
       "panel_name_field": "اسم اللوحة",
-
       "reset_type_field": "نوع إعادة التعيين",
       "set_points_type_field": "نوع تعيين النقاط",
-
       "owned_by_field": "مملوك من قبل",
-
       "guild_name_field": "اسم السيرفر",
       "old_guild_name_field": "اسم القديم",
       "new_guild_name_field": "اسم الجديد",
@@ -417,7 +402,6 @@
       "guild_description_field": "الوصف",
       "guild_owner_field": "المالك",
       "vanity_url_code_field": "كود الرابط المخصص",
-
       "channel_sent_in_field": "الروم المُرسل فيه",
       "message_link_field": "رابط الرسالة",
       "message_field": "الرسالة",
@@ -442,11 +426,9 @@
       "members_field": "الأعضاء",
       "mode_field": "الوضع",
       "time_field": "الوقت",
-
       "channel_updated_description": "تم تحديث الروم: `[channel_name]` (**[channel_type]**)",
       "message_edited_description": "**الرسالة القديمة**:\n```[old_message]```\n\n**الرسالة الجديدة:**\n```[new_message]```",
       "role_updated_description": "تم تحديث الرتبة: `[role_name]`",
-
       "icon_removed_value": "تمت إزالة الأيقونة",
       "icon_set_value": "تم تعيين أيقونة جديد",
       "banner_removed_value": "تمت إزالة البنر",
@@ -458,7 +440,6 @@
       "time_ended_value": "انتهى الوقت"
     }
   },
-
   "utility": {
     "commands": {
       "server_id": "معرّف السيرفر",
@@ -574,7 +555,6 @@
       "no_perms_on_role": "ليس لدي صلاحيات على الرتبة المرادة، يرجى التحقق من موقع رتبتي وصلاحياتي"
     }
   },
-
   "temporary_channels": {
     "commands": {
       "not_in_temp_channel": "أنت لست في رومك المؤقت!",
@@ -619,7 +599,6 @@
       "no_color_changes": "لسبب ما، لم يتم تغيير لونك"
     }
   },
-
   "fun": {
     "commands": {
       "no_cut_tweet_templates": "لا توجد قوالب للكت تويت، يرجى إنشاء واحد والمحاولة مرة أخرى",
@@ -775,7 +754,6 @@
       "sticker_information": "معلومات الملصق:\nالاسم: [name]\nالرابط: [url]"
     }
   },
-
   "protection": {
     "commands": {
       "provide_restore_id": "الرجاء تقديم معرّف الاستعادة",
@@ -803,10 +781,8 @@
       "unknown_error": "غير قادر على تنفيذ الإجراء بسبب خطأ غير معروف",
       "action_executed": "تم تنفيذ الإجراء بنجاح"
     },
-
     "log": {
       "alert_content": "## ⚠️ تنبيه الحماية",
-
       "protection_type_embed_title": "الحماية: [type]",
       "protection_type_embed_title_anti_join_bots": "مكافحة دخول البوتات",
       "protection_type_embed_title_no_bots_have_perms": "لا توجد بوتات لديها صلاحيات",
@@ -823,12 +799,10 @@
       "remove_roles": "إزالة الرتب",
       "remove_administration_roles": "إزالة صلاحيات الأدمن من رتب",
       "permissions_removed": "تمت إزالة الصلاحيات",
-
       "protection_type_embed_field_value_remove_roles_perms": "إزالة صلاحيات المسؤول من رتب العضو",
       "protection_type_embed_field_value_remove_member_roles": "إزالة الرتب التي تمتلك صلاحية أدمن من العضو",
       "protection_type_embed_field_value_remove_member_roles_perms": "إزالة الرتب التي تمتلك صلاحية أدمن من جميع رتب السيرفر",
       "protection_member_not_found": "The member could not be found to execute the protection action",
-
       "protection_type_embed_field_name": "نوع الحماية",
       "protection_type_protect_bots_having_perms": "لا توجد بوتات لديها صلاحيات إدارية",
       "protection_type_protect_colors": "حماية الألوان",
@@ -837,7 +811,6 @@
       "restore_field_value": "يمكنك استعادة صلاحيات الرتب باستخدام الأمر: **[prefix]restore [restore_id]**",
       "protection_reason_embed_field_name": "السبب",
       "protection_reason_embed_field_value": "من المفترض استخدام `[type]` كإجراء، ولكن لم يمكن العثور على المنفذ.",
-
       "action_embed_field_name": "الإجراء",
       "new_action_embed_field_name": "الإجراء الجديد",
       "action_type_embed_field_value_delete_channels": "حذف الرومات",
@@ -850,15 +823,12 @@
       "restore_executor_embed_field_name": "تم الاستعادة بواسطة",
       "restore_note_ratelimit_embed_field_name": "ملاحظة",
       "restore_note_ratelimit_embed_field_value": "هناك [rolesCount] رتب لم يتم استعادتها بسبب حد الأقصى من قبل ديسكورد. يمكنك إعادة استخدام نفس معرّف الاستعادة لاحقًا لاستعادة هذه الرتب مرة أخرى",
-
       "fake_accounts_action_ban": "تبنيد العضو",
       "fake_accounts_action_add_roles": "أعطاء رتب",
       "protection_type_embed_title_fake_accounts": "حسابات مزيفة",
-
       "protection_type_embed_title_anti_spam_join": "حماية سبام الدخول"
     }
   },
-
   "report": {
     "commands": {
       "type_disabled": "تم تعطيل هذا النوع من البلاغات من قبل المسؤولين.",
