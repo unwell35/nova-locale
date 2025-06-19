@@ -34,7 +34,6 @@
   "LANDING_FEATURES_7_DESCRIPTION": "تتبع أنشطة وأحداث السيرفر باستخدام سجلات التتبع سهل الاستخدام.",
   "LANDING_FEATURES_8_TITLE": "مجتمع ودود",
   "LANDING_FEATURES_8_DESCRIPTION": "انضم إلى مجتمع ترحيبي وداعم.",
-
   "CONTACT_US_FOOTER": "تواصل معنا",
   "DISCORD_FOOTER": "ديسكورد",
   "PAGES_FOOTER": "الصفحات",
@@ -44,7 +43,6 @@
   "LEGAL_FOOTER": "قانون",
   "ABOUT_FOOTER": "حول نوڤا",
   "ABOUT_DESCRIPTION_FOOTER": "نوڤا هو بوت ديسكورد قوي ومرن مصمم لتحسين تجربة سيرفرك. يتميز بأدوات الإدارة، والأوامر الممتعة، والتكاملات المخصصة، مما يجعل إدارة السيرفر سهلة وممتعة. رفيقك الشامل للسيرفر.",
-
   "BACKUP_LABEL": "النسخ الأحتياطي",
   "COLORS_LABEL": "الألوان",
   "FUN_LABEL": "التسلية",
@@ -56,7 +54,6 @@
   "TEMPORARY_CHANNELS_LABEL": "الرومات المؤقتة",
   "TICKET_LABEL": "التذاكر",
   "VOICE_ONLINE_LABEL": "فويس أونلاين",
-
   "ROLES_LABEL": "الرتب",
   "CREATE_TITLE": "إنشاء",
   "CLOSE_BUTTON": "إغلاق",
@@ -214,7 +211,6 @@
   "PERSONAL_ID_MENU": "الهوية الشخصية",
   "DASHBOARD_MENU": "لوحة التحكم",
   "MANAGE_SUBSCRIPTIONS_MENU": "إدارة الاشتراكات",
-
   "INVITE_BOT_MENU": "دعوة البوت",
   "HELP_MENU": "المساعدة",
   "COMMANDS_MENU": "الأوامر",
@@ -306,7 +302,6 @@
   "REACTION_ROLES_LOG": "سجلات الرياكشن رولز",
   "TICKET_LOG": "سجلات التذاكر",
   "EDIT_BUTTON": "تعديل",
-
   "AUDIT_LOG_LABEL": "سجل التدقيق",
   "ACTION_LABEL": "الأجراء",
   "SEARCH_BUTTON": "بحث",
@@ -437,6 +432,7 @@
   "MONTHS_OPTION": "أشهر",
   "YEARS_OPTION": "سنوات",
   "EQUALS_OPTION": "يساوي",
+  "ENDS_WITH_OPTION": "Ends With",
   "CONTAINS_OPTION": "يحتوي على",
   "CHANNEL_OPTION": "روم",
   "REPLY_OPTION": "رد",
@@ -496,16 +492,13 @@
   "PLUS_MENU": "بلس",
   "PRIME_MENU": "برايم",
   "FREE_MENU": "مجانية",
-
   "FREE_PLAN_DESCRIPTION": "وصول مبدئي إلى الميزات الأساسية؛ توافر محدود للإضافات",
   "PRIME_PLAN_DESCRIPTION": "فتح مجموعة أوسع من الإضافات لتعزيز الوظائف؛ تتضمن وصولًا إلى الميزات المجانية",
   "PLUS_PLAN_DESCRIPTION": "استمتع بالوصول الكامل إلى جميع الإضافات، بما في ذلك الإضافات الأساسية مثل النسخ الاحتياطي والحماية، لتجربة بوت شاملة",
-
   "PLANS_PRICING": "الخطط",
   "MONTHLY_PRICING": "شهريًا",
   "ANNUAL_PRICING": "سنويًا",
   "FREE_PRICING": "مجاني للأبد",
-
   "PROTECTION_PRICING_HEADER": "الحماية",
   "WELCOMER_PRICING_HEADER": "الترحيب",
   "COLORS_PRICING_HEADER": "الألوان",
@@ -548,23 +541,19 @@
   "CUTTWEET_PANELS_PRICING": "لوحات الكت تويت",
   "TEMP_VOICE_HUBS_PRICING": "مراكز الرومات المؤقتة",
   "ROULETTE_PLAYERS_PRICING": "عدد لاعبين الروليت",
-
   "FREE_PLAN_FEATURE_1": "وصول إلى 16 أضافات",
   "FREE_PLAN_FEATURE_2": "الإشراف",
   "FREE_PLAN_FEATURE_3": "الرقابة التلقائية",
-
   "PRIME_PLAN_FEATURE_1": "وصول إلى 18 أضافة",
   "PRIME_PLAN_FEATURE_2": "تخصيص بروفايل البوت",
   "PRIME_PLAN_FEATURE_3": "إنشاء الألوان",
   "PRIME_PLAN_FEATURE_4": "التذاكر",
   "PRIME_PLAN_FEATURE_5": "حماية بسيطة",
-
   "PLUS_PLAN_FEATURE_1": "جميع مميزات خطة البرايم",
   "PLUS_PLAN_FEATURE_2": "وصول إلى 19 أضافة",
   "PLUS_PLAN_FEATURE_3": "حماية متقدمة",
   "PLUS_PLAN_FEATURE_4": "النسخ التلقائي",
   "PLUS_PLAN_FEATURE_5": "حد ادنى اكبر",
-
   "SUBSCRIBE_NOW_BUTTON": "أشترك الآن",
   "CHOOSE_PREMIUM_TIER_HEADER": "أختر الخطة المناسبة",
   "SOMETHING_WENT_WRONG": "حدث خطأ ما ، يُرجى إعادة المحاولة لاحقًا",
@@ -711,25 +700,20 @@
   "COMMAND_EXAMPLE_POINTSTICKET": "/ticket points list\n/ticket points list [عضو]\n/ticket points list [رتبة]",
   "COMMAND_DESCRIPTION_RESETPOINTSTICKET": "إعادة تعيين نقاط تذاكر",
   "COMMAND_EXAMPLE_RESETPOINTSTICKET": "/ticket points reset_user [عضو]\n/ticket points reset_server",
-
   "COMMAND_DESCRIPTION_UNCLAIMTICKET": "ترك مسؤولية التذكرة",
   "COMMAND_EXAMPLE_UNCLAIMTICKET": "/ticket unclaim",
   "COMMAND_EXAMPLE_NOTIFYTICKET": "/ticket notify [user]\n/ticket notify [user] [reason]",
   "COMMAND_DESCRIPTION_NOTIFYTICKET": "إرسال إشعار إلى أعضاء التذكرة",
-
   "COMMAND_DESCRIPTION_CUTTWEET": "إنشاء رسالة كت تويت",
   "COMMAND_EXAMPLE_CUTTWEET": "/cuttweet\n/cuttweet [السؤال]",
   "COMMAND_DESCRIPTION_STARTGIVEAWAY": "بدء قيف اواي",
   "COMMAND_EXAMPLE_STARTGIVEAWAY": "/giveaway start [الوقت] [عدد الفائزين] [الجائزة]",
   "COMMAND_DESCRIPTION_REROLLGIVEAWAY": "أختيار فائز جديد للقيف اواي",
   "COMMAND_EXAMPLE_REROLLGIVEAWAY": "/giveaway reroll",
-
   "COMMAND_DESCRIPTION_CANCELGIVEAWAY": "إنهاء وحذف القيف اواي",
   "COMMAND_EXAMPLE_CANCELGIVEAWAY": "/giveaway cancel",
-
   "COMMAND_DESCRIPTION_ENDGIVEAWAY": "إنهاء وأختيار فائزين",
   "COMMAND_EXAMPLE_ENDGIVEAWAY": "/giveaway end",
-
   "COMMAND_DESCRIPTION_ROULETTE": "بدء لعبة روليت في الشات الحالي",
   "COMMAND_EXAMPLE_ROULETTE": "/roulette start",
   "COMMAND_DESCRIPTION_STOPROULETTE": "وقف لعبة روليت",
@@ -741,7 +725,6 @@
   "COMMAND_DESCRIPTION_BOTSPROTECTION": "تفعيل/تعطيل حماية دخول البوتات او منشن جميع البوتات",
   "COMMAND_EXAMPLE_BOTSPROTECTION": "/protection bots [تفعيل|تعطيل|منشن]",
   "COMMAND_DESCRIPTION_HELP": "معلومات حول البوت",
-
   "COMMAND_EXAMPLE_DEBUG": "/debug",
   "COMMAND_DESCRIPTION_DEBUG": "أرسل معلومات عن البوت في هذا السيرفر",
   "COMMAND_EXAMPLE_PING": "/ping",
@@ -758,7 +741,6 @@
   "COMMAND_DESCRIPTION_DAILY": "احصل على الذهب اليومي الخاص بك",
   "COMMAND_EXAMPLE_VOTE": "/vote",
   "COMMAND_DESCRIPTION_VOTE": "تحقق مما إذا كان يمكنك التصويت أم لا",
-
   "ALL_TAB": "الجميع",
   "GENERAL_TAB": "العام",
   "UTILITY_TAB": "منفعة",
@@ -769,7 +751,6 @@
   "FUN_TAB": "تسلية",
   "PLUS_TAB": "بلس",
   "PLUS_BUTTON": "بلس",
-
   "SUCCESS_TOAST": "نجاح",
   "CHANGES_SAVED_TOAST": "تم حفظ التغييرات الجديدة!",
   "ERROR_TOAST": "خطأ",
@@ -789,7 +770,6 @@
   "REMOVED_BOT_SERVER_TOAST": "تمت إزالة البوت من السيرفر بنجاح!",
   "COMMAND_ALIAS_EXIST_TOAST": "هذا الأختصار موجود بالفعل في أمر \"{commandName}\". يرجى كتابة أختصار آخر",
   "LOGGED_OUT_TOAST": "تم تسجيل الخروج بنجاح",
-
   "EXECUTOR_LABEL": "منفذ",
   "DATE_LABEL": "تاريخ",
   "LOG_TYPE_LABEL": "نوع السجل",
@@ -797,7 +777,6 @@
   "TARGET_LABEL": "المستهدف",
   "REASON_LABEL": "السبب",
   "DATA_LABEL": "معلومات",
-
   "ENABLE_MENTION_CONTENT_LABEL": "تفعيل المنشن في رسالة المحتوى",
   "VARIABLES_LABEL": "المتغييرات",
   "ROLE_NAME_REWARD_VARIABLE": "أسم رتبة المكافأة",
@@ -823,7 +802,6 @@
   "TICKET_VARIABLE": "منشن شات التذكرة",
   "TICKET_NAME_VARIABLE": "أسم شات التذكرة",
   "MEMBER_COUNT_VARIABLE": "عدد أعضاء السيرفر",
-
   "AUTHOR_PLACEHOLDER_EMBED": "المؤلف",
   "URL_PLACEHOLDER_EMBED": "رابط المؤلف",
   "TITLE_PLACEHOLDER_EMBED": "العنوان",
@@ -831,7 +809,6 @@
   "FIELD_INDEX_EMBED": "حقل: {index}",
   "FIELD_NAME_PLACEHOLDER_EMBED": "عنوان",
   "FIELD_VALUE_PLACEHOLDER_EMBED": "القيمة",
-
   "STATISTICS_MENU": "الإحصائيات",
   "STATISTICS_TITLE": "الإحصائيات",
   "DURATION_LABEL": "المدة",
@@ -845,7 +822,6 @@
   "VOICE_CONNECTED_CHART": "المتصلين بالرومات الصوتية",
   "VOICE_COUNT_EXCL_BOTS_CHART": "العد باستثناء البوتات",
   "VOICE_COUNT_INCL_BOTS_CHART": "العد يشمل البوتات",
-
   "ACCESS_DENIED_HIGHEST_ROLE": "تم الرفض الوصول - يجب ان تكون رتبتك أعلى من رتبة البوت",
   "BANNER_LABEL": "خلفية",
   "PROTECTION_INFO_ALERT": "بالنسبة للرتب والرومات ، تنطبق الحماية فقط على الإنشاء والحذف.\nحماية الطرد لن تعمل على نسخة المجانية",
@@ -857,13 +833,11 @@
   "ANTI_JOIN_SPAM_INFO_ALERT": "إذا تم الوصول إلى الحد الأقصى ، سيتم حظر العضو",
   "EXCLUDED_CHANNELS_LABEL": "الرومات المستبعدة",
   "RESTRICT_UMUTE_LABEL": "تقييد فك الأسكات",
-
   "REMOVE_BOT_SERVER_DIALOG_TITLE": "إزالة البوت",
   "REMOVE_BOT_SERVER_DIALOG_DESCRIPTION": "هل أنت متأكد من إزالة هذا البوت من سيرفر؟ لا تستطيع الوصول إلى مميزات الأشتراك مرة أخرى لهذا السيرفر",
   "CONFIRM_BUTTON": "تأكيد",
   "AGE_LABEL": "العمر",
   "REMOVE_BOT_SERVER_BUTTON": "إزالة البوت",
-
   "REMOVE_REWARD_ROLES_RESET_TOOLTIP": "عند أستخدام امر التصفير ، سيتم إزالة رتب المكافأة عن العضو",
   "GIVE_HIGHEST_REWARD_SET_XP_TOOLTIP": "عند أستخدام امر أعطاء نقاط ، سيتم أعطاء أعلى مكافأة",
   "EXCLUDED_ROLES_TOOLTIP": "أستبعاد رتب من أعطائها/إزالتها بأستخدام الأمر من رتبة معينة",
@@ -912,7 +886,6 @@
   "CONTACT_US_MENU": "تواصل معنا",
   "SETTINGS_BUTTON": "إعدادات",
   "MESSAGE_LABEL": "رسالة",
-
   "STYLE_INDEX_OPTION": "شكل {index}",
   "SHAPE_INDEX_OPTION": "شكل {index}",
   "CIRCLE_OPTION": "دائرة",
@@ -920,10 +893,8 @@
   "CURVED_SQUARE_OPTION": "مربع منحني",
   "ROTATED_SQUARE_OPTION": "مربع مُدوَّر",
   "PERMISSIONS_AND_ALIASES_TITLE": "الصلاحيات والرتب",
-
   "GIVEAWAYS_MENU": "قيف اواي",
   "GIVEAWAYS_TITLE": "قيف اواي",
-
   "TRIGGER_TYPE_LABEL_CARD": "نوع الأستجابة: {type}",
   "AUTOMATIONS_TITLE": "الإجراءات الآلية",
   "CREATE_AUTOMATION_BUTTON": "إنشاء إجراء آلي",
@@ -982,7 +953,6 @@
   "DAILY_VERIFIED_EMAIL": "يُرجى توثيق حسابك لأخذ هديتك اليومية",
   "RESEND_BUTTON": "إعادة إرسال",
   "REACTION_ROLES_RESEND_NOTE": "يرجى حفظ التغييرات قبل إرسال الرسالة ، سيتم تعطيل الرسالة السابقة وأستبدالها بالجديدة.",
-
   "TYPE_TITLE": "النوع",
   "INFORMATION_TITLE": "المعلومات",
   "PRODUCT_TYPE_LABEL": "نوع المنتج",
@@ -1086,7 +1056,6 @@
   "UPDATE_PRODUCT_TITLE": "تحديث المنتج",
   "NOTIFY_CONTENT_LABEL": "محتوى رسالة التنبية",
   "NOTIFY_CONTENT_TOOLTIP": "الرسالة التي سيتم إرسالها للمستخدم",
-
   "GOLDS_TRANSACTIONS_TITLE": "معاملات الذهب",
   "TRANSACTION_DETAILS_TITLE": "تفاصيل المعاملة",
   "USER_LABEL": "المستخدم",
@@ -1096,7 +1065,6 @@
   "PROGRESS_WILL_LOST_DESCRIPTION": "هل أنت متأكد؟ سيتم تجاهل التغييرات غير المحفوظة.",
   "GOLDS_TRANSACTIONS_DESCRIPTION": "عرض تاريخ معاملتك الكامل مع التواريخ والمبالغ والرصيد.",
   "SYSTEM_LABEL": "نظام",
-
   "ADDITIONAL_ROLES_LABEL": "رتب الإضافية",
   "STAFF_PERMISSIONS_LABEL": "صلاحيات الإدارة",
   "ADDITIONAL_PERMISSIONS_LABEL": "صلاحيات الإضافية",
@@ -1111,7 +1079,6 @@
   "MEMBERSHIPS_PERMISSIONS_LABEL": "صلاحيات العضوية",
   "TEXT_CHANNEL_PERMISSIONS_LABEL": "صلاحيات الشات الكتابي",
   "APPS_PERMISSIONS_LABEL": "صلاحيات التطبيقات",
-
   "VIEW_CHANNEL_PERMISSION": "View Channel",
   "MANAGE_CHANNELS_PERMISSION": "Manage Channel",
   "MANAGE_PERMISSIONS_PERMISSION": "Manage Permissions",
@@ -1154,7 +1121,6 @@
   "USE_EMBED_LABEL": "أستخدام الأمبد",
   "UNAUTHORIZED_IDS": "غير مصرح لك – تواصل مع مالك السيرفر لمنحك الوصول.",
   "LEVELS_TITLE": "المستويات",
-
   "ERROR_DELETING_TOAST": "حدث خطأ أثناء الحذف",
   "SUCCESS_DELETED_TOAST": "تم الحذف بنجاح!",
   "SUCCESS_DUPLICATED_TOAST": "تم النسخ بنجاح!",
@@ -1222,7 +1188,6 @@
   "MORE_DETAILS_PRICING": "مزيد من التفاصيل وجميع المميزات",
   "VIEW_PRICING_PAGE": "مشاهدة صفحة الأسعار",
   "TRANSFABLE_SERVER": "قابل للنقل",
-
   "MEMBER_KICKED_PRICING": "سجل طرد العضو",
   "MEMBER_DISCONNECTED_PRICING": "سجل طرد العضو من الروم",
   "MEMBER_MOVED_PRICING": "سجل سحب العضو",
@@ -1315,8 +1280,8 @@
   "PRODUCT_UNDER_REVIEW": "هذا المنتج قيد المراجعة حاليًا ولم يتم عرضه على المتجر العام بعد.",
   "PRODUCT_REJECTED": "تم رفض هذا المنتج. ملاحظة المراجع: {reviewer_note}.",
   "SOLD_LABEL": "مُباع",
-  "REVIEWS_COUNT": "{count} تقييم",
   "RATINGS_LABEL": "التقييمات",
+  "REVIEWS_COUNT": "{count} تقييم",
   "FEEDBACK_MENU": "الآراء",
   "NO_FEEDBACKS": "لا توجد أراء في الوقت الحالي.",
   "INTERNAL_SERVER_ERROR": "حدث خطأ ما",
@@ -1397,7 +1362,6 @@
   "PRIZE_GIVEAWAY_VARIABLE": "جائزة القيف اواي",
   "REMOVE_BANNER": "إزالة البنر",
   "REMOVE_AVATAR": "إزالة الأفاتار",
-
   "MUSIC_TAB": "الموسيقى",
   "COMMAND_DESCRIPTION_PLAY": "تشغيل مقطع مباشرة بالاسم أو الرابط",
   "COMMAND_EXAMPLE_PLAY": "/play [استعلام]\n/play [رابط]",
