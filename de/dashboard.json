@@ -432,7 +432,6 @@
   "MONTHS_OPTION": "Months",
   "YEARS_OPTION": "Years",
   "EQUALS_OPTION": "Equals",
-  "ENDS_WITH_OPTION": "Ends With",
   "CONTAINS_OPTION": "Contains",
   "CHANNEL_OPTION": "Channel",
   "REPLY_OPTION": "Reply",
@@ -1509,6 +1508,5 @@
   "PUNISH_USER_ACTION": "Punish User",
   "TICKET_TRANSCRIPT_LOG": "Ticket Transcript Log",
   "WINNER_GIVEAWAY_MESSAGE": "Winner Message",
-  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot",
-  "test": "test"
+  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot"
 }
