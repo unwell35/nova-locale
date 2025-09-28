@@ -1489,7 +1489,7 @@
   "VOTE_NOTIFICATION": "Vote",
   "VOTE_NOTIFICATION_TOOLTIP": "Get notified when you vote for the bot.",
   "TRANSFER_GOLDS_NOTIFICATION": "Transfer Golds",
-  "TRANSFER_GOLDS_NOTIFICATION_TOOLTIP": "Receive a notification when someone transfers golds to you.",
+  "TRANSFER_GOLDS_NOTIFICATION_TOOLTIP": "Receive a notification when someone transfer golds to you.",
   "TEXT_LEVELUP_MESSAGE": "Text Level Up Message",
   "VOICE_LEVELUP_MESSAGE": "Voice Level Up Message",
   "REWARD_ROLE_MESSAGE": "Reward Role Message",
