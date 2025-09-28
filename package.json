@@ -1,0 +1,17 @@
+{
+  "name": "nova-locales",
+    "description": "locales for nova project",
+  "version": "1.0.0",
+  "author": "Five (https://github.com/unwell35)",
+  "homepage": "https://github.com/unwell35/nova-locale",
+  "module": "./index.js",
+  "exports": {
+    "import": "./index.js",
+    "require": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unwell35/nova-locale.git"
+  },
+  "license": "MIT",
+}
