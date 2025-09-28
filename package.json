@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Five (https://github.com/unwell35)",
   "homepage": "https://github.com/unwell35/nova-locale",
+  "license": "MIT",
   "module": "./index.js",
   "exports": {
     "import": "./index.js",
@@ -12,6 +13,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/unwell35/nova-locale.git"
-  },
-  "license": "MIT",
+  }
 }
