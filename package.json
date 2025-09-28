@@ -1,6 +1,6 @@
 {
-  "name": "nova-locales",
-    "description": "locales for nova project",
+  "name": "nova-locale",
+  "description": "locales for nova project",
   "version": "1.0.0",
   "author": "Five (https://github.com/unwell35)",
   "homepage": "https://github.com/unwell35/nova-locale",
