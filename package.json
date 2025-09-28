@@ -5,7 +5,8 @@
   "author": "Five (https://github.com/unwell35)",
   "homepage": "https://github.com/unwell35/nova-locale",
   "license": "MIT",
-  "module": "./index.js",
+  "main": "./index.js",
+  "types": "./index.d.ts",
   "exports": {
     "import": "./index.js",
     "require": "./index.js"
