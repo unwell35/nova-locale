@@ -1,13 +1,29 @@
-const BOT_LANGUAGES = {};
-BOT_LANGUAGES.ar = require('./ar/bot.json');
-BOT_LANGUAGES.en = require('./en/bot.json');
-BOT_LANGUAGES.ku = require('./ku/bot.json');
+// @ts-check
 
-module.exports.BOT_LANGUAGES = BOT_LANGUAGES;
+/**
+ * @typedef {import('./en/bot.json')} BotTranslation
+ * @typedef {import('./en/dashboard.json')} DashboardTranslation
+ */
 
-const DASHBOARD_LANGUAGES = {};
-DASHBOARD_LANGUAGES.ar = require('./ar/dashboard.json');
-DASHBOARD_LANGUAGES.en = require('./en/dashboard.json');
-DASHBOARD_LANGUAGES.ku = require('./ku/dashboard.json');
+/**
+ * @type {Record<'ar' | 'en' | 'ku', BotTranslation>}
+ */
+const BOT_LANGUAGES = {
+  ar: require("./ar/bot.json"),
+  en: require("./en/bot.json"),
+  ku: require("./ku/bot.json"),
+};
 
-module.exports.DASHBOARD_LANGUAGES = DASHBOARD_LANGUAGES;
+/**
+ * @type {Record<'ar' | 'en' | 'ku', DashboardTranslation>}
+ */
+const DASHBOARD_LANGUAGES = {
+  ar: require("./ar/dashboard.json"),
+  en: require("./en/dashboard.json"),
+  ku: require("./ku/dashboard.json"),
+};
+
+module.exports = {
+  BOT_LANGUAGES,
+  DASHBOARD_LANGUAGES,
+};

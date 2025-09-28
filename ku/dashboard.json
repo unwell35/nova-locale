@@ -432,7 +432,6 @@
   "MONTHS_OPTION": "مانگەکان",
   "YEARS_OPTION": "ساڵەکان",
   "EQUALS_OPTION": "یەکسانەکان",
-  "ENDS_WITH_OPTION": "کۆتایی دێت بە",
   "CONTAINS_OPTION": "لەخۆدەگرێت",
   "CHANNEL_OPTION": "چەناڵ",
   "REPLY_OPTION": "وەڵامدانەوە",
@@ -1511,6 +1510,5 @@
   "PUNISH_USER_ACTION": "Punish User",
   "TICKET_TRANSCRIPT_LOG": "Ticket Transcript Log",
   "WINNER_GIVEAWAY_MESSAGE": "Winner Message",
-  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot",
-  "test": "test"
+  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot"
 }
