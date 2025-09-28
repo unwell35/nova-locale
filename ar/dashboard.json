@@ -496,16 +496,13 @@
   "PLUS_MENU": "بلس",
   "PRIME_MENU": "برايم",
   "FREE_MENU": "مجانية",
-
   "FREE_PLAN_DESCRIPTION": "وصول مبدئي إلى الميزات الأساسية؛ توافر محدود للإضافات",
   "PRIME_PLAN_DESCRIPTION": "فتح مجموعة أوسع من الإضافات لتعزيز الوظائف؛ تتضمن وصولًا إلى الميزات المجانية",
   "PLUS_PLAN_DESCRIPTION": "استمتع بالوصول الكامل إلى جميع الإضافات، بما في ذلك الإضافات الأساسية مثل النسخ الاحتياطي والحماية، لتجربة بوت شاملة",
-
   "PLANS_PRICING": "الخطط",
   "MONTHLY_PRICING": "شهريًا",
   "ANNUAL_PRICING": "سنويًا",
   "FREE_PRICING": "مجاني للأبد",
-
   "PROTECTION_PRICING_HEADER": "الحماية",
   "WELCOMER_PRICING_HEADER": "الترحيب",
   "COLORS_PRICING_HEADER": "الألوان",
@@ -548,24 +545,20 @@
   "CUTTWEET_PANELS_PRICING": "لوحات الكت تويت",
   "TEMP_VOICE_HUBS_PRICING": "مراكز الرومات المؤقتة",
   "ROULETTE_PLAYERS_PRICING": "عدد لاعبين الروليت",
-
   "FREE_PLAN_FEATURE_1": "وصول إلى 16 أضافات",
   "FREE_PLAN_FEATURE_2": "الإشراف",
   "FREE_PLAN_FEATURE_3": "الرقابة التلقائية",
-
   "PRIME_PLAN_FEATURE_1": "وصول إلى 18 أضافة",
   "PRIME_PLAN_FEATURE_2": "تخصيص بروفايل البوت",
   "PRIME_PLAN_FEATURE_3": "إنشاء الألوان",
   "PRIME_PLAN_FEATURE_4": "التذاكر",
   "PRIME_PLAN_FEATURE_5": "حماية",
   "PRIME_PLAN_FEATURE_6": "موسيقى",
-
   "PLUS_PLAN_FEATURE_1": "جميع مميزات خطة البرايم",
   "PLUS_PLAN_FEATURE_2": "وصول إلى 19 أضافة",
   "PLUS_PLAN_FEATURE_3": "حماية متقدمة",
   "PLUS_PLAN_FEATURE_4": "النسخ التلقائي",
   "PLUS_PLAN_FEATURE_5": "حد ادنى اكبر",
-
   "SUBSCRIBE_NOW_BUTTON": "أشترك الآن",
   "CHOOSE_PREMIUM_TIER_HEADER": "أختر الخطة المناسبة",
   "SOMETHING_WENT_WRONG": "حدث خطأ ما ، يُرجى إعادة المحاولة لاحقًا",
@@ -1349,6 +1342,8 @@
   "WINNERS_START_GIVEAWAY_VARIABLE": "عدد الفائزين",
   "WINNERS_END_GIVEAWAY_VARIABLE": "الفائزون في القيف اواي",
   "GIVEAWAY_ENDS_AT_VARIABLE": "موعد إنتهاء القيف اواي",
+  "COMMAND_DESCRIPTION_TEMPROLE": "تعيين رتبة مؤقتة لعضو",
+  "COMMAND_DESCRIPTION_SLOWMODE": "تفعيل أو تعطيل الوضع البطيء في الشات الحالية",
   "COMMAND_DESCRIPTION_TEMPROLES": "عرض الرتب المؤقتة للعضو أو السيرفر",
   "COMMAND_DESCRIPTION_TEMPROLE_REMOVE": "إزالة الرتبة المؤقتة التي أضفتها مسبقًا للعضو",
   "DISABLE_DM_MEMBER": "تعطيل تنبية في الخاص",
@@ -1480,7 +1475,6 @@
   "MESSAGES_REPORT_DESCRIPTION_LABEL": "تتيح للأعضاء الإبلاغ عن الرسائل للمراجعة، إما عبر الأمر أو بالنقر بزر الفأرة الأيمن على الرسالة.",
   "MEMBERS_REPORT_DESCRIPTION_LABEL": "تتيح للأعضاء الإبلاغ عن مستخدمين آخرين للمراجعة، إما عبر الأمر أو بالنقر بزر الفأرة الأيمن على الملف الشخصي.",
   "SAVE_RESEND_BUTTON": "حفظ وإعادة الإرسال",
-
   "ADD_COMPONENT_BUTTON": "إضافة مكوّن",
   "SEPARATOR_LABEL": "فاصل",
   "CONTAINER_LABEL": "إطار",
