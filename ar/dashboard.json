@@ -432,7 +432,6 @@
   "MONTHS_OPTION": "أشهر",
   "YEARS_OPTION": "سنوات",
   "EQUALS_OPTION": "يساوي",
-  "ENDS_WITH_OPTION": "Ends With",
   "CONTAINS_OPTION": "يحتوي على",
   "CHANNEL_OPTION": "روم",
   "REPLY_OPTION": "رد",
@@ -1509,6 +1508,5 @@
   "PUNISH_USER_ACTION": "معاقبة العضو",
   "TICKET_TRANSCRIPT_LOG": "سجل نص حوار التذكرة",
   "WINNER_GIVEAWAY_MESSAGE": "رسالة الفائز",
-  "CHOOSE_SUBSCRIPTION_SERVER": "اختر السيرفر الذي تريد وضع النسخة المدفوعة فيه",
-  "test": "test"
+  "CHOOSE_SUBSCRIPTION_SERVER": "اختر السيرفر الذي تريد وضع النسخة المدفوعة فيه"
 }
