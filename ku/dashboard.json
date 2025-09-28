@@ -432,7 +432,6 @@
   "MONTHS_OPTION": "مانگەکان",
   "YEARS_OPTION": "ساڵەکان",
   "EQUALS_OPTION": "یەکسانەکان",
-  "ENDS_WITH_OPTION": "کۆتایی دێت بە",
   "CONTAINS_OPTION": "لەخۆدەگرێت",
   "CHANNEL_OPTION": "چەناڵ",
   "REPLY_OPTION": "وەڵامدانەوە",
@@ -1489,7 +1488,7 @@
   "VOTE_NOTIFICATION": "Vote",
   "VOTE_NOTIFICATION_TOOLTIP": "Get notified when you vote for the bot.",
   "TRANSFER_GOLDS_NOTIFICATION": "Transfer Golds",
-  "TRANSFER_GOLDS_NOTIFICATION_TOOLTIP": "Receive a notification when someone transfer golds to you.",
+  "TRANSFER_GOLDS_NOTIFICATION_TOOLTIP": "Receive a notification when someone transfers golds to you.",
   "TEXT_LEVELUP_MESSAGE": "Text Level Up Message",
   "VOICE_LEVELUP_MESSAGE": "Voice Level Up Message",
   "REWARD_ROLE_MESSAGE": "Reward Role Message",
@@ -1509,6 +1508,5 @@
   "PUNISH_USER_ACTION": "Punish User",
   "TICKET_TRANSCRIPT_LOG": "Ticket Transcript Log",
   "WINNER_GIVEAWAY_MESSAGE": "Winner Message",
-  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot",
-  "test": "test"
+  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot"
 }
