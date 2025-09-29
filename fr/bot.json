@@ -22,7 +22,7 @@
       "not_have_access_channel": "I don't have permissions on the target channel.",
       "not_have_access_specific_role": "I don't have permission to manage the `[role]` role. Please check my permissions and ensure my role is above the target role.",
       "not_have_access_role": "Je n'ai pas l'autorisation pour ce rôle. Veuillez vérifier mes autorisations et vous assurer que mon rôle est supérieur au rôle cible.",
-      "bots_not_allowed": ".",
+      "bots_not_allowed": "Bots are not allowed.",
       "no_data_member": "I didn't find data for this member.",
       "no_data_record": "No data record found.",
       "rename_channel_cooldown": "You can rename the channel again on [date].",
