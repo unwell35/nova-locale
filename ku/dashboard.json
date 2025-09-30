@@ -1246,7 +1246,7 @@
   "TOP_XP": "Top XP",
   "TOP_REPS": "Top Reputations",
   "NOTIFY_MEMBER": "Notify Member",
-  "NOTIFY_MEMBER_TOOLTIP": "Send a message to the mentioned member when the command executed.",
+  "NOTIFY_MEMBER_TOOLTIP": "ناردنی نامەیەک بۆ ئەندامی ناوبراو کاتێک کۆماندەکە جێبەجێ کرا.",
   "INCLUDE_EXECUTOR": "Include Executor",
   "INCLUDE_EXECUTOR_TOOLTIP": "Include the executor command in the notify message",
   "RECOMMENDED_SIZE": "Recommended Size: {size}",
