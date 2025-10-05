@@ -58,7 +58,7 @@
       "server_in_blocklist": "This server in blocklist. More info:\nhttps://novax.gg/support"
     },
     "no_record": "No record.",
-    "not_authorized": "You're not authorized to use this!",
+    "not_authorized": "Vous n'êtes pas autorisé à utiliser ceci !",
     "arg_cannot_be_found": "`[args]` cannot be found!",
     "process_canceled": "Process has been canceled by [user].",
     "ongoing_process": "Another process is currently being performed.",
