@@ -284,7 +284,7 @@
   },
   "logs": {
     "embed": {
-      "channel_created_title": "Channel Created",
+      "channel_created_title": "Chaîne créée",
       "channel_deleted_title": "Channel Deleted",
       "channel_updated_title": "Channel Updated",
       "member_banned_title": "Member Banned",
