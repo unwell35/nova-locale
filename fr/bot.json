@@ -389,7 +389,7 @@
       "added_members_field": "Added Members",
       "panel_name_field": "Panel Name",
       "reset_type_field": "Reset Type",
-      "set_points_type_field": "Set Points Type",
+      "set_points_type_field": "Type de points de consigne",
       "owned_by_field": "Owned By",
       "guild_name_field": "Server Name",
       "old_guild_name_field": "Old Name",
@@ -444,7 +444,7 @@
     "commands": {
       "server_id": "Server ID",
       "owned_by": "Owned By",
-      "server_age": "Server Age",
+      "server_age": "Âge du serveur",
       "members": "Members ([count])",
       "online_members": "Online: [count]",
       "boosts": "Boosts",
