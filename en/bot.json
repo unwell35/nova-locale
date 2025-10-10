@@ -559,7 +559,8 @@
       "boosting_since": "Boosting since",
       "xp": "XP",
       "level": "Level",
-      "user_store": "User Store"
+      "user_store": "User Store",
+      "vote_get_gold_button": "Earn gold by voting for the bot!"
     }
   },
   "reaction_roles": {
