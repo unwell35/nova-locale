@@ -95,7 +95,8 @@
     "user_id": "ئایدی کەسەکە",
     "sent_from_server": "نێردراوە لەلایەن سێرڤەری: [serverName]",
     "import": "Import",
-    "upgrade_to_premium": "Upgrade to Premium"
+    "upgrade_to_premium": "Upgrade to Premium",
+    "data_count": "Data count: [data_count]"
   },
   "moderator": {
     "automod": {
@@ -119,6 +120,7 @@
       "anti_spam_title": "دژە-سپام",
       "anti_multiple_lines_title": "دژە-فرە هێڵ",
       "mass_mentions_title": "Mass Mentions",
+      "bad_words_title": "Bad Words",
       "automod": "ئوتۆمۆد"
     },
     "commands": {
@@ -205,7 +207,11 @@
       "slowmode_created": "دۆخی خاوی دانرا لەچەناڵی[channel] بەسەرکەوتوویی!",
       "slowmode_same": "دۆخی خاوی لەم کەناڵەدا هەمان ئەوەیە کە تۆ داوای دەکەیت",
       "not_in_jail_member": "ئەم مێمبەرە لە بەندینخانە نیە",
-      "unjailed_member": "[user] بەسەرکەوتوویی لە بەندیخانە ئازادکرا."
+      "unjailed_member": "[user] بەسەرکەوتوویی لە بەندیخانە ئازادکرا.",
+      "no_temproles_found": "No temp roles found!",
+      "temproles_display": "User: [user] - Role: [role]\nBy: [author] - Remove At: [date]\n-# Data ID: [data_id]",
+      "data_id_required": "Please provide a data id",
+      "temprole_removed": "Temp role has been removed successfully from [member]"
     },
     "embed": {
       "pmute_title": "بەندینخانە",
@@ -313,6 +319,7 @@
       "server_updated_title": "سێرڤەرەکە نوێکرایەوە",
       "clear_command_title": "کۆماندی سڕینەوە،پاکردنەوە",
       "lock_command_title": "کۆماندە قفڵ کراوەکان",
+      "setwelcome_command_title": "Set Welcome Command",
       "moveme_command_title": "کۆماندی گواستنەوەی خۆم",
       "move_command_title": "کۆماندی گواستنەوە",
       "pmute_command_title": "کۆماندی سجن کردن",
@@ -332,6 +339,7 @@
       "close_ticket_title": "داخستنی تیکت",
       "delete_ticket_title": "سڕینەوەی تیکت",
       "reset_points_ticket_title": "ڕێکخستنەوەی،سفرکردنەوەی پۆیتنی تیکت",
+      "transcript_ticket_title": "Ticket Transcript",
       "set_welcome_command_title": "دانانی کۆماندی بەخێرهاتن",
       "reset_command_title": "ڕێکخستنەوەی،سفرکردنەوەی کۆماند",
       "set_points_command_title": "دانانی کۆماندی پۆینت",
@@ -437,7 +445,16 @@
       "splash_set_value": "دانانی سپلاشی،پرشاندنی نوێ",
       "discovery_splash_removed_value": "لابردنی دۆزینەوەی پەڵە",
       "discovery_splash_set_value": "دۆزینەوەی پەڵەیەکی نوێ دانرا",
-      "time_ended_value": "کاتەکە کۆتایی هات"
+      "time_ended_value": "کاتەکە کۆتایی هات",
+      "emoji_name_field": "Emoji Name",
+      "sticker_name_field": "Sticker Name",
+      "emoji_created_title": "Emoji Created",
+      "emoji_deleted_title": "Emoji Deleted",
+      "sticker_created_title": "Sticker Created",
+      "sticker_deleted_title": "Sticker Deleted",
+      "type_field": "Type",
+      "regualr_field": "Regular",
+      "animated_field": "Animated"
     }
   },
   "utility": {
@@ -474,6 +491,15 @@
       "provide_points": "تکایە ئەو خاڵانە پێشکەش بکە کە دەتەوێت دایبنێیت",
       "set_points_warn": "تکایە تێبینی, ۱ خاڵ = ۱ خوولەک (voice) یان ۱ نامە (messages).",
       "help_content": "**[server_name]**\n\n 📖 **کۆماندەکان**: بەکارهێنانی پرێفیکس `[prefix]` بۆ کۆماندەکان. [Commands](https://novax.gg/commands 'لیستی کۆماندەکان')\n💻 **داشبۆرد:** هەموو شتێک بە ئاسانی بەڕێوە ببە. [بڕۆ بۆ داشبۆرد](https://novax.gg)\n❓ **یارمەتیت دەوێ ؟:** جۆینی سێرڤەری هاوکاری بکە.\n[support_server]",
+      "help_commands_title": "📖 Commands",
+      "help_commands_description": "Use `[prefix]` prefix for commands.",
+      "help_dashboard_title": "💻 Dashboard",
+      "help_dashboard_description": "Manage Nova’s settings",
+      "help_support_title": "❓ Need Help?",
+      "help_support_description": "Join support server.",
+      "help_commands_button": "Commands",
+      "help_dashboard_button": "Go to Dashboard",
+      "help_support_button": "Support Server",
       "user_in_blocklist": "تۆ لە لیستی ڕەشیت. ناتوانی ئەم کۆماندە بەکاربێنی",
       "specific_user_in_blocklist": "ئەم کەسە لە لیستی ڕەشە.",
       "amount_golds": "**باڵانسەکەت `$[amount]` گۆڵدە. ژیرانە خەرجی بکە!**",
@@ -497,7 +523,17 @@
       "provide_amount_tax": "تکایە بڕەکە بنووسە\nنموونە: /tax بڕەکە:500",
       "tax_message": "> **بڕی باج:** `[taxAmount]`\n> **بڕی پارەکە لەکەڵ باج:** `[amountIncTax]`\n> **بڕی پارەکە لەگەڵ باجی ناوبژیوان:** `[amountIncMidTax]`\n> **باجی ناوبژیوانی **: `[middleManAmount]` (%`[middleTax]`)\n> **ئەو بڕەی دەنێردرێت بۆ نابژیوانەکە:** `[amountMiddle]`",
       "provide_level": "تکایە ئەو ئاستە دیاریبکە کە دەتەوێت دایبنێیت",
-      "none_tracking_xp": "هیچ دۆخێکی بەدواکەوتن نییە لە نامەکان یان ئەو ڤۆیسانەی کە لەگەڵ خاڵی ئەزموون کاردەکات."
+      "none_tracking_xp": "هیچ دۆخێکی بەدواکەوتن نییە لە نامەکان یان ئەو ڤۆیسانەی کە لەگەڵ خاڵی ئەزموون کاردەکات.",
+      "language_unavailable": "Please provide a new language. Available options: [languages]",
+      "language_changed": "Language successfully changed to **[language]**.",
+      "addemojis_unvalid_attachments": "Attachments must be one of the following formats: **jpeg**, **jpg**, **png**, or **gif**, and must not exceed **256 KiB** in size.",
+      "provide_emojis": "Please provide emojis from other server or attach an image.",
+      "provide_valid_emojis": "Please provide valid emojis or attach an image.",
+      "limit_regular_emojis": "`[count]` emojis not added — limit reached. Delete some and try again.",
+      "limit_animated_emojis": "`[count]` animated emojis not added — limit reached. Delete some and try again.",
+      "limit_discord_emojis": "`[count]` emojis not added — Discord rate limit.",
+      "error_emojis": "`[count]` emojis not added — something went wrong",
+      "emojis_added": "Successfully added: [emojis]"
     },
     "interaction": {
       "voice_label": "تەنها ڤۆیس",
@@ -538,9 +574,11 @@
       "desktop": "دیسکتۆپ",
       "device_status": "دۆخی ئامێرەکان",
       "boosting_since": "کاتی بووستەکە",
+      "no_boost": "Not Boosting",
       "xp": "خاڵەکانی ئەزموون",
       "level": "ئاست",
-      "user_store": "بازاڕی کەسەکە"
+      "user_store": "بازاڕی کەسەکە",
+      "vote_get_gold_button": "Earn gold by voting for the bot!"
     }
   },
   "reaction_roles": {
@@ -927,7 +965,8 @@
       "track_count": "ڕێژەی پەخش: [count]",
       "inactive_player": "💤 **هیچ پەخشێک لێنەدراوە لە ماوەی 3 خوولەکدا. چەناڵی ڤۆیسەکە بەجێ دەهێڵم بۆ پاراستنی سەرچاوەکان**",
       "currently_playing": "پەخشی ئێستا",
-      "now_playing": "🎶 ** ئێستا پەخش دەکرێ** [channel]"
+      "now_playing": "🎶 ** ئێستا پەخش دەکرێ** [channel]",
+      "by": "By **[author]**"
     }
   }
 }
