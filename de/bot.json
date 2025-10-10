@@ -95,7 +95,8 @@
     "user_id": "User ID",
     "sent_from_server": "Sent from server: [serverName]",
     "import": "Import",
-    "upgrade_to_premium": "Upgrade to Premium"
+    "upgrade_to_premium": "Upgrade to Premium",
+    "data_count": "Data count: [data_count]"
   },
   "moderator": {
     "automod": {
@@ -119,6 +120,7 @@
       "anti_spam_title": "Anti-Spam",
       "anti_multiple_lines_title": "Anti-Multiple Lines",
       "mass_mentions_title": "Mass Mentions",
+      "bad_words_title": "Bad Words",
       "automod": "AutoMod"
     },
     "commands": {
@@ -205,7 +207,11 @@
       "slowmode_created": "Slowmode has been set in [channel] successfully!",
       "slowmode_same": "Slowmode in this channel is the same as you provide",
       "not_in_jail_member": "This member is not in jail",
-      "unjailed_member": "[user] was unjailed successfully."
+      "unjailed_member": "[user] was unjailed successfully.",
+      "no_temproles_found": "No temp roles found!",
+      "temproles_display": "User: [user] - Role: [role]\nBy: [author] - Remove At: [date]\n-# Data ID: [data_id]",
+      "data_id_required": "Please provide a data id",
+      "temprole_removed": "Temp role has been removed successfully from [member]"
     },
     "embed": {
       "pmute_title": "Prison",
@@ -313,6 +319,7 @@
       "server_updated_title": "Server Updated",
       "clear_command_title": "Clear Command",
       "lock_command_title": "Lock Command",
+      "setwelcome_command_title": "Set Welcome Command",
       "moveme_command_title": "Moveme Command",
       "move_command_title": "Move Command",
       "pmute_command_title": "Prison Command",
@@ -332,6 +339,7 @@
       "close_ticket_title": "Close Ticket",
       "delete_ticket_title": "Delete Ticket",
       "reset_points_ticket_title": "Reset Points Ticket",
+      "transcript_ticket_title": "Ticket Transcript",
       "set_welcome_command_title": "Set Welcome Command",
       "reset_command_title": "Reset Command",
       "set_points_command_title": "Set Points Command",
@@ -437,7 +445,16 @@
       "splash_set_value": "New splash set",
       "discovery_splash_removed_value": "Discovery Splash removed",
       "discovery_splash_set_value": "New discovery splash set",
-      "time_ended_value": "Time ended"
+      "time_ended_value": "Time ended",
+      "emoji_name_field": "Emoji Name",
+      "sticker_name_field": "Sticker Name",
+      "emoji_created_title": "Emoji Created",
+      "emoji_deleted_title": "Emoji Deleted",
+      "sticker_created_title": "Sticker Created",
+      "sticker_deleted_title": "Sticker Deleted",
+      "type_field": "Type",
+      "regualr_field": "Regular",
+      "animated_field": "Animated"
     }
   },
   "utility": {
@@ -474,6 +491,15 @@
       "provide_points": "Please provide the points you want to set",
       "set_points_warn": "Please note, 1 point = 1 minute (voice) or 1 message (messages).",
       "help_content": "📖 **Commands**: Use `[prefix]` prefix for commands. [Commands](https://novax.gg/commands 'List commands')\n💻 **Dashboard:** Manage everything easily. [Go to dashboard](https://novax.gg)\n❓ **Need Help?:** Join support server.\n[support_server]",
+      "help_commands_title": "📖 Commands",
+      "help_commands_description": "Use `[prefix]` prefix for commands.",
+      "help_dashboard_title": "💻 Dashboard",
+      "help_dashboard_description": "Manage Nova’s settings",
+      "help_support_title": "❓ Need Help?",
+      "help_support_description": "Join support server.",
+      "help_commands_button": "Commands",
+      "help_dashboard_button": "Go to Dashboard",
+      "help_support_button": "Support Server",
       "user_in_blocklist": "You're in blocklist. You cannot use this command",
       "specific_user_in_blocklist": "This user in blocklist.",
       "amount_golds": "**Your balance is `$[amount]` gold. Spend wisely!**",
@@ -497,7 +523,17 @@
       "provide_amount_tax": "Please provide amount\nExample: /tax amount:500",
       "tax_message": "> **Tax amount:** `[taxAmount]`\n> **Amount included tax:** `[amountIncTax]`\n> **Amount included middle man tax:** `[amountIncMidTax]`\n> **Middle man tax**: `[middleManAmount]` (%`[middleTax]`)\n> **Amount to be transferred to the middle man:** `[amountMiddle]`",
       "provide_level": "Please provide the level you want to set",
-      "none_tracking_xp": "There is no tracking mode in the messages or voice that works with the XP."
+      "none_tracking_xp": "There is no tracking mode in the messages or voice that works with the XP.",
+      "language_unavailable": "Please provide a new language. Available options: [languages]",
+      "language_changed": "Language successfully changed to **[language]**.",
+      "addemojis_unvalid_attachments": "Attachments must be one of the following formats: **jpeg**, **jpg**, **png**, or **gif**, and must not exceed **256 KiB** in size.",
+      "provide_emojis": "Please provide emojis from other server or attach an image.",
+      "provide_valid_emojis": "Please provide valid emojis or attach an image.",
+      "limit_regular_emojis": "`[count]` emojis not added — limit reached. Delete some and try again.",
+      "limit_animated_emojis": "`[count]` animated emojis not added — limit reached. Delete some and try again.",
+      "limit_discord_emojis": "`[count]` emojis not added — Discord rate limit.",
+      "error_emojis": "`[count]` emojis not added — something went wrong",
+      "emojis_added": "Successfully added: [emojis]"
     },
     "interaction": {
       "voice_label": "Voice only",
@@ -538,9 +574,11 @@
       "desktop": "Desktop",
       "device_status": "Device status",
       "boosting_since": "Boosting since",
+      "no_boost": "Not Boosting",
       "xp": "XP",
       "level": "Level",
-      "user_store": "User Store"
+      "user_store": "User Store",
+      "vote_get_gold_button": "Earn gold by voting for the bot!"
     }
   },
   "reaction_roles": {
@@ -927,7 +965,8 @@
       "track_count": "Track Count: [count]",
       "inactive_player": "💤 **No tracks played for 3 minutes. Leaving the voice channel to save resources..**",
       "currently_playing": "Currently playing",
-      "now_playing": "🎶 **Now Playing in** [channel]"
+      "now_playing": "🎶 **Now Playing in** [channel]",
+      "by": "By **[author]**"
     }
   }
 }
