@@ -1538,5 +1538,6 @@
   "PUNISH_USER_ACTION": "معاقبة العضو",
   "TICKET_TRANSCRIPT_LOG": "سجل نص حوار التذكرة",
   "WINNER_GIVEAWAY_MESSAGE": "رسالة الفائز",
-  "CHOOSE_SUBSCRIPTION_SERVER": "اختر السيرفر الذي تريد وضع النسخة المدفوعة فيه"
+  "CHOOSE_SUBSCRIPTION_SERVER": "اختر السيرفر الذي تريد وضع النسخة المدفوعة فيه",
+  "SUPPORT_TITLE": "المساعدة"
 }
