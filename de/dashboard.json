@@ -1508,5 +1508,6 @@
   "PUNISH_USER_ACTION": "Punish User",
   "TICKET_TRANSCRIPT_LOG": "Ticket Transcript Log",
   "WINNER_GIVEAWAY_MESSAGE": "Winner Message",
-  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot"
+  "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot",
+  "SUPPORT_TITLE": "Support"
 }
