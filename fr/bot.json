@@ -522,7 +522,7 @@
       "enable_two_factor": "You need to enable Two factor in order to vote",
       "provide_amount_tax": "Please provide amount\nExample: /tax amount:500",
       "tax_message": "Montant de la taxe : [taxAmount]\nMontant TVA incluse : [amountIncTax]\nMontant TVA intermédiaire incluse : [amountIncMidTax]\nTaxe intermédiaire : [middleManAmount] (% [middleTax])\nMontant à transférer à l'intermédiaire : [amountMiddle]",
-      "provide_level": "",
+      "provide_level": "Please provide the level you want to set",
       "none_tracking_xp": "There is no tracking mode in the messages or voice that works with the XP.",
       "language_unavailable": "Please provide a new language. Available options: [languages]",
       "language_changed": "Language successfully changed to **[language]**.",
