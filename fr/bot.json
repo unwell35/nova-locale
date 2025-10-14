@@ -642,7 +642,7 @@
       "no_cut_tweet_templates": "There's no cut tweet template, please create one and try again",
       "cut_sent": "Cuttweet envoyé avec succès à : [channel]",
       "image_template_type_premium": "\"image\" as type is only available for premiums plans, please go to dashboard to change it",
-      "wrong_duration_giveaway": "The duration format is incorrect!\nEx: [command_usage] 5m 5 Nike shoes",
+      "wrong_duration_giveaway": "Le format de durée est incorrect !\nEx : [command_usage] 5 min 5 chaussures Nike",
       "max_duration_giveaway": "The maximum duration for a giveaway is 30 days!",
       "min_duration_giveaway": "The minimum duration for a giveaway is 20 seconds!",
       "wrong_winners_giveaway": "The winners should be a number only!\nEx: [command_usage] 5m 5 Nike shoes",
@@ -687,7 +687,7 @@
       "confirm_end_giveaway": "**Are you sure you want to end the giveaway?**",
       "confirm_cancel_giveaway": "**Are you sure you want to cancel and delete the giveaway?**",
       "no_winners_rerolled": "[user] rerolled the giveaway but no winners",
-      "rerolled_winners": "[user] rerolled the giveaway! Congratulations [winners], you have won **[prize]**",
+      "rerolled_winners": "[user] a relancé le concours ! Félicitations [winners], vous avez gagné **[prize]**",
       "provide_winners_count": "Please provide the number of winners to pick for the giveaway."
     },
     "roulette": {
@@ -695,11 +695,11 @@
       "game_embed_title": "Roulette",
       "game_embed_description": "**1.** Join the game\n**2.** The first round will begin, and the wheel will spin to select a random player\n**3.** If you are chosen, you'll pick a player to eliminate from the game\n**4.** The selected player is kicked out, and the next round begins. When all players are eliminated, leaving two, the wheel spins, and the chosen player wins.",
       "players_key": "Players",
-      "time_key": "Game will start",
+      "time_key": "Le jeu va commencer",
       "no_players": "No one joined the game yet",
       "join_randomly_button_label": "Join Randomly",
       "already_not_player": "You're not a player in this game!",
-      "removed_player": "You've been removed from this game",
+      "removed_player": "Vous avez été retiré de ce jeu",
       "game_is_full": "The game is full",
       "already_in_game": "You're already in this game. To change your position, you must exit the game and then rejoin.",
       "absence_players": "The game has been canceled due to the absence of at least 3 players.",
@@ -754,11 +754,11 @@
       "statistics_channels_field": "Edited Channels: `[editedLength]`\nCreated Channels: `[createdLength]`",
       "statistics_roles_field": "Edited Roles: `[editedLength]`\nCreated Roles: `[createdLength]`",
       "statistics_emojis_field": "Created Emojis: `[createdLength]`",
-      "statistics_stickers_field": "Created Stickers: `[createdLength]`",
-      "statistics_failed_channels_field": "Failed Edited Channels: `[editedLength]`\nFailed Created Channels: `[createdLength]`",
+      "statistics_stickers_field": "Autocollants créés : « [createdLength] »",
+      "statistics_failed_channels_field": "Échec de la modification des chaînes : [editedLength]\nÉchec de la création des chaînes : [createdLength]",
       "statistics_failed_roles_field": "Failed Edited Roles: `[editedLength]`\nFailed Created Roles: `[createdLength]`",
-      "statistics_failed_emojis_field": "Failed Created Emojis: `[createdLength]`",
-      "statistics_failed_stickers_field": "Failed Created Stickers: `[createdLength]`"
+      "statistics_failed_emojis_field": "Échec de la création des émojis : « [createdLength] »",
+      "statistics_failed_stickers_field": "Échec de la création des autocollants : « [createdLength] »"
     },
     "restore": {
       "unknown_error": "Unknown error",
