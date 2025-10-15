@@ -61,7 +61,7 @@
     "not_authorized": "Vous n'êtes pas autorisé à utiliser ceci !",
     "arg_cannot_be_found": "[args] ne peut pas être trouvé !\n",
     "process_canceled": "Le processus a été annulé par [utilisateur].",
-    "ongoing_process": "Another process is currently being performed.",
+    "ongoing_process": "Un autre processus est actuellement en cours d’exécution.",
     "process_approximate_time": "Total members: **[members_count]**, this process may take up to **[time]**.",
     "cooldown": "Cooldown. Try again: [date].",
     "something_went_wrong": "Something went wrong. Contact support if the issue persists.",
@@ -571,32 +571,32 @@
       "login": "Login",
       "web": "Web",
       "phone": "Phone",
-      "desktop": "Desktop",
-      "device_status": "Device status",
-      "boosting_since": "Boosting since",
-      "no_boost": "Not Boosting",
+      "desktop": "Bureau",
+      "device_status": "État de l'appareil",
+      "boosting_since": "Booster depuis",
+      "no_boost": "Pas de boost",
       "xp": "XP",
-      "level": "Level",
-      "user_store": "User Store",
-      "vote_get_gold_button": "Earn gold by voting for the bot!"
+      "level": "Niveau",
+      "user_store": "Magasin d'utilisateurs",
+      "vote_get_gold_button": "Gagnez de l'or en votant pour le bot !"
     }
   },
   "reaction_roles": {
     "interaction": {
-      "not_allowed": "You're not allowed to choose roles",
-      "no_changes": "No changes, check my permissions or whether roles have been deleted",
-      "changes": "Changes: [changes]"
+      "not_allowed": "Vous n'êtes pas autorisé à choisir les rôles",
+      "no_changes": "Aucun changement, vérifiez mes autorisations ou si des rôles ont été supprimés",
+      "changes": "Modifications : [changes]"
     }
   },
   "auto_responder": {
     "interaction": {
-      "no_perms_on_role": "I don't have permissions on the targeted role, please check my role position and my perms"
+      "no_perms_on_role": "Je n'ai pas les autorisations sur le rôle ciblé, veuillez vérifier ma position de rôle et mes autorisations"
     }
   },
   "temporary_channels": {
     "commands": {
-      "not_in_temp_channel": "You're not in your temp voice channel!",
-      "member_not_in_your_temp_channel": "This member is not in your temp voice channel!",
+      "not_in_temp_channel": "Vous n'êtes pas dans votre canal vocal temporaire !",
+      "member_not_in_your_temp_channel": "Ce membre n'est pas dans votre canal vocal temporaire !",
       "already_banned": "This member has already been banned from your temp channel!",
       "already_not_banned": "This member is not banned from your temp channel!",
       "member_banned": "[member] has been banned from your temp channel",
