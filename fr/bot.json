@@ -32,7 +32,7 @@
       "specific_perm_needed_member": "Vous n'avez pas `[perm]` pour exécuter cette commande.",
       "check_dms_open": "Vérifier si les DM sont ouverts...",
       "process_check_dms": "🔎 - [user], vérifions si vos DM sont ouverts...",
-      "dm_closed": "[utilisateur] il semble que votre DM soit fermé. Veuillez modifier vos paramètres de confidentialité et réessayer.",
+      "dm_closed": "[user] il semble que votre DM soit fermé. Veuillez modifier vos paramètres de confidentialité et réessayer.",
       "user_dm_closed": "Il semble que cet utilisateur ait fermé ses DM.",
       "wrong_duration_format": "Le format de durée est incorrect.\nExemples de formats corrects :\n1 minute - 1 minute\n1 - 1 heure\n1j - 1 jour\n1 - 1 semaine\n1 mois - 1 mois\n1 an - 1 an.",
       "must_have_highest_role": "Vous devez avoir un rôle plus élevé que celui du bot.",
@@ -107,7 +107,7 @@
       "mass_mentions": "[user] - mass mentions are not allowed",
       "anti_spam": "[user] - Calm down! spam is not allowed here",
       "anti_multiple_lines": "[user] - Multiple lines are not allowed here",
-      "restricted_channels": "[utilisateur] - Seuls les [types] sont autorisés ici",
+      "restricted_channels": "[user] - Seuls les [types] sont autorisés ici",
       "videos": "videos",
       "images": "images",
       "links": "links",
@@ -124,14 +124,14 @@
       "automod": "Mod automatique"
     },
     "commands": {
-      "user_banned": "[utilisateur] a été banni du serveur. Motif : « [reason] »",
+      "user_banned": "[user] a été banni du serveur. Motif : « [reason] »",
       "user_banned_no_reason": "[utilisateur] a été banni du serveur",
-      "failed_banned": "[les utilisateurs] n'ont pas réussi à les bannir",
+      "failed_banned": "[users] n'ont pas réussi à les bannir",
       "ban_limit": "Vous pouvez bannir jusqu'à `[limite]` seulement",
-      "user_kicked": "[utilisateur] a été exclu du serveur. Motif : [raison]",
-      "user_kicked_no_reason": "[utilisateur] a été expulsé du serveur",
+      "user_kicked": "[user] a été exclu du serveur. Motif : [reason]",
+      "user_kicked_no_reason": "[user] a été expulsé du serveur",
       "user_v_kicked": "[user] a été exclu du canal vocal. Motif : [raison]",
-      "user_v_kicked_no_reason": "[utilisateur] a été expulsé du canal vocal",
+      "user_v_kicked_no_reason": "[user] a été expulsé du canal vocal",
       "reason_required": "Motif requis, mettre le motif après mention/id",
       "failed_to_take_action": "Une erreur s'est produite. Veuillez vérifier mes autorisations et mon rôle",
       "perms_needs_in_channel": "Vous n'avez pas les autorisations dans le canal ciblé",
@@ -236,7 +236,7 @@
       "couldnt_send_link_dm": "Je n'ai pas pu envoyer un lien d'invitation à votre DM, vérifiez vos paramètres de confidentialité",
       "link_sent_dm": "Le lien d'invitation a été envoyé, vérifiez votre DM !",
       "welcome_mode_same": "Le mode d'accueil est le même",
-      "set_welcome_success": "Le mode d'accueil a été modifié en : « [mode] »"
+      "set_welcome_success": "Le mode d'accueil a été modifié en : `[mode]`"
     }
   },
   "ticket": {
