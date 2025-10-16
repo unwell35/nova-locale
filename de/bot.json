@@ -1,9 +1,9 @@
 {
   "global": {
     "commands": {
-      "invalid_user": "You must mention or provide a valid user ID.",
-      "invalid_user_or_role": "Please mention or provide a user ID or role.",
-      "member_not_found": "I couldn't find this member.",
+      "invalid_user": "German.",
+      "invalid_user_or_role": "German.",
+      "member_not_found": "German.",
       "choose_reason": "Please select the reason to proceed.",
       "cant_take_action": "I'm unable to take action on this member.",
       "cant_take_action_client": "Please check my permissions and my role position.",
