@@ -518,7 +518,7 @@
   "AUTO_ACTIONS_TICKET_POINTS_PRICING_TOOLTIP": "Reward ticket moderators when they reach certain points and automatically give them roles",
   "LEVELING_PRICING": "Leveling",
   "CUSTOM_BOT_PRICING": "Custom Bot",
-  "BACKUP_PRICING": "Backup",
+  "BACKUP_PRICING": "Sauvegarde",
   "PROTECTION_PRICING": "Protection",
   "COLOR_SETS_PRICING": "Color Sets",
   "COLOR_SETS_PRICING_TOOLTIP": "Create color roles in your server to give it a modern look",
