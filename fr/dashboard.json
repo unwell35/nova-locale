@@ -674,7 +674,7 @@
   "COMMAND_EXAMPLE_TEMPCHANNEL_HIDE": "/tempchannel hide",
   "COMMAND_DESCRIPTION_TEMPCHANNEL_REVEAL": "Reveal your temporary voice channel",
   "COMMAND_EXAMPLE_TEMPCHANNEL_REVEAL": "/tempchannel reveal",
-  "COMMAND_DESCRIPTION_TEMPCHANNEL_RENAME": "Rename your temporary voice channel",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_RENAME": "Renommez votre canal vocal temporaire",
   "COMMAND_EXAMPLE_TEMPCHANNEL_RENAME": "/tempchannel rename [new name]",
   "COMMAND_DESCRIPTION_TEMPCHANNEL_LIMIT": "Set a minimum entry limit for your temporary voice channel",
   "COMMAND_EXAMPLE_TEMPCHANNEL_LIMIT": "/tempchannel limit [number]",
