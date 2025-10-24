@@ -96,7 +96,7 @@
     "sent_from_server": "تم الإرسال من سيرفر: [serverName]",
     "import": "تحميل",
     "upgrade_to_premium": "الترقية للنسخة المدفوعة",
-    "data_count": "Data count: [data_count]"
+    "data_count": ""
   },
   "moderator": {
     "automod": {
@@ -120,7 +120,7 @@
       "anti_spam_title": "مانع سبام الرسائل",
       "anti_multiple_lines_title": "مانع الفواصل الكثيرة",
       "mass_mentions_title": "منشنات الكثيرة",
-      "bad_words_title": "Bad Words",
+      "bad_words_title": "",
       "automod": "الرقابة التلقائية"
     },
     "commands": {
@@ -208,10 +208,10 @@
       "slowmode_same": "الوضع البطيء في هذه الشات هو نفسه الذي قمت بتحديده",
       "not_in_jail_member": "هذا العضو ليس مسجونًا",
       "unjailed_member": "[user] تم فك السجن بنجاح.",
-      "no_temproles_found": "No temp roles found!",
-      "temproles_display": "User: [user] - Role: [role]\nBy: [author] - Remove At: [date]\n-# Data ID: [data_id]",
-      "data_id_required": "Please provide a data id",
-      "temprole_removed": "Temp role has been removed successfully from [member]"
+      "no_temproles_found": "",
+      "temproles_display": "",
+      "data_id_required": "",
+      "temprole_removed": ""
     },
     "embed": {
       "pmute_title": "سجن",
@@ -319,7 +319,7 @@
       "server_updated_title": "تحديث السيرفر",
       "clear_command_title": "أمر مسح",
       "lock_command_title": "أمر قفل",
-      "setwelcome_command_title": "Set Welcome Command",
+      "setwelcome_command_title": "",
       "moveme_command_title": "أمر انقلني",
       "move_command_title": "أمر نقل",
       "pmute_command_title": "أمر السجن",
@@ -339,7 +339,7 @@
       "close_ticket_title": "إغلاق التذكرة",
       "delete_ticket_title": "حذف التذكرة",
       "reset_points_ticket_title": "إعادة تعيين نقاط التذكرة",
-      "transcript_ticket_title": "Ticket Transcript",
+      "transcript_ticket_title": "",
       "set_welcome_command_title": "تعيين أمر الترحيب",
       "reset_command_title": "أمر إعادة تعيين نقاط",
       "set_points_command_title": "أمر تعيين النقاط",
@@ -446,15 +446,15 @@
       "discovery_splash_removed_value": "تمت إزالة الصورة الرئيسية للإكتشاف",
       "discovery_splash_set_value": "تم تعيين صورة رئيسية للإكتشاف جديدة",
       "time_ended_value": "انتهى الوقت",
-      "emoji_name_field": "Emoji Name",
-      "sticker_name_field": "Sticker Name",
-      "emoji_created_title": "Emoji Created",
-      "emoji_deleted_title": "Emoji Deleted",
-      "sticker_created_title": "Sticker Created",
-      "sticker_deleted_title": "Sticker Deleted",
-      "type_field": "Type",
-      "regualr_field": "Regular",
-      "animated_field": "Animated"
+      "emoji_name_field": "",
+      "sticker_name_field": "",
+      "emoji_created_title": "",
+      "emoji_deleted_title": "",
+      "sticker_created_title": "",
+      "sticker_deleted_title": "",
+      "type_field": "",
+      "regualr_field": "",
+      "animated_field": ""
     }
   },
   "utility": {
@@ -491,15 +491,15 @@
       "provide_points": "يرجى تقديم النقاط التي تريد تعيينها",
       "set_points_warn": "يرجى ملاحظة، 1 نقطة = 1 دقيقة (صوت) أو 1 رسالة (رسائل).",
       "help_content": "**[server_name]**\n\n 📖 **الأوامر:** استخدم `[prefix]` قبل الأوامر. [الأوامر](https://novax.gg/commands 'قائمة الأوامر')\n💻 **لوحة التحكم:** إدارة كل شيء بسهولة. [انتقل إلى لوحة التحكم](https://novax.gg)\n❓ **تحتاج مساعدة؟:** انضم إلى سيرفر الدعم.\n[support_server]",
-      "help_commands_title": "📖 Commands",
-      "help_commands_description": "Use `[prefix]` prefix for commands.",
-      "help_dashboard_title": "💻 Dashboard",
-      "help_dashboard_description": "Manage Nova’s settings",
-      "help_support_title": "❓ Need Help?",
-      "help_support_description": "Join support server.",
-      "help_commands_button": "Commands",
-      "help_dashboard_button": "Go to Dashboard",
-      "help_support_button": "Support Server",
+      "help_commands_title": "",
+      "help_commands_description": "",
+      "help_dashboard_title": "",
+      "help_dashboard_description": "",
+      "help_support_title": "",
+      "help_support_description": "",
+      "help_commands_button": "",
+      "help_dashboard_button": "",
+      "help_support_button": "",
       "user_in_blocklist": "أنت في قائمة الحظر. لا يمكنك استخدام هذا الأمر",
       "specific_user_in_blocklist": "هذا الشخص في قائمة الحظر.",
       "amount_golds": "**رصيدك `$[amount]` ذهب. أنفق بحكمة!**",
@@ -524,16 +524,16 @@
       "tax_message": "> **قيمة الضريبة:** `[taxAmount]`\n> **المبلغ مع الضريبة:** `[amountIncTax]`\n> **المبلغ مع ضريبة الوسيط:** `[amountIncMidTax]`\n> **نسبة الوسيط**: `[middleManAmount]` (%`[middleTax]`)\n> **المبلغ الازم تحويلة للوسيط:** `[amountMiddle]`",
       "provide_level": "يرجى تقديم المستوى التي تريد تعيينها",
       "none_tracking_xp": "لا يوجد نظام في الرسائل او الصوت يعمل بالنظام نقاط الخبرة",
-      "language_unavailable": "Please provide a new language. Available options: [languages]",
-      "language_changed": "Language successfully changed to **[language]**.",
-      "addemojis_unvalid_attachments": "Attachments must be one of the following formats: **jpeg**, **jpg**, **png**, or **gif**, and must not exceed **256 KiB** in size.",
-      "provide_emojis": "Please provide emojis from other server or attach an image.",
-      "provide_valid_emojis": "Please provide valid emojis or attach an image.",
-      "limit_regular_emojis": "`[count]` emojis not added — limit reached. Delete some and try again.",
-      "limit_animated_emojis": "`[count]` animated emojis not added — limit reached. Delete some and try again.",
-      "limit_discord_emojis": "`[count]` emojis not added — Discord rate limit.",
-      "error_emojis": "`[count]` emojis not added — something went wrong",
-      "emojis_added": "Successfully added: [emojis]"
+      "language_unavailable": "",
+      "language_changed": "",
+      "addemojis_unvalid_attachments": "",
+      "provide_emojis": "",
+      "provide_valid_emojis": "",
+      "limit_regular_emojis": "",
+      "limit_animated_emojis": "",
+      "limit_discord_emojis": "",
+      "error_emojis": "",
+      "emojis_added": ""
     },
     "interaction": {
       "voice_label": "الصوت فقط",
@@ -574,11 +574,11 @@
       "desktop": "سطح المكتب",
       "device_status": "حالة الجهاز",
       "boosting_since": "البوست منذ",
-      "no_boost": "Not Boosting",
+      "no_boost": "",
       "xp": "خبرة",
       "level": "مستوى",
       "user_store": "متجر المستخدم",
-      "vote_get_gold_button": "Earn gold by voting for the bot!"
+      "vote_get_gold_button": ""
     }
   },
   "reaction_roles": {
@@ -966,7 +966,7 @@
       "inactive_player": "💤 **لم يتم تشغيل أي مقطع لمدة 3 دقائق. سيتم مغادرة الروم الصوتي لتوفير الموارد..**",
       "currently_playing": "يتم التشغيل حاليًا",
       "now_playing": "🎶 **يتم التشغيل الآن في** [channel]",
-      "by": "By **[author]**"
+      "by": ""
     }
   }
 }
