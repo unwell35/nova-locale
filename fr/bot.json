@@ -936,7 +936,7 @@
       "track_seeked": "Recherché **[track_title]** à la position ([time]) !",
       "specify_position": "Vous devez spécifier la position correcte dans la file d'attente",
       "playback_stopped": "",
-      "current_volume": "",
+      "current_volume": "[emoji] **Le volume actuel est :** `[volume]`",
       "specify_volume": "",
       "volume_range": "",
       "volume_updated": "",
