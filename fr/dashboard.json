@@ -122,6 +122,7 @@
   "BACKGROUND_URL_LABEL": "URL d'arrière-plan",
   "WIDTH_LABEL": "Largeur",
   "HEIGHT_LABEL": "Hauteur",
+  "FONT_FAMILY_LABEL": "Famille de polices",
   "BOT_USERNAME_LABEL": "Nom d'utilisateur du robot",
   "STATUS_LABEL": "Statut",
   "ACTIVITY_TYPE_LABEL": "Type d'activité",
