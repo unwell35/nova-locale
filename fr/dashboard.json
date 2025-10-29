@@ -897,5 +897,7 @@
   "STORE_NOT_FOUND": "Magasin introuvable !",
   "PURCHASED_USERS_LABEL": "Nombre d'utilisateurs ayant effectué un achat",
   "NO_PRODUCTS_LISTED": "Aucun produit répertorié",
-  "ERROR_BUYING_PRODUCT_TOAST": "Un problème est survenu lors de l'achat de ce produit"
+  "ERROR_BUYING_PRODUCT_TOAST": "Un problème est survenu lors de l'achat de ce produit",
+  "HOME_BUTTON": "Maison",
+  "COMPLETE_PRODUCT_ORDER_TITLE": "Commande terminée"
 }
