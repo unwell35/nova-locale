@@ -910,5 +910,6 @@
   "ID_CARD_LABEL": "Carte d'identité",
   "SHOP_LABEL": "Boutique",
   "YOUR_PRODUCTS_LABEL": "Vos produits",
-  "EDIT_AND_CREATE_PRODUCTS": "Gérer et créer des produits"
+  "EDIT_AND_CREATE_PRODUCTS": "Gérer et créer des produits",
+  "YOUR_SHOP_LABEL": "Votre boutique"
 }
