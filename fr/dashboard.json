@@ -825,5 +825,17 @@
   "PROTECTION_INFO_ALERT": "Pour les rôles et les canaux, la protection s'applique uniquement à la création et à la suppression.\nLa protection contre l'exclusion des membres ne fonctionne pas avec l'offre gratuite.",
   "KICK_MEMBER_OPTION": "Membre de coup de pied",
   "BAN_MEMBER_OPTION": "Interdire un membre",
-  "ANTI_RAID_MENU": "Anti-raid"
+  "ANTI_RAID_MENU": "Anti-raid",
+  "PLUGIN_DISABLED_WARN": "Ce plugin est désactivé, veuillez cliquer sur le bouton pour le réactiver",
+  "EXCLUDED_CHANNELS_PRISON_TOOLTIP": "Empêcher la disparition de certaines chaînes pour les prisonniers",
+  "APPLY_CHANNEL_ALL_LOGS": "Appliquer le canal à tous les journaux",
+  "APPLY_CHANNEL_ALL_LOGS_TOOLTIP": "Appliquer le canal sélectionné à tous les journaux disponibles",
+  "PRICING_MENU": "Tarifs",
+  "CONTACT_US_MENU": "Contactez-nous",
+  "SETTINGS_BUTTON": "Paramètres",
+  "MESSAGE_LABEL": "Message",
+  "STYLE_INDEX_OPTION": "Style {index}",
+  "SHAPE_INDEX_OPTION": "Forme {index}",
+  "CIRCLE_OPTION": "Cercle",
+  "SQUARE_OPTION": "Carré"
 }
