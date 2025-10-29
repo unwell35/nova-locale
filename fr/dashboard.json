@@ -899,5 +899,16 @@
   "NO_PRODUCTS_LISTED": "Aucun produit répertorié",
   "ERROR_BUYING_PRODUCT_TOAST": "Un problème est survenu lors de l'achat de ce produit",
   "HOME_BUTTON": "Maison",
-  "COMPLETE_PRODUCT_ORDER_TITLE": "Commande terminée"
+  "COMPLETE_PRODUCT_ORDER_TITLE": "Commande terminée",
+  "COMPLETE_PRODUCT_ORDER_DESCRIPTION": "Merci pour votre achat ! Votre commande a bien été enregistrée, le reçu vous a été envoyé par message privé.",
+  "PURCHASE_LABEL": "Achat",
+  "BUY_PRODUCT_DIALOG_TITLE": "Confirmez votre achat",
+  "BUY_PRODUCT_DIALOG_DESCRIPTION": "Vous êtes sur le point d'acheter {product_name} pour {price}. Veuillez vérifier les détails avant de procéder. Un reçu vous sera envoyé par message privé une fois l'achat effectué. Cliquez sur « Acheter » pour finaliser votre transaction !",
+  "BUY_BUTTON": "Acheter",
+  "PROFILE_LABEL": "Profil",
+  "EDIT_CARD": "Modifier la carte",
+  "ID_CARD_LABEL": "Carte d'identité",
+  "SHOP_LABEL": "Boutique",
+  "YOUR_PRODUCTS_LABEL": "Vos produits",
+  "EDIT_AND_CREATE_PRODUCTS": "Gérer et créer des produits"
 }
