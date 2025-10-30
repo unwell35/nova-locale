@@ -1125,5 +1125,11 @@
   "SUCCESS_EDITED_TOAST": "Edité avec succès !",
   "ERROR_DUPLICATING_TOAST": "Une erreur s'est produite lors de la duplication",
   "FILL_INFORMATION": "Remplissez les champs obligatoires",
-  "CONFIRM_DIALOG": "Confirmer"
+  "CONFIRM_DIALOG": "Confirmer",
+  "CONFIRM_DIALOG_DESCRIPTION": "Êtes-vous sûr de vouloir effectuer cette action ?",
+  "NESTED_RESPONSES_LABEL": "Réponses imbriquées",
+  "EMBEDS_LABEL": "Intégrations",
+  "SAVE_SEND_MESSAGE_BUTTON": "Enregistrer et envoyer un message",
+  "SEND_MESSAGE_BUTTON": "Envoyer un message",
+  "EDIT_MESSAGE_BUTTON": "Modifier le message"
 }
