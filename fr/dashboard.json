@@ -492,7 +492,7 @@
   "PRIME_MENU": "Prime",
   "FREE_MENU": "Gratuit",
   "FREE_PLAN_DESCRIPTION": "Accès de base aux fonctionnalités essentielles ; disponibilité limitée des plugins",
-  "PRIME_PLAN_DESCRIPTION": "Débloquez une gamme plus large de plugins pour améliorer les fonctionnalités ; inclut l'accès à des fonctionnalités gratuites",
+  "PRIME_PLAN_DESCRIPTION": "Débloquez une gamme plus large de plugins pour améliorer les fonctionnalités",
   "PLUS_PLAN_DESCRIPTION": "Bénéficiez d'un accès complet à tous les plugins, y compris les éléments essentiels comme les sauvegardes et la protection, pour une expérience de bot complète",
   "PLANS_PRICING": "Forfaits",
   "MONTHLY_PRICING": "Mensuel",
@@ -543,12 +543,10 @@
   "FREE_PLAN_FEATURE_1": "Accès à 16 plugins",
   "FREE_PLAN_FEATURE_2": "Modération",
   "FREE_PLAN_FEATURE_3": "Mod automatique",
-  "PRIME_PLAN_FEATURE_1": "Accès à 18 plugins",
   "PRIME_PLAN_FEATURE_2": "Personnaliser le profil du robot",
   "PRIME_PLAN_FEATURE_3": "Création de couleurs",
-  "PRIME_PLAN_FEATURE_4": "Billet",
-  "PRIME_PLAN_FEATURE_5": "Protection",
-  "PRIME_PLAN_FEATURE_6": "Musique",
+  "GO_PLAN_FEATURE_2": "Billet",
+  "GO_PLAN_FEATURE_1": "Musique",
   "PLUS_PLAN_FEATURE_1": "Toutes les fonctionnalités du forfait Prime",
   "PLUS_PLAN_FEATURE_2": "Accès à 19 plugins",
   "PLUS_PLAN_FEATURE_3": "Protection avancée",
@@ -1506,5 +1504,6 @@
   "TICKET_TRANSCRIPT_LOG": "Journal de transcription des tickets",
   "WINNER_GIVEAWAY_MESSAGE": "Message du gagnant",
   "CHOOSE_SUBSCRIPTION_SERVER": "Choisissez le serveur sur lequel vous souhaitez utiliser le bot premium",
-  "SUPPORT_TITLE": "Soutien"
+  "SUPPORT_TITLE": "Soutien",
+  "PRIME_PLAN_FEATURE_1": "Accès à 18 plugins"
 }
