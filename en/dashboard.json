@@ -495,7 +495,7 @@
   "PRIME_MENU": "Prime",
   "FREE_MENU": "Free",
   "FREE_PLAN_DESCRIPTION": "Basic access to essential features; limited availability of plugins",
-  "PRIME_PLAN_DESCRIPTION": "Unlock a wider range of plugins to enhance functionality; includes access to free features",
+  "PRIME_PLAN_DESCRIPTION": "Unlock a wider range of plugins to enhance functionality",
   "PLUS_PLAN_DESCRIPTION": "Enjoy full access to all plugins, including essentials like backups and protection, for a comprehensive bot experience",
   "PLANS_PRICING": "Plans",
   "MONTHLY_PRICING": "Monthly",
@@ -548,12 +548,12 @@
   "FREE_PLAN_FEATURE_2": "Moderation",
   "FREE_PLAN_FEATURE_3": "AutoMod",
 
-  "PRIME_PLAN_FEATURE_1": "Access to 18 plugins",
+  "GO_PLAN_FEATURE_4": "Access to 18 plugins",
   "PRIME_PLAN_FEATURE_2": "Customize Bot Profile",
   "PRIME_PLAN_FEATURE_3": "Color Creation",
-  "PRIME_PLAN_FEATURE_4": "Ticket",
-  "PRIME_PLAN_FEATURE_5": "Protection",
-  "PRIME_PLAN_FEATURE_6": "Music",
+  "GO_PLAN_FEATURE_2": "Ticket",
+  "GO_PLAN_FEATURE_3": "Protection",
+  "GO_PLAN_FEATURE_1": "Music",
 
   "PLUS_PLAN_FEATURE_1": "All features of Prime Plan",
   "PLUS_PLAN_FEATURE_2": "Access to 19 plugins",
@@ -1543,5 +1543,9 @@
   "TICKET_TRANSCRIPT_LOG": "Ticket Transcript Log",
   "WINNER_GIVEAWAY_MESSAGE": "Winner Message",
   "CHOOSE_SUBSCRIPTION_SERVER": "Choose the server where you want the premium bot",
-  "SUPPORT_TITLE": "Support"
+  "SUPPORT_TITLE": "Support",
+  "GO_MENU": "Go",
+  "GO_PLAN_DESCRIPTION": "Nova Go is the starter premium tier — cheap, simple, and packed with just enough upgrades to make your server feel better without going all-in on Plus or Prime.",
+  "PRIME_PLAN_FEATURE_1": "Greater Limit",
+  "PER_SERVER_PROFILE": "Per-server Profile"
 }
