@@ -543,12 +543,12 @@
   "FREE_PLAN_FEATURE_1": "وصول إلى 16 أضافات",
   "FREE_PLAN_FEATURE_2": "الإشراف",
   "FREE_PLAN_FEATURE_3": "الرقابة التلقائية",
-  "PRIME_PLAN_FEATURE_1": "وصول إلى 18 أضافة",
+  "GO_PLAN_FEATURE_4": "وصول إلى 18 أضافة",
   "PRIME_PLAN_FEATURE_2": "تخصيص بروفايل البوت",
   "PRIME_PLAN_FEATURE_3": "إنشاء الألوان",
-  "PRIME_PLAN_FEATURE_4": "التذاكر",
-  "PRIME_PLAN_FEATURE_5": "حماية",
-  "PRIME_PLAN_FEATURE_6": "موسيقى",
+  "GO_PLAN_FEATURE_2": "التذاكر",
+  "GO_PLAN_FEATURE_3": "حماية",
+  "GO_PLAN_FEATURE_1": "موسيقى",
   "PLUS_PLAN_FEATURE_1": "جميع مميزات خطة البرايم",
   "PLUS_PLAN_FEATURE_2": "وصول إلى 19 أضافة",
   "PLUS_PLAN_FEATURE_3": "حماية متقدمة",
@@ -1509,5 +1509,9 @@
   "TICKET_TRANSCRIPT_LOG": "سجل نص حوار التذكرة",
   "WINNER_GIVEAWAY_MESSAGE": "رسالة الفائز",
   "CHOOSE_SUBSCRIPTION_SERVER": "اختر السيرفر الذي تريد وضع النسخة المدفوعة فيه",
-  "SUPPORT_TITLE": "المساعدة"
+  "SUPPORT_TITLE": "المساعدة",
+  "GO_MENU": "جو",
+  "GO_PLAN_DESCRIPTION": "نوفا جو هي الخطة المميزة المبدئية — بسيطة، منخفضة التكلفة، ومليئة بالترقيات الضرورية فقط لتحسين تجربة سيرفرك دون الحاجة للانتقال مباشرة إلى بلس أو برايم.",
+  "PRIME_PLAN_FEATURE_1": "حد أعلى",
+  "PER_SERVER_PROFILE": "ملف شخصي لكل سيرفر"
 }
