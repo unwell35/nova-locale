@@ -543,12 +543,12 @@
   "FREE_PLAN_FEATURE_1": "دەستگەیشتن بە 16 پلیگن،plugin",
   "FREE_PLAN_FEATURE_2": "چاودێریکردن",
   "FREE_PLAN_FEATURE_3": "خوودکاری",
-  "PRIME_PLAN_FEATURE_1": "دەستگەیشتن بە ۱٨ زیادکراو (بەشێک)",
+  "GO_PLAN_FEATURE_4": "دەستگەیشتن بە ۱٨ زیادکراو (بەشێک)",
   "PRIME_PLAN_FEATURE_2": "دەستکاریکردنی پڕۆفایلی بۆتەکە",
   "PRIME_PLAN_FEATURE_3": "دروستکردنی ڕەنگ",
-  "PRIME_PLAN_FEATURE_4": "تیکت",
-  "PRIME_PLAN_FEATURE_5": "پاراستنی",
-  "PRIME_PLAN_FEATURE_6": "میوزیک",
+  "GO_PLAN_FEATURE_2": "تیکت",
+  "GO_PLAN_FEATURE_3": "پاراستنی",
+  "GO_PLAN_FEATURE_1": "میوزیک",
   "PLUS_PLAN_FEATURE_1": "هەموو تایبەتمەندیەکانی پلانی پڕایم",
   "PLUS_PLAN_FEATURE_2": "دەستگەیشتن بە ۱۹ زیادکراوی (پێشکەوتوو)",
   "PLUS_PLAN_FEATURE_3": "پاراستنێکی پێشکەوتوو",
@@ -1508,5 +1508,6 @@
   "PUNISH_USER_ACTION": "سزادانی کەسێک",
   "TICKET_TRANSCRIPT_LOG": "تۆماری لەبەرگرتنەوەی تیکتەکان",
   "WINNER_GIVEAWAY_MESSAGE": "نامەی براوە",
-  "CHOOSE_SUBSCRIPTION_SERVER": "ئەو سێرڤەرە هەڵبژێرە کە دەتەوێ بۆتی پریمیومی لێبێت"
+  "CHOOSE_SUBSCRIPTION_SERVER": "ئەو سێرڤەرە هەڵبژێرە کە دەتەوێ بۆتی پریمیومی لێبێت",
+  "PRIME_PLAN_FEATURE_1": "دەستگەیشتن بە ۱٨ زیادکراو (بەشێک)"
 }
