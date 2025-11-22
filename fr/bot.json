@@ -580,8 +580,8 @@
       "user_store": "Magasin d'utilisateurs",
       "vote_get_gold_button": "Gagnez de l'or en votant pour le bot !",
       "reset_top_day_note": "Top day will reset [date].",
-      "reset_top_week_note": "Top week resets every Monday. Next reset in [date].",
-      "reset_top_month_note": "Top month resets every Month. Next reset in [date]."
+      "reset_top_week_note": "Top week resets every Monday. Next reset [date].",
+      "reset_top_month_note": "Top month resets every Month. Next reset [date]."
     }
   },
   "reaction_roles": {

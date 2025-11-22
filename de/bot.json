@@ -597,7 +597,10 @@
       "xp": "XP",
       "level": "Level",
       "user_store": "User Store",
-      "vote_get_gold_button": "Earn gold by voting for the bot!"
+      "vote_get_gold_button": "Earn gold by voting for the bot!",
+      "reset_top_day_note": "Top day will reset [date].",
+      "reset_top_week_note": "Top week resets every Monday. Next reset [date].",
+      "reset_top_month_note": "Top month resets every Month. Next reset [date]."
     }
   },
   "reaction_roles": {
