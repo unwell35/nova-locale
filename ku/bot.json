@@ -578,7 +578,10 @@
       "xp": "خاڵەکانی ئەزموون",
       "level": "ئاست",
       "user_store": "بازاڕی کەسەکە",
-      "vote_get_gold_button": ""
+      "vote_get_gold_button": "",
+      "reset_top_day_note": "",
+      "reset_top_week_note": "",
+      "reset_top_month_note": ""
     }
   },
   "reaction_roles": {
