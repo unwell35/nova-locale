@@ -931,7 +931,11 @@
       "track_count": "ڕێژەی پەخش: [count]",
       "inactive_player": "💤 **هیچ پەخشێک لێنەدراوە لە ماوەی 3 خوولەکدا. چەناڵی ڤۆیسەکە بەجێ دەهێڵم بۆ پاراستنی سەرچاوەکان**",
       "currently_playing": "پەخشی ئێستا",
-      "now_playing": "🎶 ** ئێستا پەخش دەکرێ** [channel]"
+      "now_playing": "🎶 ** ئێستا پەخش دەکرێ** [channel]",
+      "by": "By **[author]**",
+      "not_playing_pause": "No track is currently playing to pause.",
+      "no_previous_track": "There’s no previous track to return to.",
+      "previous_track_playing": "Now playing the previous track: **[track_title]** `[[time]]`."
     }
   }
 }
