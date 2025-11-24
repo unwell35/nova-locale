@@ -969,7 +969,10 @@
       "inactive_player": "",
       "currently_playing": "",
       "now_playing": "",
-      "by": ""
+      "by": "",
+      "not_playing_pause": "",
+      "no_previous_track": "",
+      "previous_track_playing": ""
     }
   }
 }
