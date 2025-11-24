@@ -1000,7 +1000,10 @@
       "inactive_player": "💤 **No tracks played for 3 minutes. Leaving the voice channel to save resources..**",
       "currently_playing": "Currently playing",
       "now_playing": "🎶 **Now Playing in** [channel]",
-      "by": "By **[author]**"
+      "by": "By **[author]**",
+      "not_playing_pause": "No track is currently playing to pause.",
+      "no_previous_track": "There’s no previous track to return to.",
+      "previous_track_playing": "Now playing the previous track: **[track_title]** `[[time]]`."
     }
   }
 }
