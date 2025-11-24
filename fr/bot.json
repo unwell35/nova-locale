@@ -969,7 +969,10 @@
       "inactive_player": "💤 **Aucun morceau joué depuis 3 minutes. Je quitte le canal vocal pour économiser les ressources.**",
       "currently_playing": "Je joue actuellement",
       "now_playing": "🎶 **En cours de lecture sur** [chaîne]",
-      "by": "Par **[auteur]**"
+      "by": "Par **[auteur]**",
+      "not_playing_pause": "",
+      "no_previous_track": "",
+      "previous_track_playing": ""
     }
   }
 }
