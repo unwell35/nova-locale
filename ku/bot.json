@@ -96,7 +96,8 @@
     "sent_from_server": "نێردراوە لەلایەن سێرڤەری: [serverName]",
     "import": "Import",
     "upgrade_to_premium": "Upgrade to Premium",
-    "data_count": ""
+    "data_count": "",
+    "added_at": ""
   },
   "moderator": {
     "automod": {
@@ -950,7 +951,24 @@
       "file_not_playable": "ئەم فایلە ناتوانرێ پەخش بکرێت",
       "track_added_queue": "**[track_title]** `[[time]]` **زیادکرا بۆ ڕیزی پەخشەکان لەشوێنی #[position]**\n**بە نزیکەیی**[track_titleimated time until play:** `[est_time]`",
       "track_playing_now": "**[track_title]** `[[time]]` **ئێستا پەخش دەکرێ**",
-      "stream_not_allowed": "ستریم ڕێگە پێدراو نیە!"
+      "stream_not_allowed": "ستریم ڕێگە پێدراو نیە!",
+      "playlist_name_reqiured": "",
+      "playlist_count_reached": "",
+      "playlist_name_exists": "",
+      "playlist_created": "",
+      "no_playlists": "",
+      "choose_playlist_delete": "",
+      "playlist_deleted": "",
+      "provide_valid_track_url": "",
+      "choose_playlist_insert_track": "",
+      "track_added_playlist": "",
+      "playlist_tracks_limit": "",
+      "provide_remove_track_playlist": "",
+      "no_playlist_found_track": "",
+      "select_playlist_remove": "",
+      "track_removed_playlist": "",
+      "select_playlist_view": "",
+      "playlist_empty": ""
     },
     "interaction": {
       "select_track": "پەخشەکە دیاریبکە",
@@ -972,7 +990,8 @@
       "by": "",
       "not_playing_pause": "",
       "no_previous_track": "",
-      "previous_track_playing": ""
+      "previous_track_playing": "",
+      "track_id": ""
     }
   }
 }
