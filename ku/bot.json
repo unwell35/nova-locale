@@ -97,7 +97,9 @@
     "import": "Import",
     "upgrade_to_premium": "Upgrade to Premium",
     "data_count": "",
-    "added_at": ""
+    "added_at": "",
+    "public": "",
+    "private": ""
   },
   "moderator": {
     "automod": {
@@ -968,7 +970,16 @@
       "select_playlist_remove": "",
       "track_removed_playlist": "Track **[[track_title]](url)** has been removed from playlist **[playlist_name]**.",
       "select_playlist_view": "",
-      "playlist_empty": ""
+      "playlist_empty": "",
+      "track_exists_playlist": "",
+      "playlist_not_found": "",
+      "track_not_found_playlist": "",
+      "confirm_remove_track_playlist": "",
+      "select_playlist_edit": "",
+      "playlist_edit_info": "",
+      "playlist_public": "",
+      "playlist_private": "",
+      "playlist_name_changed": ""
     },
     "interaction": {
       "select_track": "پەخشەکە دیاریبکە",
