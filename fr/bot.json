@@ -96,7 +96,8 @@
     "sent_from_server": "Envoyé depuis le serveur : [serverName]",
     "import": "Importer",
     "upgrade_to_premium": "Passer à Premium",
-    "data_count": "Nombre de données : [data_count]"
+    "data_count": "Nombre de données : [data_count]",
+    "added_at": "Added At: [date]"
   },
   "moderator": {
     "automod": {
@@ -950,7 +951,24 @@
       "file_not_playable": "Ce fichier ne peut pas être lu",
       "track_added_queue": "**[track_title]** `[[time]]` **Ajouté à la file d'attente à la position #[position]**\n**Temps estimé avant lecture :** `[est_time]`",
       "track_playing_now": "**[track_title]** `[[time]]` **est en cours de lecture**",
-      "stream_not_allowed": "Le streaming n'est pas autorisé !"
+      "stream_not_allowed": "Le streaming n'est pas autorisé !",
+      "playlist_name_reqiured": "Please provide playlist name",
+      "playlist_count_reached": "You’ve reached the limit. Maximum allowed playlists: [count].",
+      "playlist_name_exists": "This playlist name already exists. Please choose another.",
+      "playlist_created": "Playlist **[[name]]([url])** created successfully.",
+      "no_playlists": "You don't have any playlists",
+      "choose_playlist_delete": "Choose the playlist you want to delete",
+      "playlist_deleted": "Playlist **[name]** has been deleted.",
+      "provide_valid_track_url": "Please provide valid track URL!",
+      "choose_playlist_insert_track": "Select a playlist to add **[[track_title]](url)** `[[time]]`.",
+      "track_added_playlist": "Track **[[track_title]](url)** `[[time]]` has been added to playlist **[playlist_name]**.",
+      "playlist_tracks_limit": "You’ve reached the maximum of [limit] tracks for this playlist.",
+      "provide_remove_track_playlist": "Plese provide Track URL or full track title or track ID",
+      "no_playlist_found_track": "This track isn’t in any of your playlists.",
+      "select_playlist_remove": "Select the playlist containing this track to remove it.",
+      "track_removed_playlist": "Track **[[track_title]](url)** has been removed from playlist **[playlist_name]**.",
+      "select_playlist_view": "Select a playlist to view its tracks.",
+      "playlist_empty": "This playlist is empty."
     },
     "interaction": {
       "select_track": "Sélectionner une piste",
@@ -972,7 +990,8 @@
       "by": "Par **[auteur]**",
       "not_playing_pause": "No track is currently playing to pause.",
       "no_previous_track": "There’s no previous track to return to.",
-      "previous_track_playing": "Now playing the previous track: **[track_title]** `[[time]]`."
+      "previous_track_playing": "Now playing the previous track: **[track_title]** `[[time]]`.",
+      "track_id": "Track ID: [track_id]"
     }
   }
 }
