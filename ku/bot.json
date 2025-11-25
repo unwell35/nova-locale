@@ -97,7 +97,9 @@
     "import": "Import",
     "upgrade_to_premium": "Upgrade to Premium",
     "data_count": "Data count: [data_count]",
-    "added_at": "Added At: [date]"
+    "added_at": "Added At: [date]",
+    "public": "Public",
+    "private": "Private"
   },
   "moderator": {
     "automod": {
@@ -932,7 +934,16 @@
       "select_playlist_remove": "Select the playlist containing this track to remove it.",
       "track_removed_playlist": "Track **[[track_title]]([url])** has been removed from playlist **[playlist_name]**.",
       "select_playlist_view": "Select a playlist to view its tracks.",
-      "playlist_empty": "This playlist is empty."
+      "playlist_empty": "This playlist is empty.",
+      "track_exists_playlist": "This track already in this playlist.",
+      "playlist_not_found": "Playlist cannot be found.",
+      "track_not_found_playlist": "Track not found in your playlist. It may have been deleted.",
+      "confirm_remove_track_playlist": "Are you sure you want to remove **[[track_title]]([url])** track from **[playlist_name]** playlist?",
+      "select_playlist_edit": "Select a playlist to edit.",
+      "playlist_edit_info": "Name: [playlist_name]\nURL: [playlist_url]",
+      "playlist_public": "This playlist is public.\n-# You can share its link with friends so they can play it.",
+      "playlist_private": "This playlist is private.",
+      "playlist_name_changed": "Playlist name changed from **[oldName]** to **[newName]**"
     },
     "interaction": {
       "select_track": "پەخشەکە دیاریبکە",
