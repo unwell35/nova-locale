@@ -96,7 +96,8 @@
     "sent_from_server": "Envoyé depuis le serveur : [serverName]",
     "import": "Importer",
     "upgrade_to_premium": "Passer à Premium",
-    "data_count": "Nombre de données : [data_count]"
+    "data_count": "Nombre de données : [data_count]",
+    "added_at": ""
   },
   "moderator": {
     "automod": {
@@ -950,7 +951,24 @@
       "file_not_playable": "Ce fichier ne peut pas être lu",
       "track_added_queue": "**[track_title]** `[[time]]` **Ajouté à la file d'attente à la position #[position]**\n**Temps estimé avant lecture :** `[est_time]`",
       "track_playing_now": "**[track_title]** `[[time]]` **est en cours de lecture**",
-      "stream_not_allowed": "Le streaming n'est pas autorisé !"
+      "stream_not_allowed": "Le streaming n'est pas autorisé !",
+      "playlist_name_reqiured": "",
+      "playlist_count_reached": "",
+      "playlist_name_exists": "",
+      "playlist_created": "",
+      "no_playlists": "",
+      "choose_playlist_delete": "",
+      "playlist_deleted": "",
+      "provide_valid_track_url": "",
+      "choose_playlist_insert_track": "",
+      "track_added_playlist": "",
+      "playlist_tracks_limit": "",
+      "provide_remove_track_playlist": "",
+      "no_playlist_found_track": "",
+      "select_playlist_remove": "",
+      "track_removed_playlist": "",
+      "select_playlist_view": "",
+      "playlist_empty": ""
     },
     "interaction": {
       "select_track": "Sélectionner une piste",
@@ -972,7 +990,8 @@
       "by": "Par **[auteur]**",
       "not_playing_pause": "",
       "no_previous_track": "",
-      "previous_track_playing": ""
+      "previous_track_playing": "",
+      "track_id": ""
     }
   }
 }
