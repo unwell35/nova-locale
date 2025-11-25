@@ -991,7 +991,7 @@
       "choose_playlist_delete": "Choose the playlist you want to delete",
       "playlist_deleted": "Playlist **[name]** has been deleted.",
       "provide_valid_track_url": "Please provide valid track URL!",
-      "choose_playlist_insert_track": "Select a playlist to add **[[track_title]](url)** `[[time]]`.",
+      "choose_playlist_insert_track": "Select a playlist to add **[[track_title]]([url])** `[[time]]`.",
       "track_added_playlist": "Track **[[track_title]](url)** `[[time]]` has been added to playlist **[playlist_name]**.",
       "playlist_tracks_limit": "You’ve reached the maximum of [limit] tracks for this playlist.",
       "provide_remove_track_playlist": "Plese provide Track URL or full track title or track ID",
