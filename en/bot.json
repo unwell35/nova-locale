@@ -1007,10 +1007,11 @@
       "track_not_found_playlist": "Track not found in your playlist. It may have been deleted.",
       "confirm_remove_track_playlist": "Are you sure you want to remove **[[track_title]]([url])** track from **[playlist_name]** playlist?",
       "select_playlist_edit": "Select a playlist to edit.",
-      "playlist_edit_info": "Name: [playlist_name]\nURL: [playlist_url]",
+      "playlist_edit_info": "Name: [playlist_name]\nURL: [playlist_url]\nCreated At: [created_date]\nUpdated At: [updated_date]",
       "playlist_public": "This playlist is public.\n-# You can share its link with friends so they can play it.",
       "playlist_private": "This playlist is private.",
-      "playlist_name_changed": "Playlist name changed from **[oldName]** to **[newName]**"
+      "playlist_name_changed": "Playlist name changed from **[oldName]** to **[newName]**",
+      "playlist_privacy": "Playlist privacy is now set to **[new_mode]**"
     },
     "interaction": {
       "select_track": "Select Track",
@@ -1033,7 +1034,8 @@
       "not_playing_pause": "No track is currently playing to pause.",
       "no_previous_track": "There’s no previous track to return to.",
       "previous_track_playing": "Now playing the previous track: **[track_title]** `[[time]]`.",
-      "track_id": "Track ID: [track_id]"
+      "track_id": "Track ID: [track_id]",
+      "edit_playlist": "Edit Playlist"
     }
   }
 }
