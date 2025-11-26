@@ -99,7 +99,8 @@
     "data_count": "Nombre de données : [data_count]",
     "added_at": "Added At: [date]",
     "public": "Public",
-    "private": "Private"
+    "private": "Private",
+    "created_at": "Created At: [created_date]"
   },
   "moderator": {
     "automod": {
@@ -976,34 +977,39 @@
       "track_not_found_playlist": "Track not found in your playlist. It may have been deleted.",
       "confirm_remove_track_playlist": "Are you sure you want to remove **[[track_title]]([url])** track from **[playlist_name]** playlist?",
       "select_playlist_edit": "Select a playlist to edit.",
-      "playlist_edit_info": "Name: [playlist_name]\nURL: [playlist_url]\nCreated At: [created_date]\nUpdated At: [updated_date]",
+      "playlist_edit_info": "**Name:** [playlist_name]\n**URL:** [playlist_url]\n**Created At:** [created_date]\n**Updated At:** [updated_date]",
       "playlist_public": "This playlist is public.\n-# You can share its link with friends so they can play it.",
       "playlist_private": "This playlist is private.",
-      "playlist_name_changed": "Playlist name changed from **[oldName]** to **[newName]**"
+      "playlist_name_changed": "Playlist name changed from **[oldName]** to **[newName]**",
+      "playlist_privacy": "Playlist privacy is now set to **[new_mode]**",
+      "provide_playlist_url": "Please provide the playlist URL",
+      "invalid_track_playlist": "**[[track_title]]([url])** `[[time]]` track cannot be added to Nova playlist",
+      "choose_playlist_play": "Choose the playlist you want to play"
     },
     "interaction": {
       "select_track": "Sélectionner une piste",
       "load_failed_title": "❌ Échec du chargement",
-      "load_failed_description": "Erreur lors de la lecture de **[titre_piste]** :\n```[message_erreur]```",
+      "load_failed_description": "Erreur lors de la lecture de **[track_title]** :\n```[error_message]```",
       "tracks_added": "Ajout de pistes **[tracks_length]** de la playlist.",
-      "link_playlist": "[utilisateur] - Ceci est une playlist. Premier morceau chargé. Cliquez pour charger le reste.",
+      "link_playlist": "[user] - Ceci est une playlist. Premier morceau chargé. Cliquez pour charger le reste.",
       "no_track": "Aucune trace",
       "requested_by": "Demandé par",
       "duration": "Durée",
       "stream": "Flux",
       "next_track": "Piste suivante : [track_title] • Commence dans [time]",
-      "added_by": "Ajouté par : [utilisateur]",
+      "added_by": "Ajouté par : [user]",
       "queue_page": "File d'attente [[current_page]/[max_page]]",
       "track_count": "Nombre de pistes : [count]",
       "inactive_player": "💤 **Aucun morceau joué depuis 3 minutes. Je quitte le canal vocal pour économiser les ressources.**",
       "currently_playing": "Je joue actuellement",
-      "now_playing": "🎶 **En cours de lecture sur** [chaîne]",
+      "now_playing": "🎶 **En cours de lecture sur** [channel]",
       "by": "Par **[auteur]**",
       "not_playing_pause": "No track is currently playing to pause.",
       "no_previous_track": "There’s no previous track to return to.",
       "previous_track_playing": "Now playing the previous track: **[track_title]** `[[time]]`.",
       "track_id": "Track ID: [track_id]",
-      "edit_playlist": "Edit Playlist"
+      "edit_playlist": "Edit Playlist",
+      "playlist_list": "Your playlists"
     }
   }
 }
