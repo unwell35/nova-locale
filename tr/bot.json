@@ -99,7 +99,8 @@
     "data_count": "",
     "added_at": "",
     "public": "",
-    "private": ""
+    "private": "",
+    "created_at": ""
   },
   "moderator": {
     "automod": {
@@ -980,7 +981,10 @@
       "playlist_public": "",
       "playlist_private": "",
       "playlist_name_changed": "",
-      "playlist_privacy": ""
+      "playlist_privacy": "",
+      "provide_playlist_url": "",
+      "invalid_track_playlist": "",
+      "choose_playlist_play": ""
     },
     "interaction": {
       "select_track": "",
@@ -1004,7 +1008,8 @@
       "no_previous_track": "",
       "previous_track_playing": "",
       "track_id": "",
-      "edit_playlist": ""
+      "edit_playlist": "",
+      "playlist_list": ""
     }
   }
 }
