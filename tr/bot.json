@@ -979,7 +979,8 @@
       "playlist_edit_info": "",
       "playlist_public": "",
       "playlist_private": "",
-      "playlist_name_changed": ""
+      "playlist_name_changed": "",
+      "playlist_privacy": ""
     },
     "interaction": {
       "select_track": "",
@@ -1002,7 +1003,8 @@
       "not_playing_pause": "",
       "no_previous_track": "",
       "previous_track_playing": "",
-      "track_id": ""
+      "track_id": "",
+      "edit_playlist": ""
     }
   }
 }
