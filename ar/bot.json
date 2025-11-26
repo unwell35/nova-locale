@@ -99,7 +99,8 @@
     "data_count": "عدد البيانات: [data_count]",
     "added_at": "تمت الإضافة في: [date]",
     "public": "عامة",
-    "private": "خاصة"
+    "private": "خاصة",
+    "created_at": "تم إنشاؤه في: [created_date]"
   },
   "moderator": {
     "automod": {
@@ -977,10 +978,13 @@
       "confirm_remove_track_playlist": "هل أنت متأكد أنك تريد إزالة المقطع **[[track_title]]([url])** من قائمة **[playlist_name]**؟",
       "select_playlist_edit": "اختر قائمة لتعديلها.",
       "playlist_edit_info": "الاسم: [playlist_name]\nالرابط: [playlist_url]\nتم إنشاؤه في: [created_date]\nتم التحديث في: [updated_date]",
-      "playlist_public": "هذه القائمة عامة.\n-# يمكنك مشاركة رابطها مع أصدقائك ليتمكنوا من تشغيلها.",
-      "playlist_private": "هذه القائمة خاصة.",
+      "playlist_public": "**هذه القائمة عامة.**\n-# يمكنك مشاركة رابطها مع أصدقائك ليتمكنوا من تشغيلها.",
+      "playlist_private": "**هذه القائمة خاصة.**",
       "playlist_name_changed": "تم تغيير اسم القائمة من **[oldName]** إلى **[newName]**.",
-      "playlist_privacy": ""
+      "playlist_privacy": "تم تعيين خصوصية القائمة الآن إلى **[new_mode]**",
+      "provide_playlist_url": "يرجى تقديم رابط القائمة",
+      "invalid_track_playlist": "لا يمكن إضافة المقطع **[[track_title]]([url])** `[[time]]` إلى قائمة نوفا",
+      "choose_playlist_play": "اختر القائمة التي تريد تشغيلها"
     },
     "interaction": {
       "select_track": "اختر المقطع",
@@ -1004,7 +1008,8 @@
       "no_previous_track": "لا يوجد مقطع سابق للعودة إليه.",
       "previous_track_playing": "الآن يتم تشغيل المقطع السابق: **[track_title]** `[[time]]`.",
       "track_id": "معرف المقطع: [track_id]",
-      "edit_playlist": "تعديل قائمة التشغيل"
+      "edit_playlist": "تعديل قائمة التشغيل",
+      "playlist_list": "قوائم التشغيل الخاصة بك"
     }
   }
 }
