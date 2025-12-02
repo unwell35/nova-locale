@@ -229,7 +229,8 @@
       "untimeout_at_field": "فك الوقت المستقطع عند",
       "reason_field": "السبب",
       "reason_not_provided_field": "لم يتم تقديم السبب",
-      "warn_title": "لقد تم تحذيرك"
+      "warn_title": "لقد تم تحذيرك",
+      "unban_at_field": "فك الحظر عند"
     }
   },
   "welcome": {
