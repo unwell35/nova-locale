@@ -229,7 +229,8 @@
       "untimeout_at_field": "Annulation du délai d'attente à",
       "reason_field": "Raison",
       "reason_not_provided_field": "Non fourni",
-      "warn_title": "Vous avez été prévenu"
+      "warn_title": "Vous avez été prévenu",
+      "unban_at_field": "Unban At"
     }
   },
   "welcome": {

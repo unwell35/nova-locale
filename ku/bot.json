@@ -224,7 +224,8 @@
       "untimeout_at_field": "تایمئاوت لادەبرێت لە",
       "reason_field": "هۆکار",
       "reason_not_provided_field": "دابین نەکراوە",
-      "warn_title": "تۆ ئاگادار کرایتەوە"
+      "warn_title": "تۆ ئاگادار کرایتەوە",
+      "unban_at_field": "Unban At"
     }
   },
   "welcome": {
