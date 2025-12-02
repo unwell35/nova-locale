@@ -229,7 +229,8 @@
       "untimeout_at_field": "",
       "reason_field": "",
       "reason_not_provided_field": "",
-      "warn_title": ""
+      "warn_title": "",
+      "unban_at_field": ""
     }
   },
   "welcome": {
