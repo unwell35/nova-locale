@@ -684,7 +684,7 @@
       "invalid_roles": "الرتب المحددة غير صالحة.",
       "user_points": "نقاط [user] هي **[points]**",
       "new_points": "[user] تم التحديث. النقاط الجديدة: **[points]**",
-      "reset_points": "تمت تصفير النقاط لـ `[target]`"
+      "reset_points": "تمت تصفير النقاط لـ [target]"
     },
     "giveaway": {
       "prize_key": "الجائزة",

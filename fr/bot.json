@@ -670,7 +670,7 @@
       "invalid_roles": "Les rôles sélectionnés ne sont pas valides.",
       "user_points": "[user]'s points is **[points]**",
       "new_points": "[user] Updated. New points: **[points]**",
-      "reset_points": "Points reset for `[target]`"
+      "reset_points": "Points reset for [target]"
     },
     "giveaway": {
       "prize_key": "Prix",
