@@ -667,7 +667,10 @@
       "no_game_running": "",
       "game_stopped": "",
       "both_limited_roles": "",
-      "invalid_roles": ""
+      "invalid_roles": "",
+      "user_points": "",
+      "new_points": "",
+      "reset_points": ""
     },
     "giveaway": {
       "prize_key": "",
