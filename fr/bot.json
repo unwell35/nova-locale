@@ -667,7 +667,10 @@
       "no_game_running": "Il n'y a aucun jeu en cours d'exécution actuellement sur cette chaîne !",
       "game_stopped": "Le jeu a été arrêté sur cette chaîne",
       "both_limited_roles": "Vous ne pouvez choisir qu'une seule option : soit les rôles inclus, soit les rôles exclus, mais pas les deux.",
-      "invalid_roles": "Les rôles sélectionnés ne sont pas valides."
+      "invalid_roles": "Les rôles sélectionnés ne sont pas valides.",
+      "user_points": "",
+      "new_points": "",
+      "reset_points": ""
     },
     "giveaway": {
       "prize_key": "Prix",
