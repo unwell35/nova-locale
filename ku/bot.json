@@ -631,7 +631,10 @@
       "no_game_running": "هیچ یاریەک لەم چەناڵە بەڕێوە ناچێتl!",
       "game_stopped": "یاریەکە وەستێنرا لەم چەناڵەدا",
       "both_limited_roles": "دەتوانیت تەنها یەک هەڵبژاردن هەڵبژێریت: یان ڕۆڵە لەخۆگیراوەکان یان لابردنی ڕۆڵە لەخۆ گیراوەکان، نەک هەردووکیان.",
-      "invalid_roles": "ڕۆڵی دیاریکراو نادرووستە."
+      "invalid_roles": "ڕۆڵی دیاریکراو نادرووستە.",
+      "user_points": "[user]'s points is **[points]**",
+      "new_points": "[user] Updated. New points: **[points]**",
+      "reset_points": "Points reset for `[target]`"
     },
     "giveaway": {
       "prize_key": "خەڵاتەکە",

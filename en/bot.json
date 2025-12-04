@@ -688,7 +688,10 @@
       "no_game_running": "There is no game running now in this channel!",
       "game_stopped": "The game has been stopped in this channel",
       "both_limited_roles": "You can only choose one option: either included roles or excluded roles, not both.",
-      "invalid_roles": "The selected roles are invalid."
+      "invalid_roles": "The selected roles are invalid.",
+      "user_points": "[user]'s points is **[points]**",
+      "new_points": "[user] Updated. New points: **[points]**",
+      "reset_points": "Points reset for `[target]`"
     },
     "giveaway": {
       "prize_key": "Prize",
