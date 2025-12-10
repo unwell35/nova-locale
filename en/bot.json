@@ -685,13 +685,28 @@
       "giveaway_created": "Giveaway created successfully!",
       "giveaway_rerolled": "Giveaway rerolled successfully!",
       "game_running": "There is a round already running now in this channel!",
+      "mini_game_running": "A game session is already active.",
       "no_game_running": "There is no game running now in this channel!",
       "game_stopped": "The game has been stopped in this channel",
       "both_limited_roles": "You can only choose one option: either included roles or excluded roles, not both.",
       "invalid_roles": "The selected roles are invalid.",
       "user_points": "[user]'s points is **[points]**",
       "new_points": "[user] Updated. New points: **[points]**",
-      "reset_points": "Points reset for [target]"
+      "reset_points": "Points reset for [target]",
+      "time_cooldown_game": "You have **[time]** remaining to respond.",
+      "winner": "👑 Winner: [user]",
+      "no_winner": "No Winner",
+      "fast_click_description": "Fast one clicks green button wins!",
+      "sort_numbers_description": "Rearrange a set of random numbers into ascending order"
+    },
+    "games": {
+      "fast_type": "Fast Type",
+      "split_text": "Split Text",
+      "merge_text": "Merge Text",
+      "guess_flag": "Guess The Flag",
+      "fast_click": "Fast Click",
+      "sort_numbers": "Sort Numbers",
+      "find_emoji": "Fine The Emoji"
     },
     "giveaway": {
       "prize_key": "Prize",
