@@ -664,13 +664,28 @@
       "giveaway_created": "",
       "giveaway_rerolled": "",
       "game_running": "",
+      "mini_game_running": "",
       "no_game_running": "",
       "game_stopped": "",
       "both_limited_roles": "",
       "invalid_roles": "",
       "user_points": "",
       "new_points": "",
-      "reset_points": ""
+      "reset_points": "",
+      "time_cooldown_game": "",
+      "winner": "",
+      "no_winner": "",
+      "fast_click_description": "",
+      "sort_numbers_description": ""
+    },
+    "games": {
+      "fast_type": "",
+      "split_text": "",
+      "merge_text": "",
+      "guess_flag": "",
+      "fast_click": "",
+      "sort_numbers": "",
+      "find_emoji": ""
     },
     "giveaway": {
       "prize_key": "",
