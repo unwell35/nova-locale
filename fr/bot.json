@@ -664,13 +664,28 @@
       "giveaway_created": "Concours créé avec succès !",
       "giveaway_rerolled": "Le cadeau a été relancé avec succès !",
       "game_running": "Il y a déjà un tour en cours sur cette chaîne !",
+      "mini_game_running": "",
       "no_game_running": "Il n'y a aucun jeu en cours d'exécution actuellement sur cette chaîne !",
       "game_stopped": "Le jeu a été arrêté sur cette chaîne",
       "both_limited_roles": "Vous ne pouvez choisir qu'une seule option : soit les rôles inclus, soit les rôles exclus, mais pas les deux.",
       "invalid_roles": "Les rôles sélectionnés ne sont pas valides.",
       "user_points": "",
       "new_points": "",
-      "reset_points": ""
+      "reset_points": "",
+      "time_cooldown_game": "",
+      "winner": "",
+      "no_winner": "",
+      "fast_click_description": "",
+      "sort_numbers_description": ""
+    },
+    "games": {
+      "fast_type": "",
+      "split_text": "",
+      "merge_text": "",
+      "guess_flag": "",
+      "fast_click": "",
+      "sort_numbers": "",
+      "find_emoji": ""
     },
     "giveaway": {
       "prize_key": "Prix",
