@@ -664,13 +664,28 @@
       "giveaway_created": "خەڵاتەکە بەسەرکەوتوویی درووستکرا!",
       "giveaway_rerolled": "خەڵاتەکە بەسەرکەوتوویی دووبارە کرایەوە!",
       "game_running": "ئێستا خولێک،جەولەیەک لەم چەناڵەدا بەڕێوەدەچێت!",
+      "mini_game_running": "",
       "no_game_running": "هیچ یاریەک لەم چەناڵە بەڕێوە ناچێتl!",
       "game_stopped": "یاریەکە وەستێنرا لەم چەناڵەدا",
       "both_limited_roles": "دەتوانیت تەنها یەک هەڵبژاردن هەڵبژێریت: یان ڕۆڵە لەخۆگیراوەکان یان لابردنی ڕۆڵە لەخۆ گیراوەکان، نەک هەردووکیان.",
       "invalid_roles": "ڕۆڵی دیاریکراو نادرووستە.",
       "user_points": "",
       "new_points": "",
-      "reset_points": ""
+      "reset_points": "",
+      "time_cooldown_game": "",
+      "winner": "",
+      "no_winner": "",
+      "fast_click_description": "",
+      "sort_numbers_description": ""
+    },
+    "games": {
+      "fast_type": "",
+      "split_text": "",
+      "merge_text": "",
+      "guess_flag": "",
+      "fast_click": "",
+      "sort_numbers": "",
+      "find_emoji": ""
     },
     "giveaway": {
       "prize_key": "خەڵاتەکە",
