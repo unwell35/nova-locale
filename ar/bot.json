@@ -664,13 +664,28 @@
       "giveaway_created": "تم إنشاء القيف اواي بنجاح!",
       "giveaway_rerolled": "تم إعادة اختيار الفائزين بنجاح",
       "game_running": "هناك جولة قيد التشغيل بالفعل الآن في هذه الشات!",
+      "mini_game_running": "",
       "no_game_running": "لا يوجد لعبة تعمل الآن في هذه الشات!",
       "game_stopped": "تم إيقاف اللعبة في هذه الشات بنجاح",
       "both_limited_roles": "يمكنك اختيار خيار واحد فقط: إما الرتب المضمنة أو الرتب المستبعدة، وليس كلاهما.",
       "invalid_roles": "الرتب المحددة غير صالحة.",
       "user_points": "نقاط [user] هي **[points]**",
       "new_points": "[user] تم التحديث. النقاط الجديدة: **[points]**",
-      "reset_points": "تمت تصفير النقاط لـ [target]"
+      "reset_points": "تمت تصفير النقاط لـ [target]",
+      "time_cooldown_game": "",
+      "winner": "",
+      "no_winner": "",
+      "fast_click_description": "",
+      "sort_numbers_description": ""
+    },
+    "games": {
+      "fast_type": "",
+      "split_text": "",
+      "merge_text": "",
+      "guess_flag": "",
+      "fast_click": "",
+      "sort_numbers": "",
+      "find_emoji": ""
     },
     "giveaway": {
       "prize_key": "الجائزة",
