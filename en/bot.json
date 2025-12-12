@@ -697,7 +697,22 @@
       "winner": "👑 Winner: [user]",
       "no_winner": "No Winner",
       "fast_click_description": "Fast one clicks green button wins!",
-      "sort_numbers_description": "Rearrange a set of random numbers into ascending order"
+      "sort_numbers_description": "Rearrange a set of random numbers into ascending order",
+      "join_game_button": "Join Game",
+      "select_minigame": "Please select a mini-game",
+      "no_minigames_selected": "No mini-games selected"
+    },
+    "interaction": {
+      "collecting_points": "Collecting Points",
+      "minigame_event": "Mini-Game Event",
+      "minigame_description": "🎮 Games: **[games]**\n🔁 Rounds: **[rounds]**\n🌐 Language: **[language]**\n🎲 Random: **[booleanRandom]**\n⭐ Collecting Points: **[boolean]**",
+      "next_round_start": "Next round starts now — [currentRound]/[maxRounds]",
+      "game_cancel_lack_engagment": "The event has been stopped due to a lack of engagement.",
+      "game_over_no_winners": "🛑 Game Over! No winners.",
+      "game_over": "🛑 **Game Over!**\n\n🏆 **Winners:**",
+      "winner_1": "🥇 [user] — ⭐ **[points]**",
+      "winner_2": "🥈 [user] — ⭐ **[points]**",
+      "winner_3": "🥉 [user] — ⭐ **[points]**"
     },
     "games": {
       "fast_type": "Fast Type",
@@ -741,7 +756,7 @@
       "leave_button_label": "Leave Game",
       "game_embed_title": "Roulette",
       "game_embed_description": "**1.** Join the game\n**2.** The first round will begin, and the wheel will spin to select a random player\n**3.** If you are chosen, you'll pick a player to eliminate from the game\n**4.** The selected player is kicked out, and the next round begins. When all players are eliminated, leaving two, the wheel spins, and the chosen player wins.",
-      "players_key": "Players",
+      "players_key": "👥 Players",
       "time_key": "Game will start",
       "no_players": "No one joined the game yet",
       "join_randomly_button_label": "Join Randomly",
@@ -749,7 +764,7 @@
       "removed_player": "You've been removed from this game",
       "game_is_full": "The game is full",
       "already_in_game": "You're already in this game. To change your position, you must exit the game and then rejoin.",
-      "absence_players": "The game has been canceled due to the absence of at least 3 players.",
+      "absence_players": "The game has been canceled due to the absence of at least [min_players] players.",
       "game_will_start": "Numbers have been assigned to each player. The first round will start in a few seconds...",
       "won_game": "👑 [player] Won this game.",
       "final_round": "ℹ️ This is the final round! The selected player is the winner of the game.",
