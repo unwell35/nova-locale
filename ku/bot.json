@@ -676,7 +676,22 @@
       "winner": "",
       "no_winner": "",
       "fast_click_description": "",
-      "sort_numbers_description": ""
+      "sort_numbers_description": "",
+      "join_game_button": "",
+      "select_minigame": "",
+      "no_minigames_selected": ""
+    },
+    "interaction": {
+      "collecting_points": "",
+      "minigame_event": "",
+      "minigame_description": "",
+      "next_round_start": "",
+      "game_cancel_lack_engagment": "",
+      "game_over_no_winners": "",
+      "game_over": "",
+      "winner_1": "",
+      "winner_2": "",
+      "winner_3": ""
     },
     "games": {
       "fast_type": "",
