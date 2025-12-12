@@ -704,6 +704,7 @@
     },
     "interaction": {
       "collecting_points": "Collecting Points",
+      "random_games": "Random Games",
       "minigame_event": "Mini-Game Event",
       "minigame_description": "🎮 Games: **[games]**\n🔁 Rounds: **[rounds]**\n🌐 Language: **[language]**\n🎲 Random: **[booleanRandom]**\n⭐ Collecting Points: **[boolean]**",
       "next_round_start": "Next round starts now — [currentRound]/[maxRounds]",

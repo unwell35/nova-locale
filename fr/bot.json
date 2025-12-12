@@ -681,6 +681,7 @@
     },
     "interaction": {
       "collecting_points": "Collecting Points",
+      "random_games": "Random Games",
       "minigame_event": "Mini-Game Event",
       "minigame_description": "🎮 Games: **[games]**\n🔁 Rounds: **[rounds]**\n🌐 Language: **[language]**\n🎲 Random: **[booleanRandom]**\n⭐ Collecting Points: **[boolean]**",
       "next_round_start": "Next round starts now — [currentRound]/[maxRounds]",
@@ -741,7 +742,7 @@
       "removed_player": "Vous avez été retiré de ce jeu",
       "game_is_full": "Le jeu est complet",
       "already_in_game": "Vous êtes déjà dans ce jeu. Pour changer de position, vous devez quitter le jeu puis le rejoindre.",
-      "absence_players": "Le match a été annulé en raison de l'absence d'au moins 3 joueurs.",
+      "absence_players": "Le match a été annulé en raison de l'absence d'au moins [min_players] joueurs.",
       "game_will_start": "Des numéros ont été attribués à chaque joueur. Le premier tour va commencer dans quelques secondes...",
       "won_game": "👑 [player] A gagné cette partie.",
       "final_round": "ℹ️ C'est la dernière manche ! Le joueur sélectionné remporte la partie.",
