@@ -683,6 +683,7 @@
     },
     "interaction": {
       "collecting_points": "",
+      "random_games": "",
       "minigame_event": "",
       "minigame_description": "",
       "next_round_start": "",
