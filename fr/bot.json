@@ -683,6 +683,7 @@
     },
     "interaction": {
       "collecting_points": "",
+      "random_games": "",
       "minigame_event": "",
       "minigame_description": "",
       "next_round_start": "",
@@ -743,7 +744,7 @@
       "removed_player": "Vous avez été retiré de ce jeu",
       "game_is_full": "Le jeu est complet",
       "already_in_game": "Vous êtes déjà dans ce jeu. Pour changer de position, vous devez quitter le jeu puis le rejoindre.",
-      "absence_players": "Le match a été annulé en raison de l'absence d'au moins 3 joueurs.",
+      "absence_players": "Le match a été annulé en raison de l'absence d'au moins [min_players] joueurs.",
       "game_will_start": "Des numéros ont été attribués à chaque joueur. Le premier tour va commencer dans quelques secondes...",
       "won_game": "👑 [player] A gagné cette partie.",
       "final_round": "ℹ️ C'est la dernière manche ! Le joueur sélectionné remporte la partie.",
