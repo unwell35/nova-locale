@@ -692,7 +692,8 @@
       "game_over": "",
       "winner_1": "",
       "winner_2": "",
-      "winner_3": ""
+      "winner_3": "",
+      "correct_answer": ""
     },
     "games": {
       "fast_type": "",
