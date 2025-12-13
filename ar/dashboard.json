@@ -1531,5 +1531,21 @@
   "COMMAND_DESCRIPTION_PLAYLIST_VIEW": "عرض جميع المقاطع في قائمة التشغيل الخاصة بك",
   "COMMAND_DESCRIPTION_PLAYLIST_EDIT": "تعديل قوائم التشغيل الخاصة بك",
   "COMMAND_DESCRIPTION_PLAYLIST_LIST": "قوائم التشغيل الخاصة بك",
-  "COMMAND_DESCRIPTION_PLAYLIST_PLAY": "تشغيل قائمة تشغيل"
+  "COMMAND_DESCRIPTION_PLAYLIST_PLAY": "تشغيل قائمة تشغيل",
+  "FAST_TEMPLATE": "نموذج الألعاب السريعة",
+  "GAME_TYPE_VARIABLE": "نوع اللعبة",
+  "MINI_GAMES_MENU": "الألعاب الصغيرة",
+  "GAMES_MENU": "الألعاب",
+  "COMMAND_DESCRIPTION_FAST_TYPE": "اكتب النص المعروض أسرع من الجميع.",
+  "COMMAND_DESCRIPTION_FAST_CLICK": "اضغط على الزر المميز قبل أي شخص آخر.",
+  "COMMAND_DESCRIPTION_FIND_EMOJI": "ستصلك صورة لإيموجي، وأول لاعب يرسل نفس الإيموجي تمامًا يفوز.",
+  "COMMAND_DESCRIPTION_GUESS_FLAG": "خمّن الدولة من خلال العلم المعروض.",
+  "COMMAND_DESCRIPTION_SPLIT_TEXT": "قسّم الكلمة أو العبارة المعطاة إلى أحرف.",
+  "COMMAND_DESCRIPTION_MERGE_TEXT": "ادمج الأحرف المتفرقة لإعادة تكوين الكلمات الأصلية.",
+  "COMMAND_DESCRIPTION_SORT_NUMEBERS": "رتّب الأرقام العشوائية من الأصغر إلى الأكبر بأسرع وقت ممكن.",
+  "COMMAND_DESCRIPTION_START_EVENT": "ابدأ أيفنت ألعاب مصغّرة بعدد جولات في القناة الحالية.",
+  "COMMAND_DESCRIPTION_STOP_EVENT": "إيقاف أيفنت اللعبة.",
+  "COMMAND_DESCRIPTION_POINTS": "نظام نقاط على مستوى السيرفر يمكن للمشرفين منحه للمستخدمين، ويُستخدم أيضًا لتتبع الأيفنتات.",
+  "ANSWER_TIME_LIMIT": "المهلة الزمنية للإجابة (بالثواني)",
+  "GAME_CONTENT_LANGUAGE": "لغة محتوى اللعبة."
 }
