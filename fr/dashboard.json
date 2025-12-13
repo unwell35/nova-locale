@@ -1564,5 +1564,6 @@
   "COMMAND_EXAMPLE_PLAYLIST_EDIT": "/pledit",
   "COMMAND_EXAMPLE_PLAYLIST_VIEW": "/plview",
   "COMMAND_EXAMPLE_PLAYLIST_LIST": "/pllist",
-  "COMMAND_EXAMPLE_PLAYLIST_PLAY": "/plplay\n/plplay [playlist URL]"
+  "COMMAND_EXAMPLE_PLAYLIST_PLAY": "/plplay\n/plplay [playlist URL]",
+  "REACTION_ROLES_INFO_ALERT": "Please make sure my role position in \"Discord Server Settings\" is higher than reaction roles"
 }
