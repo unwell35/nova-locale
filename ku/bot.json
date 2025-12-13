@@ -654,7 +654,8 @@
       "game_over": "🛑 **Game Over!**\n\n🏆 **Winners:**",
       "winner_1": "🥇 [user] — ⭐ **[points]**",
       "winner_2": "🥈 [user] — ⭐ **[points]**",
-      "winner_3": "🥉 [user] — ⭐ **[points]**"
+      "winner_3": "🥉 [user] — ⭐ **[points]**",
+      "correct_answer": "Correct answer: [answer]"
     },
     "games": {
       "fast_type": "Fast Type",
