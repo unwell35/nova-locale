@@ -1547,5 +1547,6 @@
   "COMMAND_DESCRIPTION_STOP_EVENT": "إيقاف أيفنت اللعبة.",
   "COMMAND_DESCRIPTION_POINTS": "نظام نقاط على مستوى السيرفر يمكن للمشرفين منحه للمستخدمين، ويُستخدم أيضًا لتتبع الأيفنتات.",
   "ANSWER_TIME_LIMIT": "المهلة الزمنية للإجابة (بالثواني)",
-  "GAME_CONTENT_LANGUAGE": "لغة محتوى اللعبة."
+  "GAME_CONTENT_LANGUAGE": "لغة محتوى اللعبة.",
+  "REACTION_ROLES_INFO_ALERT": "يرجى التأكد من أن ترتيب رتبتي في إعدادات السيرفر في ديسكورد أعلى من رتب التفاعل."
 }
