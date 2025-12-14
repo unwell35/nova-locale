@@ -681,7 +681,8 @@
       "select_minigame": "Please select a mini-game",
       "no_minigames_selected": "No mini-games selected",
       "user_game_running": "This member is already in game session.",
-      "invite_game": "[user], 🎮 [inviter] wants to play [game] with you"
+      "invite_game": "[user], 🎮 [inviter] wants to play [game] with you",
+      "reject_invite": "[inviter], [user] has rejected to play with you"
     },
     "interaction": {
       "collecting_points": "Collecting Points",

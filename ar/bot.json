@@ -696,7 +696,8 @@
       "select_minigame": "يرجى اختيار لعبة مصغرة",
       "no_minigames_selected": "لم يتم اختيار أي ألعاب مصغرة",
       "user_game_running": "هذا العضو يشارك بالفعل في جلسة لعب.",
-      "invite_game": "[user]، 🎮 [inviter] يريد اللعب معك في [game]"
+      "invite_game": "[user]، 🎮 [inviter] يريد اللعب معك في [game]",
+      "reject_invite": "[inviter]، قام [user] برفض اللعب معك."
     },
     "interaction": {
       "collecting_points": "جمع النقاط",
