@@ -100,7 +100,9 @@
     "added_at": "Added At: [date]",
     "public": "Public",
     "private": "Private",
-    "created_at": "Created At: [created_date]"
+    "created_at": "Created At: [created_date]",
+    "accept": "Accept",
+    "reject": "Reject"
   },
 
   "moderator": {
@@ -700,7 +702,9 @@
       "sort_numbers_description": "Rearrange a set of random numbers into ascending order",
       "join_game_button": "Join Game",
       "select_minigame": "Please select a mini-game",
-      "no_minigames_selected": "No mini-games selected"
+      "no_minigames_selected": "No mini-games selected",
+      "user_game_running": "This member is already in game session.",
+      "invite_game": "[user], 🎮 [inviter] wants to play [game] with you"
     },
     "interaction": {
       "collecting_points": "Collecting Points",
@@ -714,7 +718,13 @@
       "winner_1": "🥇 [user] — ⭐ **[points]**",
       "winner_2": "🥈 [user] — ⭐ **[points]**",
       "winner_3": "🥉 [user] — ⭐ **[points]**",
-      "correct_answer": "Correct answer: [answer]"
+      "correct_answer": "Correct answer: [answer]",
+      "rounds_ends_in": "The round ends [time]",
+      "current_turn": "Current turn: [user]",
+      "xo_game_ends_timer": "Time has expired for [loser] — [winner] wins!",
+      "draw": "It's a draw! No winners this time.",
+      "not_your_turn": "It's not your turn!",
+      "game_over_xo": "**Game over! 🏆 The winner is [winner]!**"
     },
     "games": {
       "fast_type": "Fast Type",
@@ -723,7 +733,8 @@
       "guess_flag": "Guess The Flag",
       "fast_click": "Fast Click",
       "sort_numbers": "Sort Numbers",
-      "find_emoji": "Fine The Emoji"
+      "find_emoji": "Fine The Emoji",
+      "xo": "❌⭕ Game"
     },
     "giveaway": {
       "prize_key": "Prize",
