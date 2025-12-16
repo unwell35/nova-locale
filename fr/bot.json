@@ -716,6 +716,21 @@
       "find_emoji": "",
       "xo": ""
     },
+    "chairs": {
+      "game_name": "",
+      "game_description": "",
+      "no_eliminated": "",
+      "eliminated_players": "",
+      "game_ended": "",
+      "nexr_round_starts": "",
+      "no_round": "",
+      "round_ended": "",
+      "not_in_game": "",
+      "seat_invalid": "",
+      "pressed_already": "",
+      "seat_taken": "",
+      "pressed_button": ""
+    },
     "giveaway": {
       "prize_key": "Prix",
       "ended_key": "Terminé",
@@ -749,7 +764,7 @@
       "leave_button_label": "Quitter le jeu",
       "game_embed_title": "Roulette",
       "game_embed_description": "**1.** Rejoignez la partie\n**2.** Le premier tour commence et la roue tourne pour sélectionner un joueur au hasard.\n**3.** Si vous êtes sélectionné, vous choisissez un joueur à éliminer.\n**4.** Le joueur sélectionné est éliminé et le tour suivant commence. Lorsque tous les joueurs sont éliminés, il n'en reste que deux, la roue tourne et le joueur choisi gagne.",
-      "players_key": "Joueurs",
+      "players_key": "👥 Joueurs",
       "time_key": "Le jeu va commencer",
       "no_players": "Personne n'a encore rejoint le jeu",
       "join_randomly_button_label": "Rejoignez-nous au hasard",
