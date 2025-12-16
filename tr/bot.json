@@ -716,6 +716,21 @@
       "find_emoji": "",
       "xo": ""
     },
+    "chairs": {
+      "game_name": "",
+      "game_description": "",
+      "no_eliminated": "",
+      "eliminated_players": "",
+      "game_ended": "",
+      "nexr_round_starts": "",
+      "no_round": "",
+      "round_ended": "",
+      "not_in_game": "",
+      "seat_invalid": "",
+      "pressed_already": "",
+      "seat_taken": "",
+      "pressed_button": ""
+    },
     "giveaway": {
       "prize_key": "",
       "ended_key": "",
