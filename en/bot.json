@@ -721,7 +721,7 @@
       "winner_3": "🥉 [user] — ⭐ **[points]**",
       "correct_answer": "Correct answer: [answer]",
       "rounds_ends_in": "The round ends [time]",
-      "current_turn": "Current turn: [user]",
+      "current_turn": "🎲 Current turn: [user]",
       "xo_game_ends_timer": "Time has expired for [loser] — [winner] wins!",
       "draw": "It's a draw! No winners this time.",
       "not_your_turn": "It's not your turn!",
@@ -736,6 +736,21 @@
       "sort_numbers": "Sort Numbers",
       "find_emoji": "Fine The Emoji",
       "xo": "❌⭕ Game"
+    },
+    "chairs": {
+      "game_name": "Chairs",
+      "game_description": "**1.** Join the game by clicking the button below.\n**2.** The round will start and buttons will appear. You must click as fast as possible when a button becomes available. If the button is red, if time runs out, or if there are no more buttons to click, you will be eliminated from the game.\n**3.** The last remaining player wins.",
+      "no_eliminated": "No players were eliminated. The next round will start [timer].",
+      "eliminated_players": "❌ Eliminated: [players]",
+      "game_ended": "The game has ended. No one won because all players were eliminated.",
+      "nexr_round_starts": "The next round will start in [timer]",
+      "no_round": "There is no round currently.",
+      "round_ended": "The round has ended.",
+      "not_in_game": "You're not in the game.",
+      "seat_invalid": "This seat is invalid.",
+      "pressed_already": "You have already pressed a button this round.",
+      "seat_taken": "This seat is already taken.",
+      "pressed_button": "This seat has been successfully reserved for you."
     },
     "giveaway": {
       "prize_key": "Prize",
