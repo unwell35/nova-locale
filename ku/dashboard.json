@@ -1549,7 +1549,7 @@
   "COMMAND_EXAMPLE_MERGE_TEXT": "/mergetext",
   "COMMAND_DESCRIPTION_MERGE_TEXT": "Combine scattered characters to recreate the original words.",
   "COMMAND_EXAMPLE_SORT_NUMBERS": "/sortnumbers",
-  "COMMAND_DESCRIPTION_SORT_NUMEBERS": "Sort the random numbers in ascending order as quickly as possible.",
+  "COMMAND_DESCRIPTION_SORT_NUMBERS": "Sort the random numbers in ascending order as quickly as possible.",
   "COMMAND_EXAMPLE_START_EVENT": "/startevent\n/startevent [rounds]",
   "COMMAND_DESCRIPTION_START_EVENT": "Start a mini-game event with rounds in the current channel",
   "COMMAND_EXAMPLE_STOP_EVENT": "/stopevent",

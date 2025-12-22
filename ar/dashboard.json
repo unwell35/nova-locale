@@ -1579,7 +1579,7 @@
   "COMMAND_EXAMPLE_MERGE_TEXT": "/mergetext",
   "COMMAND_DESCRIPTION_MERGE_TEXT": "ادمج الأحرف المتفرقة لإعادة تكوين الكلمات الأصلية.",
   "COMMAND_EXAMPLE_SORT_NUMBERS": "/sortnumbers",
-  "COMMAND_DESCRIPTION_SORT_NUMEBERS": "رتّب الأرقام العشوائية من الأصغر إلى الأكبر بأسرع وقت ممكن.",
+  "COMMAND_DESCRIPTION_SORT_NUMBERS": "رتّب الأرقام العشوائية من الأصغر إلى الأكبر بأسرع وقت ممكن.",
   "COMMAND_EXAMPLE_START_EVENT": "/startevent\n/startevent [rounds]",
   "COMMAND_DESCRIPTION_START_EVENT": "ابدأ أيفنت ألعاب مصغّرة بعدد جولات في القناة الحالية.",
   "COMMAND_EXAMPLE_STOP_EVENT": "/stopevent",
