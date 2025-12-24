@@ -649,8 +649,8 @@
   },
   "fun": {
     "commands": {
-      "no_cut_tweet_templates": "Il n'y a pas de modèle de CutTweet coupé, veuillez en créer un et réessayer",
-      "cut_sent": "Cuttweet envoyé avec succès à : [channel]",
+      "no_cut_tweet_templates": "Il n'y a pas de modèle de Quote-Tweet, veuillez en créer un et réessayer",
+      "cut_sent": "Quote-Tweet envoyé avec succès à : [channel]",
       "image_template_type_premium": "Le type « image » n'est disponible que pour les plans premium, veuillez accéder au tableau de bord pour le modifier.",
       "wrong_duration_giveaway": "Le format de durée est incorrect !\nEx : [command_usage] 5 min 5 chaussures Nike",
       "max_duration_giveaway": "La durée maximale d'un cadeau est de 30 jours !",
