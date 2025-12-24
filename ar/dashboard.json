@@ -739,6 +739,7 @@
   "COMMAND_DESCRIPTION_COMMANDS": "قائمة بجميع أوامر التي يوفرها نوڤا بوت",
   "COMMAND_EXAMPLE_COMMANDS": "/commands",
   "COMMAND_DESCRIPTION_DASHBOARD": "إدارة إعدادات نوفا وتخصيص الميزات لسيرفرك.",
+  "COMMAND_EXAMPLE_DASHBOARD": "/dashboard",
 
   "COMMAND_EXAMPLE_DEBUG": "/debug",
   "COMMAND_DESCRIPTION_DEBUG": "أرسل معلومات عن البوت في هذا السيرفر",

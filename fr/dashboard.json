@@ -728,6 +728,8 @@
   "COMMAND_DESCRIPTION_COMMANDS": "Liste de toutes les commandes fournies par Nova Bot",
   "COMMAND_EXAMPLE_COMMANDS": "/commands",
   "COMMAND_DESCRIPTION_DASHBOARD": "Gérez les paramètres de Nova et personnalisez les fonctionnalités de votre serveur",
+  "COMMAND_EXAMPLE_DASHBOARD": "/dashboard",
+
   "COMMAND_EXAMPLE_DEBUG": "/déboguer",
   "COMMAND_DESCRIPTION_DEBUG": "Envoyer des informations sur le bot de cette guilde",
   "COMMAND_EXAMPLE_PING": "/ping",

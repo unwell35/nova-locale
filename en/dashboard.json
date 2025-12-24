@@ -741,6 +741,7 @@
   "COMMAND_DESCRIPTION_COMMANDS": "List of all commands provided by Nova Bot",
   "COMMAND_EXAMPLE_COMMANDS": "/commands",
   "COMMAND_DESCRIPTION_DASHBOARD": "Manage Nova’s settings and customize features for your server",
+  "COMMAND_EXAMPLE_DASHBOARD": "/dashboard",
 
   "COMMAND_EXAMPLE_DEBUG": "/debug",
   "COMMAND_DESCRIPTION_DEBUG": "Send information about the bot in this guild",
