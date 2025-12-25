@@ -600,7 +600,10 @@
       "vote_get_gold_button": "اكسب الذهب عبر التصويت للبوت!",
       "reset_top_day_note": "سيتم تصفير توب اليومي خلال [date].",
       "reset_top_week_note": "يتم تصفير التوب الأسبوعي كل يوم أثنين. سيتم التصفير خلال [date]",
-      "reset_top_month_note": "يتم تصفير التوب الشهري كل شهر. سيتم التصفير خلال [date]."
+      "reset_top_month_note": "يتم تصفير التوب الشهري كل شهر. سيتم التصفير خلال [date].",
+      "plugin_name": "الأضافة: [name]",
+      "usage": "الأستخدام",
+      "examples": "أمثلة للأستخدام"
     }
   },
   "reaction_roles": {
