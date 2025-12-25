@@ -588,7 +588,10 @@
       "vote_get_gold_button": "Gagnez de l'or en votant pour le bot !",
       "reset_top_day_note": "",
       "reset_top_week_note": "",
-      "reset_top_month_note": ""
+      "reset_top_month_note": "",
+      "plugin_name": "",
+      "usage": "",
+      "examples": ""
     }
   },
   "reaction_roles": {
