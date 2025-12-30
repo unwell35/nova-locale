@@ -748,7 +748,9 @@
       "unavailable_spot": "",
       "hide_selected": "",
       "eliminated": "",
-      "searched_success": ""
+      "searched_success": "",
+      "remaining_time": "",
+      "no_one_hidden": ""
     },
     "mafia": {
       "game_name": "",
