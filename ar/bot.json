@@ -748,7 +748,9 @@
       "unavailable_spot": "هذا المكان غير متاح، يرجى اختيار مكان آخر.",
       "hide_selected": "لقد اختبأت في المكان **[spot]**.",
       "eliminated": "تم العثور على [hiders] في **[spot]** وتم طردهم بواسطة [seeker]",
-      "searched_success": "قمت بتفتيش المكان **[spot]**."
+      "searched_success": "قمت بتفتيش المكان **[spot]**.",
+      "remaining_time": "",
+      "no_one_hidden": ""
     },
     "mafia": {
       "game_name": "مافيا",
