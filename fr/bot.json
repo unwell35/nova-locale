@@ -687,7 +687,8 @@
       "invite_game": "[user], 🎮 [inviter] wants to play [game] with you",
       "reject_invite": "[inviter], [user] has rejected to play with you",
       "confirm_set_gamespoints": "Are you sure you want to set [points] points to [user]?",
-      "set_gamespoints": "[user]'s points have been set to [points] successfully"
+      "set_gamespoints": "[user]'s points have been set to [points] successfully",
+      "another_game_type_running": "A different type of game is already running in this channel."
     },
     "interaction": {
       "collecting_points": "Collecting Points",

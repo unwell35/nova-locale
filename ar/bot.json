@@ -702,7 +702,8 @@
       "invite_game": "[user]، 🎮 [inviter] يريد اللعب معك في [game]",
       "reject_invite": "[inviter]، قام [user] برفض اللعب معك.",
       "confirm_set_gamespoints": "هل أنت متأكد أنك تريد تعيين [points] نقطة لـ [user]؟",
-      "set_gamespoints": "تم تعيين نقاط [user] إلى [points] بنجاح"
+      "set_gamespoints": "تم تعيين نقاط [user] إلى [points] بنجاح",
+      "another_game_type_running": "هنالك لعبة جماعية أخرى قيد التشغيل بالفعل في هذه الشات!"
     },
     "interaction": {
       "collecting_points": "جمع النقاط",

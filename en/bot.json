@@ -673,7 +673,7 @@
 
   "fun": {
     "commands": {
-      "no_cut_tweet_templates": "There's no cut tweet template, please create one and try again",
+      "no_cut_tweet_templates": "There's no quote tweet template, please create one and try again",
       "cut_sent": "Quote-tweet sent successfully to: [channel]",
       "image_template_type_premium": "\"image\" as type is only available for premiums plans, please go to dashboard to change it",
       "wrong_duration_giveaway": "The duration format is incorrect!\nEx: [command_usage] 5m 5 Nike shoes",
@@ -710,7 +710,8 @@
       "invite_game": "[user], 🎮 [inviter] wants to play [game] with you",
       "reject_invite": "[inviter], [user] has rejected to play with you",
       "confirm_set_gamespoints": "Are you sure you want to set [points] points to [user]?",
-      "set_gamespoints": "[user]'s points have been set to [points] successfully"
+      "set_gamespoints": "[user]'s points have been set to [points] successfully",
+      "another_game_type_running": "A different type of game is already running in this channel."
     },
     "interaction": {
       "collecting_points": "Collecting Points",

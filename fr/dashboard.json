@@ -1170,7 +1170,7 @@
   "AUTO_RESPONDER_PLUGIN_DESCRIPTION": "Répond automatiquement à des mots-clés ou expressions spécifiques avec des messages prédéfinis.",
   "COLORS_PLUGIN_DESCRIPTION": "Il propose une palette de couleurs éclatantes qui permet aux utilisateurs de choisir leur couleur préférée, et vous pouvez toujours créer votre propre palette de couleurs.",
   "TEMPORARRY_CHANNELS_PLUGIN_DESCRIPTION": "Crée des canaux vocaux temporaires qui disparaissent automatiquement lorsqu'ils ne sont plus utilisés.",
-  "FUN_PLUGIN_DESCRIPTION": "Pimentez votre serveur avec des fonctionnalités passionnantes comme la roulette et le cut tweet, et d'autres jeux sont à venir.",
+  "FUN_PLUGIN_DESCRIPTION": "Pimentez votre serveur avec des fonctionnalités passionnantes comme la roulette et le quote-tweet, et d'autres jeux sont à venir.",
   "GIVEAWAYS_PLUGIN_DESCRIPTION": "Organisez et gérez facilement des concours, permettant aux utilisateurs de participer et de gagner des prix exceptionnels.",
   "REACTION_ROLES_PLUGIN_DESCRIPTION": "Attribuez des rôles aux utilisateurs d'une simple réaction, pour une gestion des rôles rapide et interactive !",
   "LOGS_PLUGIN_DESCRIPTION": "Permet de suivre et d'enregistrer les événements importants du serveur, tels que les suppressions de messages, les actions des membres, etc., pour une modération facilitée.",
