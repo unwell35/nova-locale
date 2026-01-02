@@ -260,7 +260,7 @@
   "APPLY_COLORS_SETS_DESCRIPTION": "Are you sure you want to submit a request to create a color list \"{colorsName}\"? Please make sure the bot has all the required permissions to create roles",
   "FUN_TITLE": "Fun",
   "GIVEAWAY_MENU": "Giveaway",
-  "QUOTE_TWEET_MENU": "Quote Tweet",
+  "CUTTWEET_MENU": "Quote-Tweet",
   "ROULETTE_MENU": "Roulette",
   "DM_WINNERS_LABEL": "DM Winners",
   "ODDS_TITLE": "Winning Odds",
