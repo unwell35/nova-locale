@@ -177,7 +177,7 @@
       "remove_role_label": "Remove",
       "remove_role_description": "Remove this role from members",
       "start_give_roles_to_all": "Starting to give **@[role]** to **[target]**. You can click on **Cancel** to cancel the process",
-      "start_remove_roles_to_all": "Starting to remove **@[role]** to **[target]**. You can click on **Cancel** to cancel the process",
+      "start_remove_roles_to_all": "Starting to remove **@[role]** from **[target]**. You can click on **Cancel** to cancel the process",
       "something_wrong_role_all_removing": "Something went wrong while removing [role] from [target]",
       "something_wrong_role_all_giving": "Something went wrong while giving [role] to [target]",
       "process_role_all_ended_removing": "The process of removing **@[role]** from **[target]** has ended",
