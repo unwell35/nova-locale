@@ -1656,5 +1656,6 @@
   "COMMAND_EXAMPLE_SET_GAMES_POINTS": "/game points set [الشخص] [النقاط]",
   "TOP_GAMES_POINTS": "أعلى نقاط الألعاب",
   "EITHER_LEVEL_LABEL": "أي مستوى منهما",
-  "REWARDS_ORDER_WARNING": "يجب ترتيب رتب المكافآت من أدنى مستوى مطلوب إلى أعلى مستوى."
+  "REWARDS_ORDER_WARNING": "يجب ترتيب رتب المكافآت من أدنى مستوى مطلوب إلى أعلى مستوى.",
+  "INVALID_REWARD_ORDER": "ترتيب غير صحيح. يجب أن يكون مستوى المكافأة السابق أقل من المستوى التالي."
 }

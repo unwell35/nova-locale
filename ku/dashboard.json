@@ -1625,5 +1625,6 @@
   "COMMAND_EXAMPLE_SET_GAMES_POINTS": "/game points set [user] [points]",
   "TOP_GAMES_POINTS": "Top Games Points",
   "EITHER_LEVEL_LABEL": "Either Level",
-  "REWARDS_ORDER_WARNING": "Rewards roles must be ordered from lowest required level to highest."
+  "REWARDS_ORDER_WARNING": "Rewards roles must be ordered from lowest required level to highest.",
+  "INVALID_REWARD_ORDER": "Invalid order. Previous reward level must be lower than the next."
 }
