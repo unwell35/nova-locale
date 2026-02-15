@@ -1624,5 +1624,6 @@
   "COMMAND_DESCRIPTION_SET_GAMES_POINTS": "Set member's game points",
   "COMMAND_EXAMPLE_SET_GAMES_POINTS": "/game points set [user] [points]",
   "TOP_GAMES_POINTS": "Top Games Points",
-  "EITHER_LEVEL_LABEL": "Either Level"
+  "EITHER_LEVEL_LABEL": "Either Level",
+  "REWARDS_ORDER_WARNING": "Rewards roles must be ordered from lowest required level to highest."
 }

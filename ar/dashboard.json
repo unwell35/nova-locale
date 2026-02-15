@@ -1655,5 +1655,6 @@
   "COMMAND_DESCRIPTION_SET_GAMES_POINTS": "تعيين نقاط الألعاب لعضو",
   "COMMAND_EXAMPLE_SET_GAMES_POINTS": "/game points set [الشخص] [النقاط]",
   "TOP_GAMES_POINTS": "أعلى نقاط الألعاب",
-  "EITHER_LEVEL_LABEL": "أي مستوى منهما"
+  "EITHER_LEVEL_LABEL": "أي مستوى منهما",
+  "REWARDS_ORDER_WARNING": "يجب ترتيب رتب المكافآت من أدنى مستوى مطلوب إلى أعلى مستوى."
 }
