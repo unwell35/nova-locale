@@ -1658,5 +1658,6 @@
   "COMMAND_EXAMPLE_RESET_GAMES_POINTS": "/game points reset_user\n/game points reset_server",
   "COMMAND_DESCRIPTION_SET_GAMES_POINTS": "Set member's game points",
   "COMMAND_EXAMPLE_SET_GAMES_POINTS": "/game points set [user] [points]",
-  "TOP_GAMES_POINTS": "Top Games Points"
+  "TOP_GAMES_POINTS": "Top Games Points",
+  "EITHER_LEVEL_LABEL": "Either Level"
 }
