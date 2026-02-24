@@ -1661,5 +1661,9 @@
   "TOP_GAMES_POINTS": "Top Games Points",
   "EITHER_LEVEL_LABEL": "Either Level",
   "REWARDS_ORDER_WARNING": "Rewards roles must be ordered from lowest required level to highest.",
-  "INVALID_REWARD_ORDER": "Invalid order. Previous reward level must be lower than the next."
+  "INVALID_REWARD_ORDER": "Invalid order. Previous reward level must be lower than the next.",
+  "IGNORE_DEAFENED_USERS_LABEL": "Ignore Deafened Users",
+  "IGNORE_DEAFENED_USERS_TOOLTIP": "Prevents XP gain for users who are deafened while in voice channels.",
+  "IGNORE_MUTED_USERS_LABEL": "Ignore Muted Users",
+  "IGNORE_MUTED_USERS_TOOLTIP": "Prevents XP gain for users who are muted while in voice channels."
 }
