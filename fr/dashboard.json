@@ -1630,5 +1630,14 @@
   "IGNORE_DEAFENED_USERS_LABEL": "Ignore Deafened Users",
   "IGNORE_DEAFENED_USERS_TOOLTIP": "Prevents XP gain for users who are deafened while in voice channels.",
   "IGNORE_MUTED_USERS_LABEL": "Ignore Muted Users",
-  "IGNORE_MUTED_USERS_TOOLTIP": "Prevents XP gain for users who are muted while in voice channels."
+  "IGNORE_MUTED_USERS_TOOLTIP": "Prevents XP gain for users who are muted while in voice channels.",
+  "RADIO_OPTIONS_WARNING": "Add at least 2 options. If only one remains, the choice is removed.",
+  "MIN_LENGTH_LABEL": "Minimum required",
+  "MAX_LENGTH_LABEL": "Maximum allowed",
+  "OPTIONS_LABEL": "Options",
+  "ALLOWED_EXTENSIONS_LABEL": "Allowed Extensions",
+  "TEXT_INPUT_LABEL": "Text Input",
+  "UPLOAD_FILES_LABEL": "Upload Files",
+  "RADIO_LABEL": "Single Choice",
+  "CHECKBOX_LABEL": "Multiple Choice"
 }
