@@ -282,7 +282,9 @@
       "reason_not_found": "Une erreur s'est produite. La raison est introuvable",
       "claim_mode_disabled": "Le mode de réclamation est désactivé, veuillez l'activer dans les paramètres du panneau et réessayer.",
       "ticket_closed_by": "Fermé par : [user]",
-      "ticket_closed": "Ce ticket est fermé !"
+      "ticket_closed": "Ce ticket est fermé !",
+      "answers": "Answers",
+      "not_allowed_attachments": "You have attached files that are not allowed. Allowed formats: [extensions]"
     },
     "commands": {
       "limit_exceeded": "Limite dépassée, fermez les tickets et réessayez",

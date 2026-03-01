@@ -277,7 +277,9 @@
       "reason_not_found": "هەڵەیەک ڕوویدا. هۆکارەکەی نەدۆزرایەو",
       "claim_mode_disabled": "مۆدی وەرگرتن چالاک نیە, تکایە لە ڕێکخستنەکانی پانێڵەکە چالاکی بکەو دووبارەی بکەوە",
       "ticket_closed_by": "داخرا لە لایەن: [user]",
-      "ticket_closed": "تیکتەکە داخرا!"
+      "ticket_closed": "تیکتەکە داخرا!",
+      "answers": "Answers",
+      "not_allowed_attachments": "You have attached files that are not allowed. Allowed formats: [extensions]"
     },
     "commands": {
       "limit_exceeded": "سنووری تێپەڕاندووە، بلیتەکان دابخە و دووبارە هەوڵ بدەوە",

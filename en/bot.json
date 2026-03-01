@@ -285,7 +285,9 @@
       "reason_not_found": "Something went wrong. The reason could not be found",
       "claim_mode_disabled": "Claim mode is disabled, please enable it at panel settings and try again.",
       "ticket_closed_by": "Closed By: [user]",
-      "ticket_closed": "This ticket is closed!"
+      "ticket_closed": "This ticket is closed!",
+      "answers": "Answers",
+      "not_allowed_attachments": "You have attached files that are not allowed. Allowed formats: [extensions]"
     },
     "commands": {
       "limit_exceeded": "Limit exceeded, close tickets and try again",
