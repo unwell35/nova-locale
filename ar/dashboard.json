@@ -1670,5 +1670,13 @@
   "TEXT_INPUT_LABEL": "إدخال نص",
   "UPLOAD_FILES_LABEL": "رفع الملفات",
   "RADIO_LABEL": "اختيار واحد",
-  "CHECKBOX_LABEL": "اختيار متعدد"
+  "CHECKBOX_LABEL": "اختيار متعدد",
+  "ADD_SELECT_MENU_LABEL": "أضافة قائمة أختيار",
+  "sun_day": "الأحد",
+  "mon_day": "الاثنين",
+  "tue_day": "الثلاثاء",
+  "wed_day": "الأربعاء",
+  "thu_day": "الخميس",
+  "fri_day": "الجمعة",
+  "sat_day": "السبت"
 }
