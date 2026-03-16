@@ -282,7 +282,9 @@
       "reason_not_found": "حدث خطأ ما. لم يتم العثور على السبب",
       "claim_mode_disabled": "وضع أخذ التذكرة معطل، يرجى تفعيله في إعدادات اللوحة والمحاولة مرة أخرى.",
       "ticket_closed_by": "تم إغلاق بواسطة: [user]",
-      "ticket_closed": "هذه التذكرة مغلقة!"
+      "ticket_closed": "هذه التذكرة مغلقة!",
+      "answers": "",
+      "not_allowed_attachments": ""
     },
     "commands": {
       "limit_exceeded": "تم تجاوز الحد، قم بإغلاق التذاكر وحاول مرة أخرى",
@@ -689,7 +691,8 @@
       "invite_game": "[user]، 🎮 [inviter] يريد اللعب معك في [game]",
       "reject_invite": "[inviter]، قام [user] برفض اللعب معك.",
       "confirm_set_gamespoints": "هل أنت متأكد أنك تريد تعيين [points] نقطة لـ [user]؟",
-      "set_gamespoints": "تم تعيين نقاط [user] إلى [points] بنجاح"
+      "set_gamespoints": "تم تعيين نقاط [user] إلى [points] بنجاح",
+      "another_game_type_running": ""
     },
     "interaction": {
       "collecting_points": "جمع النقاط",
