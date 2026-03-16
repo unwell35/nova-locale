@@ -96,13 +96,13 @@
     "sent_from_server": "نێردراوە لەلایەن سێرڤەری: [serverName]",
     "import": "Import",
     "upgrade_to_premium": "Upgrade to Premium",
-    "data_count": "",
-    "added_at": "",
-    "public": "",
-    "private": "",
-    "created_at": "",
-    "accept": "",
-    "reject": ""
+    "data_count": "بڕی داتاکان: [data_count]",
+    "added_at": "زیادکراوە لە: [date]",
+    "public": "گشتی",
+    "private": "تایبەت",
+    "created_at": "درووستکراوە ڵە: [created_date]",
+    "accept": "قبوڵکردن",
+    "reject": "قبوڵ نەکردن"
   },
   "moderator": {
     "automod": {
@@ -126,7 +126,7 @@
       "anti_spam_title": "دژە-سپام",
       "anti_multiple_lines_title": "دژە-فرە هێڵ",
       "mass_mentions_title": "Mass Mentions",
-      "bad_words_title": "",
+      "bad_words_title": "وشەی نەشیاو",
       "automod": "ئوتۆمۆد"
     },
     "commands": {
@@ -214,10 +214,10 @@
       "slowmode_same": "دۆخی خاوی لەم کەناڵەدا هەمان ئەوەیە کە تۆ داوای دەکەیت",
       "not_in_jail_member": "ئەم مێمبەرە لە بەندینخانە نیە",
       "unjailed_member": "[user] بەسەرکەوتوویی لە بەندیخانە ئازادکرا.",
-      "no_temproles_found": "",
-      "temproles_display": "",
-      "data_id_required": "",
-      "temprole_removed": ""
+      "no_temproles_found": "هیچ ڕۆڵێکی کاتی نەدۆزرایەوە!",
+      "temproles_display": "کەسەکە: [user] - ڕۆڵەکە: [role]\nلەلایەن: [author] - لابراوە لە: [date]\n-# ئایدی داتاکە ID: [data_id]",
+      "data_id_required": "تکایە ئایدی داتاکە دابینبکە بیهێنە",
+      "temprole_removed": "ڕۆڵە کاتیەکە بەسەرکەوتوویی لابرا لە [member]"
     },
     "embed": {
       "pmute_title": "بەندینخانە",
@@ -232,7 +232,7 @@
       "reason_field": "هۆکار",
       "reason_not_provided_field": "دابین نەکراوە",
       "warn_title": "تۆ ئاگادار کرایتەوە",
-      "unban_at_field": ""
+      "unban_at_field": "باندەکە لادەبرێت لە"
     }
   },
   "welcome": {
@@ -283,8 +283,8 @@
       "claim_mode_disabled": "مۆدی وەرگرتن چالاک نیە, تکایە لە ڕێکخستنەکانی پانێڵەکە چالاکی بکەو دووبارەی بکەوە",
       "ticket_closed_by": "داخرا لە لایەن: [user]",
       "ticket_closed": "تیکتەکە داخرا!",
-      "answers": "",
-      "not_allowed_attachments": ""
+      "answers": "وەڵامەکان",
+      "not_allowed_attachments": "تۆ فایلی نائاساییت هەیە کە ڕێگە پێدراو نین. فۆڕماتە ڕێگەپێدراوەکان"
     },
     "commands": {
       "limit_exceeded": "سنووری تێپەڕاندووە، بلیتەکان دابخە و دووبارە هەوڵ بدەوە",
@@ -328,7 +328,7 @@
       "server_updated_title": "سێرڤەرەکە نوێکرایەوە",
       "clear_command_title": "کۆماندی سڕینەوە،پاکردنەوە",
       "lock_command_title": "کۆماندە قفڵ کراوەکان",
-      "setwelcome_command_title": "",
+      "setwelcome_command_title": "دانانی کۆماندی بەخێرهاتن",
       "moveme_command_title": "کۆماندی گواستنەوەی خۆم",
       "move_command_title": "کۆماندی گواستنەوە",
       "pmute_command_title": "کۆماندی سجن کردن",
@@ -348,7 +348,7 @@
       "close_ticket_title": "داخستنی تیکت",
       "delete_ticket_title": "سڕینەوەی تیکت",
       "reset_points_ticket_title": "ڕێکخستنەوەی،سفرکردنەوەی پۆیتنی تیکت",
-      "transcript_ticket_title": "",
+      "transcript_ticket_title": "دەقی تیکت",
       "set_welcome_command_title": "دانانی کۆماندی بەخێرهاتن",
       "reset_command_title": "ڕێکخستنەوەی،سفرکردنەوەی کۆماند",
       "set_points_command_title": "دانانی کۆماندی پۆینت",
@@ -455,15 +455,15 @@
       "discovery_splash_removed_value": "لابردنی دۆزینەوەی پەڵە",
       "discovery_splash_set_value": "دۆزینەوەی پەڵەیەکی نوێ دانرا",
       "time_ended_value": "کاتەکە کۆتایی هات",
-      "emoji_name_field": "",
-      "sticker_name_field": "",
-      "emoji_created_title": "",
-      "emoji_deleted_title": "",
-      "sticker_created_title": "",
-      "sticker_deleted_title": "",
-      "type_field": "",
-      "regualr_field": "",
-      "animated_field": ""
+      "emoji_name_field": "ناوی ئیمۆجیەکە",
+      "sticker_name_field": "ناوی ستیکەرەکە",
+      "emoji_created_title": "ئیمۆجیەکە درووستکرا",
+      "emoji_deleted_title": "ئیمۆجیەکە سڕایەوە",
+      "sticker_created_title": "ستیکەرەکە درووستکرا",
+      "sticker_deleted_title": "ستیکەرەکە سڕایەوە",
+      "type_field": "جۆر",
+      "regualr_field": "ئاسایی",
+      "animated_field": "جۆڵاو"
     }
   },
   "utility": {
@@ -500,15 +500,15 @@
       "provide_points": "تکایە ئەو خاڵانە پێشکەش بکە کە دەتەوێت دایبنێیت",
       "set_points_warn": "تکایە تێبینی, ۱ خاڵ = ۱ خوولەک (voice) یان ۱ نامە (messages).",
       "help_content": "**[server_name]**\n\n 📖 **کۆماندەکان**: بەکارهێنانی پرێفیکس `[prefix]` بۆ کۆماندەکان. [Commands](https://novax.gg/commands 'لیستی کۆماندەکان')\n💻 **داشبۆرد:** هەموو شتێک بە ئاسانی بەڕێوە ببە. [بڕۆ بۆ داشبۆرد](https://novax.gg)\n❓ **یارمەتیت دەوێ ؟:** جۆینی سێرڤەری هاوکاری بکە.\n[support_server]",
-      "help_commands_title": "",
-      "help_commands_description": "",
-      "help_dashboard_title": "",
-      "help_dashboard_description": "",
-      "help_support_title": "",
-      "help_support_description": "",
-      "help_commands_button": "",
-      "help_dashboard_button": "",
-      "help_support_button": "",
+      "help_commands_title": "کۆماندەکان",
+      "help_commands_description": "پریفیکسی `[prefix]` بەکاربێنە بۆ کۆماندەکان.",
+      "help_dashboard_title": "💻 داشبۆرد",
+      "help_dashboard_description": "دەستکاریکردنی ستینیگی نۆڤا",
+      "help_support_title": "❓ یارمەتیت پێویستە ؟",
+      "help_support_description": "جۆینی سێرڤەری هاوکاری بکە.",
+      "help_commands_button": "کۆماندەکان",
+      "help_dashboard_button": "بڕۆ بۆ داشبۆردەکە",
+      "help_support_button": "سێرڤەری هاوکاری",
       "user_in_blocklist": "تۆ لە لیستی ڕەشیت. ناتوانی ئەم کۆماندە بەکاربێنی",
       "specific_user_in_blocklist": "ئەم کەسە لە لیستی ڕەشە.",
       "amount_golds": "**باڵانسەکەت `$[amount]` گۆڵدە. ژیرانە خەرجی بکە!**",
@@ -533,11 +533,11 @@
       "tax_message": "> **بڕی باج:** `[taxAmount]`\n> **بڕی پارەکە لەکەڵ باج:** `[amountIncTax]`\n> **بڕی پارەکە لەگەڵ باجی ناوبژیوان:** `[amountIncMidTax]`\n> **باجی ناوبژیوانی **: `[middleManAmount]` (%`[middleTax]`)\n> **ئەو بڕەی دەنێردرێت بۆ نابژیوانەکە:** `[amountMiddle]`",
       "provide_level": "تکایە ئەو ئاستە دیاریبکە کە دەتەوێت دایبنێیت",
       "none_tracking_xp": "هیچ دۆخێکی بەدواکەوتن نییە لە نامەکان یان ئەو ڤۆیسانەی کە لەگەڵ خاڵی ئەزموون کاردەکات.",
-      "language_unavailable": "",
-      "language_changed": "",
-      "addemojis_unvalid_attachments": "",
-      "provide_emojis": "",
-      "provide_valid_emojis": "",
+      "language_unavailable": "تکایە زمانێکی نوێ دابنێ. ئەو زمانانەی بەردەستن [languages]",
+      "language_changed": "زمانکە بەسەرکەوتووی گۆڕدرا بۆ **[language]**.",
+      "addemojis_unvalid_attachments": "هاوپێچەکان دەبێت یەکێک لەم جۆرە فۆرماتانە بێت: **jpeg**, **jpg**, **png**, یان **gif**, وە نابێت سایزەکەی لە **256 KiB** زیاتر بێت.",
+      "provide_emojis": "تکایە ئیمۆجیەکە لە سێرڤەرێکی ترەوە بێنە یان ڕەسمێک هاوپێچ بکە.",
+      "provide_valid_emojis": "تکایە ئیمۆجی دروست بنووسە یان وێنەیەک هاوپێچ بکە.",
       "limit_regular_emojis": "",
       "limit_animated_emojis": "",
       "limit_discord_emojis": "",
