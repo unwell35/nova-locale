@@ -770,7 +770,9 @@
       "unavailable_spot": "This spot is unavailable, please choose another one.",
       "hide_selected": "You have hidden in the **[spot]** spot.",
       "eliminated": "[hiders] were found in **[spot]** and eliminated by [seeker]",
-      "searched_success": "You have searched the **[spot]** spot."
+      "searched_success": "You have searched the **[spot]** spot.",
+      "remaining_time": "Remaining time: [time]",
+      "no_one_hidden": "No one was hiding in **[spot]**."
     },
     "mafia": {
       "game_name": "Mafia",
