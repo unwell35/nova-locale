@@ -282,7 +282,9 @@
       "reason_not_found": "هەڵەیەک ڕوویدا. هۆکارەکەی نەدۆزرایەو",
       "claim_mode_disabled": "مۆدی وەرگرتن چالاک نیە, تکایە لە ڕێکخستنەکانی پانێڵەکە چالاکی بکەو دووبارەی بکەوە",
       "ticket_closed_by": "داخرا لە لایەن: [user]",
-      "ticket_closed": "تیکتەکە داخرا!"
+      "ticket_closed": "تیکتەکە داخرا!",
+      "answers": "",
+      "not_allowed_attachments": ""
     },
     "commands": {
       "limit_exceeded": "سنووری تێپەڕاندووە، بلیتەکان دابخە و دووبارە هەوڵ بدەوە",
@@ -689,7 +691,8 @@
       "invite_game": "",
       "reject_invite": "",
       "confirm_set_gamespoints": "",
-      "set_gamespoints": ""
+      "set_gamespoints": "",
+      "another_game_type_running": ""
     },
     "interaction": {
       "collecting_points": "",
