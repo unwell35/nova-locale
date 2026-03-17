@@ -1688,5 +1688,6 @@
   "SINGLE_REACTION_ROLES": "Pick one role—any others will be removed automatically.",
   "DASHBOARD_LOG_TITLE": "Dashboard Activity Log",
   "PLUGIN_LABEL": "Plugin",
-  "DASHBOARD_LOGS_DESCRIPTION": "Tracks all actions and changes made through the dashboard."
+  "DASHBOARD_LOGS_DESCRIPTION": "Tracks all actions and changes made through the dashboard.",
+  "COMMAND_UPDATED": "Command updated: {command_name}"
 }
