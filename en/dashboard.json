@@ -1689,5 +1689,11 @@
   "DASHBOARD_LOG_TITLE": "Dashboard Activity Log",
   "PLUGIN_LABEL": "Plugin",
   "DASHBOARD_LOGS_DESCRIPTION": "Tracks all actions and changes made through the dashboard.",
-  "COMMAND_UPDATED": "Command updated: {command_name}"
+  "COMMAND_UPDATED": "Command updated: {command_name}",
+  "PANEL_UPDATED": "Panel updated: {panel}",
+  "PANEL_CREATED": "Panel created: {panel}",
+  "PANEL_DELETED": "Panel deleted: {panel}",
+  "PLUGIN_TOGGLED": "Plugin {new_state}",
+  "MESSAGE_PANEL_EDITED": "Message panel edited: {panel}",
+  "MESSAGE_PANEL_SENT": "Message panel sent: {panel}"
 }

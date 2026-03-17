@@ -1685,5 +1685,12 @@
   "DASHBOARD_LOG_TITLE": "سجل نشاط لوحة التحكم",
   "PLUGIN_LABEL": "الأضافة",
   "DASHBOARD_LOGS_DESCRIPTION": "تتبع جميع الإجراءات والتغييرات التي تم إجراؤها من خلال لوحة التحكم.",
-  "COMMAND_UPDATED": "تم تحديث الأمر: {command_name}"
+  "COMMAND_UPDATED": "تم تحديث الأمر: {command_name}",
+
+  "PANEL_UPDATED": "تم تحديث اللوحة: {panel}",
+  "PANEL_CREATED": "تم إنشاء اللوحة: {panel}",
+  "PANEL_DELETED": "تم حذف اللوحة: {panel}",
+  "PLUGIN_TOGGLED": "وضع الأضافة: {new_state}",
+  "MESSAGE_PANEL_EDITED": "تم تعديل رسالة اللوحة: {panel}",
+  "MESSAGE_PANEL_SENT": "تم إرسال رسالة اللوحة: {panel}"
 }
