@@ -1685,5 +1685,8 @@
   "sat_day": "Saturday",
   "RESET_WEEK_LABEL": "Reset Week On",
   "SINGLE_REACTION_ROLES_BUTTON": "Single-Select Roles",
-  "SINGLE_REACTION_ROLES": "Pick one role—any others will be removed automatically."
+  "SINGLE_REACTION_ROLES": "Pick one role—any others will be removed automatically.",
+  "DASHBOARD_LOG_TITLE": "Dashboard Activity Log",
+  "PLUGIN_LABEL": "Plugin",
+  "DASHBOARD_LOGS_DESCRIPTION": "Tracks all actions and changes made through the dashboard."
 }

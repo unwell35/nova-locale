@@ -1681,5 +1681,8 @@
   "sat_day": "السبت",
   "RESET_WEEK_LABEL": "تصفير التوب الأسبوعي",
   "SINGLE_REACTION_ROLES_BUTTON": "اختيار رتبة واحدة",
-  "SINGLE_REACTION_ROLES": "اختر رتبة واحدة — سيتم إزالة أي رتب أخرى تلقائيًا."
+  "SINGLE_REACTION_ROLES": "اختر رتبة واحدة — سيتم إزالة أي رتب أخرى تلقائيًا.",
+  "DASHBOARD_LOG_TITLE": "سجل نشاط لوحة التحكم",
+  "PLUGIN_LABEL": "الأضافة",
+  "DASHBOARD_LOGS_DESCRIPTION": "تتبع جميع الإجراءات والتغييرات التي تم إجراؤها من خلال لوحة التحكم."
 }
