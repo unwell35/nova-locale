@@ -1683,5 +1683,7 @@
   "thu_day": "Thursday",
   "fri_day": "Friday",
   "sat_day": "Saturday",
-  "RESET_WEEK_LABEL": "Reset Week On"
+  "RESET_WEEK_LABEL": "Reset Week On",
+  "SINGLE_REACTION_ROLES_BUTTON": "Single-Select Roles",
+  "SINGLE_REACTION_ROLES": "Pick one role—any others will be removed automatically."
 }
