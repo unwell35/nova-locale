@@ -1623,5 +1623,6 @@
   "SINGLE_REACTION_ROLES": "اختر رتبة واحدة — سيتم إزالة أي رتب أخرى تلقائيًا.",
   "DASHBOARD_LOG_TITLE": "سجل نشاط لوحة التحكم",
   "PLUGIN_LABEL": "الأضافة",
-  "DASHBOARD_LOGS_DESCRIPTION": "تتبع جميع الإجراءات والتغييرات التي تم إجراؤها من خلال لوحة التحكم."
+  "DASHBOARD_LOGS_DESCRIPTION": "تتبع جميع الإجراءات والتغييرات التي تم إجراؤها من خلال لوحة التحكم.",
+  "COMMAND_UPDATED": "تم تحديث الأمر: {command_name}"
 }
