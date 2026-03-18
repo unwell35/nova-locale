@@ -1695,5 +1695,6 @@
   "PANEL_DELETED": "Panel deleted: {panel}",
   "PLUGIN_TOGGLED": "Plugin {new_state}",
   "MESSAGE_PANEL_EDITED": "Message panel edited: {panel}",
-  "MESSAGE_PANEL_SENT": "Message panel sent: {panel}"
+  "MESSAGE_PANEL_SENT": "Message panel sent: {panel}",
+  "ACTIVITY_LOGS_NOTE": "We only show up to 3 months of activity logs."
 }
