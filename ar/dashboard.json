@@ -1631,5 +1631,8 @@
   "PLUGIN_TOGGLED": "وضع الأضافة: {new_state}",
   "MESSAGE_PANEL_EDITED": "تم تعديل رسالة اللوحة: {panel}",
   "MESSAGE_PANEL_SENT": "تم إرسال رسالة اللوحة: {panel}",
-  "ACTIVITY_LOGS_NOTE": "نحن نعرض فقط سجلات النشاط لمدة تصل إلى 3 أشهر."
+  "ACTIVITY_LOGS_NOTE": "نحن نعرض فقط سجلات النشاط لمدة تصل إلى 3 أشهر.",
+  "ADD_REACTION_ROLE": "إضافة رياكشن رول",
+  "REMOVE_ALL_REACTION_ROLES": "إزالة جميع رتب الرياكشن رولز",
+  "REMOVE_ALL_REACTION_ROLES_NOTE": "إزالة جميع رتب الرياكشن رولز."
 }
