@@ -538,8 +538,8 @@
       "addemojis_unvalid_attachments": "هاوپێچەکان دەبێت یەکێک لەم جۆرە فۆرماتانە بێت: **jpeg**, **jpg**, **png**, یان **gif**, وە نابێت سایزەکەی لە **256 KiB** زیاتر بێت.",
       "provide_emojis": "تکایە ئیمۆجیەکە لە سێرڤەرێکی ترەوە بێنە یان ڕەسمێک هاوپێچ بکە.",
       "provide_valid_emojis": "تکایە ئیمۆجی دروست بنووسە یان وێنەیەک هاوپێچ بکە.",
-      "limit_regular_emojis": "",
-      "limit_animated_emojis": "",
+      "limit_regular_emojis": "`[count]` ئیمۆجیەکان زیاد نەکرا — سنوورەکە پڕ بووە. هەندێک بسڕەوەو دووبارەی کەوە.",
+      "limit_animated_emojis": "`[count]` ئیمۆجیە جوڵاوەکان زیاد نەکرا — سنوورەکە پڕ بووە. هەندێک بسڕەوەو دووبارەی کەوە.",
       "limit_discord_emojis": "",
       "error_emojis": "",
       "emojis_added": ""
