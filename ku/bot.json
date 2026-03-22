@@ -717,10 +717,10 @@
     "games": {
       "fast_type": "نووسینی خێرا",
       "split_text": "بەش بەش کردنی نووسین",
-      "merge_text": "",
-      "guess_flag": "",
-      "fast_click": "",
-      "sort_numbers": "",
+      "merge_text": "لکاندنی نووسین",
+      "guess_flag": "پێشبینی ئاڵاکە بکە",
+      "fast_click": "کلیککردنی خێرا",
+      "sort_numbers": "ڕیزکردنی ژمارەکان",
       "find_emoji": "",
       "xo": ""
     },
