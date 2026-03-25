@@ -1665,5 +1665,8 @@
   "ACTIVITY_LOGS_NOTE": "ئێمە تەنها 3 مانگ تۆماری چالاکی پیشان دەدەین.",
   "ADD_REACTION_ROLE": "زیادکردنی ڕیاکشن ڕۆڵ",
   "REMOVE_ALL_REACTION_ROLES": "لابردنی هەموو ڕیاکشن ڕۆڵەکان",
-  "REMOVE_ALL_REACTION_ROLES_NOTE": "وابکە ئەم هەڵبژاردنە هەموو ڕیاشکن ڕۆڵەکان لاببات."
+  "REMOVE_ALL_REACTION_ROLES_NOTE": "وابکە ئەم هەڵبژاردنە هەموو ڕیاشکن ڕۆڵەکان لاببات.",
+  "SET_NICKNAME_ACTION": "دانانی نازناو",
+  "NICKNAME_PLACEHOLDER": "نازاناو",
+  "GLOBAL_NAME_VARIABLE": "ناوی جیهانی"
 }
