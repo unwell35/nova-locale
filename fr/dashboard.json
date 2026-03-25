@@ -1664,5 +1664,8 @@
   "ACTIVITY_LOGS_NOTE": "We only show up to 3 months of activity logs.",
   "ADD_REACTION_ROLE": "Add Reaction Role",
   "REMOVE_ALL_REACTION_ROLES": "Remove All Reaction Roles",
-  "REMOVE_ALL_REACTION_ROLES_NOTE": "Make this option removes all reaction roles."
+  "REMOVE_ALL_REACTION_ROLES_NOTE": "Make this option removes all reaction roles.",
+  "SET_NICKNAME_ACTION": "Set Nickname",
+  "NICKNAME_PLACEHOLDER": "Nickname",
+  "GLOBAL_NAME_VARIABLE": "Global Name"
 }
