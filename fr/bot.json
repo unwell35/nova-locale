@@ -814,7 +814,8 @@
       "confirm_cancel_giveaway": "**Êtes-vous sûr de vouloir annuler et supprimer le cadeau ?**",
       "no_winners_rerolled": "[user] a relancé le concours mais aucun gagnant",
       "rerolled_winners": "[user] a relancé le concours ! Félicitations [winners], vous avez gagné **[prize]**",
-      "provide_winners_count": "Veuillez indiquer le nombre de gagnants à choisir pour le concours."
+      "provide_winners_count": "Veuillez indiquer le nombre de gagnants à choisir pour le concours.",
+      "template_not_found": ""
     },
     "roulette": {
       "leave_button_label": "Quitter le jeu",
