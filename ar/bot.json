@@ -827,7 +827,8 @@
       "confirm_cancel_giveaway": "**هل أنت متأكد أنك تريد إلغاء وحذف المسابقة؟**",
       "no_winners_rerolled": "[user] أعاد المسابقة ولكن لم يكن هناك فائزون",
       "rerolled_winners": "[user] أعاد المسابقة! تهانينا [winners]، لقد فزتم **[prize]**",
-      "provide_winners_count": "يرجى تحديد عدد الفائزين المطلوب اختيارهم في السحب."
+      "provide_winners_count": "يرجى تحديد عدد الفائزين المطلوب اختيارهم في السحب.",
+      "template_not_found": "لم يتم العثور على هذا القالب."
     },
     "roulette": {
       "leave_button_label": "مغادرة اللعبة",

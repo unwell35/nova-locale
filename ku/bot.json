@@ -777,7 +777,8 @@
       "confirm_cancel_giveaway": "**ئایا تۆ دڵنیایت کە دەتەوێت خەڵاتەکە هەڵبوەشێنیتەوە و بیسڕیتەوە؟ **",
       "no_winners_rerolled": "[user] خەڵاتەکە دووبارە کرایەوە بەڵام هیچ براوەیەک نیە",
       "rerolled_winners": "[user] خەڵاتەکە دووبارەی کرایەوە! پیرۆزت بێت[winners], تۆ بردتەوە **[prize]**",
-      "provide_winners_count": "تکایە ژمارەی براوەکان بنووسە بۆ هەڵبژاردنی خەڵاتەکە."
+      "provide_winners_count": "تکایە ژمارەی براوەکان بنووسە بۆ هەڵبژاردنی خەڵاتەکە.",
+      "template_not_found": "This template was not found."
     },
     "roulette": {
       "leave_button_label": "جێهێشتنی یاریەکە",

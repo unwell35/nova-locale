@@ -836,7 +836,8 @@
       "confirm_cancel_giveaway": "**Are you sure you want to cancel and delete the giveaway?**",
       "no_winners_rerolled": "[user] rerolled the giveaway but no winners",
       "rerolled_winners": "[user] rerolled the giveaway! Congratulations [winners], you have won **[prize]**",
-      "provide_winners_count": "Please provide the number of winners to pick for the giveaway."
+      "provide_winners_count": "Please provide the number of winners to pick for the giveaway.",
+      "template_not_found": "This template was not found."
     },
     "roulette": {
       "leave_button_label": "Leave Game",
