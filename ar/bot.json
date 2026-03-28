@@ -283,8 +283,8 @@
       "claim_mode_disabled": "وضع أخذ التذكرة معطل، يرجى تفعيله في إعدادات اللوحة والمحاولة مرة أخرى.",
       "ticket_closed_by": "تم إغلاق بواسطة: [user]",
       "ticket_closed": "هذه التذكرة مغلقة!",
-      "answers": "",
-      "not_allowed_attachments": ""
+      "answers": "الأجوبة",
+      "not_allowed_attachments": "لقد ارفقت ملفات غير مسموح بها. الصيغ المسموح بها: [extensions]"
     },
     "commands": {
       "limit_exceeded": "تم تجاوز الحد، قم بإغلاق التذاكر وحاول مرة أخرى",
@@ -590,7 +590,7 @@
       "vote_get_gold_button": "اكسب الذهب عبر التصويت للبوت!",
       "reset_top_day_note": "سيتم تصفير توب اليومي خلال [date].",
       "reset_top_week_note": "يتم تصفير التوب الأسبوعي كل يوم أثنين. سيتم التصفير خلال [date]",
-      "reset_top_month_note": "يتم تصفير التوب الشهري كل شهر. سيتم التصفير خلال [date].",
+      "reset_top_month_note": "يتم تصفير التوب الشهري كل بداية شهر. سيتم التصفير خلال [date].",
       "plugin_name": "الأضافة: [name]",
       "usage": "الأستخدام",
       "examples": "أمثلة للأستخدام"
@@ -692,7 +692,7 @@
       "reject_invite": "[inviter]، قام [user] برفض اللعب معك.",
       "confirm_set_gamespoints": "هل أنت متأكد أنك تريد تعيين [points] نقطة لـ [user]؟",
       "set_gamespoints": "تم تعيين نقاط [user] إلى [points] بنجاح",
-      "another_game_type_running": ""
+      "another_game_type_running": "هنالك لعبة جماعية أخرى قيد التشغيل بالفعل في هذه الشات!"
     },
     "interaction": {
       "collecting_points": "جمع النقاط",
@@ -752,8 +752,8 @@
       "hide_selected": "لقد اختبأت في المكان **[spot]**.",
       "eliminated": "تم العثور على [hiders] في **[spot]** وتم طردهم بواسطة [seeker]",
       "searched_success": "قمت بتفتيش المكان **[spot]**.",
-      "remaining_time": "",
-      "no_one_hidden": ""
+      "remaining_time": "الوقت المتبقي: [time]",
+      "no_one_hidden": "لم يكن هناك أحد يختبئ في **[spot]**."
     },
     "mafia": {
       "game_name": "مافيا",
@@ -814,7 +814,8 @@
       "confirm_cancel_giveaway": "**هل أنت متأكد أنك تريد إلغاء وحذف المسابقة؟**",
       "no_winners_rerolled": "[user] أعاد المسابقة ولكن لم يكن هناك فائزون",
       "rerolled_winners": "[user] أعاد المسابقة! تهانينا [winners]، لقد فزتم **[prize]**",
-      "provide_winners_count": "يرجى تحديد عدد الفائزين المطلوب اختيارهم في السحب."
+      "provide_winners_count": "يرجى تحديد عدد الفائزين المطلوب اختيارهم في السحب.",
+      "template_not_found": "لم يتم العثور على هذا القالب."
     },
     "roulette": {
       "leave_button_label": "مغادرة اللعبة",
