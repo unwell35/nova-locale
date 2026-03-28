@@ -19,7 +19,7 @@ export interface BotLanguages {
   en: typeof BotEN;
   fr: typeof BotFR;
   ku: typeof BotKU;
-  kr: typeof BotKO;
+  ko: typeof BotKO;
 }
 
 export interface DashboardLanguages {
@@ -27,7 +27,7 @@ export interface DashboardLanguages {
   en: typeof DashboardEN;
   fr: typeof DashboardFR;
   ku: typeof DashboardKU;
-  kr: typeof DashboardKO;
+  ko: typeof DashboardKO;
 }
 
 export const BOT_LANGUAGES: BotLanguages;
