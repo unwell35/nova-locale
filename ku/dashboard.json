@@ -1192,6 +1192,7 @@
   "COMMAND_DESCRIPTION_USER": "پیشاندانی زانیاری کەسی خۆت یان کەسێکی تر",
   "COMMAND_EXAMPLE_USER": "/user\n/user [user]",
   "COMMAND_DESCRIPTION_REPORT": "ڕێپۆرت،ڕاپۆرت کردنی کەسێک یان ناردنی نامە بۆ ئەندامەکان،ستافەکان",
+  "COMMAND_EXAMPLE_REPORT": "/report member [user] [reason]\n/report message [channel] [message_id] [reason]",
   "MORE_DETAILS_PRICING": "وردەکاری زیاتر و هەموو تایبەتمەندیەکان",
   "VIEW_PRICING_PAGE": "سەیرکردنی پەڕەی نرخدانان بکە",
   "TRANSFABLE_SERVER": "توانای گواستنەوە",
