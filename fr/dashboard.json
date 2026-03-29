@@ -1667,5 +1667,6 @@
   "REMOVE_ALL_REACTION_ROLES_NOTE": "Make this option removes all reaction roles.",
   "SET_NICKNAME_ACTION": "Set Nickname",
   "NICKNAME_PLACEHOLDER": "Nickname",
-  "GLOBAL_NAME_VARIABLE": "Global Name"
+  "GLOBAL_NAME_VARIABLE": "Global Name",
+  "GIVEAWAY_TEMPLATES": "Giveaway Templates"
 }
