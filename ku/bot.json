@@ -258,7 +258,7 @@
       "member_already_added": "ئەم کەسە پێشتر زیادکرابوو!",
       "member_added": "[member] زیادکراوە بۆ تکیتەکە لەلایەنy: [author]",
       "ticket_already_closed": "ئەم تیکتە پێشتر داخراوە!",
-      "confirm_to_close_ticket": "ئایا تۆ دڵنیای لە داخستنی ئەم تیکتە?",
+      "confirm_to_close_ticket": "ئایا تۆ دڵنیای لە داخستنی ئەم تیکتە؟ ",
       "confirm_to_delete_ticket": "ئایا تۆ دڵنیای لە سڕینەوەی ئەم تیکتە ؟",
       "ticket_control": "کۆنتڕۆڵکردنی تیکت",
       "reopen_ticket_button": "دووبارەی کردنەوەی تیکت",
