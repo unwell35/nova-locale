@@ -1712,5 +1712,6 @@
   "SET_NICKNAME_ACTION": "Imposta Nickname",
   "NICKNAME_PLACEHOLDER": "Nickname",
   "GLOBAL_NAME_VARIABLE": "Nome Globale",
-  "GIVEAWAY_TEMPLATES": "Giveaway Templates"
+  "GIVEAWAY_TEMPLATES": "Giveaway Templates",
+  "AUTOMOD_UPDATED": "Automod updated: {automod}"
 }

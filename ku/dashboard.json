@@ -1669,5 +1669,6 @@
   "SET_NICKNAME_ACTION": "Set Nickname",
   "NICKNAME_PLACEHOLDER": "Nickname",
   "GLOBAL_NAME_VARIABLE": "Global Name",
-  "GIVEAWAY_TEMPLATES": "Giveaway Templates"
+  "GIVEAWAY_TEMPLATES": "Giveaway Templates",
+  "AUTOMOD_UPDATED": "Automod updated: {automod}"
 }
