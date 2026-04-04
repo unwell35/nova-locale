@@ -358,6 +358,7 @@
 
       "reset_command_title": "Comando Reset",
       "set_points_command_title": "Comando Imposta Punti",
+      "set_level_command_title": "Comando Imposta Livello",
 
       "temporary_channel_created_title": "Canale Temporaneo Creato",
       "temp_channel_ban_title": "Canale Temporaneo - Ban",

@@ -352,6 +352,8 @@
       "set_welcome_command_title": "Définir la commande de bienvenue",
       "reset_command_title": "Commande de réinitialisation",
       "set_points_command_title": "Commande Définir les points",
+      "set_level_command_title": "Commande Définir le niveau",
+
       "temporary_channel_created_title": "Canal temporaire créé",
       "temp_channel_ban_title": "Canal temporaire - Interdiction",
       "temp_channel_unban_title": "Chaîne temporaire - Annulation du bannissement",

@@ -360,6 +360,7 @@
 
       "reset_command_title": "초기화 명령어",
       "set_points_command_title": "포인트 설정 명령어",
+      "set_level_command_title": "레벨 설정 명령어",
 
       "temporary_channel_created_title": "임시 채널 생성됨",
       "temp_channel_ban_title": "임시 채널 - 차단",

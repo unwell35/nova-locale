@@ -360,6 +360,7 @@
 
       "reset_command_title": "Reset Command",
       "set_points_command_title": "Set Points Command",
+      "set_level_command_title": "Set Level Command",
 
       "temporary_channel_created_title": "Temp Channel Created",
       "temp_channel_ban_title": "Temp Channel - Ban",
