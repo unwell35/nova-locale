@@ -352,6 +352,7 @@
       "set_welcome_command_title": "تعيين أمر الترحيب",
       "reset_command_title": "أمر إعادة تعيين نقاط",
       "set_points_command_title": "أمر تعيين النقاط",
+      "set_level_command_title": "أمر تعيين المستوى",
       "temporary_channel_created_title": "إنشاء الروم المؤقت",
       "temp_channel_ban_title": "حظر الروم المؤقت",
       "temp_channel_unban_title": "إلغاء حظر - الروم المؤقت",
