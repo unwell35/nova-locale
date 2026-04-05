@@ -609,7 +609,7 @@
       "user_store": "사용자 상점",
       "vote_get_gold_button": "봇에 투표하고 골드를 획득하세요!",
       "reset_top_day_note": "일일 순위는 [date]에 초기화됩니다.",
-      "reset_top_week_note": "주간 순위는 매주 월요일에 초기화됩니다. 다음 초기화: [date].",
+      "reset_top_week_note": "주간 순위는 매주 [day]에 초기화됩니다. 다음 초기화: [date].",
       "reset_top_month_note": "월간 순위는 매월 1일에 초기화됩니다. 다음 초기화: [date].",
       "plugin_name": "플러그인: [name]",
       "usage": "사용법",

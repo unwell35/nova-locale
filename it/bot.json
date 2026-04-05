@@ -582,7 +582,7 @@
       "user_store": "Negozio utente",
       "vote_get_gold_button": "Guadagna oro votando il bot!",
       "reset_top_day_note": "La classifica giornaliera si resetta il [date].",
-      "reset_top_week_note": "La classifica settimanale si resetta ogni lunedì. Prossimo reset [date].",
+      "reset_top_week_note": "La classifica settimanale si resetta ogni [day]. Prossimo reset [date].",
       "reset_top_month_note": "La classifica mensile si resetta il 1° di ogni mese. Prossimo reset [date].",
       "plugin_name": "Plugin: [name]",
       "usage": "Utilizzo",
