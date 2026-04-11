@@ -1704,5 +1704,11 @@
   "NICKNAME_PLACEHOLDER": "Nickname",
   "GLOBAL_NAME_VARIABLE": "Global Name",
   "GIVEAWAY_TEMPLATES": "Giveaway Templates",
-  "AUTOMOD_UPDATED": "Automod updated: {automod}"
+  "AUTOMOD_UPDATED": "Automod updated: {automod}",
+  "COMMAND_EXAMPLE_STOP_GAME": "/game stop",
+  "COMMAND_DESCRIPTION_STOP_GAME": "Stop a game in the current channel",
+  "BOOSTS_MENU": "Boosts",
+  "BOOSTS_PLUGIN_DESCRIPTION": "Automatically sends a thank-you message or notification whenever a member boosts the server.",
+  "BOOSTS_LOG": "Boosts Log",
+  "TOTAL_BOOSTS_VARIABLE": "Total Boosts of the server"
 }
