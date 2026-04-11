@@ -381,6 +381,7 @@
       "executor_field": "جێبەجێکار",
       "reason_field": "هۆکار",
       "member_field": "کەسەکە",
+      "total_boosts_field": "",
       "author_field": "نووسەر",
       "role_name_field": "ناوی ڕۆڵ",
       "old_role_name_field": "ناوە کۆنەکە",
@@ -462,6 +463,7 @@
       "emoji_deleted_title": "ئیمۆجیەکە سڕایەوە",
       "sticker_created_title": "ستیکەرەکە درووستکرا",
       "sticker_deleted_title": "ستیکەرەکە سڕایەوە",
+      "member_boost_title": "",
       "type_field": "جۆر",
       "regualr_field": "ئاسایی",
       "animated_field": "جۆڵاو"
