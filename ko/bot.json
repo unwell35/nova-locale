@@ -392,6 +392,7 @@
       "executor_field": "담당자",
       "reason_field": "사유",
       "member_field": "멤버",
+      "total_boosts_field": "Total Boosts",
       "author_field": "작성자",
       "role_name_field": "역할 이름",
       "old_role_name_field": "이전 이름",
@@ -480,6 +481,7 @@
       "emoji_deleted_title": "이모지 삭제됨",
       "sticker_created_title": "스티커 생성됨",
       "sticker_deleted_title": "스티커 삭제됨",
+      "member_boost_title": "Member Boosted Server",
       "type_field": "유형",
       "regualr_field": "일반",
       "animated_field": "애니메이션"

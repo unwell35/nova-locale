@@ -390,6 +390,7 @@
       "executor_field": "Esecutore",
       "reason_field": "Motivo",
       "member_field": "Membro",
+      "total_boosts_field": "Total Boosts",
       "author_field": "Autore",
       "role_name_field": "Nome Ruolo",
       "old_role_name_field": "Nome Precedente",
@@ -478,6 +479,7 @@
       "emoji_deleted_title": "Emoji Eliminata",
       "sticker_created_title": "Sticker Creato",
       "sticker_deleted_title": "Sticker Eliminato",
+      "member_boost_title": "Member Boosted Server",
       "type_field": "Tipo",
       "regualr_field": "Normale",
       "animated_field": "Animato"

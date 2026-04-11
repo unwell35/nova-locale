@@ -382,6 +382,7 @@
       "executor_field": "Exécuteur",
       "reason_field": "Raison",
       "member_field": "Membre",
+      "total_boosts_field": "Total Boosts",
       "author_field": "Auteur",
       "role_name_field": "Nom du rôle",
       "old_role_name_field": "Ancien nom",
@@ -463,6 +464,7 @@
       "emoji_deleted_title": "Emoji supprimé",
       "sticker_created_title": "Sticker créé",
       "sticker_deleted_title": "Autocollant supprimé",
+      "member_boost_title": "Member Boosted Server",
       "type_field": "Taper",
       "regualr_field": "Régulier",
       "animated_field": "Animé"
