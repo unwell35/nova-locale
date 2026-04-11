@@ -1639,5 +1639,10 @@
   "REMOVE_ALL_REACTION_ROLES_NOTE": "إزالة جميع رتب الرياكشن رولز.",
   "SET_NICKNAME_ACTION": "تعيين أسم مستعار",
   "NICKNAME_PLACEHOLDER": "أسم مستعار",
-  "GLOBAL_NAME_VARIABLE": "أسم العام"
+  "GLOBAL_NAME_VARIABLE": "أسم العام",
+  "COMMAND_DESCRIPTION_STOP_GAME": "إيقاف لعبة في القناة الحالية",
+  "BOOSTS_MENU": "البوستات",
+  "BOOSTS_PLUGIN_DESCRIPTION": "إرسال رسالة شكر أو إشعار تلقائيًا كلما قام عضو بعمل بوست للسيرفر.",
+  "BOOSTS_LOG": "سجل البوستات",
+  "TOTAL_BOOSTS_VARIABLE": "إجمالي البوستات في السيرفر"
 }
