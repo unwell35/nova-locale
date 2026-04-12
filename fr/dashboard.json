@@ -1675,5 +1675,9 @@
   "BOOSTS_MENU": "Boosts",
   "BOOSTS_PLUGIN_DESCRIPTION": "Automatically sends a thank-you message or notification whenever a member boosts the server.",
   "BOOSTS_LOG": "Boosts Log",
-  "TOTAL_BOOSTS_VARIABLE": "Total Boosts of the server"
+  "TOTAL_BOOSTS_VARIABLE": "Total Boosts of the server",
+  "COOLDOWN_REPORT_TOOLTIP": "Enforces a per-member cooldown between each report.",
+  "MENTION_ROLES_LABEL": "Mention Roles",
+  "MENTION_ROLES_REPORT_TOOLTIP": "Specifies which roles to mention when a report is created.",
+  "TEMPORARY_CHANNELS_PARENT_SYNC": "Temporary channels will sync with the parent category permissions."
 }

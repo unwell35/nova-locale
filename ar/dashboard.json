@@ -1706,5 +1706,9 @@
   "BOOSTS_MENU": "البوستات",
   "BOOSTS_PLUGIN_DESCRIPTION": "إرسال رسالة شكر أو إشعار تلقائيًا كلما قام عضو بعمل بوست للسيرفر.",
   "BOOSTS_LOG": "سجل البوستات",
-  "TOTAL_BOOSTS_VARIABLE": "إجمالي البوستات في السيرفر"
+  "TOTAL_BOOSTS_VARIABLE": "إجمالي البوستات في السيرفر",
+  "COOLDOWN_REPORT_TOOLTIP": "فرض مدة زمنية لكل عضو بين كل بلاغ.",
+  "MENTION_ROLES_LABEL": "منشن الرتب",
+  "MENTION_ROLES_REPORT_TOOLTIP": "يحدد الرتب التي سيتم منشنتها عند إنشاء بلاغ.",
+  "TEMPORARY_CHANNELS_PARENT_SYNC": "ستتم مزامنة الرومات المؤقتة مع صلاحيات الكاتقوري"
 }
