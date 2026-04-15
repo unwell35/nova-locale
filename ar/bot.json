@@ -217,7 +217,8 @@
       "no_temproles_found": "لا توجد رتب مؤقتة!",
       "temproles_display": "العضو: [user] - الرتبة: [role]\nبواسطة: [author] - إزالة عند: [date]\n-# معرف البيانات: [data_id]",
       "data_id_required": "يُرجى إرفاق معرف البيانات",
-      "temprole_removed": "تم إزالة الرتبة المؤقتة بنجاح عن [member]"
+      "temprole_removed": "تم إزالة الرتبة المؤقتة بنجاح عن [member]",
+      "lock_onboarding_error": "لا يمكنك قفل هذا الروم لأنه الروم الوحيد الذي يمكن لـ `@everyone` إرسال الرسائل فيه. يتطلب الإعداد الأولي وجود روم واحد على الأقل يمكن الوصول إليه."
     },
     "embed": {
       "pmute_title": "سجن",
