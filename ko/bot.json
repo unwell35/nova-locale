@@ -219,7 +219,8 @@
       "no_temproles_found": "임시 역할 기록이 없습니다!",
       "temproles_display": "유저: [user] - 역할: [role]\n담당자: [author] - 제거 일시: [date]\n-# 데이터 ID: [data_id]",
       "data_id_required": "데이터 ID를 입력해 주세요",
-      "temprole_removed": "[member]님에게서 임시 역할이 제거되었습니다"
+      "temprole_removed": "[member]님에게서 임시 역할이 제거되었습니다",
+      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
     },
     "embed": {
       "pmute_title": "감옥 (Prison)",

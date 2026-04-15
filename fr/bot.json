@@ -217,7 +217,8 @@
       "no_temproles_found": "Aucun poste temporaire trouvé !",
       "temproles_display": "Utilisateur : [user] - Rôle : [role]\nPar : [author] - Supprimer à : [date]\n-# ID de données : [data_id]",
       "data_id_required": "Veuillez fournir un identifiant de données",
-      "temprole_removed": "Le rôle temporaire a été supprimé avec succès de [member]"
+      "temprole_removed": "Le rôle temporaire a été supprimé avec succès de [member]",
+      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
     },
     "embed": {
       "pmute_title": "Prison",

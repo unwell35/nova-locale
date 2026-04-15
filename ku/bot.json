@@ -217,7 +217,8 @@
       "no_temproles_found": "هیچ ڕۆڵێکی کاتی نەدۆزرایەوە!",
       "temproles_display": "کەسەکە: [user] - ڕۆڵەکە: [role]\nلەلایەن: [author] - لابراوە لە: [date]\n-# ئایدی داتاکە ID: [data_id]",
       "data_id_required": "تکایە ئایدی داتاکە دابینبکە بیهێنە",
-      "temprole_removed": "ڕۆڵە کاتیەکە بەسەرکەوتوویی لابرا لە [member]"
+      "temprole_removed": "ڕۆڵە کاتیەکە بەسەرکەوتوویی لابرا لە [member]",
+      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
     },
     "embed": {
       "pmute_title": "بەندینخانە",

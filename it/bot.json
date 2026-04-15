@@ -218,7 +218,8 @@
       "no_temproles_found": "Nessun ruolo temporaneo trovato!",
       "temproles_display": "Utente: [user] - Ruolo: [role]\nDa: [author] - Rimozione il: [date]\n-# ID Dato: [data_id]",
       "data_id_required": "Fornisci un ID dato",
-      "temprole_removed": "Il ruolo temporaneo è stato rimosso con successo da [member]"
+      "temprole_removed": "Il ruolo temporaneo è stato rimosso con successo da [member]",
+      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
     },
     "embed": {
       "pmute_title": "Prigione",
