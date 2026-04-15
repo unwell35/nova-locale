@@ -1670,5 +1670,14 @@
   "NICKNAME_PLACEHOLDER": "نازاناو",
   "GLOBAL_NAME_VARIABLE": "ناوی جیهانی",
   "GIVEAWAY_TEMPLATES": "تێمپلەیتەکانی خەڵات",
-  "AUTOMOD_UPDATED": "خودکاریکردن نوێکرایەوە: {automod}"
+  "AUTOMOD_UPDATED": "خودکاریکردن نوێکرایەوە: {automod}",
+  "COMMAND_EXAMPLE_STOP_GAME": "/game stop",
+  "COMMAND_DESCRIPTION_STOP_GAME": "وەستاندنی یاریەکە لەم چەناڵەی ئێستا",
+  "BOOSTS_MENU": "بووستەکان",
+  "BOOSTS_PLUGIN_DESCRIPTION": "بەشێوەیەکی خوودکارانە نامەی سپاس-کردن دەنێرێت یان ئاگادار کردنەوەیەک دەنێرێت کاتێک کەسێک بووستێک لە سێرڤەر دەدا.",
+  "BOOSTS_LOG": "تۆماری بووستەکان",
+  "TOTAL_BOOSTS_VARIABLE": "هەموو بووستەکانی سێرڤەر",
+  "COOLDOWN_REPORT_TOOLTIP": "جێبەجێ کردنی ماوەی ڕێپۆرتکردنەکان بۆ هەر-کەسێک.",
+  "MENTION_ROLES_LABEL": "ئاماژکردن بە ڕۆڵەکان",
+  "MENTION_ROLES_REPORT_TOOLTIP": "ئەو ڕۆڵانە دیاری دەکەیت کە ئاماژەیان پێبکرێت کاتێک راپۆرتێک دروست دەکرێت."
 }
