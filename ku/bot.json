@@ -1014,7 +1014,9 @@
       "report_not_found": "ڕێپۆرت نەدۆزرایەوە. پێدەچێت چارەسەرکرابێ یان پشتگوێ خرابێت",
       "message_report_not_found": "نامەی ڕێپۆرت نەدۆزرایەوە بۆ جێبەجێکردنی چالاکی",
       "report_handled": "ڕێپۆرتەکە بەسەرکەوتوویی جارەسەر کرا.",
-      "confirm_ignore": "ئایا تۆ دڵنیایت دەتەوێ ئەم ڕێپۆرتە پشتگوێ بخەیت؟"
+      "confirm_ignore": "ئایا تۆ دڵنیایت دەتەوێ ئەم ڕێپۆرتە پشتگوێ بخەیت؟",
+      "mark_report": "Are you sure you want to mark this report as \"[status]\"?",
+      "member_not_found_actions": "Member not found in the server. Unable to perform actions."
     },
     "interactions": {
       "report_id": "ئایدی ڕێپۆرت: [report_id]",
@@ -1036,7 +1038,9 @@
       "ignored": "پشتگوێخراو",
       "solved": "چارەسەرکرا",
       "rejected": "ڕەتکرایەوە",
-      "report_handled": "ڕێپۆرت چارەسەرکرا"
+      "report_handled": "ڕێپۆرت چارەسەرکرا",
+      "actions": "Actions",
+      "choose_action": "Please select an action to perform on the reported user."
     }
   },
   "audio": {

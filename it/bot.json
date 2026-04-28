@@ -1009,7 +1009,9 @@
       "report_not_found": "Segnalazione non trovata. Sembra sia già stata risolta o ignorata",
       "message_report_not_found": "Messaggio segnalato non trovato per eseguire l'azione",
       "report_handled": "Segnalazione gestita con successo.",
-      "confirm_ignore": "Sei sicuro di voler ignorare questa segnalazione?"
+      "confirm_ignore": "Sei sicuro di voler ignorare questa segnalazione?",
+      "mark_report": "Are you sure you want to mark this report as \"[status]\"?",
+      "member_not_found_actions": "Member not found in the server. Unable to perform actions."
     },
     "interactions": {
       "report_id": "ID Segnalazione: [report_id]",
@@ -1031,7 +1033,9 @@
       "ignored": "Ignorato",
       "solved": "Risolto",
       "rejected": "Rifiutato",
-      "report_handled": "Segnalazione gestita"
+      "report_handled": "Segnalazione gestita",
+      "actions": "Actions",
+      "choose_action": "Please select an action to perform on the reported user."
     }
   },
   "audio": {

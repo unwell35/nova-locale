@@ -1714,5 +1714,9 @@
   "COOLDOWN_REPORT_TOOLTIP": "Enforces a per-member cooldown between each report.",
   "MENTION_ROLES_LABEL": "Mention Roles",
   "MENTION_ROLES_REPORT_TOOLTIP": "Specifies which roles to mention when a report is created.",
-  "TEMPORARY_CHANNELS_PARENT_SYNC": "Temporary channels will sync with the parent category permissions."
+  "TEMPORARY_CHANNELS_PARENT_SYNC": "Temporary channels will sync with the parent category permissions.",
+  "ACTIONS_ON_ACCEPT": "Actions on Accept",
+  "ACTIONS_ON_ACCEPT_TOOLTIP": "When the “Accept” button is clicked, a select menu appears with the available actions. These actions will be applied to the reported user.",
+  "REJECT_REASON": "Provide reject reason",
+  "REJECT_REASON_TOOLTIP": "The reviewer will provide a reason for rejecting the report, and the reporter will be able to see it."
 }
