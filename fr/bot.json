@@ -1014,7 +1014,9 @@
       "report_not_found": "Rapport introuvable. Le problème semble avoir été résolu ou ignoré",
       "message_report_not_found": "Message de rapport introuvable pour exécuter l'action",
       "report_handled": "Le problème signalé a été traité avec succès.",
-      "confirm_ignore": "Êtes-vous sûr de vouloir ignorer ce rapport ?"
+      "confirm_ignore": "Êtes-vous sûr de vouloir ignorer ce rapport ?",
+      "mark_report": "",
+      "member_not_found_actions": ""
     },
     "interactions": {
       "report_id": "ID du rapport : [report_id]",
@@ -1036,7 +1038,9 @@
       "ignored": "Ignoré",
       "solved": "Résolu",
       "rejected": "Rejeté",
-      "report_handled": "Rapport traité"
+      "report_handled": "Rapport traité",
+      "actions": "",
+      "choose_action": ""
     }
   },
   "audio": {
