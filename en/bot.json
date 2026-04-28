@@ -1046,7 +1046,9 @@
       "report_not_found": "Report not found. Looks like has been solved of ignored",
       "message_report_not_found": "Report message not found to execute action",
       "report_handled": "Repored has been handled successfully.",
-      "confirm_ignore": "Are you sure you want to ignore this report?"
+      "confirm_ignore": "Are you sure you want to ignore this report?",
+      "mark_report": "Are you sure you want to mark this report as \"[status]\"?",
+      "member_not_found_actions": "Member not found in the server. Unable to perform actions."
     },
     "interactions": {
       "report_id": "Report ID: [report_id]",
@@ -1068,7 +1070,9 @@
       "ignored": "Ignored",
       "solved": "Solved",
       "rejected": "Rejected",
-      "report_handled": "Report handled"
+      "report_handled": "Report handled",
+      "actions": "Actions",
+      "choose_action": "Please select an action to perform on the reported user."
     }
   },
   "audio": {
