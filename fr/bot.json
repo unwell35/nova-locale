@@ -40,7 +40,8 @@
       "processing": "**Traitement.**",
       "fill_information": "Remplissez les informations requises",
       "message_not_found": "Le message est introuvable",
-      "member_unauthorized": "Non autorisé. Vous n'êtes pas autorisé à effectuer cette action sur ce membre"
+      "member_unauthorized": "Non autorisé. Vous n'êtes pas autorisé à effectuer cette action sur ce membre",
+      "slashcommand_only": "This command is for slash commands only."
     },
     "slash_commands": {
       "command_not_found": "La commande est introuvable !",

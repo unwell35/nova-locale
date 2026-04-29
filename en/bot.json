@@ -40,7 +40,8 @@
       "processing": "**Processing ...**",
       "fill_information": "Fill in the required information",
       "message_not_found": "Message cannot be found",
-      "member_unauthorized": "Unauthorized. You don't have permission to perform this action on this member"
+      "member_unauthorized": "Unauthorized. You don't have permission to perform this action on this member",
+      "slashcommand_only": "This command is for slash commands only."
     },
     "slash_commands": {
       "command_not_found": "Command cannot be found!",

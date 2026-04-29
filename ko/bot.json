@@ -40,7 +40,8 @@
       "processing": "**처리 중 ...**",
       "fill_information": "필요한 정보를 입력해 주세요",
       "message_not_found": "메시지를 찾을 수 없습니다",
-      "member_unauthorized": "권한이 없습니다. 이 멤버에 대해 이 작업을 수행할 권한이 없습니다."
+      "member_unauthorized": "권한이 없습니다. 이 멤버에 대해 이 작업을 수행할 권한이 없습니다.",
+      "slashcommand_only": "This command is for slash commands only."
     },
     "slash_commands": {
       "command_not_found": "명령어를 찾을 수 없습니다!",
