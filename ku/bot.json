@@ -41,7 +41,7 @@
       "fill_information": "زانیاری پێویست پڕ بکەوە",
       "message_not_found": "نامەکە ناتوانرێ بدۆزرێتەوە",
       "member_unauthorized": "ڕێگە پێنەدراوە. ڕێت پێنەدراوە ئەم چالاکیە ئەنجام بدەیت لەسەر ئەم ئەندامە",
-      "slashcommand_only": ""
+      "slashcommand_only": "ئەم کۆماندە تەنها بۆ سڵاش کۆماندەکانە."
     },
     "slash_commands": {
       "command_not_found": "کۆماندەکە ناتوانرێ بدۆزرێتەوە!",
@@ -1016,8 +1016,8 @@
       "message_report_not_found": "نامەی ڕێپۆرت نەدۆزرایەوە بۆ جێبەجێکردنی چالاکی",
       "report_handled": "ڕێپۆرتەکە بەسەرکەوتوویی جارەسەر کرا.",
       "confirm_ignore": "ئایا تۆ دڵنیایت دەتەوێ ئەم ڕێپۆرتە پشتگوێ بخەیت؟",
-      "mark_report": "",
-      "member_not_found_actions": ""
+      "mark_report": "ئایا تۆ دڵنیای دەتەوێ ئەم ڕێپۆرتە دیاری بکەی بە \"[status]\"?",
+      "member_not_found_actions": "کەسەکە نەدۆزرایەوە لە سێرڤەر. نەتوانرا جێبەجێ بکرێت."
     },
     "interactions": {
       "report_id": "ئایدی ڕێپۆرت: [report_id]",
@@ -1040,8 +1040,8 @@
       "solved": "چارەسەرکرا",
       "rejected": "ڕەتکرایەوە",
       "report_handled": "ڕێپۆرت چارەسەرکرا",
-      "actions": "",
-      "choose_action": ""
+      "actions": "کردارەکان",
+      "choose_action": "تکایە کردارێک هەڵبژێرە بۆ ئەوەی بەسەر کەسی ڕێپۆرتکراودا بێت."
     }
   },
   "audio": {
