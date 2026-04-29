@@ -1710,5 +1710,14 @@
   "COOLDOWN_REPORT_TOOLTIP": "فرض مدة زمنية لكل عضو بين كل بلاغ.",
   "MENTION_ROLES_LABEL": "منشن الرتب",
   "MENTION_ROLES_REPORT_TOOLTIP": "يحدد الرتب التي سيتم منشنتها عند إنشاء بلاغ.",
-  "TEMPORARY_CHANNELS_PARENT_SYNC": "ستتم مزامنة الرومات المؤقتة مع صلاحيات الكاتقوري"
+  "TEMPORARY_CHANNELS_PARENT_SYNC": "ستتم مزامنة الرومات المؤقتة مع صلاحيات الكاتقوري",
+  "ACTIONS_ON_ACCEPT": "الإجراءات عند القبول",
+  "ACTIONS_ON_ACCEPT_TOOLTIP": "عند الضغط على زر “قبول”، ستظهر قائمة اختيار تحتوي على الإجراءات المتاحة. سيتم تطبيق هذه الإجراءات على المستخدم المُبلَّغ عنه.",
+  "REJECT_REASON": "تقديم سبب الرفض",
+  "REJECT_REASON_TOOLTIP": "سيقوم المُراجع بتقديم سبب لرفض البلاغ، وسيتمكن المُبلِّغ من رؤيته.",
+  "ADD_ROLES_ACCEPT": "إضافة رتب عند القبول",
+  "ADD_ROLES_ACCEPT_TOOLTIP": "إضافة رتب للمُبلِّغ عند قبول بلاغه.",
+  "ADD_ROLES_REJECT": "إضافة رتب عند الرفض",
+  "ADD_ROLES_REJECT_TOOLTIP": "إضافة رتب للمُبلِّغ عند رفض بلاغه.",
+  "BUTTONS_LABEL": "الأزرار"
 }
