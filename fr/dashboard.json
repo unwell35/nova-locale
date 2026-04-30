@@ -297,7 +297,7 @@
   "TEMPORARY_CHANNELS_LOG": "Journaux des chaînes temporaires",
   "UTILITY_LOG": "Journaux d'utilitaires",
   "LEVELS_LOG": "Journaux de niveaux",
-  "WELCOME_LOG": "Journaux de bienvenue",
+  "WELCOME_LOG": "Journaux des commandes de bienvenue",
   "REACTION_ROLES_LOG": "Journaux des rôles de réaction",
   "TICKET_LOG": "Journaux de tickets",
   "EDIT_BUTTON": "Modifier",
