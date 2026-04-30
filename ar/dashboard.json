@@ -298,7 +298,7 @@
   "TEMPORARY_CHANNELS_LOG": "سجلات الرومات المؤقتة",
   "UTILITY_LOG": "سجلات العامة",
   "LEVELS_LOG": "سجلات المستويات",
-  "WELCOME_LOG": "سجلات الترحيب",
+  "WELCOME_LOG": "سجلات أوامر الترحيب",
   "REACTION_ROLES_LOG": "سجلات الرياكشن رولز",
   "TICKET_LOG": "سجلات التذاكر",
   "EDIT_BUTTON": "تعديل",
@@ -1657,5 +1657,6 @@
   "ADD_ROLES_ACCEPT_TOOLTIP": "إضافة رتب للمُبلِّغ عند قبول بلاغه.",
   "ADD_ROLES_REJECT": "إضافة رتب عند الرفض",
   "ADD_ROLES_REJECT_TOOLTIP": "إضافة رتب للمُبلِّغ عند رفض بلاغه.",
-  "BUTTONS_LABEL": "الأزرار"
+  "BUTTONS_LABEL": "الأزرار",
+  "HIDE_REPORTER": "إخفاء اسم المُبلِّغ في البلاغ"
 }
