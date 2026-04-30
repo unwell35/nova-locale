@@ -103,7 +103,8 @@
     "private": "Privato",
     "created_at": "Creato il: [created_date]",
     "accept": "Accetta",
-    "reject": "Rifiuta"
+    "reject": "Rifiuta",
+    "hidden": "Hidden"
   },
 
   "moderator": {

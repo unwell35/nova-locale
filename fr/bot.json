@@ -103,7 +103,8 @@
     "private": "Private",
     "created_at": "Created At: [created_date]",
     "accept": "Accept",
-    "reject": "Reject"
+    "reject": "Reject",
+    "hidden": "Hidden"
   },
   "moderator": {
     "automod": {

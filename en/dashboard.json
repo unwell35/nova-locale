@@ -301,7 +301,7 @@
   "TEMPORARY_CHANNELS_LOG": "Temporary Channels Logs",
   "UTILITY_LOG": "Utility Logs",
   "LEVELS_LOG": "Levels Logs",
-  "WELCOME_LOG": "Welcome Logs",
+  "WELCOME_LOG": "Welcome Commands Log",
   "REACTION_ROLES_LOG": "Reaction Roles Logs",
   "TICKET_LOG": "Ticket Logs",
   "EDIT_BUTTON": "Edit",
@@ -1723,5 +1723,6 @@
   "ADD_ROLES_ACCEPT_TOOLTIP": "Add roles to the reporter when their report is accepted.",
   "ADD_ROLES_REJECT": "Add Roles on Reject",
   "ADD_ROLES_REJECT_TOOLTIP": "Add roles to the reporter when their report is rejected.",
-  "BUTTONS_LABEL": "Buttons"
+  "BUTTONS_LABEL": "Buttons",
+  "HIDE_REPORTER": "Hide the reporter’s name in the report"
 }

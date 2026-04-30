@@ -103,7 +103,8 @@
     "private": "비공개",
     "created_at": "생성된 날짜: [created_date]",
     "accept": "수락",
-    "reject": "거절"
+    "reject": "거절",
+    "hidden": "Hidden"
   },
 
   "moderator": {

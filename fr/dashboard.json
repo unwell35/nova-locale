@@ -298,7 +298,7 @@
   "TEMPORARY_CHANNELS_LOG": "Journaux des chaînes temporaires",
   "UTILITY_LOG": "Journaux d'utilitaires",
   "LEVELS_LOG": "Journaux de niveaux",
-  "WELCOME_LOG": "Journaux de bienvenue",
+  "WELCOME_LOG": "Journaux des commandes de bienvenue",
   "REACTION_ROLES_LOG": "Journaux des rôles de réaction",
   "TICKET_LOG": "Journaux de tickets",
   "EDIT_BUTTON": "Modifier",
@@ -1688,5 +1688,6 @@
   "ADD_ROLES_ACCEPT_TOOLTIP": "Add roles to the reporter when their report is accepted.",
   "ADD_ROLES_REJECT": "Add Roles on Reject",
   "ADD_ROLES_REJECT_TOOLTIP": "Add roles to the reporter when their report is rejected.",
-  "BUTTONS_LABEL": "Buttons"
+  "BUTTONS_LABEL": "Buttons",
+  "HIDE_REPORTER": "Hide the reporter’s name in the report"
 }

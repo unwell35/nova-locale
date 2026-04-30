@@ -299,7 +299,7 @@
   "TEMPORARY_CHANNELS_LOG": "Log Canali Temporanei",
   "UTILITY_LOG": "Log Utilità",
   "LEVELS_LOG": "Log Livelli",
-  "WELCOME_LOG": "Log Benvenuto",
+  "WELCOME_LOG": "Welcome Commands Log",
   "REACTION_ROLES_LOG": "Log Ruoli di Reazione",
   "TICKET_LOG": "Log Ticket",
   "EDIT_BUTTON": "Modifica",
@@ -1732,5 +1732,6 @@
   "ADD_ROLES_ACCEPT_TOOLTIP": "Add roles to the reporter when their report is accepted.",
   "ADD_ROLES_REJECT": "Add Roles on Reject",
   "ADD_ROLES_REJECT_TOOLTIP": "Add roles to the reporter when their report is rejected.",
-  "BUTTONS_LABEL": "Buttons"
+  "BUTTONS_LABEL": "Buttons",
+  "HIDE_REPORTER": "Hide the reporter’s name in the report"
 }

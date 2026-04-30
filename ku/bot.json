@@ -103,7 +103,8 @@
     "private": "تایبەت",
     "created_at": "درووستکراوە ڵە: [created_date]",
     "accept": "قبوڵکردن",
-    "reject": "قبوڵ نەکردن"
+    "reject": "قبوڵ نەکردن",
+    "hidden": "Hidden"
   },
   "moderator": {
     "automod": {

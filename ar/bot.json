@@ -103,7 +103,8 @@
     "private": "خاصة",
     "created_at": "تم إنشاؤه في: [created_date]",
     "accept": "قبول",
-    "reject": "رفض"
+    "reject": "رفض",
+    "hidden": "مخفي"
   },
 
   "moderator": {

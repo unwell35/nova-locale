@@ -301,7 +301,7 @@
   "TEMPORARY_CHANNELS_LOG": "임시 채널 로그",
   "UTILITY_LOG": "유틸리티 로그",
   "LEVELS_LOG": "레벨 로그",
-  "WELCOME_LOG": "환영 로그",
+  "WELCOME_LOG": "Welcome Commands Log",
   "REACTION_ROLES_LOG": "반응 역할 로그",
   "TICKET_LOG": "티켓 로그",
   "EDIT_BUTTON": "수정",
@@ -1724,5 +1724,6 @@
   "ADD_ROLES_ACCEPT_TOOLTIP": "Add roles to the reporter when their report is accepted.",
   "ADD_ROLES_REJECT": "Add Roles on Reject",
   "ADD_ROLES_REJECT_TOOLTIP": "Add roles to the reporter when their report is rejected.",
-  "BUTTONS_LABEL": "Buttons"
+  "BUTTONS_LABEL": "Buttons",
+  "HIDE_REPORTER": "Hide the reporter’s name in the report"
 }
