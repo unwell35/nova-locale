@@ -1649,6 +1649,7 @@
   "MENTION_ROLES_LABEL": "منشن الرتب",
   "MENTION_ROLES_REPORT_TOOLTIP": "يحدد الرتب التي سيتم منشنتها عند إنشاء بلاغ.",
   "TEMPORARY_CHANNELS_PARENT_SYNC": "ستتم مزامنة الرومات المؤقتة مع صلاحيات الكاتقوري",
+  "SYNC_CATEGORY_PERMISSIONS": "مزامنة صلاحيات الكاتقوري",
   "ACTIONS_ON_ACCEPT": "الإجراءات عند القبول",
   "ACTIONS_ON_ACCEPT_TOOLTIP": "عند الضغط على زر “قبول”، ستظهر قائمة اختيار تحتوي على الإجراءات المتاحة. سيتم تطبيق هذه الإجراءات على المستخدم المُبلَّغ عنه.",
   "REJECT_REASON": "تقديم سبب الرفض",
@@ -1658,5 +1659,7 @@
   "ADD_ROLES_REJECT": "إضافة رتب عند الرفض",
   "ADD_ROLES_REJECT_TOOLTIP": "إضافة رتب للمُبلِّغ عند رفض بلاغه.",
   "BUTTONS_LABEL": "الأزرار",
-  "HIDE_REPORTER": "إخفاء اسم المُبلِّغ في البلاغ"
+  "HIDE_REPORTER": "إخفاء اسم المُبلِّغ في البلاغ",
+  "COMMAND_EXAMPLE_FUN_LANG": "/game language [اللغة]",
+  "COMMAND_DESCRIPTION_FUN_LANG": "تحديد اللغة المستخدمة للألعاب الترفيهية."
 }
