@@ -1715,6 +1715,7 @@
   "MENTION_ROLES_LABEL": "Mention Roles",
   "MENTION_ROLES_REPORT_TOOLTIP": "Specifies which roles to mention when a report is created.",
   "TEMPORARY_CHANNELS_PARENT_SYNC": "Temporary channels will sync with the parent category permissions.",
+  "SYNC_CATEGORY_PERMISSIONS": "Sync Category Permissions",
   "ACTIONS_ON_ACCEPT": "Actions on Accept",
   "ACTIONS_ON_ACCEPT_TOOLTIP": "When the “Accept” button is clicked, a select menu appears with the available actions. These actions will be applied to the reported user.",
   "REJECT_REASON": "Provide reject reason",
@@ -1724,5 +1725,7 @@
   "ADD_ROLES_REJECT": "Add Roles on Reject",
   "ADD_ROLES_REJECT_TOOLTIP": "Add roles to the reporter when their report is rejected.",
   "BUTTONS_LABEL": "Buttons",
-  "HIDE_REPORTER": "Hide the reporter’s name in the report"
+  "HIDE_REPORTER": "Hide the reporter’s name in the report",
+  "COMMAND_EXAMPLE_FUN_LANG": "/game language [language]",
+  "COMMAND_DESCRIPTION_FUN_LANG": "Sets the language used for fun games."
 }
