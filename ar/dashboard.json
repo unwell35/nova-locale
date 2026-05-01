@@ -1721,5 +1721,7 @@
   "ADD_ROLES_REJECT": "إضافة رتب عند الرفض",
   "ADD_ROLES_REJECT_TOOLTIP": "إضافة رتب للمُبلِّغ عند رفض بلاغه.",
   "BUTTONS_LABEL": "الأزرار",
-  "HIDE_REPORTER": "إخفاء اسم المُبلِّغ في البلاغ"
+  "HIDE_REPORTER": "إخفاء اسم المُبلِّغ في البلاغ",
+  "COMMAND_EXAMPLE_FUN_LANG": "/game language [اللغة]",
+  "COMMAND_DESCRIPTION_FUN_LANG": "تحديد اللغة المستخدمة للألعاب الترفيهية."
 }
