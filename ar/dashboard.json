@@ -1711,6 +1711,7 @@
   "MENTION_ROLES_LABEL": "منشن الرتب",
   "MENTION_ROLES_REPORT_TOOLTIP": "يحدد الرتب التي سيتم منشنتها عند إنشاء بلاغ.",
   "TEMPORARY_CHANNELS_PARENT_SYNC": "ستتم مزامنة الرومات المؤقتة مع صلاحيات الكاتقوري",
+  "SYNC_CATEGORY_PERMISSIONS": "مزامنة صلاحيات الكاتقوري",
   "ACTIONS_ON_ACCEPT": "الإجراءات عند القبول",
   "ACTIONS_ON_ACCEPT_TOOLTIP": "عند الضغط على زر “قبول”، ستظهر قائمة اختيار تحتوي على الإجراءات المتاحة. سيتم تطبيق هذه الإجراءات على المستخدم المُبلَّغ عنه.",
   "REJECT_REASON": "تقديم سبب الرفض",
