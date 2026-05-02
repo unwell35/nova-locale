@@ -1723,5 +1723,8 @@
   "BUTTONS_LABEL": "الأزرار",
   "HIDE_REPORTER": "إخفاء اسم المُبلِّغ في البلاغ",
   "COMMAND_EXAMPLE_FUN_LANG": "/game language [اللغة]",
-  "COMMAND_DESCRIPTION_FUN_LANG": "تحديد اللغة المستخدمة للألعاب الترفيهية."
+  "COMMAND_DESCRIPTION_FUN_LANG": "تحديد اللغة المستخدمة للألعاب الترفيهية.",
+  "ALLOW_ROLES_EXCEPT": "السماح بجميع الرتب بأستثناء",
+  "DENY_ROLES_EXCEPT": "منع جميع الرتب بأستثناء",
+  "ROLE_FILTERS": "تحديد الرتب"
 }

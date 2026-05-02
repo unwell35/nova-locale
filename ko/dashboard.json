@@ -1729,5 +1729,8 @@
   "BUTTONS_LABEL": "Buttons",
   "HIDE_REPORTER": "Hide the reporter’s name in the report",
   "COMMAND_EXAMPLE_FUN_LANG": "/game language [language]",
-  "COMMAND_DESCRIPTION_FUN_LANG": "Sets the language used for fun games."
+  "COMMAND_DESCRIPTION_FUN_LANG": "Sets the language used for fun games.",
+  "ALLOW_ROLES_EXCEPT": "Allow All Roles Except",
+  "DENY_ROLES_EXCEPT": "Deny All Roles Except",
+  "ROLE_FILTERS": "Role Filters"
 }
