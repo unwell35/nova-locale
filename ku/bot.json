@@ -41,7 +41,7 @@
       "fill_information": "زانیاری پێویست پڕ بکەوە",
       "message_not_found": "نامەکە ناتوانرێ بدۆزرێتەوە",
       "member_unauthorized": "ڕێگە پێنەدراوە. ڕێت پێنەدراوە ئەم چالاکیە ئەنجام بدەیت لەسەر ئەم ئەندامە",
-      "slashcommand_only": "This command is for slash commands only."
+      "slashcommand_only": "ئەم کۆماندە تەنها بۆ سڵاش کۆماندەکانە."
     },
     "slash_commands": {
       "command_not_found": "کۆماندەکە ناتوانرێ بدۆزرێتەوە!",
@@ -104,7 +104,7 @@
     "created_at": "درووستکراوە ڵە: [created_date]",
     "accept": "قبوڵکردن",
     "reject": "قبوڵ نەکردن",
-    "hidden": "Hidden"
+    "hidden": "شاراوە"
   },
   "moderator": {
     "automod": {
@@ -220,7 +220,7 @@
       "temproles_display": "کەسەکە: [user] - ڕۆڵەکە: [role]\nلەلایەن: [author] - لابراوە لە: [date]\n-# ئایدی داتاکە ID: [data_id]",
       "data_id_required": "تکایە ئایدی داتاکە دابینبکە بیهێنە",
       "temprole_removed": "ڕۆڵە کاتیەکە بەسەرکەوتوویی لابرا لە [member]",
-      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
+      "lock_onboarding_error": "تۆ ناتوانی چەناڵەکە دابخەیت لەبەرئەوەی ئەمە تاکە چەناڵە کە `@everyone` دەتوانێ نامەی تێدا بنێرێت.\n چوونە ژوورەوە بەلایەنی کەمەوە پێویستی بە یەک چەناڵی بەردەست هەیە."
     },
     "embed": {
       "pmute_title": "بەندینخانە",
@@ -384,7 +384,7 @@
       "executor_field": "جێبەجێکار",
       "reason_field": "هۆکار",
       "member_field": "کەسەکە",
-      "total_boosts_field": "Total Boosts",
+      "total_boosts_field": "هەموو بووستەکان",
       "author_field": "نووسەر",
       "role_name_field": "ناوی ڕۆڵ",
       "old_role_name_field": "ناوە کۆنەکە",
@@ -466,7 +466,7 @@
       "emoji_deleted_title": "ئیمۆجیەکە سڕایەوە",
       "sticker_created_title": "ستیکەرەکە درووستکرا",
       "sticker_deleted_title": "ستیکەرەکە سڕایەوە",
-      "member_boost_title": "Member Boosted Server",
+      "member_boost_title": "کەسێک بووستی سێرڤەری کرد",
       "type_field": "جۆر",
       "regualr_field": "ئاسایی",
       "animated_field": "جۆڵاو"
@@ -1017,8 +1017,8 @@
       "message_report_not_found": "نامەی ڕێپۆرت نەدۆزرایەوە بۆ جێبەجێکردنی چالاکی",
       "report_handled": "ڕێپۆرتەکە بەسەرکەوتوویی جارەسەر کرا.",
       "confirm_ignore": "ئایا تۆ دڵنیایت دەتەوێ ئەم ڕێپۆرتە پشتگوێ بخەیت؟",
-      "mark_report": "Are you sure you want to mark this report as \"[status]\"?",
-      "member_not_found_actions": "Member not found in the server. Unable to perform actions."
+      "mark_report": "ئایا تۆ دڵنیای دەتەوێ ئەم ڕێپۆرتە دیاری بکەی بە \"[status]\"?",
+      "member_not_found_actions": "کەسەکە نەدۆزرایەوە لە سێرڤەر. نەتوانرا جێبەجێ بکرێت."
     },
     "interactions": {
       "report_id": "ئایدی ڕێپۆرت: [report_id]",
@@ -1041,8 +1041,8 @@
       "solved": "چارەسەرکرا",
       "rejected": "ڕەتکرایەوە",
       "report_handled": "ڕێپۆرت چارەسەرکرا",
-      "actions": "Actions",
-      "choose_action": "Please select an action to perform on the reported user."
+      "actions": "کردارەکان",
+      "choose_action": "تکایە کردارێک هەڵبژێرە بۆ ئەوەی بەسەر کەسی ڕێپۆرتکراودا بێت."
     }
   },
   "audio": {
