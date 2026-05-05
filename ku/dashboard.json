@@ -1693,5 +1693,8 @@
   "BUTTONS_LABEL": "دووگمەکان",
   "HIDE_REPORTER": "شاردنەوەی ناوی کەسی ڕێپۆرتکەرەکە لە ڕێپۆرتەکە",
   "COMMAND_EXAMPLE_FUN_LANG": "/game language [زمانەکە]",
-  "COMMAND_DESCRIPTION_FUN_LANG": "زمانی بەکارهاتوو بۆ یارییە خۆشەکان دادەنێت."
+  "COMMAND_DESCRIPTION_FUN_LANG": "زمانی بەکارهاتوو بۆ یارییە خۆشەکان دادەنێت.",
+  "ALLOW_ROLES_EXCEPT": "ڕێگا بە هەموو ڕۆڵەکان بدە جگە لە",
+  "DENY_ROLES_EXCEPT": "ڕێگا بە هەموو ڕۆڵەکان مەدە جگە ڵە",
+  "ROLE_FILTERS": "فلتەرەکانی ڕۆڵ"
 }
