@@ -1665,5 +1665,7 @@
   "COMMAND_DESCRIPTION_FUN_LANG": "تحديد اللغة المستخدمة للألعاب الترفيهية.",
   "ALLOW_ROLES_EXCEPT": "السماح بجميع الرتب بأستثناء",
   "DENY_ROLES_EXCEPT": "منع جميع الرتب بأستثناء",
-  "ROLE_FILTERS": "تحديد الرتب"
+  "ROLE_FILTERS": "تحديد الرتب",
+  "TIME_BETWEEN_ROUNDS_LABEL": "الوقت بين الجولات بالثواني",
+  "ANIMATE_WHEEL_LABEL": "انيميشن العجلة"
 }
