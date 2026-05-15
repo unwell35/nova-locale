@@ -1696,5 +1696,7 @@
   "COMMAND_DESCRIPTION_FUN_LANG": "زمانی بەکارهاتوو بۆ یارییە خۆشەکان دادەنێت.",
   "ALLOW_ROLES_EXCEPT": "ڕێگا بە هەموو ڕۆڵەکان بدە جگە لە",
   "DENY_ROLES_EXCEPT": "ڕێگا بە هەموو ڕۆڵەکان مەدە جگە ڵە",
-  "ROLE_FILTERS": "فلتەرەکانی ڕۆڵ"
+  "ROLE_FILTERS": "فلتەرەکانی ڕۆڵ",
+  "TIME_BETWEEN_ROUNDS_LABEL": "کاتی نێوان جەولەکان بە چرکە",
+  "ANIMATE_WHEEL_LABEL": "وێنەی جۆڵاوی چەرخەکە"
 }
