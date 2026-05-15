@@ -1696,5 +1696,7 @@
   "COMMAND_DESCRIPTION_FUN_LANG": "زمانی بەکارهاتوو بۆ یارییە خۆشەکان دادەنێت.",
   "ALLOW_ROLES_EXCEPT": "Allow All Roles Except",
   "DENY_ROLES_EXCEPT": "Deny All Roles Except",
-  "ROLE_FILTERS": "Role Filters"
+  "ROLE_FILTERS": "Role Filters",
+  "TIME_BETWEEN_ROUNDS_LABEL": "Time Between Rounds In Seconds",
+  "ANIMATE_WHEEL_LABEL": "Animate Wheel"
 }

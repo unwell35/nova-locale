@@ -1727,5 +1727,7 @@
   "ALLOW_ROLES_EXCEPT": "السماح بجميع الرتب بأستثناء",
   "DENY_ROLES_EXCEPT": "منع جميع الرتب بأستثناء",
   "ROLE_FILTERS": "تحديد الرتب",
-  "GIVEAWAY_TEMPLATES": "قوالب القيف اواي"
+  "GIVEAWAY_TEMPLATES": "قوالب القيف اواي",
+  "TIME_BETWEEN_ROUNDS_LABEL": "الوقت بين الجولات بالثواني",
+  "ANIMATE_WHEEL_LABEL": "انيميشن العجلة"
 }
