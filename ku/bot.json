@@ -1018,7 +1018,9 @@
       "report_handled": "ڕێپۆرتەکە بەسەرکەوتوویی جارەسەر کرا.",
       "confirm_ignore": "ئایا تۆ دڵنیایت دەتەوێ ئەم ڕێپۆرتە پشتگوێ بخەیت؟",
       "mark_report": "ئایا تۆ دڵنیای دەتەوێ ئەم ڕێپۆرتە دیاری بکەی بە \"[status]\"?",
-      "member_not_found_actions": "کەسەکە نەدۆزرایەوە لە سێرڤەر. نەتوانرا جێبەجێ بکرێت."
+      "member_not_found_actions": "کەسەکە نەدۆزرایەوە لە سێرڤەر. نەتوانرا جێبەجێ بکرێت.",
+      "message_link_invalid": "",
+      "click_button_to_report": ""
     },
     "interactions": {
       "report_id": "ئایدی ڕێپۆرت: [report_id]",
@@ -1042,7 +1044,8 @@
       "rejected": "ڕەتکرایەوە",
       "report_handled": "ڕێپۆرت چارەسەرکرا",
       "actions": "کردارەکان",
-      "choose_action": "تکایە کردارێک هەڵبژێرە بۆ ئەوەی بەسەر کەسی ڕێپۆرتکراودا بێت."
+      "choose_action": "تکایە کردارێک هەڵبژێرە بۆ ئەوەی بەسەر کەسی ڕێپۆرتکراودا بێت.",
+      "report_button": ""
     }
   },
   "audio": {
@@ -1142,6 +1145,25 @@
       "track_id": "ئایدی تراک: [track_id]",
       "edit_playlist": "دەستکاریکردنی پلەی لیست",
       "playlist_list": "پلەی لیستەکەت"
+    }
+  },
+  "forms": {
+    "interactions": {
+      "form_in_progress": "",
+      "resume_answering": "",
+      "cancel_submission": "",
+      "submission_cancelled": "",
+      "submission_not_found": "",
+      "question_validation_failed": "",
+      "file_upload_extention_not_allowed": "",
+      "invalid_email": "",
+      "invalid_letters": "",
+      "invalid_numbers": "",
+      "invalid_url": "",
+      "invalid_regex": "",
+      "try_again": "",
+      "continue_form": "",
+      "continue": ""
     }
   }
 }
