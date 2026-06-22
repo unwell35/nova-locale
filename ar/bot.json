@@ -1003,7 +1003,7 @@
   "report": {
     "commands": {
       "type_disabled": "تم تعطيل هذا النوع من البلاغات من قبل المسؤولين.",
-      "report_missing": "يجب عليك الرد على الرسالة إذا كنت تريد الإبلاغ عن رسالة أو عمل منشن للعضو إذا كنت تريد الإبلاغ عن عضو.",
+      "report_missing": "يجب عليك إرفاق رابط الرسالة إذا كنت تريد الإبلاغ عن رسالة أو عمل منشن للعضو إذا كنت تريد الإبلاغ عن عضو.",
       "id_not_valid": "يجب عليك إدخال معرف رسالة صالح.",
       "reason_required": "يرجى تقديم سبب البلاغ.",
       "report_channel_not_set": "يجب إعداد شات البلاغات عبر لوحة التحكم: https://novax.gg/dashboard/[server_id]/report",
@@ -1018,7 +1018,9 @@
       "report_handled": "تم التعامل مع البلاغ بنجاح.",
       "confirm_ignore": "هل أنت متأكد أنك تريد تجاهل هذا البلاغ؟",
       "mark_report": "هل أنت متأكد أنك تريد تعيين حالة هذا البلاغ إلى \"[status]\"؟",
-      "member_not_found_actions": "لم يتم العثور على العضو في السيرفر. لا يمكن تنفيذ الإجراءات.."
+      "member_not_found_actions": "لم يتم العثور على العضو في السيرفر. لا يمكن تنفيذ الإجراءات..",
+      "message_link_invalid": "يُرجى تقديم رابط رسالة صحيح.",
+      "click_button_to_report": "أضغط على الزر أدناه لتقديم بلاغ."
     },
     "interactions": {
       "report_id": "معرف البلاغ: [report_id]",
@@ -1042,7 +1044,8 @@
       "rejected": "تم الرفض",
       "report_handled": "تم التعامل مع البلاغ",
       "actions": "الإجراءات",
-      "choose_action": "يُرجى اختيار إجراء لتنفيذه على المستخدم المُبلَّغ عنه."
+      "choose_action": "يُرجى اختيار إجراء لتنفيذه على المستخدم المُبلَّغ عنه.",
+      "report_button": "تقديم بلاغ"
     }
   },
   "audio": {
@@ -1142,6 +1145,25 @@
       "track_id": "معرف المقطع: [track_id]",
       "edit_playlist": "تعديل قائمة التشغيل",
       "playlist_list": "قوائم التشغيل الخاصة بك"
+    }
+  },
+  "forms": {
+    "interactions": {
+      "form_in_progress": "",
+      "resume_answering": "",
+      "cancel_submission": "",
+      "submission_cancelled": "",
+      "submission_not_found": "",
+      "question_validation_failed": "",
+      "file_upload_extention_not_allowed": "",
+      "invalid_email": "",
+      "invalid_letters": "",
+      "invalid_numbers": "",
+      "invalid_url": "",
+      "invalid_regex": "",
+      "try_again": "",
+      "continue_form": "",
+      "continue": ""
     }
   }
 }
