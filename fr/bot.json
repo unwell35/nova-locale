@@ -1018,7 +1018,9 @@
       "report_handled": "Le problème signalé a été traité avec succès.",
       "confirm_ignore": "Êtes-vous sûr de vouloir ignorer ce rapport ?",
       "mark_report": "",
-      "member_not_found_actions": ""
+      "member_not_found_actions": "",
+      "message_link_invalid": "",
+      "click_button_to_report": ""
     },
     "interactions": {
       "report_id": "ID du rapport : [report_id]",
@@ -1042,7 +1044,8 @@
       "rejected": "Rejeté",
       "report_handled": "Rapport traité",
       "actions": "",
-      "choose_action": ""
+      "choose_action": "",
+      "report_button": ""
     }
   },
   "audio": {
@@ -1142,6 +1145,25 @@
       "track_id": "",
       "edit_playlist": "",
       "playlist_list": ""
+    }
+  },
+  "forms": {
+    "interactions": {
+      "form_in_progress": "",
+      "resume_answering": "",
+      "cancel_submission": "",
+      "submission_cancelled": "",
+      "submission_not_found": "",
+      "question_validation_failed": "",
+      "file_upload_extention_not_allowed": "",
+      "invalid_email": "",
+      "invalid_letters": "",
+      "invalid_numbers": "",
+      "invalid_url": "",
+      "invalid_regex": "",
+      "try_again": "",
+      "continue_form": "",
+      "continue": ""
     }
   }
 }
