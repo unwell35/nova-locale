@@ -1003,7 +1003,7 @@
   "report": {
     "commands": {
       "type_disabled": "ئەم جۆرە ڕێپۆرتە لەلایەن سەرپەرشتیارانەوە ناچالاک کراوە",
-      "report_missing": "پێویستە وەڵامی نامەکە بدەیتەوە ئەگەر دەتەوێت نامەیەک ڕێپۆرت بکەیت یان ئاماژە بە کەسێک بکەیت ئەگەر بتەوێت کەسێک ڕێپۆرت بکەیت",
+      "report_missing": "You should provide message link if you want to report a message or mention a member if you want to report a member",
       "id_not_valid": "پێویستە ئایدیەکی دروست دابنێیت",
       "reason_required": "تکایە هۆکاری ڕێپۆرتەکە بنووسە",
       "report_channel_not_set": "چەناڵی ڕێپۆرت پێویستە لە داشبۆرد ئامادە بکرێت: https://novax.gg/dashboard/[server_id]/report",
@@ -1018,7 +1018,9 @@
       "report_handled": "ڕێپۆرتەکە بەسەرکەوتوویی جارەسەر کرا.",
       "confirm_ignore": "ئایا تۆ دڵنیایت دەتەوێ ئەم ڕێپۆرتە پشتگوێ بخەیت؟",
       "mark_report": "ئایا تۆ دڵنیای دەتەوێ ئەم ڕێپۆرتە دیاری بکەی بە \"[status]\"?",
-      "member_not_found_actions": "کەسەکە نەدۆزرایەوە لە سێرڤەر. نەتوانرا جێبەجێ بکرێت."
+      "member_not_found_actions": "کەسەکە نەدۆزرایەوە لە سێرڤەر. نەتوانرا جێبەجێ بکرێت.",
+      "message_link_invalid": "Please provide a valid message link.",
+      "click_button_to_report": "Click the button below to file a report."
     },
     "interactions": {
       "report_id": "ئایدی ڕێپۆرت: [report_id]",
@@ -1042,7 +1044,8 @@
       "rejected": "ڕەتکرایەوە",
       "report_handled": "ڕێپۆرت چارەسەرکرا",
       "actions": "کردارەکان",
-      "choose_action": "تکایە کردارێک هەڵبژێرە بۆ ئەوەی بەسەر کەسی ڕێپۆرتکراودا بێت."
+      "choose_action": "تکایە کردارێک هەڵبژێرە بۆ ئەوەی بەسەر کەسی ڕێپۆرتکراودا بێت.",
+      "report_button": "File a Report"
     }
   },
   "audio": {

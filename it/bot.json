@@ -998,7 +998,7 @@
   "report": {
     "commands": {
       "type_disabled": "Questo tipo di segnalazione è disabilitato dagli amministratori.",
-      "report_missing": "Devi rispondere al messaggio se vuoi segnalare un messaggio o menzionare un membro se vuoi segnalare un membro",
+      "report_missing": "You should provide message link if you want to report a message or mention a member if you want to report a member",
       "id_not_valid": "Devi inserire un ID messaggio valido",
       "reason_required": "Fornisci il motivo della segnalazione",
       "report_channel_not_set": "Il canale delle segnalazioni deve essere impostato nella dashboard: https://novax.gg/dashboard/[server_id]/report",
@@ -1013,7 +1013,9 @@
       "report_handled": "Segnalazione gestita con successo.",
       "confirm_ignore": "Sei sicuro di voler ignorare questa segnalazione?",
       "mark_report": "Are you sure you want to mark this report as \"[status]\"?",
-      "member_not_found_actions": "Member not found in the server. Unable to perform actions."
+      "member_not_found_actions": "Member not found in the server. Unable to perform actions.",
+      "message_link_invalid": "Please provide a valid message link.",
+      "click_button_to_report": "Click the button below to file a report."
     },
     "interactions": {
       "report_id": "ID Segnalazione: [report_id]",
@@ -1037,7 +1039,8 @@
       "rejected": "Rifiutato",
       "report_handled": "Segnalazione gestita",
       "actions": "Actions",
-      "choose_action": "Please select an action to perform on the reported user."
+      "choose_action": "Please select an action to perform on the reported user.",
+      "report_button": "File a Report"
     }
   },
   "audio": {

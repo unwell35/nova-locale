@@ -1035,7 +1035,7 @@
   "report": {
     "commands": {
       "type_disabled": "This type of report is disabled by admins.",
-      "report_missing": "You should reply to the message if you want to report a message or mention a member if you want to report a member",
+      "report_missing": "You should provide message link if you want to report a message or mention a member if you want to report a member",
       "id_not_valid": "You should put a valid message id",
       "reason_required": "Please provide the reason of report",
       "report_channel_not_set": "Report channel needs to be setup at the dashboard: https://novax.gg/dashboard/[server_id]/report",
@@ -1047,10 +1047,12 @@
       "reported": "Your report has been received and we'll investigate it. Report ID: `[report_id]`",
       "report_not_found": "Report not found. Looks like has been solved of ignored",
       "message_report_not_found": "Report message not found to execute action",
-      "report_handled": "Repored has been handled successfully.",
+      "report_handled": "Report has been handled successfully.",
       "confirm_ignore": "Are you sure you want to ignore this report?",
       "mark_report": "Are you sure you want to mark this report as \"[status]\"?",
-      "member_not_found_actions": "Member not found in the server. Unable to perform actions."
+      "member_not_found_actions": "Member not found in the server. Unable to perform actions.",
+      "message_link_invalid": "Please provide a valid message link.",
+      "click_button_to_report": "Click the button below to file a report."
     },
     "interactions": {
       "report_id": "Report ID: [report_id]",
@@ -1074,7 +1076,8 @@
       "rejected": "Rejected",
       "report_handled": "Report handled",
       "actions": "Actions",
-      "choose_action": "Please select an action to perform on the reported user."
+      "choose_action": "Please select an action to perform on the reported user.",
+      "report_button": "File a Report"
     }
   },
   "audio": {
@@ -1174,6 +1177,25 @@
       "track_id": "Track ID: [track_id]",
       "edit_playlist": "Edit Playlist",
       "playlist_list": "Your playlists"
+    }
+  },
+  "forms": {
+    "interactions": {
+      "form_in_progress": "You have an form in progress. You can either resume answering or cancel the submission.",
+      "resume_answering": "Resume Answering",
+      "cancel_submission": "Cancel Submission",
+      "submission_cancelled": "Your submission has been cancelled and removed. You can start a new one at any time.",
+      "submission_not_found": "Your submission could not be found or the time limit has expired. You can start a new one at any time",
+      "question_validation_failed": "Please provide a valid answer:",
+      "file_upload_extention_not_allowed": "**[question]**: You have attached files that are not allowed. Allowed formats: [extensions]",
+      "invalid_email": "**[question]**: Please provide a valid email address.",
+      "invalid_letters": "**[question]**: Numbers and special characters are not allowed. Letters only.",
+      "invalid_numbers": "**[question]**: Only numbers are allowed.",
+      "invalid_url": "**[question]**: Please provide a valid URL.",
+      "invalid_regex": "**[question]**: Answer does not match `[regex]`.",
+      "try_again": "Try Again",
+      "continue_form": "More questions remain. Continue with page [currentPage] of [maxPages]",
+      "continue": "Continue"
     }
   }
 }

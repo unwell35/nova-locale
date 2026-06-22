@@ -1035,7 +1035,7 @@
   "report": {
     "commands": {
       "type_disabled": "이 유형의 신고는 관리자에 의해 비활성화되었습니다.",
-      "report_missing": "메시지를 신고하려면 해당 메시지에 답장을 하거나, 멤버를 신고하려면 해당 멤버를 언급해야 합니다.",
+      "report_missing": "You should provide message link if you want to report a message or mention a member if you want to report a member",
       "id_not_valid": "유효한 메시지 ID를 입력해 주세요.",
       "reason_required": "신고 사유를 입력해 주세요.",
       "report_channel_not_set": "대시보드에서 신고 채널 설정이 필요합니다: https://novax.gg/dashboard/[server_id]/report",
@@ -1050,7 +1050,9 @@
       "report_handled": "신고가 성공적으로 처리되었습니다.",
       "confirm_ignore": "정말로 이 신고를 무시하시겠습니까?",
       "mark_report": "Are you sure you want to mark this report as \"[status]\"?",
-      "member_not_found_actions": "Member not found in the server. Unable to perform actions."
+      "member_not_found_actions": "Member not found in the server. Unable to perform actions.",
+      "message_link_invalid": "Please provide a valid message link.",
+      "click_button_to_report": "Click the button below to file a report."
     },
     "interactions": {
       "report_id": "신고 ID: [report_id]",
@@ -1074,7 +1076,8 @@
       "rejected": "거절됨",
       "report_handled": "신고 처리됨",
       "actions": "Actions",
-      "choose_action": "Please select an action to perform on the reported user."
+      "choose_action": "Please select an action to perform on the reported user.",
+      "report_button": "File a Report"
     }
   },
   "audio": {
