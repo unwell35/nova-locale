@@ -1151,19 +1151,19 @@
     "interactions": {
       "form_in_progress": "تۆ ئێستا فۆڕمێکت لە پێداچوونەوەیە. دەتوانیت دەست بە وەڵامدانەوە بکەیت یان ناردنەکە هەڵبوەشێنیتەوە.",
       "resume_answering": "بەردەوامکردنی جوابدانەوە",
-      "cancel_submission": "",
-      "submission_cancelled": "",
-      "submission_not_found": "",
-      "question_validation_failed": "",
-      "file_upload_extention_not_allowed": "",
-      "invalid_email": "",
-      "invalid_letters": "",
-      "invalid_numbers": "",
-      "invalid_url": "",
-      "invalid_regex": "",
-      "try_again": "",
-      "continue_form": "",
-      "continue": ""
+      "cancel_submission": "پاشگەزبوونەوە لە ناردن",
+      "submission_cancelled": "ناردنەکەت هەڵوەشایەوە و لابرا. تۆ دەتوانی دانەیەکی تازە درووسکەی هەرکەی ویستت.",
+      "submission_not_found": "نامەکەت ناتوانرێ  بدۆزرێتەوە یان کاتی دیاریکراوی بەسەرچووە. تۆ دەتوانی دانەیکی تازە بنێری لە هەرکاتێک ویستت.",
+      "question_validation_failed": "تکایە وەڵامێکی درووست بنووسە:",
+      "file_upload_extention_not_allowed": "**[question]**: تۆ فایلێکت داناوە کە ڕێگە پێدراو نیە. جۆرە ڕێگە پێدراوەکان: [extensions]",
+      "invalid_email": "**[question]**: تکایە دڵنیابەوە لەوەی ئیمێڵێکی درووستت داناوە.",
+      "invalid_letters": "**[question]**: ژمارەکان و نووسینی تایبەت ڕێکە پێدراو نیە. تەنها پیت ڕێگەپێدراوە.",
+      "invalid_numbers": "*[question]**: تەنها ژمارە ڕێگە پێدراوە.",
+      "invalid_url": "**[question]**: تکایە دڵنیاوە کە URL لینکیکێ درووستت داناوە.",
+      "invalid_regex": "**[question]**: وەڵامەکە ناگونجێت لەگەڵ `[regex]`.",
+      "try_again": "دووبارەی کەوە",
+      "continue_form": "پرسیاری زیاتر ماوە. بەردەوامبە لەگەڵ پەڕەکانی [currentPage] لە [maxPages]",
+      "continue": "بەردەوامبوون"
     }
   }
 }
