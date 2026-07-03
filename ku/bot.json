@@ -1019,8 +1019,8 @@
       "confirm_ignore": "ئایا تۆ دڵنیایت دەتەوێ ئەم ڕێپۆرتە پشتگوێ بخەیت؟",
       "mark_report": "ئایا تۆ دڵنیای دەتەوێ ئەم ڕێپۆرتە دیاری بکەی بە \"[status]\"?",
       "member_not_found_actions": "کەسەکە نەدۆزرایەوە لە سێرڤەر. نەتوانرا جێبەجێ بکرێت.",
-      "message_link_invalid": "",
-      "click_button_to_report": ""
+      "message_link_invalid": "تکایە لینکی نامەکە پشتڕاست بکەوە.",
+      "click_button_to_report": "کلیک لەسەر ئەو دووگمەیەی خوارەوە بکە بۆ فایلی ڕێپۆرت."
     },
     "interactions": {
       "report_id": "ئایدی ڕێپۆرت: [report_id]",
@@ -1045,7 +1045,7 @@
       "report_handled": "ڕێپۆرت چارەسەرکرا",
       "actions": "کردارەکان",
       "choose_action": "تکایە کردارێک هەڵبژێرە بۆ ئەوەی بەسەر کەسی ڕێپۆرتکراودا بێت.",
-      "report_button": ""
+      "report_button": "فایلی ڕێپۆرت"
     }
   },
   "audio": {
@@ -1149,8 +1149,8 @@
   },
   "forms": {
     "interactions": {
-      "form_in_progress": "",
-      "resume_answering": "",
+      "form_in_progress": "تۆ ئێستا فۆڕمێکت لە پێداچوونەوەیە. دەتوانیت دەست بە وەڵامدانەوە بکەیت یان ناردنەکە هەڵبوەشێنیتەوە.",
+      "resume_answering": "بەردەوامکردنی جوابدانەوە",
       "cancel_submission": "",
       "submission_cancelled": "",
       "submission_not_found": "",
