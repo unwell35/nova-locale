@@ -104,6 +104,7 @@
     "created_at": "",
     "accept": "",
     "reject": "",
+    "deny": "رفض",
     "hidden": ""
   },
   "moderator": {
@@ -467,9 +468,12 @@
       "sticker_created_title": "Sticker créé",
       "sticker_deleted_title": "Autocollant supprimé",
       "member_boost_title": "",
+      "applications_title": "",
       "type_field": "Taper",
       "regualr_field": "Régulier",
-      "animated_field": "Animé"
+      "animated_field": "Animé",
+      "submitter_field": "",
+      "application_name_field": ""
     }
   },
   "utility": {
@@ -1154,6 +1158,9 @@
       "cancel_submission": "",
       "submission_cancelled": "",
       "submission_not_found": "",
+      "submission_not_found_db": "",
+      "submission_not_found_action": "",
+      "application_not_found": "",
       "question_validation_failed": "",
       "file_upload_extention_not_allowed": "",
       "invalid_email": "",
@@ -1163,7 +1170,29 @@
       "invalid_regex": "",
       "try_again": "",
       "continue_form": "",
-      "continue": ""
+      "continue": "",
+      "not_allowed": "",
+      "cooldown": "",
+      "already_submitted": "",
+      "new_application": "",
+      "user": "",
+      "account_too_new": "",
+      "membership_age": "",
+      "delete_ticket": "",
+      "submission_not_pending": "",
+      "denied": "",
+      "accepted": "",
+      "pending": "",
+      "deny_description": "",
+      "mark_application": "",
+      "application_handled": "",
+      "application_status": "",
+      "submission_not_handled_delete_ticket": "",
+      "delete_ticket_confirmation": "",
+      "form_disabled": "",
+      "application_id": "",
+      "applications_channel_not_found": "",
+      "submitted_successfully": ""
     }
   }
 }
