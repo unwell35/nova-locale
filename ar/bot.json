@@ -104,6 +104,7 @@
     "created_at": "تم إنشاؤه في: [created_date]",
     "accept": "قبول",
     "reject": "رفض",
+    "deny": "رفض",
     "hidden": "مخفي"
   },
 
@@ -485,6 +486,7 @@
       "sticker_created_title": "إنشاء ملصق",
       "sticker_deleted_title": "حذف ملصق",
       "member_boost_title": "العضو قام بعمل بوست",
+      "applications_title": "التقديمات",
       "type_field": "النوع",
       "regualr_field": "عادي",
       "animated_field": "متحرك"
@@ -1167,6 +1169,50 @@
       "track_id": "معرف المقطع: [track_id]",
       "edit_playlist": "تعديل قائمة التشغيل",
       "playlist_list": "قوائم التشغيل الخاصة بك"
+    }
+  },
+  "forms": {
+    "interactions": {
+      "form_in_progress": "لديك تقديم قيد التقدم. يمكنك إما متابعة الإجابة أو إلغاء التقديم.",
+      "resume_answering": "متابعة الإجابة",
+      "cancel_submission": "إلغاء التقديم",
+      "submission_cancelled": "تم إلغاء تقديمك وإزالته. يمكنك بدء تقديم جديد في أي وقت.",
+      "submission_not_found": "تعذر العثور على تقديمك أو انتهت المهلة الزمنية. يمكنك بدء تقديم جديد في أي وقت.",
+      "submission_not_found_db": "تعذر العثور على هذا التقديم.",
+      "submission_not_found_action": "تعذر العثور على هذا التقديم لتنفيذ هذا الإجراء.",
+      "application_not_found": "تعذر العثور على لوحة التقديم. يبدو أنه تم حذفها.",
+      "question_validation_failed": "يرجى تقديم إجابة صحيحة:",
+      "file_upload_extention_not_allowed": "**[question]**: لقد أرفقت ملفات غير مسموح بها. الصيغ المسموح بها: [extensions]",
+      "invalid_email": "**[question]**: يرجى إدخال بريد إلكتروني صالح.",
+      "invalid_letters": "**[question]**: لا يُسمح بالأرقام أو الرموز الخاصة. الأحرف فقط.",
+      "invalid_numbers": "**[question]**: يُسمح بالأرقام فقط.",
+      "invalid_url": "**[question]**: يرجى إدخال رابط صالح.",
+      "invalid_regex": "**[question]**: الإجابة لا تطابق النمط `[regex]`.",
+      "try_again": "إعادة المحاولة",
+      "continue_form": "لا تزال هناك أسئلة متبقية. تابع إلى الصفحة [currentPage] من [maxPages].",
+      "continue": "متابعة",
+      "not_allowed": "غير مسموح لك بإرسال التقديمات.",
+      "cooldown": "أنت في فترة انتظار. يمكنك إرسال تقديم آخر بعد [time].",
+      "already_submitted": "لقد أرسلت تقديمًا بالفعل. سيقوم فريق الإدارة بمراجعته في أقرب وقت ممكن.",
+      "new_application": "تقديم جديد",
+      "user": "المستخدم",
+      "account_too_new": "حسابك جديد جدًا ولا يمكنك إرسال التقديمات.",
+      "membership_age": "لا يُسمح للأعضاء الجدد بإرسال التقديمات.",
+      "delete_ticket": "إغلاق التذكرة",
+      "submission_not_pending": "تم وضع علامة على هذا التقديم كمكتمل بالحالة: `[status]`",
+      "denied": "مرفوض",
+      "accepted": "مقبول",
+      "pending": "قيد الانتظار",
+      "deny_description": "أدخل سبب الرفض. قد يتم إشعار مقدّم الطلب.",
+      "mark_application": "هل أنت متأكد من أنك تريد تعيين حالة هذا التقديم إلى \"[status]\"؟",
+      "application_handled": "تمت معالجة التقديم.",
+      "application_status": "حالة التقديم",
+      "submission_not_handled_delete_ticket": "لم تتم معالجة هذا التقديم بعد. هل أنت متأكد من أنك تريد حذف التذكرة؟",
+      "delete_ticket_confirmation": "هل أنت متأكد من أنك تريد حذف التذكرة؟",
+      "form_disabled": "هذا التقديم معطل حاليًا بواسطة الإدارة.",
+      "application_id": "معرّف التقديم: [application_id]",
+      "applications_channel_not_found": "تعذر العثور على روم التقديمات. إذا كنت من فريق الإدارة، يرجى التحقق من إعدادات لوحة التقديم: [dashboard]",
+      "submitted_successfully": "تم إرسال تقديمك بنجاح. سيقوم فريق الإدارة بمراجعته في أقرب وقت ممكن."
     }
   }
 }
