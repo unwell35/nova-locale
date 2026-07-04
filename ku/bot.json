@@ -104,6 +104,7 @@
     "created_at": "درووستکراوە ڵە: [created_date]",
     "accept": "قبوڵکردن",
     "reject": "قبوڵ نەکردن",
+    "deny": "ڕەتکردن",
     "hidden": "شاراوە"
   },
   "moderator": {
@@ -467,9 +468,12 @@
       "sticker_created_title": "ستیکەرەکە درووستکرا",
       "sticker_deleted_title": "ستیکەرەکە سڕایەوە",
       "member_boost_title": "کەسێک بووستی سێرڤەری کرد",
+      "applications_title": "",
       "type_field": "جۆر",
       "regualr_field": "ئاسایی",
-      "animated_field": "جۆڵاو"
+      "animated_field": "جۆڵاو",
+      "submitter_field": "",
+      "application_name_field": ""
     }
   },
   "utility": {
@@ -1154,6 +1158,9 @@
       "cancel_submission": "پاشگەزبوونەوە لە ناردن",
       "submission_cancelled": "ناردنەکەت هەڵوەشایەوە و لابرا. تۆ دەتوانی دانەیەکی تازە درووسکەی هەرکەی ویستت.",
       "submission_not_found": "نامەکەت ناتوانرێ  بدۆزرێتەوە یان کاتی دیاریکراوی بەسەرچووە. تۆ دەتوانی دانەیکی تازە بنێری لە هەرکاتێک ویستت.",
+      "submission_not_found_db": "",
+      "submission_not_found_action": "",
+      "application_not_found": "",
       "question_validation_failed": "تکایە وەڵامێکی درووست بنووسە:",
       "file_upload_extention_not_allowed": "**[question]**: تۆ فایلێکت داناوە کە ڕێگە پێدراو نیە. جۆرە ڕێگە پێدراوەکان: [extensions]",
       "invalid_email": "**[question]**: تکایە دڵنیابەوە لەوەی ئیمێڵێکی درووستت داناوە.",
@@ -1163,7 +1170,29 @@
       "invalid_regex": "**[question]**: وەڵامەکە ناگونجێت لەگەڵ `[regex]`.",
       "try_again": "دووبارەی کەوە",
       "continue_form": "پرسیاری زیاتر ماوە. بەردەوامبە لەگەڵ پەڕەکانی [currentPage] لە [maxPages]",
-      "continue": "بەردەوامبوون"
+      "continue": "بەردەوامبوون",
+      "not_allowed": "",
+      "cooldown": "",
+      "already_submitted": "",
+      "new_application": "",
+      "user": "",
+      "account_too_new": "",
+      "membership_age": "",
+      "delete_ticket": "",
+      "submission_not_pending": "",
+      "denied": "",
+      "accepted": "",
+      "pending": "",
+      "deny_description": "",
+      "mark_application": "",
+      "application_handled": "",
+      "application_status": "",
+      "submission_not_handled_delete_ticket": "",
+      "delete_ticket_confirmation": "",
+      "form_disabled": "",
+      "application_id": "",
+      "applications_channel_not_found": "",
+      "submitted_successfully": ""
     }
   }
 }
