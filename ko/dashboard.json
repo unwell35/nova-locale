@@ -1780,5 +1780,11 @@
   "REVIEWER_NOTE_VARIABLE": "The Reviewer's Note",
   "HELPER_TEXT_LABEL": "Helper Text",
   "DENY_REASON": "Deny Reason",
-  "DENY_REASON_DESCRIPTION": "Force a reason to be provided when denying an application."
+  "DENY_REASON_DESCRIPTION": "Force a reason to be provided when denying an application.",
+  "COMMAND_DESCRIPTION_FORMS_POINTS": "View your or another member's applications points",
+  "COMMAND_EXAMPLE_FORMS_POINTS": "/applications points list\n/applications points list [user]",
+  "COMMAND_DESCRIPTION_RESET_FORMS_POINTS": "Reset server or member's applications points",
+  "COMMAND_EXAMPLE_RESET_FORMS_POINTS": "/applications points reset_user\n/applications points reset_server",
+  "COMMAND_DESCRIPTION_SET_FORMS_POINTS": "Set member's applications points",
+  "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]"
 }
