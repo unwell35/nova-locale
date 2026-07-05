@@ -1713,5 +1713,8 @@
   "REVIEWER_NOTE_VARIABLE": "ملاحظة المراجع",
   "HELPER_TEXT_LABEL": "النص الإرشادي",
   "DENY_REASON": "سبب الرفض",
-  "DENY_REASON_DESCRIPTION": "فرض إدخال سبب عند رفض التقديم."
+  "DENY_REASON_DESCRIPTION": "فرض إدخال سبب عند رفض التقديم.",
+  "COMMAND_DESCRIPTION_FORMS_POINTS": "عرض نقاط التقديمات الخاصة بك أو الخاصة بعضو آخر",
+  "COMMAND_DESCRIPTION_RESET_FORMS_POINTS": "إعادة تعيين نقاط التقديمات لسيرفر أو لعضو",
+  "COMMAND_DESCRIPTION_SET_FORMS_POINTS": "تعيين نقاط التقديمات لعضو"
 }
