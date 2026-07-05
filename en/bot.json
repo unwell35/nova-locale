@@ -104,6 +104,7 @@
     "created_at": "Created At: [created_date]",
     "accept": "Accept",
     "reject": "Reject",
+    "deny": "Deny",
     "hidden": "Hidden"
   },
 
@@ -485,9 +486,12 @@
       "sticker_created_title": "Sticker Created",
       "sticker_deleted_title": "Sticker Deleted",
       "member_boost_title": "Member Boosted Server",
+      "applications_title": "Applications",
       "type_field": "Type",
       "regualr_field": "Regular",
-      "animated_field": "Animated"
+      "animated_field": "Animated",
+      "submitter_field": "Submitter",
+      "application_name_field": "Application Name"
     }
   },
 
@@ -1027,7 +1031,6 @@
       "fake_accounts_action_ban": "Ban Member",
       "fake_accounts_action_add_roles": "Add Roles",
       "protection_type_embed_title_fake_accounts": "Fake Accounts",
-
       "protection_type_embed_title_anti_spam_join": "Anti Spam Join"
     }
   },
@@ -1186,6 +1189,9 @@
       "cancel_submission": "Cancel Submission",
       "submission_cancelled": "Your submission has been cancelled and removed. You can start a new one at any time.",
       "submission_not_found": "Your submission could not be found or the time limit has expired. You can start a new one at any time",
+      "submission_not_found_db": "This submission could not be found.",
+      "submission_not_found_action": "This submission could not be found to execute this action.",
+      "application_not_found": "Application panel could not be found. Looks like it has been deleted.",
       "question_validation_failed": "Please provide a valid answer:",
       "file_upload_extention_not_allowed": "**[question]**: You have attached files that are not allowed. Allowed formats: [extensions]",
       "invalid_email": "**[question]**: Please provide a valid email address.",
@@ -1195,7 +1201,29 @@
       "invalid_regex": "**[question]**: Answer does not match `[regex]`.",
       "try_again": "Try Again",
       "continue_form": "More questions remain. Continue with page [currentPage] of [maxPages]",
-      "continue": "Continue"
+      "continue": "Continue",
+      "not_allowed": "You are not allowed to submit applications",
+      "cooldown": "You are on cooldown. You can submit another application in [time].",
+      "already_submitted": "You have already submitted an application. The staff will review it as soon as possible.",
+      "new_application": "New Application",
+      "user": "User",
+      "account_too_new": "Your account is too new to submit applications.",
+      "membership_age": "New members are not allowed to submit applications.",
+      "delete_ticket": "Close Ticket",
+      "submission_not_pending": "This submission has been marked as complete with status: `[status]`",
+      "denied": "Denied",
+      "accepted": "Accepted",
+      "pending": "Pending",
+      "deny_description": "Provide a reason for denial. Submiiter may be notified.",
+      "mark_application": "Are you sure you want to mark this application as \"[status]\"?",
+      "application_handled": "Application Handled.",
+      "application_status": "Application Status",
+      "submission_not_handled_delete_ticket": "This submission has not been handled. Are you sure you want to delete the ticket?",
+      "delete_ticket_confirmation": "Are you sure you want to delete the ticket?",
+      "form_disabled": "This form is currently disabled by staff.",
+      "application_id": "Application ID: [application_id]",
+      "applications_channel_not_found": "The applications channel could not be found. If you're a staff member, please check the application panel settings: [dashboard]",
+      "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible."
     }
   }
 }
