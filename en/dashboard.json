@@ -1734,7 +1734,7 @@
   "TIME_BETWEEN_ROUNDS_LABEL": "Time Between Rounds In Seconds",
   "ANIMATE_WHEEL_LABEL": "Animate Wheel",
   "FORMS_TITLE": "Applications",
-  "FORMS_DESCRIPTION": "Create and manage custom applications for your server.",
+  "FORMS_DESCRIPTION": "Create applications and let members fill them out.",
   "CREATE_FORM_BUTTON": "Create Application",
   "CORE_FEATURES_LABEL": "Core Features",
   "RECENTS_LABEL": "Recents",
@@ -1749,8 +1749,8 @@
   "DM_ACCEPTED_FORMS_DESCRIPTION": "Send a DM to the submitter when their application is accepted.",
   "DM_DENIED_FORMS_LABEL": "DM Denied Applications",
   "DM_DENIED_FORMS_DESCRIPTION": "Send a DM to the submitter when their application is denied.",
-  "COOLDOWN_REJECT_LABEL": "Cooldown on Reject",
-  "COOLDOWN_REJECT_TOOLTIP": "Enforces a per-member cooldown between each rejected application.",
+  "COOLDOWN_DENY_LABEL": "Cooldown on Deny",
+  "COOLDOWN_DENY_TOOLTIP": "Enforces a per-member cooldown between each denied application.",
   "FORMS_LOG": "Applications Log",
   "ACTIONS_ON_PENDING": "Actions on Pending",
   "ACTIONS_ON_DENIED": "Actions on Denied",
@@ -1774,5 +1774,9 @@
   "LETTERS_OPTION": "Letters Only",
   "URL_OPTION": "URL",
   "EMAIL_OPTION": "Email",
-  "REGEX_OPTION": "Regex"
+  "REGEX_OPTION": "Regex",
+  "REVIEWER_NOTE_VARIABLE": "The Reviewer's Note",
+  "HELPER_TEXT_LABEL": "Helper Text",
+  "DENY_REASON": "Deny Reason",
+  "DENY_REASON_DESCRIPTION": "Force a reason to be provided when denying an application."
 }
