@@ -1192,7 +1192,12 @@
       "form_disabled": "هذا التقديم معطل حاليًا بواسطة الإدارة.",
       "application_id": "معرّف التقديم: [application_id]",
       "applications_channel_not_found": "تعذر العثور على روم التقديمات. إذا كنت من فريق الإدارة، يرجى التحقق من إعدادات لوحة التقديم: [dashboard]",
-      "submitted_successfully": "تم إرسال تقديمك بنجاح. سيقوم فريق الإدارة بمراجعته في أقرب وقت ممكن."
+      "submitted_successfully": "تم إرسال تقديمك بنجاح. سيقوم فريق الإدارة بمراجعته في أقرب وقت ممكن.",
+      "no_applications_pending": "",
+      "pending_applications": "",
+      "pending_application_data": "",
+      "send_application": "",
+      "application_handled_successfully": ""
     }
   }
 }
