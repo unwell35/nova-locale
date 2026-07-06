@@ -1192,7 +1192,12 @@
       "form_disabled": "",
       "application_id": "",
       "applications_channel_not_found": "",
-      "submitted_successfully": ""
+      "submitted_successfully": "",
+      "no_applications_pending": "",
+      "pending_applications": "",
+      "pending_application_data": "",
+      "send_application": "",
+      "application_handled_successfully": ""
     }
   }
 }
