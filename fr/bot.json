@@ -552,7 +552,14 @@
       "limit_animated_emojis": "[count] émojis animés non ajoutés — limite atteinte. Supprimez-en quelques-uns et réessayez.",
       "limit_discord_emojis": "`[count]` emojis non ajoutés — Limite de fréquence Discord.",
       "error_emojis": "`[count]` emojis non ajoutés — une erreur s'est produite",
-      "emojis_added": "Ajouté avec succès : [emojis]"
+      "emojis_added": "Ajouté avec succès : [emojis]",
+      "provide_stickers": "",
+      "provide_valid_sticker": "",
+      "message_link_invalid": "",
+      "stickers_guild_slot": "",
+      "limit_discord_stickers": "",
+      "limit_slot_stickers": "",
+      "error_stickers": ""
     },
     "interaction": {
       "voice_label": "Voix uniquement",
