@@ -100,7 +100,7 @@
   "OPEN_TICKET_MESSAGE_LABEL": "نامەی کردنەوەی تیکت",
   "REASONS_TITLE": "هۆکارەکان",
   "ADD_QUESTION_BUTTON": "زیادکردنی پرسیار",
-  "SEND_PANEL_DIALOG_DESCRIPTION": "نامەی پانێڵی تیکتەکە بە گوێرەی ئەو نامەی ئامادەت کردووە دەنێردرێت. تکایە دڵنیابە لەوەی بۆتەکە مۆڵەتی ناردنی هەیە بۆ چەناڵە دیاریکراوەکە",
+  "SEND_PANEL_DIALOG_DESCRIPTION": "نامەی پانێڵی بە گوێرەی ئەو نامەی ئامادەت کردووە دەنێردرێت. تکایە دڵنیابە لەوەی بۆتەکە مۆڵەتی ناردنی هەیە بۆ چەناڵە دیاریکراوەکە",
   "SEND_HUB_PANEL_DIALOG_DESCRIPTION": "نامەی پانێڵی تەوەرەکە،هۆبەکە دەنێردرێت لەسەر بنەمای ئەو نامەیەی ئامادەت کردووە. تکایە دڵنیابە لەوەی بۆتەکە دەسەڵاتی ناردنی هەیە بۆ چەناڵە دیاریکراوەکە",
   "POINTS_LABEL": "خاڵەکان",
   "ACTION_TYPE_LABEL": "جۆری کردار",
@@ -1750,5 +1750,14 @@
   "COMMAND_DESCRIPTION_RESET_FORMS_POINTS": "Reset server or member's applications points",
   "COMMAND_EXAMPLE_RESET_FORMS_POINTS": "/applications points reset_user\n/applications points reset_server",
   "COMMAND_DESCRIPTION_SET_FORMS_POINTS": "Set member's applications points",
-  "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]"
+  "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]",
+  "COMMAND_DESCRIPTION_FORMS": "View pending applications",
+  "COMMAND_EXAMPLE_FORMS": "/applications pending",
+  "ONE_MESSAGE_BUILDER": "One-message Builder",
+  "ONE_MESSAGE_BUILDER_DESCRIPTION": "Build & send a single message that includes all the application for easy viewing.",
+  "DENIED_FORMS_LABEL": "Denied Applications",
+  "MOD_ROLES": "Mod Roles",
+  "MOD_ROLES_DESCRIPTION": "Members with these roles can use all moderation commands.",
+  "COMMAND_DESCRIPTION_ADDSTICKERS": "Add stickers from other servers or image attachments to your server.",
+  "COMMAND_EXAMPLE_ADDSTICKERS": "/addstickers [message_link]"
 }

@@ -1786,5 +1786,14 @@
   "COMMAND_DESCRIPTION_RESET_FORMS_POINTS": "Reset server or member's applications points",
   "COMMAND_EXAMPLE_RESET_FORMS_POINTS": "/applications points reset_user\n/applications points reset_server",
   "COMMAND_DESCRIPTION_SET_FORMS_POINTS": "Set member's applications points",
-  "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]"
+  "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]",
+  "COMMAND_DESCRIPTION_FORMS": "View pending applications",
+  "COMMAND_EXAMPLE_FORMS": "/applications pending",
+  "ONE_MESSAGE_BUILDER": "One-message Builder",
+  "ONE_MESSAGE_BUILDER_DESCRIPTION": "Build & send a single message that includes all the application for easy viewing.",
+  "DENIED_FORMS_LABEL": "Denied Applications",
+  "MOD_ROLES": "Mod Roles",
+  "MOD_ROLES_DESCRIPTION": "Members with these roles can use all moderation commands.",
+  "COMMAND_DESCRIPTION_ADDSTICKERS": "Add stickers from other servers or image attachments to your server.",
+  "COMMAND_EXAMPLE_ADDSTICKERS": "/addstickers [message_link]"
 }

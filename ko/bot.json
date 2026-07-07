@@ -569,7 +569,14 @@
       "limit_animated_emojis": "움직이는 이모지 `[count]`개를 추가하지 못했습니다 — 한도 초과. 일부 삭제 후 다시 시도하세요.",
       "limit_discord_emojis": "`[count]`개의 이모지를 추가하지 못했습니다 — Discord 속도 제한(Rate Limit).",
       "error_emojis": "`[count]`개의 이모지를 추가하지 못했습니다 — 오류가 발생했습니다.",
-      "emojis_added": "성공적으로 추가됨: [emojis]"
+      "emojis_added": "성공적으로 추가됨: [emojis]",
+      "provide_stickers": "Please provide the sticker from other server or attach an image.",
+      "provide_valid_sticker": "Please provide valid sticker or attach an image.",
+      "message_link_invalid": "Invalid message link. The message must be from the same server where this command was used.",
+      "stickers_guild_slot": "Sticker slot is full. please delete some and try again.",
+      "limit_discord_stickers": "`[count]` stickers not added — Discord rate limit.",
+      "limit_slot_stickers": "`[count]` stickers not added — limit reached. Delete some and try again.",
+      "error_stickers": "`[count]` stickers not added — something went wrong"
     },
     "interaction": {
       "voice_label": "음성 전용",

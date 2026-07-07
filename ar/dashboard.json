@@ -103,7 +103,7 @@
   "OPEN_TICKET_MESSAGE_LABEL": "رسالة فتح التذكرة",
   "REASONS_TITLE": "الأسباب",
   "ADD_QUESTION_BUTTON": "أضافة سؤال",
-  "SEND_PANEL_DIALOG_DESCRIPTION": "سيتم إرسال رسالة لوحة التذاكر حسب الرسالة التي أعددتها ، يُرجى التأكد من ان البوت يمتلك صلاحية إرسال إلى الروم المختار",
+  "SEND_PANEL_DIALOG_DESCRIPTION": "سيتم إرسال رسالة اللوحة حسب الرسالة التي أعددتها ، يُرجى التأكد من ان البوت يمتلك صلاحية إرسال إلى الروم المختار",
   "SEND_HUB_PANEL_DIALOG_DESCRIPTION": "سيتم إرسال رسالة لوحة الرومات المؤقتة حسب الرسالة التي أعددتها ، يُرجى التأكد من ان البوت يمتلك صلاحية إرسال إلى الروم المختار",
   "POINTS_LABEL": "النقاط",
   "ACTION_TYPE_LABEL": "نوع الإجراء",
@@ -1781,5 +1781,14 @@
   "COMMAND_DESCRIPTION_RESET_FORMS_POINTS": "إعادة تعيين نقاط التقديمات لسيرفر أو لعضو",
   "COMMAND_EXAMPLE_RESET_FORMS_POINTS": "/applications points reset_user\n/applications points reset_server",
   "COMMAND_DESCRIPTION_SET_FORMS_POINTS": "تعيين نقاط التقديمات لعضو",
-  "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]"
+  "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]",
+  "COMMAND_DESCRIPTION_FORMS": "عرض التقديمات قيد الانتظار",
+  "COMMAND_EXAMPLE_FORMS": "/applications pending",
+  "ONE_MESSAGE_BUILDER": "منشئ الرسالة الواحدة",
+  "ONE_MESSAGE_BUILDER_DESCRIPTION": "أنشئ وأرسل رسالة واحدة تتضمن جميع التقديمات لسهولة عرضها.",
+  "DENIED_FORMS_LABEL": "التقديمات المرفوضة",
+  "MOD_ROLES": "رتب المشرفين",
+  "MOD_ROLES_DESCRIPTION": "الأعضاء الذين يمتلكون هذه الرتب يمكنهم استخدام جميع أوامر الإشراف.",
+  "COMMAND_DESCRIPTION_ADDSTICKERS": "أضف ملصقات من سيرفرات أخرى أو من الصور المرفقة إلى سيرفرك.",
+  "COMMAND_EXAMPLE_ADDSTICKERS": "/addstickers [message_link]"
 }
