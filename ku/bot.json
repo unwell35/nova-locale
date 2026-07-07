@@ -552,7 +552,14 @@
       "limit_animated_emojis": "`[count]` ئیمۆجیە جوڵاوەکان زیاد نەکرا — سنوورەکە پڕ بووە. هەندێک بسڕەوەو دووبارەی کەوە.",
       "limit_discord_emojis": "`[count]` ئیمۆجیەکە زیاد نەکرا — بەهۆی سنووردارێتی دیسکۆردەوە.",
       "error_emojis": "`[count]` ئیمۆجیەکە زیاد نەکرا — بەهۆی ڕوودانی هەڵەیەک دیسکۆردەوە",
-      "emojis_added": "بەسەرکەوتوویی ئیمۆجیەکە زیادکرا: [emojis]"
+      "emojis_added": "بەسەرکەوتوویی ئیمۆجیەکە زیادکرا: [emojis]",
+      "provide_stickers": "",
+      "provide_valid_sticker": "",
+      "message_link_invalid": "",
+      "stickers_guild_slot": "",
+      "limit_discord_stickers": "",
+      "limit_slot_stickers": "",
+      "error_stickers": ""
     },
     "interaction": {
       "voice_label": "تەنها ڤۆیس",
