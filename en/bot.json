@@ -1223,7 +1223,12 @@
       "form_disabled": "This form is currently disabled by staff.",
       "application_id": "Application ID: [application_id]",
       "applications_channel_not_found": "The applications channel could not be found. If you're a staff member, please check the application panel settings: [dashboard]",
-      "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible."
+      "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible.",
+      "no_applications_pending": "There are no applications pending to view.",
+      "pending_applications": "Pending Applications",
+      "pending_application_data": "User: [user]\nSubmission Date: [submissionDate]\nApplication Panel Name: [applicationName]\nApplication ID: [applicationId]",
+      "send_application": "Send Application",
+      "application_handled_successfully": "Application has been handled successfully."
     }
   }
 }
