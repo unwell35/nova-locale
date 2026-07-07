@@ -571,7 +571,14 @@
       "limit_animated_emojis": "`[count]` animated emojis not added — limit reached. Delete some and try again.",
       "limit_discord_emojis": "`[count]` emojis not added — Discord rate limit.",
       "error_emojis": "`[count]` emojis not added — something went wrong",
-      "emojis_added": "Successfully added: [emojis]"
+      "emojis_added": "Successfully added: [emojis]",
+      "provide_stickers": "Please provide the sticker from other server or attach an image.",
+      "provide_valid_sticker": "Please provide valid sticker or attach an image.",
+      "message_link_invalid": "Invalid message link. The message must be from the same server where this command was used.",
+      "stickers_guild_slot": "Sticker slot is full. please delete some and try again.",
+      "limit_discord_stickers": "`[count]` stickers not added — Discord rate limit.",
+      "limit_slot_stickers": "`[count]` stickers not added — limit reached. Delete some and try again.",
+      "error_stickers": "`[count]` stickers not added — something went wrong"
     },
     "interaction": {
       "voice_label": "Voice only",
