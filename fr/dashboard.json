@@ -100,7 +100,7 @@
   "OPEN_TICKET_MESSAGE_LABEL": "Message de ticket ouvert",
   "REASONS_TITLE": "Raisons",
   "ADD_QUESTION_BUTTON": "Ajouter une question",
-  "SEND_PANEL_DIALOG_DESCRIPTION": "Le message du panneau de ticket sera envoyé en fonction du message que vous avez préparé. Veuillez vous assurer que le bot est autorisé à envoyer des messages au canal sélectionné.",
+  "SEND_PANEL_DIALOG_DESCRIPTION": "Le message du panneau sera envoyé en fonction du message que vous avez préparé. Veuillez vous assurer que le bot est autorisé à envoyer des messages au canal sélectionné.",
   "SEND_HUB_PANEL_DIALOG_DESCRIPTION": "Le message du panneau central sera envoyé en fonction du message que vous avez préparé. Veuillez vous assurer que le bot est autorisé à envoyer des messages au canal sélectionné.",
   "POINTS_LABEL": "Points",
   "ACTION_TYPE_LABEL": "Type d'action",
