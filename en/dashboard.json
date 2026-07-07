@@ -103,7 +103,7 @@
   "OPEN_TICKET_MESSAGE_LABEL": "Open Ticket Message",
   "REASONS_TITLE": "Reasons",
   "ADD_QUESTION_BUTTON": "Add Question",
-  "SEND_PANEL_DIALOG_DESCRIPTION": "The ticket panel message will be sent based on the message you prepared. Please make sure the bot has permission to send to the selected channel.",
+  "SEND_PANEL_DIALOG_DESCRIPTION": "The panel message will be sent based on the message you prepared. Please make sure the bot has permission to send to the selected channel.",
   "SEND_HUB_PANEL_DIALOG_DESCRIPTION": "The hub panel message will be sent based on the message you prepared. Please make sure the bot has permission to send to the selected channel.",
   "POINTS_LABEL": "Points",
   "ACTION_TYPE_LABEL": "Action Type",
@@ -1786,5 +1786,12 @@
   "COMMAND_DESCRIPTION_SET_FORMS_POINTS": "Set member's applications points",
   "COMMAND_EXAMPLE_SET_FORMS_POINTS": "/applications points set [user] [points]",
   "COMMAND_DESCRIPTION_FORMS": "View pending applications",
-  "COMMAND_EXAMPLE_FORMS": "/applications pending"
+  "COMMAND_EXAMPLE_FORMS": "/applications pending",
+  "ONE_MESSAGE_BUILDER": "One-message Builder",
+  "ONE_MESSAGE_BUILDER_DESCRIPTION": "Build & send a single message that includes all the application for easy viewing.",
+  "DENIED_FORMS_LABEL": "Denied Applications",
+  "MOD_ROLES": "Mod Roles",
+  "MOD_ROLES_DESCRIPTION": "Members with these roles can use all moderation commands.",
+  "COMMAND_DESCRIPTION_ADDSTICKERS": "Add stickers from other servers or image attachments to your server.",
+  "COMMAND_EXAMPLE_ADDSTICKERS": "/addstickers [message_link]"
 }
