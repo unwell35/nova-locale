@@ -130,7 +130,8 @@
       "anti_multiple_lines_title": "Lignes anti-multiples",
       "mass_mentions_title": "Mentions de masse",
       "bad_words_title": "Mauvais mots",
-      "automod": "Mod automatique"
+      "automod": "Mod automatique",
+      "command_exceeded_limit": ""
     },
     "commands": {
       "user_banned": "[user] a été banni du serveur. Motif : `[reason]`",
