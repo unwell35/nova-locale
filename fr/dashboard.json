@@ -1768,5 +1768,6 @@
   "KICK_COMMAND": "Kick",
   "TMUTE_COMMAND": "Text Mute",
   "PMUTE_COMMAND": "Prison",
-  "TIMEOUT_COMMAND": "Timeout"
+  "TIMEOUT_COMMAND": "Timeout",
+  "STYLE_LABEL": "Style"
 }
