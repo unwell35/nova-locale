@@ -130,7 +130,8 @@
       "anti_multiple_lines_title": "مانع الفواصل الكثيرة",
       "mass_mentions_title": "منشنات الكثيرة",
       "bad_words_title": "الكلمات السيئة",
-      "automod": "الرقابة التلقائية"
+      "automod": "الرقابة التلقائية",
+      "command_exceeded_limit": ""
     },
     "commands": {
       "user_banned": "[user] تم حظره من السيرفر. السبب: `[reason]`",
