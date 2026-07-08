@@ -1759,5 +1759,15 @@
   "MOD_ROLES": "Mod Roles",
   "MOD_ROLES_DESCRIPTION": "Members with these roles can use all moderation commands.",
   "COMMAND_DESCRIPTION_ADDSTICKERS": "Add stickers from other servers or image attachments to your server.",
-  "COMMAND_EXAMPLE_ADDSTICKERS": "/addstickers [message_link]"
+  "COMMAND_EXAMPLE_ADDSTICKERS": "/addstickers [message_link]",
+  "COMMANDS_DESCRIPTION": "List of all commands for easy management",
+  "COMMAND_LIMITS_TITLE": "Command Limits",
+  "COMMAND_LIMITS_DESCRIPTION": "Specifies the limits for each command.",
+  "COMMANDS_LIMITS_NOTE": "0 is unlimited. Limit resets daily.",
+  "COMMANDS_LIMITS_ALEART": "If a member has multiple roles, the highest limit is applied. If any role has a limit of 0, the member has unlimited usage.\n\nAdministrators do not have command limits.",
+  "BAN_COMMAND": "Ban",
+  "KICK_COMMAND": "Kick",
+  "TMUTE_COMMAND": "Text Mute",
+  "PMUTE_COMMAND": "Prison",
+  "TIMEOUT_COMMAND": "Timeout"
 }

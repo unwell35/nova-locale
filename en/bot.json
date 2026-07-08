@@ -131,8 +131,8 @@
       "anti_multiple_lines_title": "Anti-Multiple Lines",
       "mass_mentions_title": "Mass Mentions",
       "bad_words_title": "Bad Words",
-
-      "automod": "AutoMod"
+      "automod": "AutoMod",
+      "command_exceeded_limit": "You have exceeded the limit for this command."
     },
     "commands": {
       "user_banned": "[user] has been banned from the server. Reason: `[reason]`",
