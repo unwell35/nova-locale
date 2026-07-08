@@ -130,7 +130,8 @@
       "anti_multiple_lines_title": "دژە-فرە هێڵ",
       "mass_mentions_title": "Mass Mentions",
       "bad_words_title": "وشەی نەشیاو",
-      "automod": "ئوتۆمۆد"
+      "automod": "ئوتۆمۆد",
+      "command_exceeded_limit": ""
     },
     "commands": {
       "user_banned": "[user] باندکرا لە سێرڤەر. هۆکار: `[reason]`",
