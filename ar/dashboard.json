@@ -1723,5 +1723,15 @@
   "DENIED_FORMS_LABEL": "التقديمات المرفوضة",
   "MOD_ROLES": "رتب المشرفين",
   "MOD_ROLES_DESCRIPTION": "الأعضاء الذين يمتلكون هذه الرتب يمكنهم استخدام جميع أوامر الإشراف.",
-  "COMMAND_DESCRIPTION_ADDSTICKERS": "أضف ملصقات من سيرفرات أخرى أو من الصور المرفقة إلى سيرفرك."
+  "COMMAND_DESCRIPTION_ADDSTICKERS": "أضف ملصقات من سيرفرات أخرى أو من الصور المرفقة إلى سيرفرك.",
+  "COMMANDS_DESCRIPTION": "قائمة بجميع الأوامر لتسهيل إدارتها",
+  "COMMAND_LIMITS_TITLE": "حدود الأوامر",
+  "COMMAND_LIMITS_DESCRIPTION": "يحدد حدود الاستخدام لكل أمر.",
+  "COMMANDS_LIMITS_NOTE": "0 يعني غير محدود. تتم إعادة تعيين الحد يوميًا.",
+  "COMMANDS_LIMITS_ALEART": "إذا كان لدى العضو عدة رتب، فسيتم تطبيق أعلى حد. وإذا كانت إحدى الرتب حدها 0، فسيكون استخدام العضو غير محدود.\n\nالمشرفون لا تطبق عليهم حدود الأوامر.",
+  "BAN_COMMAND": "الحظر",
+  "KICK_COMMAND": "الطرد",
+  "TMUTE_COMMAND": "الأسكات الكتابي",
+  "PMUTE_COMMAND": "السجن",
+  "TIMEOUT_COMMAND": "وقت مستقطع"
 }
