@@ -1733,5 +1733,6 @@
   "KICK_COMMAND": "الطرد",
   "TMUTE_COMMAND": "الأسكات الكتابي",
   "PMUTE_COMMAND": "السجن",
-  "TIMEOUT_COMMAND": "وقت مستقطع"
+  "TIMEOUT_COMMAND": "وقت مستقطع",
+  "STYLE_LABEL": "نمط العرض"
 }
