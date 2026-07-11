@@ -1734,5 +1734,11 @@
   "TMUTE_COMMAND": "الأسكات الكتابي",
   "PMUTE_COMMAND": "السجن",
   "TIMEOUT_COMMAND": "وقت مستقطع",
-  "STYLE_LABEL": "نمط العرض"
+  "STYLE_LABEL": "نمط العرض",
+  "AUTO_LINE_TEMPLATE": "الخط التلقائي",
+  "AUTO_REACT_TEMPLATE": "رياكشن تلقائي",
+  "CHANNELS_AUTO_LINE": "اختر الرومات التي سيتم إرسال الصورة إليها تلقائيًا",
+  "UPLOAD_IMAGE": "رفع صورة",
+  "CHANNELS_AUTO_REACT": "اختر الرومات التي سيتم إضافة الرياكشن إليها تلقائيًا",
+  "SELECT_EMOJIS": "اختر الإيموجيات"
 }
