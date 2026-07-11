@@ -131,8 +131,7 @@
       "anti_multiple_lines_title": "Anti-Multiple Lines",
       "mass_mentions_title": "Mass Mentions",
       "bad_words_title": "Bad Words",
-      "automod": "AutoMod",
-      "command_exceeded_limit": "You have exceeded the limit for this command."
+      "automod": "AutoMod"
     },
     "commands": {
       "user_banned": "[user] has been banned from the server. Reason: `[reason]`",
@@ -223,7 +222,8 @@
       "temproles_display": "User: [user] - Role: [role]\nBy: [author] - Remove At: [date]\n-# Data ID: [data_id]",
       "data_id_required": "Please provide a data id",
       "temprole_removed": "Temp role has been removed successfully from [member]",
-      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
+      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel.",
+      "command_exceeded_limit": "You have exceeded the limit for this command."
     },
     "embed": {
       "pmute_title": "Prison",
@@ -1191,7 +1191,7 @@
   },
   "forms": {
     "interactions": {
-      "form_in_progress": "You have an form in progress. You can either resume answering or cancel the submission.",
+      "form_in_progress": "You have an application in progress. You can either resume answering or cancel the submission.",
       "resume_answering": "Resume Answering",
       "cancel_submission": "Cancel Submission",
       "submission_cancelled": "Your submission has been cancelled and removed. You can start a new one at any time.",
@@ -1227,7 +1227,7 @@
       "application_status": "Application Status",
       "submission_not_handled_delete_ticket": "This submission has not been handled. Are you sure you want to delete the ticket?",
       "delete_ticket_confirmation": "Are you sure you want to delete the ticket?",
-      "form_disabled": "This form is currently disabled by staff.",
+      "form_disabled": "This application panel is currently disabled by staff.",
       "application_id": "Application ID: [application_id]",
       "applications_channel_not_found": "The applications channel could not be found. If you're a staff member, please check the application panel settings: [dashboard]",
       "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible.",
