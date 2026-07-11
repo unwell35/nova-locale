@@ -131,7 +131,7 @@
       "mass_mentions_title": "منشنات الكثيرة",
       "bad_words_title": "الكلمات السيئة",
       "automod": "الرقابة التلقائية",
-      "command_exceeded_limit": ""
+      "command_exceeded_limit": "لقد تجاوزت الحد المسموح به لهذا الأمر."
     },
     "commands": {
       "user_banned": "[user] تم حظره من السيرفر. السبب: `[reason]`",
