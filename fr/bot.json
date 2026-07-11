@@ -130,8 +130,7 @@
       "anti_multiple_lines_title": "Lignes anti-multiples",
       "mass_mentions_title": "Mentions de masse",
       "bad_words_title": "Mauvais mots",
-      "automod": "Mod automatique",
-      "command_exceeded_limit": "You have exceeded the limit for this command."
+      "automod": "Mod automatique"
     },
     "commands": {
       "user_banned": "[user] a été banni du serveur. Motif : `[reason]`",
@@ -222,7 +221,8 @@
       "temproles_display": "Utilisateur : [user] - Rôle : [role]\nPar : [author] - Supprimer à : [date]\n-# ID de données : [data_id]",
       "data_id_required": "Veuillez fournir un identifiant de données",
       "temprole_removed": "Le rôle temporaire a été supprimé avec succès de [member]",
-      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
+      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel.",
+      "command_exceeded_limit": "You have exceeded the limit for this command."
     },
     "embed": {
       "pmute_title": "Prison",

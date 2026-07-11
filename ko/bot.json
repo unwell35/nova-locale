@@ -131,8 +131,7 @@
       "anti_multiple_lines_title": "여러 줄 메시지 방지",
       "mass_mentions_title": "과도한 멘션 방지",
       "bad_words_title": "금지어/비속어",
-      "automod": "오토모드 (AutoMod)",
-      "command_exceeded_limit": "You have exceeded the limit for this command."
+      "automod": "오토모드 (AutoMod)"
     },
     "commands": {
       "user_banned": "[user]님이 서버에서 차단되었습니다. 사유: `[reason]`",
@@ -223,7 +222,8 @@
       "temproles_display": "유저: [user] - 역할: [role]\n담당자: [author] - 제거 일시: [date]\n-# 데이터 ID: [data_id]",
       "data_id_required": "데이터 ID를 입력해 주세요",
       "temprole_removed": "[member]님에게서 임시 역할이 제거되었습니다",
-      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel."
+      "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel.",
+      "command_exceeded_limit": "You have exceeded the limit for this command."
     },
     "embed": {
       "pmute_title": "감옥 (Prison)",
