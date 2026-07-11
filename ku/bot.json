@@ -130,8 +130,7 @@
       "anti_multiple_lines_title": "دژە-فرە هێڵ",
       "mass_mentions_title": "Mass Mentions",
       "bad_words_title": "وشەی نەشیاو",
-      "automod": "ئوتۆمۆد",
-      "command_exceeded_limit": ""
+      "automod": "ئوتۆمۆد"
     },
     "commands": {
       "user_banned": "[user] باندکرا لە سێرڤەر. هۆکار: `[reason]`",
@@ -222,7 +221,8 @@
       "temproles_display": "کەسەکە: [user] - ڕۆڵەکە: [role]\nلەلایەن: [author] - لابراوە لە: [date]\n-# ئایدی داتاکە ID: [data_id]",
       "data_id_required": "تکایە ئایدی داتاکە دابینبکە بیهێنە",
       "temprole_removed": "ڕۆڵە کاتیەکە بەسەرکەوتوویی لابرا لە [member]",
-      "lock_onboarding_error": "تۆ ناتوانی چەناڵەکە دابخەیت لەبەرئەوەی ئەمە تاکە چەناڵە کە `@everyone` دەتوانێ نامەی تێدا بنێرێت.\n چوونە ژوورەوە بەلایەنی کەمەوە پێویستی بە یەک چەناڵی بەردەست هەیە."
+      "lock_onboarding_error": "تۆ ناتوانی چەناڵەکە دابخەیت لەبەرئەوەی ئەمە تاکە چەناڵە کە `@everyone` دەتوانێ نامەی تێدا بنێرێت.\n چوونە ژوورەوە بەلایەنی کەمەوە پێویستی بە یەک چەناڵی بەردەست هەیە.",
+      "command_exceeded_limit": ""
     },
     "embed": {
       "pmute_title": "بەندینخانە",
