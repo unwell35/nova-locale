@@ -1769,5 +1769,11 @@
   "TMUTE_COMMAND": "Text Mute",
   "PMUTE_COMMAND": "Prison",
   "TIMEOUT_COMMAND": "Timeout",
-  "STYLE_LABEL": "Style"
+  "STYLE_LABEL": "Style",
+  "AUTO_LINE_TEMPLATE": "Auto Line",
+  "AUTO_REACT_TEMPLATE": "Auto React",
+  "CHANNELS_AUTO_LINE": "Select the channels where the image will be sent automatically",
+  "UPLOAD_IMAGE": "Upload Image",
+  "CHANNELS_AUTO_REACT": "Select the channels where reactions will be added automatically",
+  "SELECT_EMOJIS": "Select Emojis"
 }

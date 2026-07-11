@@ -130,7 +130,8 @@
       "anti_multiple_lines_title": "دژە-فرە هێڵ",
       "mass_mentions_title": "Mass Mentions",
       "bad_words_title": "وشەی نەشیاو",
-      "automod": "ئوتۆمۆد"
+      "automod": "ئوتۆمۆد",
+      "command_exceeded_limit": "You have exceeded the limit for this command."
     },
     "commands": {
       "user_banned": "[user] باندکرا لە سێرڤەر. هۆکار: `[reason]`",
@@ -1158,7 +1159,7 @@
   },
   "forms": {
     "interactions": {
-      "form_in_progress": "You have an form in progress. You can either resume answering or cancel the submission.",
+      "form_in_progress": "You have an application in progress. You can either resume answering or cancel the submission.",
       "resume_answering": "Resume Answering",
       "cancel_submission": "Cancel Submission",
       "submission_cancelled": "Your submission has been cancelled and removed. You can start a new one at any time.",
@@ -1194,7 +1195,7 @@
       "application_status": "Application Status",
       "submission_not_handled_delete_ticket": "This submission has not been handled. Are you sure you want to delete the ticket?",
       "delete_ticket_confirmation": "Are you sure you want to delete the ticket?",
-      "form_disabled": "This form is currently disabled by staff.",
+      "form_disabled": "This application panel is currently disabled by staff.",
       "application_id": "Application ID: [application_id]",
       "applications_channel_not_found": "The applications channel could not be found. If you're a staff member, please check the application panel settings: [dashboard]",
       "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible."
