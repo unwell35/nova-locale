@@ -1812,5 +1812,6 @@
   "CHANNELS_AUTO_LINE": "Select the channels where the image will be sent automatically",
   "UPLOAD_IMAGE": "Upload Image",
   "CHANNELS_AUTO_REACT": "Select the channels where reactions will be added automatically",
-  "SELECT_EMOJIS": "Select Emojis"
+  "SELECT_EMOJIS": "Select Emojis",
+  "USE_EMBEDDED_ACTIVITES_PERMISSION": "Use Activities"
 }

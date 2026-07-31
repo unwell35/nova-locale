@@ -472,7 +472,9 @@
       "applications_title": "Applications",
       "type_field": "جۆر",
       "regualr_field": "ئاسایی",
-      "animated_field": "جۆڵاو"
+      "animated_field": "جۆڵاو",
+      "submitter_field": "ناردەر",
+      "application_name_field": "ناوی داواکاری"
     }
   },
   "utility": {
@@ -1198,7 +1200,12 @@
       "form_disabled": "This application panel is currently disabled by staff.",
       "application_id": "Application ID: [application_id]",
       "applications_channel_not_found": "The applications channel could not be found. If you're a staff member, please check the application panel settings: [dashboard]",
-      "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible."
+      "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible.",
+      "no_applications_pending": "هیچ داواکارییەکی چاوەڕوان بۆ بینین نیە.",
+      "pending_applications": "داواکارییە چاوەڕوانەکان",
+      "pending_application_data": "بەکارهێنەر: [user]\nبەرواری ناردن: [submissionDate]\nناوی پانێلی داواکاری: [applicationName]\nناسنامەی داواکاری: [applicationId]",
+      "send_application": "ناردنی داواکاری",
+      "application_handled_successfully": "داواکارییەکە بە سەرکەوتوویی چارەسەرکرا."
     }
   }
 }

@@ -490,7 +490,9 @@
       "applications_title": "التقديمات",
       "type_field": "النوع",
       "regualr_field": "عادي",
-      "animated_field": "متحرك"
+      "animated_field": "متحرك",
+      "submitter_field": "المُرسِل",
+      "application_name_field": "اسم التقديم"
     }
   },
 
@@ -708,6 +710,7 @@
       "giveaway_created": "تم إنشاء القيف اواي بنجاح!",
       "giveaway_rerolled": "تم إعادة اختيار الفائزين بنجاح",
       "game_running": "هناك جولة قيد التشغيل بالفعل الآن في هذه الشات!",
+      "mini_game_running": "هناك جلسة لعبة جماعية قيد التشغيل بالفعل الآن.",
       "no_game_running": "لا يوجد لعبة تعمل الآن في هذه الشات!",
       "game_stopped": "تم إيقاف اللعبة في هذه الشات بنجاح",
       "both_limited_roles": "يمكنك اختيار خيار واحد فقط: إما الرتب المضمنة أو الرتب المستبعدة، وليس كلاهما.",
@@ -1227,7 +1230,12 @@
       "form_disabled": "هذا التقديم معطل حاليًا بواسطة الإدارة.",
       "application_id": "معرّف التقديم: [application_id]",
       "applications_channel_not_found": "تعذر العثور على روم التقديمات. إذا كنت من فريق الإدارة، يرجى التحقق من إعدادات لوحة التقديم: [dashboard]",
-      "submitted_successfully": "تم إرسال تقديمك بنجاح. سيقوم فريق الإدارة بمراجعته في أقرب وقت ممكن."
+      "submitted_successfully": "تم إرسال تقديمك بنجاح. سيقوم فريق الإدارة بمراجعته في أقرب وقت ممكن.",
+      "no_applications_pending": "لا توجد تقديمات معلّقة لعرضها حاليًا.",
+      "pending_applications": "التقديمات المعلّقة",
+      "pending_application_data": "المستخدم: [user]\nتاريخ التقديم: [submissionDate]\nاسم لوحة التقديم: [applicationName]\nمعرّف التقديم: [applicationId]",
+      "send_application": "إرسال التقديم",
+      "application_handled_successfully": "تمت معالجة التقديم بنجاح."
     }
   }
 }

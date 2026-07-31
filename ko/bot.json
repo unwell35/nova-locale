@@ -489,7 +489,9 @@
       "applications_title": "Applications",
       "type_field": "유형",
       "regualr_field": "일반",
-      "animated_field": "애니메이션"
+      "animated_field": "애니메이션",
+      "submitter_field": "제출자",
+      "application_name_field": "신청서 이름"
     }
   },
 
@@ -1229,7 +1231,12 @@
       "form_disabled": "This application panel is currently disabled by staff.",
       "application_id": "Application ID: [application_id]",
       "applications_channel_not_found": "The applications channel could not be found. If you're a staff member, please check the application panel settings: [dashboard]",
-      "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible."
+      "submitted_successfully": "Your application has been submitted successfully. Staff will review it as soon as possible.",
+      "no_applications_pending": "확인할 대기 중인 신청서가 없습니다.",
+      "pending_applications": "대기 중인 신청서",
+      "pending_application_data": "유저: [user]\n제출일: [submissionDate]\n신청 패널 이름: [applicationName]\n신청 ID: [applicationId]",
+      "send_application": "신청서 제출",
+      "application_handled_successfully": "신청서가 성공적으로 처리되었습니다."
     }
   }
 }
