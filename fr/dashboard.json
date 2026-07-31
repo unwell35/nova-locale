@@ -1676,7 +1676,7 @@
   "MEMBERSHIP_AGE_DESCRIPTION": "Les utilisateurs doivent être membres du serveur depuis au moins cette durée avant de pouvoir soumettre une candidature",
   "CONFIRMATION_FORM_SUBMISSION": "Confirmation de soumission de candidature",
   "SEND_FORM_TYPE": "Type d'envoi de la candidature",
-  "CREATE_TICKET": "Créer un billet",
+  "CREATE_TICKET": "Créer un ticket",
   "SUBMITTER_PERMISSIONS_LABEL": "Autorisations du candidat",
   "FORM_NAME_VARIABLE": "Nom de la candidature",
   "REVIEWER_VARIABLE": "Le réviseur qui accepte/refuse la candidature",
