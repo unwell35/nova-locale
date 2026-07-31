@@ -473,8 +473,8 @@
       "type_field": "جۆر",
       "regualr_field": "ئاسایی",
       "animated_field": "جۆڵاو",
-      "submitter_field": "",
-      "application_name_field": ""
+      "submitter_field": "ناردەر",
+      "application_name_field": "ناوی داواکاری"
     }
   },
   "utility": {
@@ -1201,11 +1201,11 @@
       "application_id": "",
       "applications_channel_not_found": "",
       "submitted_successfully": "",
-      "no_applications_pending": "",
-      "pending_applications": "",
-      "pending_application_data": "",
-      "send_application": "",
-      "application_handled_successfully": ""
+      "no_applications_pending": "هیچ داواکارییەکی چاوەڕوان بۆ بینین نیە.",
+      "pending_applications": "داواکارییە چاوەڕوانەکان",
+      "pending_application_data": "بەکارهێنەر: [user]\nبەرواری ناردن: [submissionDate]\nناوی پانێلی داواکاری: [applicationName]\nناسنامەی داواکاری: [applicationId]",
+      "send_application": "ناردنی داواکاری",
+      "application_handled_successfully": "داواکارییەکە بە سەرکەوتوویی چارەسەرکرا."
     }
   }
 }
