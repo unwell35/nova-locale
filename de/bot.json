@@ -92,7 +92,7 @@
     "yes": "Ja",
     "no": "Nein",
     "remaining_days_subscription": "Kurzer freundlicher Hinweis: Dein Abo läuft bald ab. Du hast noch **[remainingDays]** Tage übrig.\nDu kannst dein Abo auf unserer Premium-Abo-Seite verlängern: https://novax.gg/premium/subscriptions.",
-    "subscrption_expired": "Hey! Kurzer Hinweis: Dein Abo ist **abgelaufen**. Kein Stress, du kannst es jetzt auf unserer Premium-Abo-Seite verlängern: http://novax.gg/premium/subscriptions.",
+    "subscrption_expired": "Hey! Kurzer Hinweis: Dein Abo ist **abgelaufen**. Kein Stress, du kannst es jetzt auf unserer Premium-Abo-Seite verlängern: https://novax.gg/premium/subscriptions.",
     "user_id": "Nutzer-ID",
     "sent_from_server": "Gesendet vom Server: [serverName]",
     "import": "Importieren",
