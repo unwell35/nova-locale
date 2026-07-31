@@ -1641,6 +1641,7 @@
   "NICKNAME_PLACEHOLDER": "أسم مستعار",
   "GLOBAL_NAME_VARIABLE": "أسم العام",
   "GIVEAWAY_TEMPLATES": "قوالب القيف اواي",
+  "AUTOMOD_UPDATED": "تم تحديث الرقابة التلقائية: {automod}",
   "COMMAND_DESCRIPTION_STOP_GAME": "إيقاف لعبة في القناة الحالية",
   "BOOSTS_MENU": "البوستات",
   "BOOSTS_PLUGIN_DESCRIPTION": "إرسال رسالة شكر أو إشعار تلقائيًا كلما قام عضو بعمل بوست للسيرفر.",
