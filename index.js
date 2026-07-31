@@ -6,7 +6,7 @@
  */
 
 /**
- * @type {Record<'ar' | 'en' | 'ku' | 'fr' | 'ko' | 'de' | 'it' | 'pt-BR', BotTranslation>}
+ * @type {Record<'ar' | 'en' | 'ku' | 'fr' | 'ko' | 'de' | 'it' | 'pt-BR' | 'tr', BotTranslation>}
  */
 const BOT_LANGUAGES = {
   ar: require("./ar/bot.json"),
@@ -17,10 +17,11 @@ const BOT_LANGUAGES = {
   de: require("./de/bot.json"),
   it: require("./it/bot.json"),
   "pt-BR": require("./pt-BR/bot.json"),
+  tr: require("./tr/bot.json"),
 };
 
 /**
- * @type {Record<'ar' | 'en' | 'ku' | 'fr' | 'ko' | 'de' | 'it' | 'pt-BR', DashboardTranslation>}
+ * @type {Record<'ar' | 'en' | 'ku' | 'fr' | 'ko' | 'de' | 'it' | 'pt-BR' | 'tr', DashboardTranslation>}
  */
 const DASHBOARD_LANGUAGES = {
   ar: require("./ar/dashboard.json"),
@@ -31,6 +32,7 @@ const DASHBOARD_LANGUAGES = {
   de: require("./de/dashboard.json"),
   it: require("./it/dashboard.json"),
   "pt-BR": require("./pt-BR/dashboard.json"),
+  tr: require("./tr/dashboard.json"),
 };
 
 module.exports = {
