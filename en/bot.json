@@ -92,7 +92,7 @@
     "yes": "Yes",
     "no": "No",
     "remaining_days_subscription": "Just a friendly heads-up: your subscription is expiring soon. You've got **[remainingDays]** days left.\nYou can renew your subscription at our Premium Subscriptions page: https://novax.gg/premium/subscriptions.",
-    "subscrption_expired": "Hey there! Just a quick heads-up: your subscription has **expired**. Don't worry, you can renew now at our Premium Subscriptions page: http://novax.gg/premium/subscriptions.",
+    "subscrption_expired": "Hey there! Just a quick heads-up: your subscription has **expired**. Don't worry, you can renew now at our Premium Subscriptions page: https://novax.gg/premium/subscriptions.",
     "user_id": "User ID",
     "sent_from_server": "Sent from server: [serverName]",
     "import": "Import",
