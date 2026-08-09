@@ -1741,5 +1741,16 @@
   "CHANNELS_AUTO_LINE": "اختر الرومات التي سيتم إرسال الصورة إليها تلقائيًا",
   "UPLOAD_IMAGE": "رفع صورة",
   "CHANNELS_AUTO_REACT": "اختر الرومات التي سيتم إضافة الرياكشن إليها تلقائيًا",
-  "SELECT_EMOJIS": "اختر الإيموجيات"
+  "SELECT_EMOJIS": "اختر الإيموجيات",
+  "DEEP_LINK_TITLE": "فتح الرابط المشترك",
+  "DEEP_LINK_DESCRIPTION": "أختر السيرفر الذي تريد فتح هذا الرابط فيه. سيتم نقلك مباشرة إلى الإعداد الذي يشير إليه.",
+  "DEEP_LINK_INVALID": "رابط غير صالح",
+  "DEEP_LINK_INVALID_DESCRIPTION": "هذا الرابط غير صحيح أو غير مكتمل، لذا لا يوجد ما يمكن فتحه.",
+  "DEEP_LINK_NO_SERVERS": "أنت لا تدير أي سيرفر حتى الآن، لذا لا يوجد مكان لفتح هذا الرابط فيه.",
+  "DEEP_LINK_SELECT_SERVER": "أختر سيرفر",
+  "DEEP_LINK_SERVER_COUNT": "{count} متاح",
+  "DEEP_LINK_OPEN_BUTTON": "فتح",
+  "COPY_DEEP_LINK_BUTTON": "نسخ رابط هذه البطاقة",
+  "SERVER_LABEL": "السيرفر",
+  "NO_RESULTS_FOUND": "لا توجد نتائج"
 }
