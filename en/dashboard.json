@@ -1810,5 +1810,17 @@
   "CHANNELS_AUTO_LINE": "Select the channels where the image will be sent automatically",
   "UPLOAD_IMAGE": "Upload Image",
   "CHANNELS_AUTO_REACT": "Select the channels where reactions will be added automatically",
-  "SELECT_EMOJIS": "Select Emojis"
+  "SELECT_EMOJIS": "Select Emojis",
+
+  "DEEP_LINK_TITLE": "Open shared link",
+  "DEEP_LINK_DESCRIPTION": "Choose the server you want to open this link in. You'll be taken straight to the setting it points at.",
+  "DEEP_LINK_INVALID": "Invalid link",
+  "DEEP_LINK_INVALID_DESCRIPTION": "This link is malformed or incomplete, so there's nothing to open.",
+  "DEEP_LINK_NO_SERVERS": "You don't administer any server yet, so there's nowhere to open this link.",
+  "DEEP_LINK_SELECT_SERVER": "Select a server",
+  "DEEP_LINK_SERVER_COUNT": "{count} available",
+  "DEEP_LINK_OPEN_BUTTON": "Open",
+  "COPY_DEEP_LINK_BUTTON": "Copy link to this card",
+  "SERVER_LABEL": "Server",
+  "NO_RESULTS_FOUND": "No results found"
 }
