@@ -1722,5 +1722,16 @@
   "ACTIONS_ON_DENIED": "کردارەکان لەکاتی ڕەتکردنەوە",
   "PING_ROLES_LABEL": "ڕۆڵە ئاماژە پێدراوەکان",
   "PING_ROLES_DESCRIPTION": "دیاریکردنی چ ڕۆڵێک بۆ ئاماژەپێدان لەکاتێک داواکاریەک پێشکەش دەکرێت.",
-  "REQUIREMENTS_LABEL": "پێویستیەکان"
+  "REQUIREMENTS_LABEL": "پێویستیەکان",
+  "DEEP_LINK_TITLE": "کردنەوەی لینکی هاوبەشکراو",
+  "DEEP_LINK_DESCRIPTION": "ئەو سێرڤەرە هەڵبژێرە کە دەتەوێت ئەم لینکەی تێدا بکەیتەوە. ڕاستەوخۆ دەبردرێیت بۆ ئەو ڕێکخستنەی ئاماژەی بۆ دەکات.",
+  "DEEP_LINK_INVALID": "لینکی نادروست",
+  "DEEP_LINK_INVALID_DESCRIPTION": "ئەم لینکە هەڵەیە یان تەواو نییە، بۆیە هیچ شتێک نییە بکرێتەوە.",
+  "DEEP_LINK_NO_SERVERS": "تۆ هێشتا هیچ سێرڤەرێک بەڕێوە نابەیت، بۆیە هیچ شوێنێک نییە ئەم لینکەی تێدا بکەیتەوە.",
+  "DEEP_LINK_SELECT_SERVER": "سێرڤەرێک هەڵبژێرە",
+  "DEEP_LINK_SERVER_COUNT": "{count} بەردەستە",
+  "DEEP_LINK_OPEN_BUTTON": "کردنەوە",
+  "COPY_DEEP_LINK_BUTTON": "لەبەرگرتنەوەی لینکی ئەم کارتە",
+  "SERVER_LABEL": "سێرڤەر",
+  "NO_RESULTS_FOUND": "هیچ ئەنجامێک نەدۆزرایەوە"
 }
