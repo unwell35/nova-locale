@@ -1776,5 +1776,17 @@
   "CHANNELS_AUTO_LINE": "Wähle die Kanäle, in die das Bild automatisch gesendet wird",
   "UPLOAD_IMAGE": "Bild hochladen",
   "CHANNELS_AUTO_REACT": "Wähle die Kanäle, in denen automatisch Reaktionen hinzugefügt werden",
-  "SELECT_EMOJIS": "Emojis auswählen"
+  "SELECT_EMOJIS": "Emojis auswählen",
+
+  "DEEP_LINK_TITLE": "Geteilten Link öffnen",
+  "DEEP_LINK_DESCRIPTION": "Wähle den Server, in dem du diesen Link öffnen möchtest. Du landest direkt bei der Einstellung, auf die er verweist.",
+  "DEEP_LINK_INVALID": "Ungültiger Link",
+  "DEEP_LINK_INVALID_DESCRIPTION": "Dieser Link ist fehlerhaft oder unvollständig, es gibt also nichts zu öffnen.",
+  "DEEP_LINK_NO_SERVERS": "Du verwaltest noch keinen Server, also gibt es nichts, wo dieser Link geöffnet werden könnte.",
+  "DEEP_LINK_SELECT_SERVER": "Server auswählen",
+  "DEEP_LINK_SERVER_COUNT": "{count} verfügbar",
+  "DEEP_LINK_OPEN_BUTTON": "Öffnen",
+  "COPY_DEEP_LINK_BUTTON": "Link zu dieser Karte kopieren",
+  "SERVER_LABEL": "Server",
+  "NO_RESULTS_FOUND": "Keine Ergebnisse gefunden"
 }

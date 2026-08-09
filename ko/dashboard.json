@@ -1813,5 +1813,17 @@
   "UPLOAD_IMAGE": "Upload Image",
   "CHANNELS_AUTO_REACT": "Select the channels where reactions will be added automatically",
   "SELECT_EMOJIS": "Select Emojis",
-  "USE_EMBEDDED_ACTIVITES_PERMISSION": "Use Activities"
+  "USE_EMBEDDED_ACTIVITES_PERMISSION": "Use Activities",
+
+  "DEEP_LINK_TITLE": "공유된 링크 열기",
+  "DEEP_LINK_DESCRIPTION": "이 링크를 열 서버를 선택해 주세요. 링크가 가리키는 설정으로 바로 이동합니다.",
+  "DEEP_LINK_INVALID": "유효하지 않은 링크",
+  "DEEP_LINK_INVALID_DESCRIPTION": "이 링크는 형식이 잘못되었거나 불완전해서 열 수 있는 항목이 없습니다.",
+  "DEEP_LINK_NO_SERVERS": "아직 관리 중인 서버가 없어서 이 링크를 열 수 있는 곳이 없습니다.",
+  "DEEP_LINK_SELECT_SERVER": "서버 선택",
+  "DEEP_LINK_SERVER_COUNT": "{count}개 사용 가능",
+  "DEEP_LINK_OPEN_BUTTON": "열기",
+  "COPY_DEEP_LINK_BUTTON": "이 카드 링크 복사",
+  "SERVER_LABEL": "서버",
+  "NO_RESULTS_FOUND": "검색 결과가 없습니다"
 }

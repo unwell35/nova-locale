@@ -1776,5 +1776,17 @@
   "CHANNELS_AUTO_LINE": "Görselin otomatik gönderileceği kanalları seç",
   "UPLOAD_IMAGE": "Görsel Yükle",
   "CHANNELS_AUTO_REACT": "Tepkilerin otomatik ekleneceği kanalları seç",
-  "SELECT_EMOJIS": "Emoji Seç"
+  "SELECT_EMOJIS": "Emoji Seç",
+
+  "DEEP_LINK_TITLE": "Paylaşılan bağlantıyı aç",
+  "DEEP_LINK_DESCRIPTION": "Bu bağlantıyı açmak istediğin sunucuyu seç. Bağlantının işaret ettiği ayara doğrudan yönlendirileceksin.",
+  "DEEP_LINK_INVALID": "Geçersiz bağlantı",
+  "DEEP_LINK_INVALID_DESCRIPTION": "Bu bağlantı hatalı veya eksik, bu yüzden açılacak bir şey yok.",
+  "DEEP_LINK_NO_SERVERS": "Henüz hiçbir sunucuyu yönetmiyorsun, bu yüzden bu bağlantıyı açacak bir yer yok.",
+  "DEEP_LINK_SELECT_SERVER": "Sunucu seç",
+  "DEEP_LINK_SERVER_COUNT": "{count} kullanılabilir",
+  "DEEP_LINK_OPEN_BUTTON": "Aç",
+  "COPY_DEEP_LINK_BUTTON": "Bu kartın bağlantısını kopyala",
+  "SERVER_LABEL": "Sunucu",
+  "NO_RESULTS_FOUND": "Sonuç bulunamadı"
 }
