@@ -1788,5 +1788,18 @@
   "DEEP_LINK_OPEN_BUTTON": "کردنەوە",
   "COPY_DEEP_LINK_BUTTON": "لەبەرگرتنەوەی لینکی ئەم کارتە",
   "SERVER_LABEL": "سێرڤەر",
-  "NO_RESULTS_FOUND": "هیچ ئەنجامێک نەدۆزرایەوە"
+  "NO_RESULTS_FOUND": "هیچ ئەنجامێک نەدۆزرایەوە",
+
+  "ACCESS_UNTIL_LABEL": "دەستگەیشتن تاوەکو",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "نوێکردنەوەی خۆکار ناچالاک کرا. بەشداریەکەت چالاک دەمێنێتەوە تا کۆتایی دێت.",
+  "AUTO_RENEWAL_OFF_LABEL": "نوێکردنەوەی خۆکار ناچالاکە",
+  "AUTO_RENEWAL_RESUMED_TOAST": "نوێکردنەوەی خۆکار دووبارە چالاک کرایەوە.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "هەڵوەشاندنەوەی نوێکردنەوەی خۆکار",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "هەموو شتێک دەمێنێتەوە تا کۆتایی ماوەی ئێستات — ئەمڕۆ هیچ شتێک ناسڕدرێتەوە. دوای ئەوە بەشداریەکە نوێ ناکرێتەوە و بۆتەکە تایبەتمەندییە پڕیمیۆمەکانی لەدەست دەدات. دەتوانیت پێش ئەو کاتە هەر کاتێک بتەوێت نوێکردنەوەی خۆکار دووبارە چالاک بکەیتەوە.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "نوێکردنەوەی خۆکار هەڵبوەشێنرێتەوە؟",
+  "EXPIRED_LABEL": "بەسەرچووە",
+  "NEXT_RENEWAL_LABEL": "نوێکردنەوەی داهاتوو",
+  "RESUME_AUTO_RENEWAL_BUTTON": "چالاککردنەوەی نوێکردنەوەی خۆکار",
+  "SUBSCRIPTION_DELETES_LABEL": "سڕینەوە",
+  "SUBSCRIPTION_ENDS_LABEL": "کۆتایی دێت"
 }

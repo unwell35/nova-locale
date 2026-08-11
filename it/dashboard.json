@@ -1832,5 +1832,18 @@
   "DEEP_LINK_OPEN_BUTTON": "Apri",
   "COPY_DEEP_LINK_BUTTON": "Copia il link a questa scheda",
   "SERVER_LABEL": "Server",
-  "NO_RESULTS_FOUND": "Nessun risultato trovato"
+  "NO_RESULTS_FOUND": "Nessun risultato trovato",
+
+  "ACCESS_UNTIL_LABEL": "Accesso fino al",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "Il rinnovo automatico è disattivato. Il tuo abbonamento resta attivo fino alla scadenza.",
+  "AUTO_RENEWAL_OFF_LABEL": "Rinnovo automatico disattivato",
+  "AUTO_RENEWAL_RESUMED_TOAST": "Il rinnovo automatico è di nuovo attivo.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "Annulla rinnovo automatico",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "Mantieni tutto fino alla fine del periodo attuale — oggi non viene rimosso nulla. Dopodiché l'abbonamento non verrà rinnovato e il bot perderà le funzionalità premium. Puoi riattivare il rinnovo automatico in qualsiasi momento prima di allora.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "Annullare il rinnovo automatico?",
+  "EXPIRED_LABEL": "Scaduto",
+  "NEXT_RENEWAL_LABEL": "Prossimo rinnovo",
+  "RESUME_AUTO_RENEWAL_BUTTON": "Riattiva rinnovo automatico",
+  "SUBSCRIPTION_DELETES_LABEL": "Eliminazione",
+  "SUBSCRIPTION_ENDS_LABEL": "Termina"
 }

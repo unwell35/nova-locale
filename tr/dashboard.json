@@ -1788,5 +1788,18 @@
   "DEEP_LINK_OPEN_BUTTON": "Aç",
   "COPY_DEEP_LINK_BUTTON": "Bu kartın bağlantısını kopyala",
   "SERVER_LABEL": "Sunucu",
-  "NO_RESULTS_FOUND": "Sonuç bulunamadı"
+  "NO_RESULTS_FOUND": "Sonuç bulunamadı",
+
+  "ACCESS_UNTIL_LABEL": "Erişim bitişi",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "Otomatik yenileme kapatıldı. Aboneliğin süresi bitene kadar aktif kalacak.",
+  "AUTO_RENEWAL_OFF_LABEL": "Otomatik yenileme kapalı",
+  "AUTO_RENEWAL_RESUMED_TOAST": "Otomatik yenileme tekrar açıldı.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "Otomatik yenilemeyi iptal et",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "Mevcut dönemin bitene kadar her şey sende kalır — bugün hiçbir şey kaldırılmaz. Sonrasında abonelik yenilenmez ve bot premium özelliklerini kaybeder. O zamana kadar istediğin an otomatik yenilemeyi tekrar açabilirsin.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "Otomatik yenileme iptal edilsin mi?",
+  "EXPIRED_LABEL": "Süresi doldu",
+  "NEXT_RENEWAL_LABEL": "Sonraki yenileme",
+  "RESUME_AUTO_RENEWAL_BUTTON": "Otomatik yenilemeyi tekrar aç",
+  "SUBSCRIPTION_DELETES_LABEL": "Silinme",
+  "SUBSCRIPTION_ENDS_LABEL": "Bitiş"
 }

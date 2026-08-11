@@ -1820,5 +1820,18 @@
   "DEEP_LINK_OPEN_BUTTON": "فتح",
   "COPY_DEEP_LINK_BUTTON": "نسخ رابط هذه البطاقة",
   "SERVER_LABEL": "السيرفر",
-  "NO_RESULTS_FOUND": "لا توجد نتائج"
+  "NO_RESULTS_FOUND": "لا توجد نتائج",
+
+  "ACCESS_UNTIL_LABEL": "الوصول حتى",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "تم إيقاف التجديد التلقائي. سيبقى أشتراكك فعالاً حتى تاريخ انتهائه.",
+  "AUTO_RENEWAL_OFF_LABEL": "التجديد التلقائي متوقف",
+  "AUTO_RENEWAL_RESUMED_TOAST": "تم تفعيل التجديد التلقائي مرة أخرى.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "إلغاء التجديد التلقائي",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "ستحتفظ بكل شيء حتى نهاية فترتك الحالية — لن يتم حذف أي شيء اليوم. بعد ذلك لن يتم تجديد الأشتراك وسيفقد البوت مميزاته المدفوعة. يمكنك إعادة تفعيل التجديد التلقائي في أي وقت قبل ذلك.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "إلغاء التجديد التلقائي؟",
+  "EXPIRED_LABEL": "منتهي",
+  "NEXT_RENEWAL_LABEL": "التجديد القادم",
+  "RESUME_AUTO_RENEWAL_BUTTON": "إعادة تفعيل التجديد التلقائي",
+  "SUBSCRIPTION_DELETES_LABEL": "يحذف",
+  "SUBSCRIPTION_ENDS_LABEL": "ينتهي"
 }

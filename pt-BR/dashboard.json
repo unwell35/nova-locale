@@ -1806,5 +1806,18 @@
   "DEEP_LINK_OPEN_BUTTON": "Abrir",
   "COPY_DEEP_LINK_BUTTON": "Copiar link para este card",
   "SERVER_LABEL": "Servidor",
-  "NO_RESULTS_FOUND": "Nenhum resultado encontrado"
+  "NO_RESULTS_FOUND": "Nenhum resultado encontrado",
+
+  "ACCESS_UNTIL_LABEL": "Acesso até",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "A renovação automática foi desativada. Sua assinatura continua ativa até o fim do período.",
+  "AUTO_RENEWAL_OFF_LABEL": "Renovação automática desativada",
+  "AUTO_RENEWAL_RESUMED_TOAST": "A renovação automática foi reativada.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "Cancelar renovação automática",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "Você mantém tudo até o fim do período atual — nada é removido hoje. Depois disso a assinatura não será renovada e o bot perde os recursos premium. Você pode reativar a renovação automática a qualquer momento antes disso.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "Cancelar renovação automática?",
+  "EXPIRED_LABEL": "Expirada",
+  "NEXT_RENEWAL_LABEL": "Próxima renovação",
+  "RESUME_AUTO_RENEWAL_BUTTON": "Retomar renovação automática",
+  "SUBSCRIPTION_DELETES_LABEL": "Exclusão",
+  "SUBSCRIPTION_ENDS_LABEL": "Termina"
 }

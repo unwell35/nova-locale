@@ -1788,5 +1788,18 @@
   "DEEP_LINK_OPEN_BUTTON": "Öffnen",
   "COPY_DEEP_LINK_BUTTON": "Link zu dieser Karte kopieren",
   "SERVER_LABEL": "Server",
-  "NO_RESULTS_FOUND": "Keine Ergebnisse gefunden"
+  "NO_RESULTS_FOUND": "Keine Ergebnisse gefunden",
+
+  "ACCESS_UNTIL_LABEL": "Zugriff bis",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "Die automatische Verlängerung ist deaktiviert. Dein Abo bleibt bis zum Ablauf aktiv.",
+  "AUTO_RENEWAL_OFF_LABEL": "Automatische Verlängerung aus",
+  "AUTO_RENEWAL_RESUMED_TOAST": "Die automatische Verlängerung ist wieder aktiv.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "Automatische Verlängerung kündigen",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "Du behältst alles bis zum Ende deines aktuellen Zeitraums — heute wird nichts entfernt. Danach wird das Abo nicht verlängert und der Bot verliert seine Premium-Features. Du kannst die automatische Verlängerung jederzeit vorher wieder aktivieren.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "Automatische Verlängerung kündigen?",
+  "EXPIRED_LABEL": "Abgelaufen",
+  "NEXT_RENEWAL_LABEL": "Nächste Verlängerung",
+  "RESUME_AUTO_RENEWAL_BUTTON": "Automatische Verlängerung reaktivieren",
+  "SUBSCRIPTION_DELETES_LABEL": "Wird gelöscht",
+  "SUBSCRIPTION_ENDS_LABEL": "Endet"
 }

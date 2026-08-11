@@ -1789,5 +1789,18 @@
   "DEEP_LINK_OPEN_BUTTON": "Ouvrir",
   "COPY_DEEP_LINK_BUTTON": "Copier le lien vers cette carte",
   "SERVER_LABEL": "Serveur",
-  "NO_RESULTS_FOUND": "Aucun résultat trouvé"
+  "NO_RESULTS_FOUND": "Aucun résultat trouvé",
+
+  "ACCESS_UNTIL_LABEL": "Accès jusqu'au",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "Le renouvellement automatique est désactivé. Votre abonnement reste actif jusqu'à son expiration.",
+  "AUTO_RENEWAL_OFF_LABEL": "Renouvellement automatique désactivé",
+  "AUTO_RENEWAL_RESUMED_TOAST": "Le renouvellement automatique est réactivé.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "Annuler le renouvellement automatique",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "Vous conservez tout jusqu'à la fin de votre période en cours — rien n'est supprimé aujourd'hui. Ensuite, l'abonnement ne sera pas renouvelé et le bot perdra ses fonctionnalités premium. Vous pouvez réactiver le renouvellement automatique à tout moment d'ici là.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "Annuler le renouvellement automatique ?",
+  "EXPIRED_LABEL": "Expiré",
+  "NEXT_RENEWAL_LABEL": "Prochain renouvellement",
+  "RESUME_AUTO_RENEWAL_BUTTON": "Réactiver le renouvellement automatique",
+  "SUBSCRIPTION_DELETES_LABEL": "Suppression",
+  "SUBSCRIPTION_ENDS_LABEL": "Fin"
 }
