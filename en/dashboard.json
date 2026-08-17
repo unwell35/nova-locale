@@ -1822,5 +1822,18 @@
   "DEEP_LINK_OPEN_BUTTON": "Open",
   "COPY_DEEP_LINK_BUTTON": "Copy link to this card",
   "SERVER_LABEL": "Server",
-  "NO_RESULTS_FOUND": "No results found"
+  "NO_RESULTS_FOUND": "No results found",
+
+  "ACCESS_UNTIL_LABEL": "Access until",
+  "AUTO_RENEWAL_CANCELLED_TOAST": "Auto-renewal is off. Your subscription stays active until it ends.",
+  "AUTO_RENEWAL_OFF_LABEL": "Auto-renewal off",
+  "AUTO_RENEWAL_RESUMED_TOAST": "Auto-renewal is back on.",
+  "CANCEL_AUTO_RENEWAL_BUTTON": "Cancel auto-renewal",
+  "CANCEL_AUTO_RENEWAL_DIALOG_DESCRIPTION": "You keep everything until your current period ends — nothing is removed today. After that the subscription won't renew and the bot loses its premium features. You can turn auto-renewal back on any time before then.",
+  "CANCEL_AUTO_RENEWAL_DIALOG_TITLE": "Cancel auto-renewal?",
+  "EXPIRED_LABEL": "Expired",
+  "NEXT_RENEWAL_LABEL": "Next renewal",
+  "RESUME_AUTO_RENEWAL_BUTTON": "Resume auto-renewal",
+  "SUBSCRIPTION_DELETES_LABEL": "Deletes",
+  "SUBSCRIPTION_ENDS_LABEL": "Ends"
 }
