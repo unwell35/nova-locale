@@ -1845,5 +1845,26 @@
   "NEXT_RENEWAL_LABEL": "Prossimo rinnovo",
   "RESUME_AUTO_RENEWAL_BUTTON": "Riattiva rinnovo automatico",
   "SUBSCRIPTION_DELETES_LABEL": "Eliminazione",
-  "SUBSCRIPTION_ENDS_LABEL": "Termina"
+  "SUBSCRIPTION_ENDS_LABEL": "Termina",
+
+  "REACTION_ROLES_EMPTY_TITLE": "Ancora nessun ruolo di reazione",
+  "REACTION_ROLES_EMPTY_DESCRIPTION": "Crea il tuo primo ruolo di reazione per far scegliere ai membri i propri ruoli con un solo clic.",
+  "WELCOME_TEMPLATES_EMPTY_TITLE": "Ancora nessun template di benvenuto",
+  "WELCOME_TEMPLATES_EMPTY_DESCRIPTION": "Crea un template per accogliere i nuovi membri con una card di benvenuto personalizzata, oppure parti da uno già pronto.",
+  "AUTOMATIONS_EMPTY_TITLE": "Ancora nessuna automazione",
+  "AUTOMATIONS_EMPTY_DESCRIPTION": "Esegui azioni automaticamente quando succede qualcosa nel tuo server — parti da un template qui sopra o creane una tua.",
+  "AUTO_RESPONDER_EMPTY_TITLE": "Ancora nessuna risposta automatica",
+  "AUTO_RESPONDER_EMPTY_DESCRIPTION": "Aggiungi una risposta e Nova risponderà automaticamente ogni volta che qualcuno scrive il trigger.",
+  "TEMPORARY_CHANNELS_EMPTY_TITLE": "Ancora nessun hub",
+  "TEMPORARY_CHANNELS_EMPTY_DESCRIPTION": "Crea un hub — i membri che entrano ottengono il proprio canale vocale, che sparisce quando escono tutti.",
+  "VOICE_ONLINE_EMPTY_TITLE": "Ancora nessun hub",
+  "VOICE_ONLINE_EMPTY_DESCRIPTION": "Crea un hub per mostrare in tempo reale quanti membri sono connessi ai tuoi canali vocali.",
+  "TICKET_PANELS_EMPTY_TITLE": "Ancora nessun pannello ticket",
+  "TICKET_PANELS_EMPTY_DESCRIPTION": "Crea un pannello e i membri potranno aprire un ticket di supporto privato con un clic.",
+  "COMPONENTS_MESSAGES_EMPTY_TITLE": "Ancora nessun messaggio con componenti",
+  "COMPONENTS_MESSAGES_EMPTY_DESCRIPTION": "Crea un messaggio avanzato con contenitori, sezioni e pulsanti, poi invialo in qualsiasi canale.",
+  "EMBED_MESSAGES_EMPTY_TITLE": "Ancora nessun embed",
+  "EMBED_MESSAGES_EMPTY_DESCRIPTION": "Progetta un embed con titolo, campi, immagini e colori, poi invialo in qualsiasi canale.",
+  "FORMS_EMPTY_TITLE": "Ancora nessuna candidatura",
+  "FORMS_EMPTY_DESCRIPTION": "Crea una candidatura e i membri potranno candidarsi direttamente da Discord, con le risposte inviate al tuo team."
 }

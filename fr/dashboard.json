@@ -1802,5 +1802,26 @@
   "NEXT_RENEWAL_LABEL": "Prochain renouvellement",
   "RESUME_AUTO_RENEWAL_BUTTON": "Réactiver le renouvellement automatique",
   "SUBSCRIPTION_DELETES_LABEL": "Suppression",
-  "SUBSCRIPTION_ENDS_LABEL": "Fin"
+  "SUBSCRIPTION_ENDS_LABEL": "Fin",
+
+  "REACTION_ROLES_EMPTY_TITLE": "Aucun rôle de réaction pour l'instant",
+  "REACTION_ROLES_EMPTY_DESCRIPTION": "Créez votre premier rôle de réaction pour permettre aux membres de choisir leurs rôles en un seul clic.",
+  "WELCOME_TEMPLATES_EMPTY_TITLE": "Aucun modèle de bienvenue pour l'instant",
+  "WELCOME_TEMPLATES_EMPTY_DESCRIPTION": "Créez un modèle pour accueillir les nouveaux membres avec une carte de bienvenue personnalisée, ou partez d'un modèle prêt à l'emploi.",
+  "AUTOMATIONS_EMPTY_TITLE": "Aucune automatisation pour l'instant",
+  "AUTOMATIONS_EMPTY_DESCRIPTION": "Exécutez des actions automatiquement lorsqu'il se passe quelque chose sur votre serveur — partez d'un modèle ci-dessus ou créez la vôtre.",
+  "AUTO_RESPONDER_EMPTY_TITLE": "Aucune réponse automatique pour l'instant",
+  "AUTO_RESPONDER_EMPTY_DESCRIPTION": "Ajoutez une réponse et Nova répondra automatiquement dès que quelqu'un écrira le déclencheur.",
+  "TEMPORARY_CHANNELS_EMPTY_TITLE": "Aucun hub pour l'instant",
+  "TEMPORARY_CHANNELS_EMPTY_DESCRIPTION": "Créez un hub — les membres qui le rejoignent obtiennent leur propre salon vocal, qui disparaît quand tout le monde le quitte.",
+  "VOICE_ONLINE_EMPTY_TITLE": "Aucun hub pour l'instant",
+  "VOICE_ONLINE_EMPTY_DESCRIPTION": "Créez un hub pour afficher en direct le nombre de membres connectés à vos salons vocaux.",
+  "TICKET_PANELS_EMPTY_TITLE": "Aucun panneau de tickets pour l'instant",
+  "TICKET_PANELS_EMPTY_DESCRIPTION": "Créez un panneau et les membres pourront ouvrir un ticket d'assistance privé en un clic.",
+  "COMPONENTS_MESSAGES_EMPTY_TITLE": "Aucun message de composants pour l'instant",
+  "COMPONENTS_MESSAGES_EMPTY_DESCRIPTION": "Composez un message enrichi à partir de conteneurs, de sections et de boutons, puis envoyez-le dans n'importe quel salon.",
+  "EMBED_MESSAGES_EMPTY_TITLE": "Aucune intégration pour l'instant",
+  "EMBED_MESSAGES_EMPTY_DESCRIPTION": "Concevez une intégration avec un titre, des champs, des images et des couleurs, puis envoyez-la dans n'importe quel salon.",
+  "FORMS_EMPTY_TITLE": "Aucune candidature pour l'instant",
+  "FORMS_EMPTY_DESCRIPTION": "Créez une candidature et les membres pourront postuler directement depuis Discord, les réponses étant envoyées directement à votre équipe."
 }

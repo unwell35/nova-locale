@@ -1838,5 +1838,26 @@
   "NEXT_RENEWAL_LABEL": "다음 갱신",
   "RESUME_AUTO_RENEWAL_BUTTON": "자동 갱신 다시 켜기",
   "SUBSCRIPTION_DELETES_LABEL": "삭제",
-  "SUBSCRIPTION_ENDS_LABEL": "종료"
+  "SUBSCRIPTION_ENDS_LABEL": "종료",
+
+  "REACTION_ROLES_EMPTY_TITLE": "아직 반응 역할이 없습니다",
+  "REACTION_ROLES_EMPTY_DESCRIPTION": "첫 반응 역할을 만들어 멤버들이 클릭 한 번으로 원하는 역할을 선택할 수 있게 해보세요.",
+  "WELCOME_TEMPLATES_EMPTY_TITLE": "아직 환영 템플릿이 없습니다",
+  "WELCOME_TEMPLATES_EMPTY_DESCRIPTION": "템플릿을 만들어 새 멤버를 맞춤 환영 카드로 반겨주거나, 미리 만들어진 템플릿으로 시작해 보세요.",
+  "AUTOMATIONS_EMPTY_TITLE": "아직 자동화가 없습니다",
+  "AUTOMATIONS_EMPTY_DESCRIPTION": "서버에서 특정 일이 발생하면 작업이 자동으로 실행되도록 설정할 수 있습니다. 위의 템플릿으로 시작하거나 직접 만들어 보세요.",
+  "AUTO_RESPONDER_EMPTY_TITLE": "아직 자동 응답이 없습니다",
+  "AUTO_RESPONDER_EMPTY_DESCRIPTION": "응답을 추가하면 누군가 트리거를 입력할 때마다 Nova가 자동으로 답장합니다.",
+  "TEMPORARY_CHANNELS_EMPTY_TITLE": "아직 허브가 없습니다",
+  "TEMPORARY_CHANNELS_EMPTY_DESCRIPTION": "허브를 만들면 허브에 참여한 멤버가 자신만의 음성 채널을 갖게 되고, 모두 나가면 그 채널은 사라집니다.",
+  "VOICE_ONLINE_EMPTY_TITLE": "아직 허브가 없습니다",
+  "VOICE_ONLINE_EMPTY_DESCRIPTION": "허브를 만들어 음성 채널에 접속 중인 멤버 수를 실시간으로 표시해 보세요.",
+  "TICKET_PANELS_EMPTY_TITLE": "아직 티켓 패널이 없습니다",
+  "TICKET_PANELS_EMPTY_DESCRIPTION": "패널을 만들면 멤버가 클릭 한 번으로 비공개 지원 티켓을 열 수 있습니다.",
+  "COMPONENTS_MESSAGES_EMPTY_TITLE": "아직 컴포넌트 메시지가 없습니다",
+  "COMPONENTS_MESSAGES_EMPTY_DESCRIPTION": "컨테이너, 섹션, 버튼으로 풍부한 메시지를 만든 다음 원하는 채널로 보내보세요.",
+  "EMBED_MESSAGES_EMPTY_TITLE": "아직 임베드가 없습니다",
+  "EMBED_MESSAGES_EMPTY_DESCRIPTION": "제목, 필드, 이미지, 색상으로 임베드를 디자인한 다음 원하는 채널로 보내보세요.",
+  "FORMS_EMPTY_TITLE": "아직 지원서가 없습니다",
+  "FORMS_EMPTY_DESCRIPTION": "지원서를 만들면 멤버가 Discord에서 바로 지원할 수 있고, 답변은 팀에게 곧바로 전달됩니다."
 }

@@ -1801,5 +1801,26 @@
   "NEXT_RENEWAL_LABEL": "Sonraki yenileme",
   "RESUME_AUTO_RENEWAL_BUTTON": "Otomatik yenilemeyi tekrar aç",
   "SUBSCRIPTION_DELETES_LABEL": "Silinme",
-  "SUBSCRIPTION_ENDS_LABEL": "Bitiş"
+  "SUBSCRIPTION_ENDS_LABEL": "Bitiş",
+
+  "REACTION_ROLES_EMPTY_TITLE": "Henüz tepki rolü yok",
+  "REACTION_ROLES_EMPTY_DESCRIPTION": "İlk tepki rolünü oluştur, üyeler tek tıkla kendi rollerini seçebilsin.",
+  "WELCOME_TEMPLATES_EMPTY_TITLE": "Henüz karşılama şablonu yok",
+  "WELCOME_TEMPLATES_EMPTY_DESCRIPTION": "Yeni üyeleri özel bir karşılama kartıyla karşılamak için bir şablon oluştur ya da hazır bir şablonla başla.",
+  "AUTOMATIONS_EMPTY_TITLE": "Henüz otomasyon yok",
+  "AUTOMATIONS_EMPTY_DESCRIPTION": "Sunucunda bir şey olduğunda işlemleri otomatik olarak çalıştır — yukarıdaki bir şablonla başla ya da kendininkini oluştur.",
+  "AUTO_RESPONDER_EMPTY_TITLE": "Henüz otomatik yanıt yok",
+  "AUTO_RESPONDER_EMPTY_DESCRIPTION": "Bir yanıt ekle, biri tetikleyiciyi yazdığında Nova otomatik olarak cevap versin.",
+  "TEMPORARY_CHANNELS_EMPTY_TITLE": "Henüz merkez yok",
+  "TEMPORARY_CHANNELS_EMPTY_DESCRIPTION": "Bir merkez oluştur — merkeze katılan üyeler kendi ses kanallarına sahip olur, herkes çıkınca kanal kaybolur.",
+  "VOICE_ONLINE_EMPTY_TITLE": "Henüz merkez yok",
+  "VOICE_ONLINE_EMPTY_DESCRIPTION": "Ses kanallarına bağlı üye sayısını canlı olarak göstermek için bir merkez oluştur.",
+  "TICKET_PANELS_EMPTY_TITLE": "Henüz ticket paneli yok",
+  "TICKET_PANELS_EMPTY_DESCRIPTION": "Bir panel oluştur, üyeler tek tıkla özel bir destek ticketı açabilsin.",
+  "COMPONENTS_MESSAGES_EMPTY_TITLE": "Henüz bileşen mesajı yok",
+  "COMPONENTS_MESSAGES_EMPTY_DESCRIPTION": "Konteynerler, bölümler ve butonlarla zengin bir mesaj oluştur, sonra istediğin kanala gönder.",
+  "EMBED_MESSAGES_EMPTY_TITLE": "Henüz embed yok",
+  "EMBED_MESSAGES_EMPTY_DESCRIPTION": "Başlık, alanlar, görseller ve renklerle bir embed tasarla, sonra istediğin kanala gönder.",
+  "FORMS_EMPTY_TITLE": "Henüz başvuru yok",
+  "FORMS_EMPTY_DESCRIPTION": "Bir başvuru oluştur, üyeler doğrudan Discord üzerinden başvurabilsin ve yanıtlar doğrudan ekibine gelsin."
 }

@@ -1801,5 +1801,26 @@
   "NEXT_RENEWAL_LABEL": "Nächste Verlängerung",
   "RESUME_AUTO_RENEWAL_BUTTON": "Automatische Verlängerung reaktivieren",
   "SUBSCRIPTION_DELETES_LABEL": "Wird gelöscht",
-  "SUBSCRIPTION_ENDS_LABEL": "Endet"
+  "SUBSCRIPTION_ENDS_LABEL": "Endet",
+
+  "REACTION_ROLES_EMPTY_TITLE": "Noch keine Reaction-Roles",
+  "REACTION_ROLES_EMPTY_DESCRIPTION": "Erstelle deine erste Reaction-Role, damit Mitglieder sich ihre Rollen mit einem Klick selbst geben können.",
+  "WELCOME_TEMPLATES_EMPTY_TITLE": "Noch keine Willkommens-Vorlagen",
+  "WELCOME_TEMPLATES_EMPTY_DESCRIPTION": "Erstelle eine Vorlage, um neue Mitglieder mit einer eigenen Willkommenskarte zu begrüßen, oder starte mit einer fertigen Vorlage.",
+  "AUTOMATIONS_EMPTY_TITLE": "Noch keine Automatisierungen",
+  "AUTOMATIONS_EMPTY_DESCRIPTION": "Lass Aktionen automatisch ablaufen, wenn auf deinem Server etwas passiert — starte mit einer Vorlage oben oder bau dir deine eigene.",
+  "AUTO_RESPONDER_EMPTY_TITLE": "Noch keine Auto-Antworten",
+  "AUTO_RESPONDER_EMPTY_DESCRIPTION": "Füge eine Antwort hinzu und Nova antwortet automatisch, sobald jemand den Auslöser schreibt.",
+  "TEMPORARY_CHANNELS_EMPTY_TITLE": "Noch keine Hubs",
+  "TEMPORARY_CHANNELS_EMPTY_DESCRIPTION": "Erstelle einen Hub — Mitglieder, die ihm beitreten, bekommen ihren eigenen Sprachkanal, der verschwindet, sobald alle ihn verlassen.",
+  "VOICE_ONLINE_EMPTY_TITLE": "Noch keine Hubs",
+  "VOICE_ONLINE_EMPTY_DESCRIPTION": "Erstelle einen Hub, der live anzeigt, wie viele Mitglieder gerade in deinen Sprachkanälen sind.",
+  "TICKET_PANELS_EMPTY_TITLE": "Noch keine Ticket-Panels",
+  "TICKET_PANELS_EMPTY_DESCRIPTION": "Erstelle ein Panel und Mitglieder können mit einem Klick ein privates Support-Ticket öffnen.",
+  "COMPONENTS_MESSAGES_EMPTY_TITLE": "Noch keine Components-Nachrichten",
+  "COMPONENTS_MESSAGES_EMPTY_DESCRIPTION": "Bau dir eine Nachricht aus Containern, Sections und Buttons und schick sie in einen beliebigen Kanal.",
+  "EMBED_MESSAGES_EMPTY_TITLE": "Noch keine Embeds",
+  "EMBED_MESSAGES_EMPTY_DESCRIPTION": "Gestalte ein Embed mit Titel, Feldern, Bildern und Farben und schick es in einen beliebigen Kanal.",
+  "FORMS_EMPTY_TITLE": "Noch keine Bewerbungen",
+  "FORMS_EMPTY_DESCRIPTION": "Erstelle eine Bewerbung und Mitglieder können sich direkt über Discord bewerben — die Antworten gehen direkt an dein Team."
 }

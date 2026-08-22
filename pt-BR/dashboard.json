@@ -1819,5 +1819,26 @@
   "NEXT_RENEWAL_LABEL": "Próxima renovação",
   "RESUME_AUTO_RENEWAL_BUTTON": "Retomar renovação automática",
   "SUBSCRIPTION_DELETES_LABEL": "Exclusão",
-  "SUBSCRIPTION_ENDS_LABEL": "Termina"
+  "SUBSCRIPTION_ENDS_LABEL": "Termina",
+
+  "REACTION_ROLES_EMPTY_TITLE": "Nenhum cargo por reação ainda",
+  "REACTION_ROLES_EMPTY_DESCRIPTION": "Crie seu primeiro cargo por reação para os membros escolherem os próprios cargos com um clique.",
+  "WELCOME_TEMPLATES_EMPTY_TITLE": "Nenhum modelo de boas-vindas ainda",
+  "WELCOME_TEMPLATES_EMPTY_DESCRIPTION": "Crie um modelo para receber novos membros com um card de boas-vindas personalizado, ou comece a partir de um pronto.",
+  "AUTOMATIONS_EMPTY_TITLE": "Nenhuma automação ainda",
+  "AUTOMATIONS_EMPTY_DESCRIPTION": "Execute ações automaticamente quando algo acontecer no seu servidor — comece a partir de um modelo acima ou crie a sua.",
+  "AUTO_RESPONDER_EMPTY_TITLE": "Nenhuma resposta automática ainda",
+  "AUTO_RESPONDER_EMPTY_DESCRIPTION": "Adicione uma resposta e a Nova vai responder automaticamente sempre que alguém disser o gatilho.",
+  "TEMPORARY_CHANNELS_EMPTY_TITLE": "Nenhum hub ainda",
+  "TEMPORARY_CHANNELS_EMPTY_DESCRIPTION": "Crie um hub — os membros que entrarem nele ganham o próprio canal de voz, que some quando todo mundo sai.",
+  "VOICE_ONLINE_EMPTY_TITLE": "Nenhum hub ainda",
+  "VOICE_ONLINE_EMPTY_DESCRIPTION": "Crie um hub para mostrar em tempo real quantos membros estão conectados aos seus canais de voz.",
+  "TICKET_PANELS_EMPTY_TITLE": "Nenhum painel de tickets ainda",
+  "TICKET_PANELS_EMPTY_DESCRIPTION": "Crie um painel e os membros poderão abrir um ticket de suporte privado com um clique.",
+  "COMPONENTS_MESSAGES_EMPTY_TITLE": "Nenhuma mensagem com componentes ainda",
+  "COMPONENTS_MESSAGES_EMPTY_DESCRIPTION": "Monte uma mensagem completa com contêineres, seções e botões, e envie para qualquer canal.",
+  "EMBED_MESSAGES_EMPTY_TITLE": "Nenhum embed ainda",
+  "EMBED_MESSAGES_EMPTY_DESCRIPTION": "Crie um embed com título, campos, imagens e cores, e envie para qualquer canal.",
+  "FORMS_EMPTY_TITLE": "Nenhuma candidatura ainda",
+  "FORMS_EMPTY_DESCRIPTION": "Crie uma candidatura e os membros poderão se candidatar direto pelo Discord, com as respostas indo direto para a sua equipe."
 }
