@@ -901,7 +901,13 @@
       "data_not_restored": "Il backup non è riuscito a ripristinare tutti i dati.",
       "data_restored_remaning": "Alcuni dati non sono stati ripristinati a causa del limite di Discord, puoi riprovare dopo 4 ore",
       "something_went_wrong": "Si è verificato un errore durante il ripristino del backup, non posso fornire dati, il miglior consiglio è contattare il supporto",
-      "cooldown": "Puoi ripristinare il backup nuovamente dopo [date]"
+      "cooldown": "Puoi ripristinare il backup nuovamente dopo [date]",
+      "file_file_too_large": "Questo file di backup è troppo grande. I file di backup possono essere al massimo di 8 MB.",
+      "file_invalid_file_type": "Questo allegato non è un file di backup. Carica il file `.json` che hai scaricato dalla dashboard.",
+      "file_invalid_json": "Non sono riuscito a leggere questo file di backup, il JSON non è valido.",
+      "file_invalid_structure": "Questo file di backup non è un backup Nova valido, oppure è stato modificato.",
+      "file_invalid_asset_url": "Questo file di backup punta a file che non ospito, quindi non posso ripristinarlo.",
+      "file_too_much_data": "Questo file di backup contiene più dati di quanti Discord ne consenta in un server."
     },
     "interaction": {
       "all": "Tutti",

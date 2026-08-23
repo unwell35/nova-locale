@@ -904,7 +904,13 @@
       "data_not_restored": "Backup konnte nicht alle Datenziele wiederherstellen.",
       "data_restored_remaning": "Einige Daten wurden wegen des Discord-Rate-Limits nicht wiederhergestellt, du kannst es nach 4 Stunden erneut versuchen",
       "something_went_wrong": "Beim Wiederherstellen des Backups ist etwas schiefgelaufen, ich kann dir keine Daten liefern, aber mein bester Rat ist, den Support zu kontaktieren",
-      "cooldown": "Du kannst das Backup nach [date] erneut wiederherstellen"
+      "cooldown": "Du kannst das Backup nach [date] erneut wiederherstellen",
+      "file_file_too_large": "Diese Backup-Datei ist zu groß. Backup-Dateien dürfen höchstens 8 MB haben.",
+      "file_invalid_file_type": "Dieser Anhang ist keine Backup-Datei. Lade die `.json`-Datei hoch, die du aus dem Dashboard heruntergeladen hast.",
+      "file_invalid_json": "Ich konnte diese Backup-Datei nicht lesen, sie ist kein gültiges JSON.",
+      "file_invalid_structure": "Diese Backup-Datei ist kein gültiges Nova-Backup oder wurde bearbeitet.",
+      "file_invalid_asset_url": "Diese Backup-Datei verweist auf Dateien, die ich nicht hoste, also kann ich sie nicht wiederherstellen.",
+      "file_too_much_data": "Diese Backup-Datei enthält mehr Daten, als Discord auf einem Server erlaubt."
     },
     "interaction": {
       "all": "Alle",

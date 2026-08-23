@@ -904,7 +904,13 @@
       "data_not_restored": "Backup, tüm veri hedeflerini geri yüklemede başarısız oldu.",
       "data_restored_remaning": "Discord rate limit nedeniyle geri yüklenemeyen bazı veriler var, 4 saat sonra tekrar deneyip geri yükleyebilirsin",
       "something_went_wrong": "Backup geri yüklenirken bir şeyler ters gitti, sana verebileceğim bir veri yok ama en iyi tavsiyem destek ekibiyle iletişime geçmen",
-      "cooldown": "Backup'ı [date] tarihinden sonra tekrar geri yükleyebilirsin"
+      "cooldown": "Backup'ı [date] tarihinden sonra tekrar geri yükleyebilirsin",
+      "file_file_too_large": "Bu backup dosyası çok büyük. Backup dosyaları en fazla 8 MB olabilir.",
+      "file_invalid_file_type": "Bu ek bir backup dosyası değil. Dashboard'dan indirdiğin `.json` dosyasını yükle.",
+      "file_invalid_json": "Bu backup dosyasını okuyamadım, geçerli bir JSON değil.",
+      "file_invalid_structure": "Bu backup dosyası geçerli bir Nova backup'ı değil ya da üzerinde değişiklik yapılmış.",
+      "file_invalid_asset_url": "Bu backup dosyası barındırmadığım dosyaları işaret ediyor, bu yüzden geri yükleyemiyorum.",
+      "file_too_much_data": "Bu backup dosyası Discord'un bir sunucuda izin verdiğinden daha fazla veri içeriyor."
     },
     "interaction": {
       "all": "Hepsi",

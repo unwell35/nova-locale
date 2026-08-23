@@ -883,7 +883,13 @@
       "data_not_restored": "La sauvegarde n'a pas réussi à restaurer toutes les cibles de données.",
       "data_restored_remaning": "Certaines données ne sont pas restaurées en raison de la limite de débit de Discord. Vous pouvez restaurer les données après 4 heures pour essayer",
       "something_went_wrong": "Une erreur s'est produite lors de la restauration de la sauvegarde, je ne peux fournir aucune donnée, mais le meilleur conseil que je puisse vous donner est de contacter le support",
-      "cooldown": "Vous pouvez restaurer la sauvegarde à nouveau après le [date]"
+      "cooldown": "Vous pouvez restaurer la sauvegarde à nouveau après le [date]",
+      "file_file_too_large": "Ce fichier de sauvegarde est trop volumineux. Les fichiers de sauvegarde font au maximum 8 Mo.",
+      "file_invalid_file_type": "Cette pièce jointe n'est pas un fichier de sauvegarde. Envoyez le fichier `.json` que vous avez téléchargé depuis le tableau de bord.",
+      "file_invalid_json": "Je n'ai pas pu lire ce fichier de sauvegarde, le JSON n'est pas valide.",
+      "file_invalid_structure": "Ce fichier de sauvegarde n'est pas une sauvegarde Nova valide, ou il a été modifié.",
+      "file_invalid_asset_url": "Ce fichier de sauvegarde pointe vers des fichiers que je n'héberge pas, je ne peux donc pas le restaurer.",
+      "file_too_much_data": "Ce fichier de sauvegarde contient plus de données que ce que Discord autorise sur un serveur."
     },
     "interaction": {
       "all": "Tout",
