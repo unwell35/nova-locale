@@ -882,7 +882,7 @@
   },
   "backup": {
     "commands": {
-      "insert_backup_id": "Please provide the backup URL",
+      "insert_backup_id": "Please provide the backup URL, or upload the backup file you downloaded from the dashboard",
       "backup_not_found": "This backup cannot be found",
       "private_backup": "Sorry, this backup is private. You can ask the ownership of this backup to make it public",
       "remaining_backup": "This remaining backup is not belongs to your server",
@@ -904,7 +904,13 @@
       "data_not_restored": "Backup has failed to restore all data targets.",
       "data_restored_remaning": "There's some data not restored due to Discord rate limit, you can restore the data after 4 hours to try",
       "something_went_wrong": "Something went wrong while restoring the backup, no data I can provide but the best advice I can give you is to contact the support",
-      "cooldown": "You can restore backup again after [date]"
+      "cooldown": "You can restore backup again after [date]",
+      "file_file_too_large": "That backup file is too large. Backup files are at most 8 MB.",
+      "file_invalid_file_type": "That attachment is not a backup file. Upload the `.json` file you downloaded from the dashboard.",
+      "file_invalid_json": "I could not read that backup file, it is not valid JSON.",
+      "file_invalid_structure": "That backup file is not a valid Nova backup, or it has been edited.",
+      "file_invalid_asset_url": "That backup file points at files I don't host, so I can't restore it.",
+      "file_too_much_data": "That backup file holds more data than Discord allows in a server."
     },
     "interaction": {
       "all": "All",
