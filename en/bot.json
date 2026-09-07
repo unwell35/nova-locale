@@ -223,13 +223,16 @@
       "data_id_required": "Please provide a data id",
       "temprole_removed": "Temp role has been removed successfully from [member]",
       "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel.",
-      "command_exceeded_limit": "You have exceeded the limit for this command."
+      "command_exceeded_limit": "You have exceeded the limit for this command.",
+      "punishment_display": "To: [user] - Punishment: [type]\nRemove At: [remove_date]\nBy: [author] - Created At: [date]\n```[reason]```",
+      "no_punishments_found": "No punishments found!"
     },
     "embed": {
       "pmute_title": "Prison",
       "timeout_title": "Timeout",
       "tmute_title": "Text Mute",
       "vmute_title": "Voice Mute",
+      "ban_title": "Ban",
       "server_name_field": "Server Name",
       "executor_field": "Executor",
       "unmute_at_field": "Unmute At",
@@ -291,7 +294,9 @@
       "ticket_closed_by": "Closed By: [user]",
       "ticket_closed": "This ticket is closed!",
       "answers": "Answers",
-      "not_allowed_attachments": "You have attached files that are not allowed. Allowed formats: [extensions]"
+      "not_allowed_attachments": "You have attached files that are not allowed. Allowed formats: [extensions]",
+      "panel_disabled": "This ticket panel is currently disabled.",
+      "ticket_limit_reached": "Our staff is currently handling a high number of tickets. Please try again later."
     },
     "commands": {
       "limit_exceeded": "Limit exceeded, close tickets and try again",

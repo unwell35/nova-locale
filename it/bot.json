@@ -223,13 +223,16 @@
       "data_id_required": "Fornisci un ID dato",
       "temprole_removed": "Il ruolo temporaneo è stato rimosso con successo da [member]",
       "lock_onboarding_error": "Non puoi bloccare questo canale perché è l'unico canale in cui `@everyone` può inviare messaggi. L'onboarding richiede almeno un canale accessibile.",
-      "command_exceeded_limit": "Hai superato il limite per questo comando."
+      "command_exceeded_limit": "Hai superato il limite per questo comando.",
+      "punishment_display": "A: [user] - Punizione: [type]\nRimozione il: [remove_date]\nDa: [author] - Creato il: [date]\n```[reason]```",
+      "no_punishments_found": "Nessuna punizione trovata!"
     },
     "embed": {
       "pmute_title": "Prigione",
       "timeout_title": "Timeout",
       "tmute_title": "Mute Testuale",
       "vmute_title": "Mute Voce",
+      "ban_title": "Ban",
       "server_name_field": "Nome Server",
       "executor_field": "Esecutore",
       "unmute_at_field": "Fine Mute",
@@ -291,7 +294,9 @@
       "ticket_closed_by": "Chiuso da: [user]",
       "ticket_closed": "Questo ticket è chiuso!",
       "answers": "Risposte",
-      "not_allowed_attachments": "Hai allegato file non consentiti. Formati consentiti: [extensions]"
+      "not_allowed_attachments": "Hai allegato file non consentiti. Formati consentiti: [extensions]",
+      "panel_disabled": "Questo pannello ticket è attualmente disattivato.",
+      "ticket_limit_reached": "Il nostro staff sta gestendo un numero elevato di ticket. Riprova più tardi."
     },
     "commands": {
       "limit_exceeded": "Limite superato, chiudi i ticket e riprova",

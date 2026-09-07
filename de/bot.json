@@ -223,13 +223,16 @@
       "data_id_required": "Bitte gib eine Daten-ID an",
       "temprole_removed": "Temporäre Rolle wurde erfolgreich von [member] entfernt",
       "lock_onboarding_error": "Du kannst diesen Kanal nicht sperren, da es der einzige Kanal ist, in dem `@everyone` Nachrichten schreiben kann. Das Onboarding benötigt mindestens einen zugänglichen Kanal.",
-      "command_exceeded_limit": "Du hast das Limit für diesen Befehl überschritten."
+      "command_exceeded_limit": "Du hast das Limit für diesen Befehl überschritten.",
+      "punishment_display": "An: [user] - Strafe: [type]\nEntfernung am: [remove_date]\nVon: [author] - Erstellt am: [date]\n```[reason]```",
+      "no_punishments_found": "Keine Strafen gefunden!"
     },
     "embed": {
       "pmute_title": "Gefängnis",
       "timeout_title": "Timeout",
       "tmute_title": "Text-Mute",
       "vmute_title": "Voice-Mute",
+      "ban_title": "Bann",
       "server_name_field": "Servername",
       "executor_field": "Ausführender",
       "unmute_at_field": "Unmute am",
@@ -291,7 +294,9 @@
       "ticket_closed_by": "Geschlossen von: [user]",
       "ticket_closed": "Dieses Ticket ist geschlossen!",
       "answers": "Antworten",
-      "not_allowed_attachments": "Du hast Dateien angehängt, die nicht erlaubt sind. Erlaubte Formate: [extensions]"
+      "not_allowed_attachments": "Du hast Dateien angehängt, die nicht erlaubt sind. Erlaubte Formate: [extensions]",
+      "panel_disabled": "Dieses Ticket-Panel ist derzeit deaktiviert.",
+      "ticket_limit_reached": "Unser Team bearbeitet gerade sehr viele Tickets. Bitte versuch es später noch mal."
     },
     "commands": {
       "limit_exceeded": "Limit überschritten, schließe Tickets und versuche es erneut",

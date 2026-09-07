@@ -222,13 +222,16 @@
       "data_id_required": "تکایە ئایدی داتاکە دابینبکە بیهێنە",
       "temprole_removed": "ڕۆڵە کاتیەکە بەسەرکەوتوویی لابرا لە [member]",
       "lock_onboarding_error": "تۆ ناتوانی چەناڵەکە دابخەیت لەبەرئەوەی ئەمە تاکە چەناڵە کە `@everyone` دەتوانێ نامەی تێدا بنێرێت.\n چوونە ژوورەوە بەلایەنی کەمەوە پێویستی بە یەک چەناڵی بەردەست هەیە.",
-      "command_exceeded_limit": "You have exceeded the limit for this command."
+      "command_exceeded_limit": "You have exceeded the limit for this command.",
+      "punishment_display": "بۆ: [user] - سزا: [type]\nلادەبرێت لە: [remove_date]\nلە لایەن: [author] - درووستکراوە لە: [date]\n```[reason]```",
+      "no_punishments_found": "هیچ سزایەک نەدۆزرایەوە!"
     },
     "embed": {
       "pmute_title": "بەندینخانە",
       "timeout_title": "تایمئاوت",
       "tmute_title": "بێدەنکی نووسین",
       "vmute_title": "بێدەنگی ڤۆیس",
+      "ban_title": "باند",
       "server_name_field": "ناوی سێرڤەر",
       "executor_field": "جێبەجێکار،ئەنجامدەر",
       "unmute_at_field": "بێدەنکی لادەبرێت لە",
@@ -289,7 +292,9 @@
       "ticket_closed_by": "داخرا لە لایەن: [user]",
       "ticket_closed": "تیکتەکە داخرا!",
       "answers": "وەڵامەکان",
-      "not_allowed_attachments": "تۆ فایلی نائاساییت هەیە کە ڕێگە پێدراو نین. فۆڕماتە ڕێگەپێدراوەکان"
+      "not_allowed_attachments": "تۆ فایلی نائاساییت هەیە کە ڕێگە پێدراو نین. فۆڕماتە ڕێگەپێدراوەکان",
+      "panel_disabled": "ئەم پانێڵی تیکتە لە ئێستادا ناچالاکە.",
+      "ticket_limit_reached": "ستافەکەمان لە ئێستادا ژمارەیەکی زۆر تیکت چارەسەر دەکات. تکایە دواتر هەوڵ بدەوە."
     },
     "commands": {
       "limit_exceeded": "سنووری تێپەڕاندووە، بلیتەکان دابخە و دووبارە هەوڵ بدەوە",

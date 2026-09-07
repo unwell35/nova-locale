@@ -223,13 +223,16 @@
       "data_id_required": "Forneça um ID de dados",
       "temprole_removed": "O cargo temporário foi removido com sucesso de [member]",
       "lock_onboarding_error": "Você não pode trancar esse canal porque ele é o único canal onde `@everyone` pode enviar mensagens. O onboarding exige pelo menos um canal acessível.",
-      "command_exceeded_limit": "Você excedeu o limite desse comando."
+      "command_exceeded_limit": "Você excedeu o limite desse comando.",
+      "punishment_display": "Para: [user] - Punição: [type]\nRemover Em: [remove_date]\nPor: [author] - Criado em: [date]\n```[reason]```",
+      "no_punishments_found": "Nenhuma punição encontrada!"
     },
     "embed": {
       "pmute_title": "Prisão",
       "timeout_title": "Timeout",
       "tmute_title": "Mudo no Chat",
       "vmute_title": "Mudo na Call",
+      "ban_title": "Banimento",
       "server_name_field": "Nome do Servidor",
       "executor_field": "Executor",
       "unmute_at_field": "Desmutar Em",
@@ -291,7 +294,9 @@
       "ticket_closed_by": "Fechado Por: [user]",
       "ticket_closed": "Esse ticket está fechado!",
       "answers": "Respostas",
-      "not_allowed_attachments": "Você anexou arquivos que não são permitidos. Formatos permitidos: [extensions]"
+      "not_allowed_attachments": "Você anexou arquivos que não são permitidos. Formatos permitidos: [extensions]",
+      "panel_disabled": "Este painel de tickets está desativado no momento.",
+      "ticket_limit_reached": "Nossa equipe está lidando com muitos tickets no momento. Tente novamente mais tarde."
     },
     "commands": {
       "limit_exceeded": "Limite excedido, feche alguns tickets e tente novamente",

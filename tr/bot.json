@@ -223,13 +223,16 @@
       "data_id_required": "Lütfen bir veri ID'si gir",
       "temprole_removed": "Geçici rol [member]'dan başarıyla kaldırıldı",
       "lock_onboarding_error": "Bu kanalı kilitleyemezsin çünkü `@everyone`'ın mesaj atabildiği tek kanal bu. Onboarding için en az bir erişilebilir kanal gerekiyor.",
-      "command_exceeded_limit": "Bu komut için sınırı aştın."
+      "command_exceeded_limit": "Bu komut için sınırı aştın.",
+      "punishment_display": "Kime: [user] - Ceza: [type]\nBitiş: [remove_date]\nKim: [author] - Oluşturulma: [date]\n```[reason]```",
+      "no_punishments_found": "Ceza bulunamadı!"
     },
     "embed": {
       "pmute_title": "Hapis",
       "timeout_title": "Zaman Aşımı",
       "tmute_title": "Yazı Susturması",
       "vmute_title": "Ses Susturması",
+      "ban_title": "Ban",
       "server_name_field": "Sunucu Adı",
       "executor_field": "İşlemi Yapan",
       "unmute_at_field": "Susturma Bitişi",
@@ -291,7 +294,9 @@
       "ticket_closed_by": "Kapatan: [user]",
       "ticket_closed": "Bu ticket kapalı!",
       "answers": "Cevaplar",
-      "not_allowed_attachments": "İzin verilmeyen dosya ekledin. İzin verilen formatlar: [extensions]"
+      "not_allowed_attachments": "İzin verilmeyen dosya ekledin. İzin verilen formatlar: [extensions]",
+      "panel_disabled": "Bu ticket paneli şu anda devre dışı.",
+      "ticket_limit_reached": "Ekibimiz şu anda çok sayıda ticket ile ilgileniyor. Lütfen daha sonra tekrar dene."
     },
     "commands": {
       "limit_exceeded": "Limit aşıldı, ticket'ları kapatıp tekrar dene",

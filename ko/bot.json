@@ -223,13 +223,16 @@
       "data_id_required": "데이터 ID를 입력해 주세요",
       "temprole_removed": "[member]님에게서 임시 역할이 제거되었습니다",
       "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel.",
-      "command_exceeded_limit": "You have exceeded the limit for this command."
+      "command_exceeded_limit": "You have exceeded the limit for this command.",
+      "punishment_display": "대상: [user] - 처벌: [type]\n해제 일시: [remove_date]\n담당자: [author] - 생성일: [date]\n```[reason]```",
+      "no_punishments_found": "처벌 기록이 없습니다!"
     },
     "embed": {
       "pmute_title": "감옥 (Prison)",
       "timeout_title": "타임아웃 (Timeout)",
       "tmute_title": "채팅 뮤트 (Text Mute)",
       "vmute_title": "음성 뮤트 (Voice Mute)",
+      "ban_title": "차단 (Ban)",
       "server_name_field": "서버 이름",
       "executor_field": "담당자",
       "unmute_at_field": "뮤트 해제 일시",
@@ -291,7 +294,9 @@
       "ticket_closed_by": "닫은 사람: [user]",
       "ticket_closed": "이 티켓은 종료되었습니다!",
       "answers": "답변 목록",
-      "not_allowed_attachments": "허용되지 않는 파일이 포함되어 있습니다. 허용된 확장자: [extensions]"
+      "not_allowed_attachments": "허용되지 않는 파일이 포함되어 있습니다. 허용된 확장자: [extensions]",
+      "panel_disabled": "이 티켓 패널은 현재 비활성화되어 있습니다.",
+      "ticket_limit_reached": "현재 스태프가 많은 티켓을 처리하고 있습니다. 나중에 다시 시도해 주세요."
     },
     "commands": {
       "limit_exceeded": "제한 횟수를 초과했습니다. 기존 티켓을 닫고 다시 시도해 주세요",
