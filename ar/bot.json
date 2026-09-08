@@ -222,13 +222,16 @@
       "data_id_required": "يُرجى إرفاق معرف البيانات",
       "temprole_removed": "تم إزالة الرتبة المؤقتة بنجاح عن [member]",
       "lock_onboarding_error": "لا يمكنك قفل هذا الروم لأنه الروم الوحيد الذي يمكن لـ `@everyone` إرسال الرسائل فيه. يتطلب الإعداد الأولي وجود روم واحد على الأقل يمكن الوصول إليه.",
-      "command_exceeded_limit": "لقد تجاوزت الحد المسموح به لهذا الأمر."
+      "command_exceeded_limit": "لقد تجاوزت الحد المسموح به لهذا الأمر.",
+      "punishment_display": "إلى: [user] - العقوبة: [type]\nالإزالة عند: [remove_date]\nبواسطة: [author] - تم الإنشاء في: [date]\n```[reason]```",
+      "no_punishments_found": "لا توجد عقوبات!"
     },
     "embed": {
       "pmute_title": "سجن",
       "timeout_title": "وقت مستقطع",
       "tmute_title": "أسكات كتابي",
       "vmute_title": "أسكات صوتي",
+      "ban_title": "حظر",
       "server_name_field": "أسم السيرفر",
       "executor_field": "المنفذ",
       "unmute_at_field": "فك الأسكات عند",
@@ -289,7 +292,9 @@
       "ticket_closed_by": "تم إغلاق بواسطة: [user]",
       "ticket_closed": "هذه التذكرة مغلقة!",
       "answers": "الأجوبة",
-      "not_allowed_attachments": "لقد ارفقت ملفات غير مسموح بها. الصيغ المسموح بها: [extensions]"
+      "not_allowed_attachments": "لقد ارفقت ملفات غير مسموح بها. الصيغ المسموح بها: [extensions]",
+      "panel_disabled": "لوحة التذاكر هذه معطلة حالياً.",
+      "ticket_limit_reached": "فريق الإدارة يتعامل حالياً مع عدد كبير من التذاكر. يرجى المحاولة لاحقاً."
     },
     "commands": {
       "limit_exceeded": "تم تجاوز الحد، قم بإغلاق التذاكر وحاول مرة أخرى",
