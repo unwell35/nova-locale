@@ -1856,5 +1856,18 @@
   "BACKUP_CONTENT_FILTER_0": "ناچالاک",
   "BACKUP_CONTENT_FILTER_1": "ئەندامانی بێ ڕۆڵ",
   "BACKUP_CONTENT_FILTER_2": "هەموو ئەندامان",
-  "BACKUP_STARTED_TOAST": "Nova خەریکی درووستکردنی لەبەرگیراوەکەتە. کاتێک تەواو بوو لێرە دەردەکەوێت."
+  "BACKUP_STARTED_TOAST": "Nova خەریکی درووستکردنی لەبەرگیراوەکەتە. کاتێک تەواو بوو لێرە دەردەکەوێت.",
+  "COMPONENTS_LIMIT_LABEL": "پێکهاتەکان",
+  "CHARACTERS_LIMIT_LABEL": "پیتەکان",
+  "COMPONENTS_LIMIT_TOOLTIP": "دیسکۆرد تا {max} پێکهاتە بۆ هەر نامەیەک ڕێگە دەدات، لەوانەش ئەوانەی ناو کۆنتەینەر و بەشەکاندان.",
+  "CHARACTERS_LIMIT_TOOLTIP": "دیسکۆرد تا {max} پیت بە گشتی ڕێگە دەدات بۆ هەموو پێکهاتە دەقییەکانی نامەکە.",
+  "COMPONENTS_LIMIT_SAVE_TOOLTIP": "تۆ لە سنووری دیسکۆرد تێپەڕیویت بۆ ئەم نامەیە (<c>{components} لە {maxComponents} پێکهاتە</c>، <t>{characters} لە {maxCharacters} پیت</t>).",
+  "RESTORE_REWARDS_LABEL": "گەڕاندنەوەی خەڵاتەکان",
+  "RESTORE_REWARDS_TOOLTIP": "ڕۆڵەکانی خەڵات دەگەڕێنێتەوە کاتێک ئەندامێک سێرڤەرەکە بەجێدەهێڵێت و دووبارە دەگەڕێتەوە.",
+  "TICKET_LIMIT": "سنووری تیکت",
+  "TICKET_LIMIT_TOOLTIP": "زۆرترین ژمارەی تیکتی کراوە. کاتێک گەیشتە سنوورەکە، ناتوانرێت تیکتی نوێ بکرێتەوە.",
+  "COMMAND_EXAMPLE_MODLIST": "/modlist\n/modlist [جۆر]\n/modlist [کەسی بەکارهێنەر]",
+  "COMMAND_DESCRIPTION_MODLIST": "بینینی هەموو ئەو ئەندامانەی لە ئێستادا بێدەنگکراون، لە بەندینخانەن، یان بە کاتی باند کراون.",
+  "DISABLE_STATISTICS_IMAGE": "ناچالاککردنی وێنەی ئامارەکان",
+  "ROLES_MENU": "لیستی ڕۆڵەکان"
 }
