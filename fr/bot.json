@@ -222,13 +222,16 @@
       "data_id_required": "Veuillez fournir un identifiant de données",
       "temprole_removed": "Le rôle temporaire a été supprimé avec succès de [member]",
       "lock_onboarding_error": "Vous ne pouvez pas verrouiller ce salon, car c'est le seul salon où `@everyone` peut envoyer des messages. L'accueil des membres nécessite au moins un salon accessible.",
-      "command_exceeded_limit": "Vous avez dépassé la limite pour cette commande."
+      "command_exceeded_limit": "Vous avez dépassé la limite pour cette commande.",
+      "punishment_display": "À : [user] - Sanction : [type]\nRetrait le : [remove_date]\nPar : [author] - Créé le : [date]\n```[reason]```",
+      "no_punishments_found": "Aucune sanction trouvée !"
     },
     "embed": {
       "pmute_title": "Prison",
       "timeout_title": "Temps mort",
       "tmute_title": "Texte muet",
       "vmute_title": "Voix muette",
+      "ban_title": "Bannissement",
       "server_name_field": "Nom du serveur",
       "executor_field": "Exécuteur",
       "unmute_at_field": "Activer le son à",
@@ -289,7 +292,9 @@
       "ticket_closed_by": "Fermé par : [user]",
       "ticket_closed": "Ce ticket est fermé !",
       "answers": "Réponses",
-      "not_allowed_attachments": "Vous avez joint des fichiers qui ne sont pas autorisés. Formats autorisés : [extensions]"
+      "not_allowed_attachments": "Vous avez joint des fichiers qui ne sont pas autorisés. Formats autorisés : [extensions]",
+      "panel_disabled": "Ce panneau de tickets est actuellement désactivé.",
+      "ticket_limit_reached": "Notre équipe traite actuellement un grand nombre de tickets. Veuillez réessayer plus tard."
     },
     "commands": {
       "limit_exceeded": "Limite dépassée, fermez les tickets et réessayez",
