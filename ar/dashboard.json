@@ -1820,5 +1820,18 @@
   "BACKUP_CONTENT_FILTER_0": "معطل",
   "BACKUP_CONTENT_FILTER_1": "الأعضاء بدون رتب",
   "BACKUP_CONTENT_FILTER_2": "جميع الأعضاء",
-  "BACKUP_STARTED_TOAST": "يقوم Nova بإنشاء نسختك الاحتياطية. ستظهر هنا بمجرد اكتمالها."
+  "BACKUP_STARTED_TOAST": "يقوم Nova بإنشاء نسختك الاحتياطية. ستظهر هنا بمجرد اكتمالها.",
+  "COMPONENTS_LIMIT_LABEL": "المكوّنات",
+  "CHARACTERS_LIMIT_LABEL": "الأحرف",
+  "COMPONENTS_LIMIT_TOOLTIP": "يسمح ديسكورد بحد أقصى {max} مكوّن لكل رسالة، بما في ذلك المكوّنات الموجودة داخل الحاويات والأقسام.",
+  "CHARACTERS_LIMIT_TOOLTIP": "يسمح ديسكورد بحد أقصى {max} حرف إجمالاً عبر جميع مكوّنات النص في الرسالة.",
+  "COMPONENTS_LIMIT_SAVE_TOOLTIP": "لقد تجاوزت حدود ديسكورد لهذه الرسالة (<c>{components} من {maxComponents} مكوّن</c>، <t>{characters} من {maxCharacters} حرف</t>).",
+  "RESTORE_REWARDS_LABEL": "استعادة المكافآت",
+  "RESTORE_REWARDS_TOOLTIP": "استعادة رتب المكافآت عندما يغادر العضو السيرفر ثم ينضم إليه مرة أخرى.",
+  "TICKET_LIMIT": "حد التذاكر",
+  "TICKET_LIMIT_TOOLTIP": "الحد الأقصى لعدد التذاكر المفتوحة؛ عند الوصول إلى الحد، لا يمكن فتح تذاكر جديدة.",
+  "COMMAND_EXAMPLE_MODLIST": "/modlist\n/modlist [نوع]\n/modlist [الشخص]",
+  "COMMAND_DESCRIPTION_MODLIST": "عرض جميع الأعضاء المسكتين أو المسجونين أو المحظورين مؤقتاً حالياً.",
+  "DISABLE_STATISTICS_IMAGE": "تعطيل صورة الإحصائيات",
+  "ROLES_MENU": "قائمة الرتب"
 }
