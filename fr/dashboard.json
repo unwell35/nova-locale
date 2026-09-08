@@ -1791,5 +1791,18 @@
   "BACKUP_CONTENT_FILTER_0": "Désactivé",
   "BACKUP_CONTENT_FILTER_1": "Membres sans rôle",
   "BACKUP_CONTENT_FILTER_2": "Tous les membres",
-  "BACKUP_STARTED_TOAST": "Nova est en train de créer votre sauvegarde. Elle apparaîtra ici une fois terminée."
+  "BACKUP_STARTED_TOAST": "Nova est en train de créer votre sauvegarde. Elle apparaîtra ici une fois terminée.",
+  "COMPONENTS_LIMIT_LABEL": "Composants",
+  "CHARACTERS_LIMIT_LABEL": "Caractères",
+  "COMPONENTS_LIMIT_TOOLTIP": "Discord autorise jusqu'à {max} composants par message, y compris ceux imbriqués dans les conteneurs et les sections.",
+  "CHARACTERS_LIMIT_TOOLTIP": "Discord autorise jusqu'à {max} caractères au total sur l'ensemble des composants texte du message.",
+  "COMPONENTS_LIMIT_SAVE_TOOLTIP": "Vous dépassez les limites de Discord pour ce message (<c>{components} composants sur {maxComponents}</c>, <t>{characters} caractères sur {maxCharacters}</t>).",
+  "RESTORE_REWARDS_LABEL": "Restaurer les récompenses",
+  "RESTORE_REWARDS_TOOLTIP": "Restaure les rôles de récompense lorsqu'un membre quitte le serveur puis le rejoint à nouveau.",
+  "TICKET_LIMIT": "Limite de tickets",
+  "TICKET_LIMIT_TOOLTIP": "Le nombre maximum de tickets ouverts. Une fois la limite atteinte, aucun nouveau ticket ne peut être ouvert.",
+  "COMMAND_EXAMPLE_MODLIST": "/modlist\n/modlist [type]\n/modlist [utilisateur]",
+  "COMMAND_DESCRIPTION_MODLIST": "Affichez tous les membres actuellement mute, emprisonnés ou bannis temporairement.",
+  "DISABLE_STATISTICS_IMAGE": "Désactiver l'image des statistiques",
+  "ROLES_MENU": "Menu des rôles"
 }
