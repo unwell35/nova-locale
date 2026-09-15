@@ -225,7 +225,10 @@
       "lock_onboarding_error": "Bu kanalı kilitleyemezsin çünkü `@everyone`'ın mesaj atabildiği tek kanal bu. Onboarding için en az bir erişilebilir kanal gerekiyor.",
       "command_exceeded_limit": "Bu komut için sınırı aştın.",
       "punishment_display": "Kime: [user] - Ceza: [type]\nBitiş: [remove_date]\nKim: [author] - Oluşturulma: [date]\n```[reason]```",
-      "no_punishments_found": "Ceza bulunamadı!"
+      "no_punishments_found": "Ceza bulunamadı!",
+      "no_access_roles": "Hiçbir role erişimin yok.",
+      "member_no_roles": "Bu üyenin hiç rolü yok.",
+      "partial_access_roles": "[totalRoles] rolden sadece [accessRoles] tanesine erişimin var. Devam etmek istiyor musun?"
     },
     "embed": {
       "pmute_title": "Hapis",
@@ -233,6 +236,7 @@
       "tmute_title": "Yazı Susturması",
       "vmute_title": "Ses Susturması",
       "ban_title": "Ban",
+      "add_warn_title": "Uyarı",
       "server_name_field": "Sunucu Adı",
       "executor_field": "İşlemi Yapan",
       "unmute_at_field": "Susturma Bitişi",
@@ -241,7 +245,9 @@
       "reason_field": "Sebep",
       "reason_not_provided_field": "Belirtilmedi",
       "warn_title": "Uyarıldın",
-      "unban_at_field": "Ban Bitişi"
+      "unban_at_field": "Ban Bitişi",
+      "punishment_ended": "Cezan sona erdi. Artık bu sunucuda normal şekilde katılabilirsin.",
+      "punishment_removed": "Ceza kaldırıldı: [type]"
     }
   },
   "welcome": {
@@ -1004,6 +1010,8 @@
       "protection_type_embed_title": "Koruma: [type]",
       "protection_type_embed_title_anti_join_bots": "Bot Katılımı Engelleme",
       "protection_type_embed_title_no_bots_have_perms": "Botlarda Yetki Olmasın",
+      "protection_type_embed_title_manual_timeout_limit": "Manuel Zaman Aşımı Limiti",
+      "protection_type_embed_title_timeout_duration_abuse": "Zaman Aşımı Süresi Suistimali",
       "protection_action_embed_field_name": "Koruma Eylemi",
       "anti_join_bots_action_remove_bot_roles_perms": "Botun rollerinden yönetici yetkisini kaldır",
       "anti_join_bots_action_kick_bot": "Botu at",
@@ -1038,9 +1046,12 @@
       "action_type_embed_field_value_create_channels": "Kanallar Oluşturuldu",
       "action_type_embed_field_value_delete_roles": "Roller Silindi",
       "action_type_embed_field_value_create_roles": "Roller Oluşturuldu",
-      "action_type_embed_field_value_ban": "Üyeyi Banla",
-      "action_type_embed_field_value_kick": "Üyeyi At",
+      "action_type_embed_field_value_ban_member": "Üyeyi Banla",
+      "action_type_embed_field_value_kick_member": "Üyeyi At",
       "action_type_embed_field_value_prune": "Sunucu Budama",
+      "action_type_embed_field_value_delete_emojis": "Emojiler Silindi",
+      "action_type_embed_field_value_delete_stickers": "Stickerlar Silindi",
+      "action_type_embed_field_value_update_server_settings": "Sunucu Ayarları Güncellendi",
 
       "restore_executor_embed_field_name": "Geri Yükleyen",
       "restore_note_ratelimit_embed_field_name": "Not",

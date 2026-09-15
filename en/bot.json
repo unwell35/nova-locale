@@ -225,7 +225,10 @@
       "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel.",
       "command_exceeded_limit": "You have exceeded the limit for this command.",
       "punishment_display": "To: [user] - Punishment: [type]\nRemove At: [remove_date]\nBy: [author] - Created At: [date]\n```[reason]```",
-      "no_punishments_found": "No punishments found!"
+      "no_punishments_found": "No punishments found!",
+      "no_access_roles": "You don't have access to any roles.",
+      "member_no_roles": "This member has no roles.",
+      "partial_access_roles": "You only have access to [accessRoles] of [totalRoles] roles. Do you want to continue?"
     },
     "embed": {
       "pmute_title": "Prison",
@@ -233,6 +236,7 @@
       "tmute_title": "Text Mute",
       "vmute_title": "Voice Mute",
       "ban_title": "Ban",
+      "add_warn_title": "Warn",
       "server_name_field": "Server Name",
       "executor_field": "Executor",
       "unmute_at_field": "Unmute At",
@@ -241,7 +245,9 @@
       "reason_field": "Reason",
       "reason_not_provided_field": "Not Provided",
       "warn_title": "You have been warned",
-      "unban_at_field": "Unban At"
+      "unban_at_field": "Unban At",
+      "punishment_ended": "Your punishment has ended. You can now participate normally in this server.",
+      "punishment_removed": "Punishment Removed: [type]"
     }
   },
   "welcome": {
@@ -1004,6 +1010,8 @@
       "protection_type_embed_title": "Protection: [type]",
       "protection_type_embed_title_anti_join_bots": "Anti Join Bots",
       "protection_type_embed_title_no_bots_have_perms": "No Bots Have Permissions",
+      "protection_type_embed_title_manual_timeout_limit": "Manual Timeout Limit",
+      "protection_type_embed_title_timeout_duration_abuse": "Timeout Duration Abuse",
       "protection_action_embed_field_name": "Protection Action",
       "anti_join_bots_action_remove_bot_roles_perms": "Remove administrator permissions from bot's roles",
       "anti_join_bots_action_kick_bot": "Kick bot",
@@ -1038,9 +1046,12 @@
       "action_type_embed_field_value_create_channels": "Channels Created",
       "action_type_embed_field_value_delete_roles": "Roles Deleted",
       "action_type_embed_field_value_create_roles": "Roles Created",
-      "action_type_embed_field_value_ban": "Ban Member",
-      "action_type_embed_field_value_kick": "Kick Member",
+      "action_type_embed_field_value_ban_member": "Ban Member",
+      "action_type_embed_field_value_kick_member": "Kick Member",
       "action_type_embed_field_value_prune": "Server Prune",
+      "action_type_embed_field_value_delete_emojis": "Emojis Deleted",
+      "action_type_embed_field_value_delete_stickers": "Stickers Deleted",
+      "action_type_embed_field_value_update_server_settings": "Server Settings Updated",
 
       "restore_executor_embed_field_name": "Restored By",
       "restore_note_ratelimit_embed_field_name": "Note",

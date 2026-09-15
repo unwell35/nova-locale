@@ -225,7 +225,10 @@
       "lock_onboarding_error": "Non puoi bloccare questo canale perché è l'unico canale in cui `@everyone` può inviare messaggi. L'onboarding richiede almeno un canale accessibile.",
       "command_exceeded_limit": "Hai superato il limite per questo comando.",
       "punishment_display": "A: [user] - Punizione: [type]\nRimozione il: [remove_date]\nDa: [author] - Creato il: [date]\n```[reason]```",
-      "no_punishments_found": "Nessuna punizione trovata!"
+      "no_punishments_found": "Nessuna punizione trovata!",
+      "no_access_roles": "Non hai accesso a nessun ruolo.",
+      "member_no_roles": "Questo membro non ha ruoli.",
+      "partial_access_roles": "Hai accesso solo a [accessRoles] ruoli su [totalRoles]. Vuoi continuare?"
     },
     "embed": {
       "pmute_title": "Prigione",
@@ -233,6 +236,7 @@
       "tmute_title": "Mute Testuale",
       "vmute_title": "Mute Voce",
       "ban_title": "Ban",
+      "add_warn_title": "Avviso",
       "server_name_field": "Nome Server",
       "executor_field": "Esecutore",
       "unmute_at_field": "Fine Mute",
@@ -241,7 +245,9 @@
       "reason_field": "Motivo",
       "reason_not_provided_field": "Non fornito",
       "warn_title": "Sei stato avvisato",
-      "unban_at_field": "Sbannato il"
+      "unban_at_field": "Sbannato il",
+      "punishment_ended": "La tua punizione è terminata. Ora puoi partecipare normalmente in questo server.",
+      "punishment_removed": "Punizione rimossa: [type]"
     }
   },
 
@@ -998,6 +1004,8 @@
       "protection_type_embed_title": "Protezione: [type]",
       "protection_type_embed_title_anti_join_bots": "Anti Join Bot",
       "protection_type_embed_title_no_bots_have_perms": "Nessun Bot con Permessi",
+      "protection_type_embed_title_manual_timeout_limit": "Limite Timeout Manuali",
+      "protection_type_embed_title_timeout_duration_abuse": "Abuso della Durata dei Timeout",
       "protection_action_embed_field_name": "Azione Protezione",
       "anti_join_bots_action_remove_bot_roles_perms": "Rimuovi permessi amministratore dai ruoli del bot",
       "anti_join_bots_action_kick_bot": "Espelli bot",
@@ -1029,9 +1037,12 @@
       "action_type_embed_field_value_create_channels": "Canali Creati",
       "action_type_embed_field_value_delete_roles": "Ruoli Eliminati",
       "action_type_embed_field_value_create_roles": "Ruoli Creati",
-      "action_type_embed_field_value_ban": "Vieta Membro",
-      "action_type_embed_field_value_kick": "Espelli Membro",
+      "action_type_embed_field_value_ban_member": "Vieta Membro",
+      "action_type_embed_field_value_kick_member": "Espelli Membro",
       "action_type_embed_field_value_prune": "Ripulitura Server",
+      "action_type_embed_field_value_delete_emojis": "Emoji Eliminate",
+      "action_type_embed_field_value_delete_stickers": "Sticker Eliminati",
+      "action_type_embed_field_value_update_server_settings": "Impostazioni Server Aggiornate",
       "restore_executor_embed_field_name": "Ripristinato Da",
       "restore_note_ratelimit_embed_field_name": "Nota",
       "restore_note_ratelimit_embed_field_value": "Ci sono [rolesCount] ruoli non ripristinati a causa del limite di Discord. Puoi riutilizzare lo stesso ID di ripristino più tardi per ripristinarli",

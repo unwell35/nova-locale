@@ -225,7 +225,10 @@
       "lock_onboarding_error": "You can’t lock this channel because it’s the only channel where `@everyone` can send messages. Onboarding requires at least one accessible channel.",
       "command_exceeded_limit": "You have exceeded the limit for this command.",
       "punishment_display": "대상: [user] - 처벌: [type]\n해제 일시: [remove_date]\n담당자: [author] - 생성일: [date]\n```[reason]```",
-      "no_punishments_found": "처벌 기록이 없습니다!"
+      "no_punishments_found": "처벌 기록이 없습니다!",
+      "no_access_roles": "접근할 수 있는 역할이 없습니다.",
+      "member_no_roles": "이 멤버는 역할이 없습니다.",
+      "partial_access_roles": "전체 [totalRoles]개 역할 중 [accessRoles]개에만 접근할 수 있습니다. 계속하시겠습니까?"
     },
     "embed": {
       "pmute_title": "감옥 (Prison)",
@@ -233,6 +236,7 @@
       "tmute_title": "채팅 뮤트 (Text Mute)",
       "vmute_title": "음성 뮤트 (Voice Mute)",
       "ban_title": "차단 (Ban)",
+      "add_warn_title": "경고 (Warn)",
       "server_name_field": "서버 이름",
       "executor_field": "담당자",
       "unmute_at_field": "뮤트 해제 일시",
@@ -241,7 +245,9 @@
       "reason_field": "사유",
       "reason_not_provided_field": "제공되지 않음",
       "warn_title": "경고를 받았습니다",
-      "unban_at_field": "차단 해제 일시"
+      "unban_at_field": "차단 해제 일시",
+      "punishment_ended": "처벌이 종료되었습니다. 이제 이 서버에서 정상적으로 활동할 수 있습니다.",
+      "punishment_removed": "처벌 해제됨: [type]"
     }
   },
   "welcome": {
@@ -1004,6 +1010,8 @@
       "protection_type_embed_title": "보호 유형: [type]",
       "protection_type_embed_title_anti_join_bots": "봇 입장 방지",
       "protection_type_embed_title_no_bots_have_perms": "봇 권한 제한",
+      "protection_type_embed_title_manual_timeout_limit": "수동 타임아웃 제한",
+      "protection_type_embed_title_timeout_duration_abuse": "타임아웃 기간 남용",
       "protection_action_embed_field_name": "보호 조치",
       "anti_join_bots_action_remove_bot_roles_perms": "봇 역할에서 관리자 권한 제거",
       "anti_join_bots_action_kick_bot": "봇 추방",
@@ -1038,9 +1046,12 @@
       "action_type_embed_field_value_create_channels": "채널 생성됨",
       "action_type_embed_field_value_delete_roles": "역할 삭제됨",
       "action_type_embed_field_value_create_roles": "역할 생성됨",
-      "action_type_embed_field_value_ban": "멤버 차단",
-      "action_type_embed_field_value_kick": "멤버 추방",
+      "action_type_embed_field_value_ban_member": "멤버 차단",
+      "action_type_embed_field_value_kick_member": "멤버 추방",
       "action_type_embed_field_value_prune": "서버 정리 (Prune)",
+      "action_type_embed_field_value_delete_emojis": "이모지 삭제됨",
+      "action_type_embed_field_value_delete_stickers": "스티커 삭제됨",
+      "action_type_embed_field_value_update_server_settings": "서버 설정 변경됨",
 
       "restore_executor_embed_field_name": "복구자",
       "restore_note_ratelimit_embed_field_name": "참고",

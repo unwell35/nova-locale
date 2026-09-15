@@ -225,7 +225,10 @@
       "lock_onboarding_error": "Du kannst diesen Kanal nicht sperren, da es der einzige Kanal ist, in dem `@everyone` Nachrichten schreiben kann. Das Onboarding benötigt mindestens einen zugänglichen Kanal.",
       "command_exceeded_limit": "Du hast das Limit für diesen Befehl überschritten.",
       "punishment_display": "An: [user] - Strafe: [type]\nEntfernung am: [remove_date]\nVon: [author] - Erstellt am: [date]\n```[reason]```",
-      "no_punishments_found": "Keine Strafen gefunden!"
+      "no_punishments_found": "Keine Strafen gefunden!",
+      "no_access_roles": "Du hast auf keine Rolle Zugriff.",
+      "member_no_roles": "Dieses Mitglied hat keine Rollen.",
+      "partial_access_roles": "Du hast nur auf [accessRoles] von [totalRoles] Rollen Zugriff. Möchtest du fortfahren?"
     },
     "embed": {
       "pmute_title": "Gefängnis",
@@ -233,6 +236,7 @@
       "tmute_title": "Text-Mute",
       "vmute_title": "Voice-Mute",
       "ban_title": "Bann",
+      "add_warn_title": "Verwarnung",
       "server_name_field": "Servername",
       "executor_field": "Ausführender",
       "unmute_at_field": "Unmute am",
@@ -241,7 +245,9 @@
       "reason_field": "Grund",
       "reason_not_provided_field": "Nicht angegeben",
       "warn_title": "Du wurdest verwarnt",
-      "unban_at_field": "Entbannung am"
+      "unban_at_field": "Entbannung am",
+      "punishment_ended": "Deine Strafe ist abgelaufen. Du kannst jetzt wieder normal auf diesem Server mitmachen.",
+      "punishment_removed": "Strafe entfernt: [type]"
     }
   },
   "welcome": {
@@ -1004,6 +1010,8 @@
       "protection_type_embed_title": "Schutz: [type]",
       "protection_type_embed_title_anti_join_bots": "Anti-Bot-Join",
       "protection_type_embed_title_no_bots_have_perms": "Keine Bots mit Berechtigungen",
+      "protection_type_embed_title_manual_timeout_limit": "Limit für manuelle Timeouts",
+      "protection_type_embed_title_timeout_duration_abuse": "Missbrauch der Timeout-Dauer",
       "protection_action_embed_field_name": "Schutzaktion",
       "anti_join_bots_action_remove_bot_roles_perms": "Administrator-Berechtigungen von den Rollen des Bots entfernen",
       "anti_join_bots_action_kick_bot": "Bot kicken",
@@ -1038,9 +1046,12 @@
       "action_type_embed_field_value_create_channels": "Kanäle erstellt",
       "action_type_embed_field_value_delete_roles": "Rollen gelöscht",
       "action_type_embed_field_value_create_roles": "Rollen erstellt",
-      "action_type_embed_field_value_ban": "Mitglied bannen",
-      "action_type_embed_field_value_kick": "Mitglied kicken",
+      "action_type_embed_field_value_ban_member": "Mitglied bannen",
+      "action_type_embed_field_value_kick_member": "Mitglied kicken",
       "action_type_embed_field_value_prune": "Server bereinigen",
+      "action_type_embed_field_value_delete_emojis": "Emojis gelöscht",
+      "action_type_embed_field_value_delete_stickers": "Sticker gelöscht",
+      "action_type_embed_field_value_update_server_settings": "Servereinstellungen geändert",
 
       "restore_executor_embed_field_name": "Wiederhergestellt von",
       "restore_note_ratelimit_embed_field_name": "Hinweis",

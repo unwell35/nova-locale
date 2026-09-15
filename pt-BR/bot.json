@@ -225,7 +225,10 @@
       "lock_onboarding_error": "Você não pode trancar esse canal porque ele é o único canal onde `@everyone` pode enviar mensagens. O onboarding exige pelo menos um canal acessível.",
       "command_exceeded_limit": "Você excedeu o limite desse comando.",
       "punishment_display": "Para: [user] - Punição: [type]\nRemover Em: [remove_date]\nPor: [author] - Criado em: [date]\n```[reason]```",
-      "no_punishments_found": "Nenhuma punição encontrada!"
+      "no_punishments_found": "Nenhuma punição encontrada!",
+      "no_access_roles": "Você não tem acesso a nenhum cargo.",
+      "member_no_roles": "Este membro não tem nenhum cargo.",
+      "partial_access_roles": "Você só tem acesso a [accessRoles] de [totalRoles] cargos. Deseja continuar?"
     },
     "embed": {
       "pmute_title": "Prisão",
@@ -233,6 +236,7 @@
       "tmute_title": "Mudo no Chat",
       "vmute_title": "Mudo na Call",
       "ban_title": "Banimento",
+      "add_warn_title": "Advertência",
       "server_name_field": "Nome do Servidor",
       "executor_field": "Executor",
       "unmute_at_field": "Desmutar Em",
@@ -241,7 +245,9 @@
       "reason_field": "Motivo",
       "reason_not_provided_field": "Não Informado",
       "warn_title": "Você recebeu uma advertência",
-      "unban_at_field": "Desbanir Em"
+      "unban_at_field": "Desbanir Em",
+      "punishment_ended": "Sua punição terminou. Agora você pode participar normalmente neste servidor.",
+      "punishment_removed": "Punição removida: [type]"
     }
   },
   "welcome": {
@@ -1004,6 +1010,8 @@
       "protection_type_embed_title": "Proteção: [type]",
       "protection_type_embed_title_anti_join_bots": "Anti Entrada de Bots",
       "protection_type_embed_title_no_bots_have_perms": "Nenhum Bot Com Permissões",
+      "protection_type_embed_title_manual_timeout_limit": "Limite de Timeouts Manuais",
+      "protection_type_embed_title_timeout_duration_abuse": "Abuso na Duração de Timeouts",
       "protection_action_embed_field_name": "Ação de Proteção",
       "anti_join_bots_action_remove_bot_roles_perms": "Remover permissões de administrador dos cargos do bot",
       "anti_join_bots_action_kick_bot": "Expulsar bot",
@@ -1038,9 +1046,12 @@
       "action_type_embed_field_value_create_channels": "Canais Criados",
       "action_type_embed_field_value_delete_roles": "Cargos Excluídos",
       "action_type_embed_field_value_create_roles": "Cargos Criados",
-      "action_type_embed_field_value_ban": "Banir Membro",
-      "action_type_embed_field_value_kick": "Expulsar Membro",
+      "action_type_embed_field_value_ban_member": "Banir Membro",
+      "action_type_embed_field_value_kick_member": "Expulsar Membro",
       "action_type_embed_field_value_prune": "Limpeza do Servidor",
+      "action_type_embed_field_value_delete_emojis": "Emojis Excluídos",
+      "action_type_embed_field_value_delete_stickers": "Figurinhas Excluídas",
+      "action_type_embed_field_value_update_server_settings": "Configurações do Servidor Atualizadas",
 
       "restore_executor_embed_field_name": "Restaurado Por",
       "restore_note_ratelimit_embed_field_name": "Nota",

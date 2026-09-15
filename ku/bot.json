@@ -224,7 +224,10 @@
       "lock_onboarding_error": "تۆ ناتوانی چەناڵەکە دابخەیت لەبەرئەوەی ئەمە تاکە چەناڵە کە `@everyone` دەتوانێ نامەی تێدا بنێرێت.\n چوونە ژوورەوە بەلایەنی کەمەوە پێویستی بە یەک چەناڵی بەردەست هەیە.",
       "command_exceeded_limit": "You have exceeded the limit for this command.",
       "punishment_display": "بۆ: [user] - سزا: [type]\nلادەبرێت لە: [remove_date]\nلە لایەن: [author] - درووستکراوە لە: [date]\n```[reason]```",
-      "no_punishments_found": "هیچ سزایەک نەدۆزرایەوە!"
+      "no_punishments_found": "هیچ سزایەک نەدۆزرایەوە!",
+      "no_access_roles": "دەستت بە هیچ ڕۆڵێک ناگات.",
+      "member_no_roles": "ئەم ئەندامە هیچ ڕۆڵێکی نییە.",
+      "partial_access_roles": "تەنها دەستت بە [accessRoles] لە [totalRoles] ڕۆڵ دەگات. دەتەوێت بەردەوام بیت؟"
     },
     "embed": {
       "pmute_title": "بەندینخانە",
@@ -232,6 +235,7 @@
       "tmute_title": "بێدەنکی نووسین",
       "vmute_title": "بێدەنگی ڤۆیس",
       "ban_title": "باند",
+      "add_warn_title": "ئاگادارکردنەوە",
       "server_name_field": "ناوی سێرڤەر",
       "executor_field": "جێبەجێکار،ئەنجامدەر",
       "unmute_at_field": "بێدەنکی لادەبرێت لە",
@@ -240,7 +244,9 @@
       "reason_field": "هۆکار",
       "reason_not_provided_field": "دابین نەکراوە",
       "warn_title": "تۆ ئاگادار کرایتەوە",
-      "unban_at_field": "باندەکە لادەبرێت لە"
+      "unban_at_field": "باندەکە لادەبرێت لە",
+      "punishment_ended": "سزاکەت کۆتایی هات. ئێستا دەتوانیت بە ئاسایی بەشداری لەم سێرڤەرەدا بکەیت.",
+      "punishment_removed": "سزاکە لابرا: [type]"
     }
   },
   "welcome": {
@@ -980,6 +986,8 @@
       "protection_type_embed_title": "پاراستن: [type]",
       "protection_type_embed_title_anti_join_bots": "دژە هاتنە ژوورەوەی بۆت",
       "protection_type_embed_title_no_bots_have_perms": "هیچ بۆتێک دەسەڵاتی نیە",
+      "protection_type_embed_title_manual_timeout_limit": "سنووری تایمئاوتی دەستی",
+      "protection_type_embed_title_timeout_duration_abuse": "خراپبەکارهێنانی ماوەی تایمئاوت",
       "protection_action_embed_field_name": "کرداری پاراستن",
       "anti_join_bots_action_remove_bot_roles_perms": "لابردنی دەسەڵاتی ئەدمینستاتۆر لە بۆتەکان",
       "anti_join_bots_action_kick_bot": "دەرکردنی بۆت",
@@ -1011,9 +1019,12 @@
       "action_type_embed_field_value_create_channels": "چەناڵەکە درووستکراوە",
       "action_type_embed_field_value_delete_roles": "ڕۆڵە سڕدراوەکان",
       "action_type_embed_field_value_create_roles": "ڕۆڵە درووستکراوەکان",
-      "action_type_embed_field_value_ban": "باندکردنی کەسێک",
-      "action_type_embed_field_value_kick": "دەرکردنی کەسێک",
+      "action_type_embed_field_value_ban_member": "باندکردنی کەسێک",
+      "action_type_embed_field_value_kick_member": "دەرکردنی کەسێک",
       "action_type_embed_field_value_prune": "پرونی سێرڤەر",
+      "action_type_embed_field_value_delete_emojis": "ئیمۆجیە سڕدراوەکان",
+      "action_type_embed_field_value_delete_stickers": "ستیکەرە سڕدراوەکان",
+      "action_type_embed_field_value_update_server_settings": "ڕێکخستنەکانی سێرڤەر نوێکرانەوە",
       "restore_executor_embed_field_name": "گەڕێندرایەوە لەلایەن",
       "restore_note_ratelimit_embed_field_name": "تێبینی",
       "restore_note_ratelimit_embed_field_value": "هەندێک ڕۆڵی [rolesCount] هەن کە ناگەڕێندرێنەوە بەهۆی سنوری رێژەی دیسکۆرد. دەتوانیت دواتر هەمان ئایدی گەڕاندنەوە بەکار بهێنیتەوە بۆ گەڕاندنەوەی ئەم ڕۆڵانە دووبارە",
