@@ -224,7 +224,10 @@
       "lock_onboarding_error": "Vous ne pouvez pas verrouiller ce salon, car c'est le seul salon où `@everyone` peut envoyer des messages. L'accueil des membres nécessite au moins un salon accessible.",
       "command_exceeded_limit": "Vous avez dépassé la limite pour cette commande.",
       "punishment_display": "À : [user] - Sanction : [type]\nRetrait le : [remove_date]\nPar : [author] - Créé le : [date]\n```[reason]```",
-      "no_punishments_found": "Aucune sanction trouvée !"
+      "no_punishments_found": "Aucune sanction trouvée !",
+      "no_access_roles": "Vous n'avez accès à aucun rôle.",
+      "member_no_roles": "Ce membre n'a aucun rôle.",
+      "partial_access_roles": "Vous avez accès à seulement [accessRoles] rôles sur [totalRoles]. Voulez-vous continuer ?"
     },
     "embed": {
       "pmute_title": "Prison",
@@ -232,6 +235,7 @@
       "tmute_title": "Texte muet",
       "vmute_title": "Voix muette",
       "ban_title": "Bannissement",
+      "add_warn_title": "Avertissement",
       "server_name_field": "Nom du serveur",
       "executor_field": "Exécuteur",
       "unmute_at_field": "Activer le son à",
@@ -240,7 +244,9 @@
       "reason_field": "Raison",
       "reason_not_provided_field": "Non fourni",
       "warn_title": "Vous avez été prévenu",
-      "unban_at_field": "Débanni le"
+      "unban_at_field": "Débanni le",
+      "punishment_ended": "Votre sanction est terminée. Vous pouvez de nouveau participer normalement sur ce serveur.",
+      "punishment_removed": "Sanction retirée : [type]"
     }
   },
   "welcome": {
@@ -980,6 +986,8 @@
       "protection_type_embed_title": "Protection : [type]",
       "protection_type_embed_title_anti_join_bots": "Bots anti-adhésion",
       "protection_type_embed_title_no_bots_have_perms": "Aucun robot n'a d'autorisations",
+      "protection_type_embed_title_manual_timeout_limit": "Limite de timeouts manuels",
+      "protection_type_embed_title_timeout_duration_abuse": "Abus de durée de timeout",
       "protection_action_embed_field_name": "Action de protection",
       "anti_join_bots_action_remove_bot_roles_perms": "Supprimer les autorisations d'administrateur des rôles du bot",
       "anti_join_bots_action_kick_bot": "Bot de coup de pied",
@@ -1011,9 +1019,12 @@
       "action_type_embed_field_value_create_channels": "Chaînes créées",
       "action_type_embed_field_value_delete_roles": "Rôles supprimés",
       "action_type_embed_field_value_create_roles": "Rôles créés",
-      "action_type_embed_field_value_ban": "Interdire un membre",
-      "action_type_embed_field_value_kick": "Membre de coup de pied",
+      "action_type_embed_field_value_ban_member": "Bannir un membre",
+      "action_type_embed_field_value_kick_member": "Expulsion d'un membre",
       "action_type_embed_field_value_prune": "Élaguement du serveur",
+      "action_type_embed_field_value_delete_emojis": "Émojis supprimés",
+      "action_type_embed_field_value_delete_stickers": "Autocollants supprimés",
+      "action_type_embed_field_value_update_server_settings": "Paramètres du serveur mis à jour",
       "restore_executor_embed_field_name": "Restauré par",
       "restore_note_ratelimit_embed_field_name": "Note",
       "restore_note_ratelimit_embed_field_value": "Il y a [rolesCount] rôles non restaurés en raison de la limite de débit de Discord. Vous pouvez réutiliser le même identifiant de restauration ultérieurement pour restaurer ces rôles",
