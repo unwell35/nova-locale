@@ -92,7 +92,7 @@
     "yes": "نعم",
     "no": "لا",
     "remaining_days_subscription": "مجرد تنبيه ودي: ستنتهي صلاحية اشتراكك قريبًا. لديك **[remainingDays]** يومًا متبقيًا.\nيمكنك تجديد اشتراكك على صفحة الاشتراكات المميزة لدينا: https://novax.gg/premium/subscriptions.",
-    "subscrption_expired": "مرحبًا! تنبيه سريع: انتهت صلاحية اشتراكك. لا داعي للقلق، يمكنك التجديد الآن على صفحة الاشتراكات المميزة لدينا: https://novax.gg/premium/subscriptions.",
+    "subscrption_expired": "مرحبًا! تنبيه سريع: لقد **انتهت** صلاحية اشتراكك. لا داعي للقلق، يمكنك التجديد الآن على صفحة الاشتراكات المميزة لدينا: https://novax.gg/premium/subscriptions.",
     "user_id": "معرف المستخدم",
     "sent_from_server": "تم الإرسال من سيرفر: [serverName]",
     "import": "تحميل",
@@ -310,7 +310,8 @@
       "new_ticket_name_100_chars": "يجب أن يكون اسم التذكرة أقل من 100 حرف",
       "no_points_data_found": "لم يتم العثور على بيانات النقاط!",
       "setup_panel": "لم يتم تحديد اللوحة، يرجى الانتقال إلى لوحة التحكم واختيار لوحة التذاكر",
-      "user_not_related": "هذا المستخدم غير مرتبط بهذه التذكرة."
+      "user_not_related": "هذا المستخدم غير مرتبط بهذه التذكرة.",
+      "notify_sent": "تم إرسال الإشعار بنجاح!"
     }
   },
   "logs": {
@@ -518,6 +519,7 @@
       "no_server_banner": "هذا السيرفر ليس لديه بنر",
       "no_user_banner": "هذا العضو ليس لديه بنر",
       "confirm_to_reset": "**هل أنت متأكد أنك تريد إعادة تعيين [target]؟**",
+      "confirm_to_reset_duration": "**هل أنت متأكد أنك تريد إعادة تعيين مدة [target] من [duration]؟**",
       "reset_type": "**يرجى اختيار نوع إعادة التعيين التي تريدها**",
       "provide_points": "يرجى تقديم النقاط التي تريد تعيينها",
       "set_points_warn": "يرجى ملاحظة، 1 نقطة = 1 دقيقة (صوت) أو 1 رسالة (رسائل).",
@@ -866,7 +868,7 @@
       "eliminate_player": "لديك **[seconds] ثانية** لاختيار لاعب للقضاء عليه.",
       "withdrawal_button_label": "الانسحاب",
       "inactive_user": "[user] تم طرده من اللعبة بسبب الخمول. ستبدأ الجولة التالية في بضع ثوان...",
-      "withdrawn_player": "[user] انسحب من اللعبة. ستبدأ الجولة التالية في بضع ثوان...**",
+      "withdrawn_player": "[user] انسحب من اللعبة. ستبدأ الجولة التالية في بضع ثوان...",
       "player_kicked": "[user] تم طرده من اللعبة. ستبدأ الجولة التالية في بضع ثوان..."
     }
   },
@@ -1146,7 +1148,7 @@
       "track_not_found_playlist": "لا يمكن العثور على هذا المقطع في قائمتك. قد يكون قد تم حذفه.",
       "confirm_remove_track_playlist": "هل أنت متأكد أنك تريد إزالة المقطع **[[track_title]]([url])** من قائمة **[playlist_name]**؟",
       "select_playlist_edit": "اختر قائمة لتعديلها.",
-      "playlist_edit_info": "الاسم: [playlist_name]\nالرابط: [playlist_url]\nتم إنشاؤه في: [created_date]\nتم التحديث في: [updated_date]",
+      "playlist_edit_info": "**الاسم:** [playlist_name]\n**الرابط:** [playlist_url]\n**تم إنشاؤه في:** [created_date]\n**تم التحديث في:** [updated_date]",
       "playlist_public": "**هذه القائمة عامة.**\n-# يمكنك مشاركة رابطها مع أصدقائك ليتمكنوا من تشغيلها.",
       "playlist_private": "**هذه القائمة خاصة.**",
       "playlist_name_changed": "تم تغيير اسم القائمة من **[oldName]** إلى **[newName]**.",
