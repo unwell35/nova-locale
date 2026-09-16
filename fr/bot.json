@@ -310,7 +310,8 @@
       "new_ticket_name_100_chars": "Le nom du ticket doit comporter moins de 100 caractères",
       "no_points_data_found": "Aucune donnée de points trouvée !",
       "setup_panel": "Le panneau n'est pas configuré, veuillez accéder au tableau de bord et choisir le panneau de ticket",
-      "user_not_related": "Cet utilisateur n'est pas lié à ce ticket."
+      "user_not_related": "Cet utilisateur n'est pas lié à ce ticket.",
+      "notify_sent": "La notification a bien été envoyée !"
     }
   },
   "logs": {
@@ -518,6 +519,7 @@
       "no_server_banner": "Ce serveur n'a pas de bannière",
       "no_user_banner": "Ce membre n'a pas de bannière",
       "confirm_to_reset": "**Êtes-vous sûr de vouloir réinitialiser [target] ?**",
+      "confirm_to_reset_duration": "**Êtes-vous sûr de vouloir réinitialiser la durée de [target] depuis [duration] ?**",
       "reset_type": "**Veuillez choisir le type de réinitialisation souhaité**",
       "provide_points": "Veuillez indiquer les points que vous souhaitez définir",
       "set_points_warn": "Attention, 1 point = 1 minute (voix) ou 1 message (messages).",
@@ -866,7 +868,7 @@
       "eliminate_player": "Vous avez **[secondes] secondes** pour choisir un joueur à éliminer.",
       "withdrawal_button_label": "Retrait",
       "inactive_user": "[user] a été exclu du jeu pour inactivité. La prochaine partie commencera dans quelques secondes...",
-      "withdrawn_player": "[user] s'est retiré du jeu. La prochaine partie commencera dans quelques secondes…**",
+      "withdrawn_player": "[user] s'est retiré du jeu. La prochaine partie commencera dans quelques secondes…",
       "player_kicked": "[user] a été expulsé du jeu. Le prochain tour commencera dans quelques secondes..."
     }
   },
