@@ -312,7 +312,8 @@
       "new_ticket_name_100_chars": "Der Ticket-Name muss weniger als 100 Zeichen haben",
       "no_points_data_found": "Keine Punktedaten gefunden!",
       "setup_panel": "Das Panel wurde nicht eingerichtet, bitte gehe zum Dashboard und wähle ein Ticket-Panel aus",
-      "user_not_related": "Dieser Nutzer hat nichts mit diesem Ticket zu tun."
+      "user_not_related": "Dieser Nutzer hat nichts mit diesem Ticket zu tun.",
+      "notify_sent": "Die Benachrichtigung wurde erfolgreich gesendet!"
     }
   },
 
@@ -536,6 +537,7 @@
       "no_server_banner": "Dieser Server hat keinen Banner",
       "no_user_banner": "Dieses Mitglied hat keinen Banner",
       "confirm_to_reset": "**Bist du sicher, dass du [target] zurücksetzen möchtest?**",
+      "confirm_to_reset_duration": "**Bist du sicher, dass du die Dauer für [target] von [duration] zurücksetzen möchtest?**",
       "reset_type": "**Bitte wähle die gewünschte Reset-Art aus**",
       "provide_points": "Bitte gib die Punkte an, die du setzen möchtest",
       "set_points_warn": "Bitte beachte: 1 Punkt = 1 Minute (Voice) oder 1 Nachricht (Messages).",
@@ -887,7 +889,7 @@
       "eliminate_player": "Du hast **[seconds] Sekunden**, um einen Spieler zum Eliminieren auszuwählen.",
       "withdrawal_button_label": "Zurückziehen",
       "inactive_user": "[user] wurde wegen Inaktivität aus dem Spiel geworfen. Die nächste Runde startet in ein paar Sekunden...",
-      "withdrawn_player": "[user] hat sich aus dem Spiel zurückgezogen. Die nächste Runde startet in ein paar Sekunden...**",
+      "withdrawn_player": "[user] hat sich aus dem Spiel zurückgezogen. Die nächste Runde startet in ein paar Sekunden...",
       "player_kicked": "[user] wurde aus dem Spiel geworfen. Die nächste Runde startet in ein paar Sekunden..."
     }
   },

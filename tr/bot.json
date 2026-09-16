@@ -312,7 +312,8 @@
       "new_ticket_name_100_chars": "Ticket adı 100 karakterden az olmalı",
       "no_points_data_found": "Puan verisi bulunamadı!",
       "setup_panel": "Panel ayarlanmamış, lütfen dashboard'a gidip ticket panelini seç",
-      "user_not_related": "Bu kullanıcının bu ticket'la ilgisi yok."
+      "user_not_related": "Bu kullanıcının bu ticket'la ilgisi yok.",
+      "notify_sent": "Bildirim başarıyla gönderildi!"
     }
   },
 
@@ -536,6 +537,7 @@
       "no_server_banner": "Bu sunucunun banner'ı yok",
       "no_user_banner": "Bu üyenin banner'ı yok",
       "confirm_to_reset": "**[target]'ı sıfırlamak istediğinden emin misin?**",
+      "confirm_to_reset_duration": "**[target] için [duration] olan süreyi sıfırlamak istediğinden emin misin?**",
       "reset_type": "**Lütfen sıfırlama türünü seç**",
       "provide_points": "Lütfen ayarlamak istediğin puanı gir",
       "set_points_warn": "Unutma, 1 puan = 1 dakika (ses) veya 1 mesaj (yazı).",
@@ -887,7 +889,7 @@
       "eliminate_player": "Elemek için bir oyuncu seçmek üzere **[seconds] saniyen** var.",
       "withdrawal_button_label": "Çekil",
       "inactive_user": "[user], hareketsizlik nedeniyle oyundan atıldı. Sonraki tur birkaç saniye içinde başlayacak...",
-      "withdrawn_player": "[user] oyundan çekildi. Sonraki tur birkaç saniye içinde başlayacak...**",
+      "withdrawn_player": "[user] oyundan çekildi. Sonraki tur birkaç saniye içinde başlayacak...",
       "player_kicked": "[user] oyundan atıldı. Sonraki tur birkaç saniye içinde başlayacak..."
     }
   },

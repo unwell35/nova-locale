@@ -312,7 +312,8 @@
       "new_ticket_name_100_chars": "Il nome del ticket deve essere inferiore a 100 caratteri",
       "no_points_data_found": "Nessun dato punti trovato!",
       "setup_panel": "Il pannello non è impostato, vai nella dashboard e scegli il pannello ticket",
-      "user_not_related": "Questo utente non è collegato a questo ticket."
+      "user_not_related": "Questo utente non è collegato a questo ticket.",
+      "notify_sent": "La notifica è stata inviata con successo!"
     }
   },
 
@@ -534,6 +535,7 @@
       "no_server_banner": "Questo server non ha un banner",
       "no_user_banner": "Questo membro non ha un banner",
       "confirm_to_reset": "**Sei sicuro di voler resettare [target]?**",
+      "confirm_to_reset_duration": "**Sei sicuro di voler resettare la durata di [target] da [duration]?**",
       "reset_type": "**Seleziona il tipo di reset**",
       "provide_points": "Inserisci i punti che vuoi impostare",
       "set_points_warn": "Nota: 1 punto = 1 minuto (voce) o 1 messaggio (testo).",

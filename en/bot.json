@@ -312,7 +312,8 @@
       "new_ticket_name_100_chars": "Ticket name must be less than 100 chars",
       "no_points_data_found": "No points data found!",
       "setup_panel": "The panel is not set, please go to the dashboard and choose ticket panel",
-      "user_not_related": "This user is non-related to this ticket."
+      "user_not_related": "This user is non-related to this ticket.",
+      "notify_sent": "The notification has been sent successfully!"
     }
   },
 
@@ -536,6 +537,7 @@
       "no_server_banner": "This server doesn't have banner",
       "no_user_banner": "This member doesn't have banner",
       "confirm_to_reset": "**Are you sure you want to reset [target]?**",
+      "confirm_to_reset_duration": "**Are you sure you want to reset the duration for [target] from [duration]?**",
       "reset_type": "**Please choose the reset type you want**",
       "provide_points": "Please provide the points you want to set",
       "set_points_warn": "Please note, 1 point = 1 minute (voice) or 1 message (messages).",
@@ -887,7 +889,7 @@
       "eliminate_player": "You have **[seconds] seconds** to choose a player to eliminate.",
       "withdrawal_button_label": "Withdrawal",
       "inactive_user": "[user] has been kicked out of the game for inactivity. The next round will start in a few seconds...",
-      "withdrawn_player": "[user] has withdrawn from the game. The next round will start in a few seconds...**",
+      "withdrawn_player": "[user] has withdrawn from the game. The next round will start in a few seconds...",
       "player_kicked": "[user] has been kicked out of the game. The next round will start in a few seconds..."
     }
   },
@@ -1243,7 +1245,7 @@
       "denied": "Denied",
       "accepted": "Accepted",
       "pending": "Pending",
-      "deny_description": "Provide a reason for denial. Submiiter may be notified.",
+      "deny_description": "Provide a reason for denial. Submitter may be notified.",
       "mark_application": "Are you sure you want to mark this application as \"[status]\"?",
       "application_handled": "Application Handled.",
       "application_status": "Application Status",
