@@ -1843,5 +1843,16 @@
   "VOICE_MUTE_OPTION": "Sourdine vocale",
   "PUNISHMENT_TYPES": "Types de sanctions",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [image]\n/roleicon [émoji]",
-  "COMMAND_DESCRIPTION_ROLEICON": "Définissez ou mettez à jour l'icône d'un rôle."
+  "COMMAND_DESCRIPTION_ROLEICON": "Définissez ou mettez à jour l'icône d'un rôle.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "Faites votre choix",
+  "PREVIEW_EMPTY": "Rien à prévisualiser pour l'instant",
+  "COPY_COMPONENTS_AS_RESPONSE": "Copier le message comme réponse",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [membre]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "Transférez la propriété de votre salon vocal temporaire",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [membre]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "Autorisez un membre à rejoindre votre salon vocal temporaire",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [membre]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "Retirez son autorisation à un membre dans votre salon vocal temporaire",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Réclamez la propriété d'un salon vocal temporaire dont le propriétaire est parti",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Supprimez votre salon vocal temporaire"
 }
