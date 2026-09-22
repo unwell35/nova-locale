@@ -1907,5 +1907,16 @@
   "VOICE_MUTE_OPTION": "بێدەنگکردنی ڤۆیس",
   "PUNISHMENT_TYPES": "جۆرەکانی سزا",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [وێنە]\n/roleicon [ئیمۆجی]",
-  "COMMAND_DESCRIPTION_ROLEICON": "دانان یان نوێکردنەوەی ئایکۆنی ڕۆڵێک."
+  "COMMAND_DESCRIPTION_ROLEICON": "دانان یان نوێکردنەوەی ئایکۆنی ڕۆڵێک.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "هەڵبژاردنێک بکە",
+  "PREVIEW_EMPTY": "هێشتا هیچ شتێک نییە بۆ پێشبینین",
+  "COPY_COMPONENTS_AS_RESPONSE": "لەبەرگرتنەوەی نامەکە وەک وەڵام",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [کەسەکە]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "گواستنەوەی خاوەندارێتی چەناڵی ڤۆیسی کاتیەکەت",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [کەسەکە]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "ڕێگەدان بە بەکارهێنەرێک بۆ هاتنە ناو چەناڵی ڤۆیسی کاتیەکەت",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [کەسەکە]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "لابردنی ڕێگە لە بەکارهێنەرێک لە چەناڵی ڤۆیسی کاتیەکەت",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "وەرگرتنی خاوەندارێتی چەناڵێکی ڤۆیسی کاتی کە خاوەنەکەی ڕۆیشتووە",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "سڕینەوەی چەناڵی ڤۆیسی کاتیەکەت"
 }
