@@ -1872,5 +1872,16 @@
   "VOICE_MUTE_OPTION": "إسكات صوتي",
   "PUNISHMENT_TYPES": "أنواع العقوبات",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [صورة]\n/roleicon [ايموجي]",
-  "COMMAND_DESCRIPTION_ROLEICON": "تعيين أو تحديث أيقونة الرتبة."
+  "COMMAND_DESCRIPTION_ROLEICON": "تعيين أو تحديث أيقونة الرتبة.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "قم بالاختيار",
+  "PREVIEW_EMPTY": "لا يوجد شيء للمعاينة بعد",
+  "COPY_COMPONENTS_AS_RESPONSE": "نسخ الرسالة كرد",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [عضو]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "نقل ملكية الروم الصوتي المؤقت الخاص بك",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [عضو]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "السماح لعضو بدخول الروم الصوتي المؤقت الخاص بك",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [عضو]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "إزالة عضو مضاف من الروم الصوتي المؤقت الخاص بك",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "أخذ ملكية روم صوتي مؤقت غادره مالكه",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "حذف الروم الصوتي المؤقت الخاص بك"
 }
