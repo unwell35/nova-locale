@@ -1912,5 +1912,18 @@
   "VOICE_MUTE_OPTION": "Ses Susturması",
   "PUNISHMENT_TYPES": "Ceza Türleri",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [image]\n/roleicon [emoji]",
-  "COMMAND_DESCRIPTION_ROLEICON": "Bir rolün ikonunu ayarla veya güncelle."
+  "COMMAND_DESCRIPTION_ROLEICON": "Bir rolün ikonunu ayarla veya güncelle.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "Bir seçim yap",
+  "PREVIEW_EMPTY": "Henüz önizlenecek bir şey yok",
+  "COPY_COMPONENTS_AS_RESPONSE": "Mesajı yanıt olarak kopyala",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "Geçici ses kanalının sahipliğini devret",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "Bir kullanıcının geçici ses kanalına girmesine izin ver",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "Geçici ses kanalındaki bir kullanıcının iznini kaldır",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Sahibi ayrılmış bir geçici ses kanalını sahiplen",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Geçici ses kanalını sil"
 }

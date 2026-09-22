@@ -1912,5 +1912,18 @@
   "VOICE_MUTE_OPTION": "Voice-Mute",
   "PUNISHMENT_TYPES": "Strafarten",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [Bild]\n/roleicon [Emoji]",
-  "COMMAND_DESCRIPTION_ROLEICON": "Lege das Icon einer Rolle fest oder aktualisiere es."
+  "COMMAND_DESCRIPTION_ROLEICON": "Lege das Icon einer Rolle fest oder aktualisiere es.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "Triff eine Auswahl",
+  "PREVIEW_EMPTY": "Noch nichts für die Vorschau",
+  "COPY_COMPONENTS_AS_RESPONSE": "Nachricht als Antwort kopieren",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [Mitglied]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "Übertrage den Besitz deines temporären Sprachkanals",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [Mitglied]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "Erlaube einem Nutzer, deinem temporären Sprachkanal beizutreten",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [Mitglied]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "Entziehe einem Nutzer die Erlaubnis für deinen temporären Sprachkanal",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Übernimm den Besitz eines temporären Sprachkanals, dessen Besitzer gegangen ist",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Lösche deinen temporären Sprachkanal"
 }

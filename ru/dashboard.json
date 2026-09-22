@@ -1907,5 +1907,18 @@
   "VOICE_MUTE_OPTION": "Голосовой мут",
   "PUNISHMENT_TYPES": "Типы наказаний",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [изображение]\n/roleicon [эмодзи]",
-  "COMMAND_DESCRIPTION_ROLEICON": "Установить или изменить значок роли."
+  "COMMAND_DESCRIPTION_ROLEICON": "Установить или изменить значок роли.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "Сделай выбор",
+  "PREVIEW_EMPTY": "Пока нечего показать",
+  "COPY_COMPONENTS_AS_RESPONSE": "Скопировать сообщение как ответ",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [участник]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "Передать владение твоим временным голосовым каналом",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [участник]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "Дать пользователю доступ к твоему временному голосовому каналу",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [участник]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "Убрать у пользователя доступ к твоему временному голосовому каналу",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Забрать владение временным голосовым каналом, из которого вышел владелец",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Удалить твой временный голосовой канал"
 }

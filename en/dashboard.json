@@ -1943,5 +1943,18 @@
   "VOICE_MUTE_OPTION": "Voice Mute",
   "PUNISHMENT_TYPES": "Punishment Types",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [image]\n/roleicon [emoji]",
-  "COMMAND_DESCRIPTION_ROLEICON": "Set or update the icon for a role."
+  "COMMAND_DESCRIPTION_ROLEICON": "Set or update the icon for a role.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "Make a selection",
+  "PREVIEW_EMPTY": "Nothing to preview yet",
+  "COPY_COMPONENTS_AS_RESPONSE": "Copy message as response",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "Transfer ownership of your temporary voice channel",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "Allow a user to join your temporary voice channel",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "Remove a trusted user from your temporary voice channel",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Claim ownership of a temporary voice channel whose owner has left",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Delete your temporary voice channel"
 }

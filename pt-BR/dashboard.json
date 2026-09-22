@@ -1930,5 +1930,18 @@
   "VOICE_MUTE_OPTION": "Mudo de Voz",
   "PUNISHMENT_TYPES": "Tipos de Punição",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [image]\n/roleicon [emoji]",
-  "COMMAND_DESCRIPTION_ROLEICON": "Define ou atualiza o ícone de um cargo."
+  "COMMAND_DESCRIPTION_ROLEICON": "Define ou atualiza o ícone de um cargo.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "Faça uma seleção",
+  "PREVIEW_EMPTY": "Nada para visualizar ainda",
+  "COPY_COMPONENTS_AS_RESPONSE": "Copiar mensagem como resposta",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "Transferir a propriedade do seu canal de voz temporário",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "Permitir que um usuário entre no seu canal de voz temporário",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "Remover a permissão de um usuário no seu canal de voz temporário",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Assumir a propriedade de um canal de voz temporário cujo dono saiu",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Excluir o seu canal de voz temporário"
 }

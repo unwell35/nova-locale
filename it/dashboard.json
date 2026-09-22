@@ -1956,5 +1956,18 @@
   "VOICE_MUTE_OPTION": "Mute Voce",
   "PUNISHMENT_TYPES": "Tipi di Punizione",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [immagine]\n/roleicon [emoji]",
-  "COMMAND_DESCRIPTION_ROLEICON": "Imposta o aggiorna l'icona di un ruolo."
+  "COMMAND_DESCRIPTION_ROLEICON": "Imposta o aggiorna l'icona di un ruolo.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "Fai una selezione",
+  "PREVIEW_EMPTY": "Ancora niente da visualizzare",
+  "COPY_COMPONENTS_AS_RESPONSE": "Copia il messaggio come risposta",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [membro]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "Trasferisci la proprietà del tuo canale vocale temporaneo",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [membro]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "Consenti a un utente di entrare nel tuo canale vocale temporaneo",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [membro]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "Revoca l'autorizzazione a un utente nel tuo canale vocale temporaneo",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Reclama la proprietà di un canale vocale temporaneo il cui proprietario è uscito",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Elimina il tuo canale vocale temporaneo"
 }

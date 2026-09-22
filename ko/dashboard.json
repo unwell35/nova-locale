@@ -1947,5 +1947,18 @@
   "VOICE_MUTE_OPTION": "음성 뮤트",
   "PUNISHMENT_TYPES": "처벌 유형",
   "COMMAND_EXAMPLE_ROLEICON": "/roleicon [image]\n/roleicon [emoji]",
-  "COMMAND_DESCRIPTION_ROLEICON": "역할의 아이콘을 설정하거나 변경합니다."
+  "COMMAND_DESCRIPTION_ROLEICON": "역할의 아이콘을 설정하거나 변경합니다.",
+  "PREVIEW_SELECT_MENU_PLACEHOLDER": "선택해 주세요",
+  "PREVIEW_EMPTY": "아직 미리 볼 내용이 없습니다",
+  "COPY_COMPONENTS_AS_RESPONSE": "메시지를 응답으로 복사",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRANSFER": "/tempchannel transfer [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRANSFER": "임시 음성 채널의 소유권을 이전합니다",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_TRUST": "/tempchannel trust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_TRUST": "임시 음성 채널에 들어올 수 있도록 유저를 허용합니다",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_UNTRUST": "/tempchannel untrust [member]",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_UNTRUST": "임시 음성 채널에서 허용된 유저를 해제합니다",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "소유자가 나간 임시 음성 채널의 소유권을 가져옵니다",
+  "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "임시 음성 채널을 삭제합니다"
 }
