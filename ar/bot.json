@@ -694,7 +694,8 @@
       "region_updated": "تم تغيير منطقة الصوت إلى **[region]**",
       "same_region": "رومك المؤقت يستخدم هذه المنطقة بالفعل!",
       "invalid_region": "منطقة الصوت هذه غير متاحة!",
-      "channel_deleted": "تم حذف رومك المؤقت"
+      "channel_deleted": "تم حذف رومك المؤقت",
+      "confirm_to_delete_channel": "هل أنت متأكد من حذف [channel]؟"
     }
   },
   "colors": {
