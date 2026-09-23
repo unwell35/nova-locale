@@ -713,7 +713,8 @@
       "region_updated": "Ses bölgesi **[region]** olarak değiştirildi",
       "same_region": "Geçici kanalın zaten bu bölgeyi kullanıyor!",
       "invalid_region": "Bu ses bölgesi kullanılamıyor!",
-      "channel_deleted": "Geçici kanalın silindi"
+      "channel_deleted": "Geçici kanalın silindi",
+      "confirm_to_delete_channel": "[channel] kanalını silmek istediğinden emin misin?"
     }
   },
   "colors": {

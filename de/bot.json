@@ -713,7 +713,8 @@
       "region_updated": "Die Sprachregion wurde auf **[region]** geändert",
       "same_region": "Dein Temp-Kanal nutzt diese Region bereits!",
       "invalid_region": "Diese Sprachregion ist nicht verfügbar!",
-      "channel_deleted": "Dein Temp-Kanal wurde gelöscht"
+      "channel_deleted": "Dein Temp-Kanal wurde gelöscht",
+      "confirm_to_delete_channel": "Bist du sicher, dass du [channel] löschen möchtest?"
     }
   },
   "colors": {

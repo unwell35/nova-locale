@@ -1112,6 +1112,7 @@
   "UPDATE_PERMISSIONS_TITLE": "Update Permissions",
   "GENERAL_PERMISSIONS_LABEL": "General Channel Permissions",
   "MEMBERSHIPS_PERMISSIONS_LABEL": "Membership Permissions",
+  "VOICE_CHANNEL_PERMISSIONS_LABEL": "Voice Channel Permissions",
   "TEXT_CHANNEL_PERMISSIONS_LABEL": "Text Channel Permissions",
   "APPS_PERMISSIONS_LABEL": "Apps Permissions",
 
@@ -1139,6 +1140,18 @@
   "USE_APPLICATION_COMMANDS_PERMISSION": "Use Application Commands",
   "USE_EMBEDDED_ACTIVITES_PERMISSION": "Use Activities",
   "USE_EXTERNAL_APPS_PERMISSION": "Use External Apps",
+  "CONNECT_PERMISSION": "Connect",
+  "SPEAK_PERMISSION": "Speak",
+  "STREAM_PERMISSION": "Stream",
+  "USE_VOICE_ACTIVITY_PERMISSION": "Use Voice Activity",
+  "PRIORITY_SPEAKER_PERMISSION": "Priority Speaker",
+  "MUTE_MEMBERS_PERMISSION": "Mute Members",
+  "DEAFEN_MEMBERS_PERMISSION": "Deafen Members",
+  "MOVE_MEMBERS_PERMISSION": "Move Members",
+  "USE_SOUNDBOARD_PERMISSION": "Use Soundboard",
+  "USE_EXTERNAL_SOUNDS_PERMISSION": "Use External Sounds",
+  "SET_VOICE_CHANNEL_STATUS_PERMISSION": "Set Voice Channel Status",
+
   "REPORT_TITLE": "Report System",
   "MEMBERS_LABEL": "Members",
   "REPORT_TYPES_LABEL": "Report types",
@@ -1956,5 +1969,8 @@
   "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
   "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Claim ownership of a temporary voice channel whose owner has left",
   "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
-  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Delete your temporary voice channel"
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Delete your temporary voice channel",
+  "PANEL_LANGUAGE_LABEL": "Panel Language",
+  "USE_LABELS": "Use Labels",
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Trusted Users Permissions"
 }

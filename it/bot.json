@@ -711,7 +711,8 @@
       "region_updated": "La regione vocale è stata cambiata in **[region]**",
       "same_region": "Il tuo canale temporaneo usa già questa regione!",
       "invalid_region": "Questa regione vocale non è disponibile!",
-      "channel_deleted": "Il tuo canale temporaneo è stato eliminato"
+      "channel_deleted": "Il tuo canale temporaneo è stato eliminato",
+      "confirm_to_delete_channel": "Sei sicuro di voler eliminare [channel]?"
     }
   },
   "colors": {

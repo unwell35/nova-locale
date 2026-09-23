@@ -694,7 +694,8 @@
       "region_updated": "ناوچەی دەنگ گۆڕدرا بۆ **[region]**",
       "same_region": "چەناڵە کاتیەکەت پێشتر هەمان ناوچە بەکاردەهێنێت!",
       "invalid_region": "ئەم ناوچەی دەنگە بەردەست نییە!",
-      "channel_deleted": "چەناڵە کاتیەکەت سڕایەوە"
+      "channel_deleted": "چەناڵە کاتیەکەت سڕایەوە",
+      "confirm_to_delete_channel": "ئایا تۆ دڵنیای لە سڕینەوەی [channel]؟"
     }
   },
   "colors": {

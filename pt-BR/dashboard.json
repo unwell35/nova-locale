@@ -1096,6 +1096,7 @@
   "UPDATE_PERMISSIONS_TITLE": "Atualizar Permissões",
   "GENERAL_PERMISSIONS_LABEL": "Permissões Gerais do Canal",
   "MEMBERSHIPS_PERMISSIONS_LABEL": "Permissões de Membro",
+  "VOICE_CHANNEL_PERMISSIONS_LABEL": "Permissões do Canal de Voz",
   "TEXT_CHANNEL_PERMISSIONS_LABEL": "Permissões do Canal de Texto",
   "APPS_PERMISSIONS_LABEL": "Permissões de Aplicativos",
 
@@ -1123,6 +1124,17 @@
   "USE_APPLICATION_COMMANDS_PERMISSION": "Usar Comandos de Aplicativo",
   "USE_EMBEDDED_ACTIVITES_PERMISSION": "Usar Atividades",
   "USE_EXTERNAL_APPS_PERMISSION": "Usar Aplicativos Externos",
+  "CONNECT_PERMISSION": "Conectar",
+  "SPEAK_PERMISSION": "Falar",
+  "STREAM_PERMISSION": "Vídeo",
+  "USE_VOICE_ACTIVITY_PERMISSION": "Usar Detecção de Voz",
+  "PRIORITY_SPEAKER_PERMISSION": "Locutor Prioritário",
+  "MUTE_MEMBERS_PERMISSION": "Mutar Membros",
+  "DEAFEN_MEMBERS_PERMISSION": "Ensurdecer Membros",
+  "MOVE_MEMBERS_PERMISSION": "Mover Membros",
+  "USE_SOUNDBOARD_PERMISSION": "Usar Soundboard",
+  "USE_EXTERNAL_SOUNDS_PERMISSION": "Usar Sons Externos",
+  "SET_VOICE_CHANNEL_STATUS_PERMISSION": "Definir Status do Canal de Voz",
   "REPORT_TITLE": "Sistema de Denúncias",
   "MEMBERS_LABEL": "Membros",
   "REPORT_TYPES_LABEL": "Tipos de denúncia",
@@ -1943,5 +1955,8 @@
   "COMMAND_EXAMPLE_TEMPCHANNEL_CLAIM": "/tempchannel claim",
   "COMMAND_DESCRIPTION_TEMPCHANNEL_CLAIM": "Assumir a propriedade de um canal de voz temporário cujo dono saiu",
   "COMMAND_EXAMPLE_TEMPCHANNEL_DELETE": "/tempchannel delete",
-  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Excluir o seu canal de voz temporário"
+  "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Excluir o seu canal de voz temporário",
+  "PANEL_LANGUAGE_LABEL": "Idioma do Painel",
+  "USE_LABELS": "Mostrar Rótulos",
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Permissões dos Usuários de Confiança"
 }

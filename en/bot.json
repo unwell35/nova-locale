@@ -711,7 +711,8 @@
       "region_updated": "Voice region changed to **[region]**",
       "same_region": "Your temp channel already uses this region!",
       "invalid_region": "This voice region isn't available!",
-      "channel_deleted": "Your temp channel has been deleted"
+      "channel_deleted": "Your temp channel has been deleted",
+      "confirm_to_delete_channel": "Are you sure you want to delete [channel]?"
     }
   },
   "colors": {

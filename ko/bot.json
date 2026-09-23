@@ -713,7 +713,8 @@
       "region_updated": "음성 지역이 **[region]**(으)로 변경되었습니다",
       "same_region": "임시 채널이 이미 이 지역을 사용하고 있습니다!",
       "invalid_region": "이 음성 지역은 사용할 수 없습니다!",
-      "channel_deleted": "임시 채널이 삭제되었습니다"
+      "channel_deleted": "임시 채널이 삭제되었습니다",
+      "confirm_to_delete_channel": "[channel]을(를) 삭제하시겠습니까?"
     }
   },
   "colors": {

@@ -694,7 +694,8 @@
       "region_updated": "La région vocale a été changée en **[region]**",
       "same_region": "Votre salon temporaire utilise déjà cette région !",
       "invalid_region": "Cette région vocale n'est pas disponible !",
-      "channel_deleted": "Votre salon temporaire a été supprimé"
+      "channel_deleted": "Votre salon temporaire a été supprimé",
+      "confirm_to_delete_channel": "Êtes-vous sûr de vouloir supprimer [channel] ?"
     }
   },
   "colors": {

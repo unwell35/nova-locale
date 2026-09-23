@@ -694,7 +694,8 @@
       "region_updated": "Голосовой регион изменён на **[region]**",
       "same_region": "Твой временный канал уже использует этот регион!",
       "invalid_region": "Этот голосовой регион недоступен!",
-      "channel_deleted": "Твой временный канал удалён"
+      "channel_deleted": "Твой временный канал удалён",
+      "confirm_to_delete_channel": "Точно удалить [channel]?"
     }
   },
   "colors": {
