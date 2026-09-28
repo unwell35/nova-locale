@@ -641,7 +641,8 @@
     "interaction": {
       "not_allowed": "Vous n'êtes pas autorisé à choisir les rôles",
       "no_changes": "Aucun changement, vérifiez mes autorisations ou si des rôles ont été supprimés",
-      "changes": "Modifications : [changes]"
+      "changes": "Modifications : [changes]",
+      "not_available": "Ce rôle de réaction n'est plus disponible"
     }
   },
   "auto_responder": {
