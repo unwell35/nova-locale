@@ -1869,5 +1869,21 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Supprimez votre salon vocal temporaire",
   "PANEL_LANGUAGE_LABEL": "Langue du panneau",
   "USE_LABELS": "Afficher les libellés",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "Autorisations des membres de confiance"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Autorisations des membres de confiance",
+  "BUTTON_STYLE_PRIMARY": "Principal",
+  "BUTTON_STYLE_SECONDARY": "Secondaire",
+  "BUTTON_STYLE_SUCCESS": "Succès",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "Votre abonnement est terminé",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "Renouvelez-le pour rétablir les fonctionnalités premium sur ce serveur.",
+  "REORDER_QUESTION_LABEL": "Faites glisser pour réorganiser {question}",
+  "STEP_OF_LABEL": "Étape {step} sur {total}",
+  "NEW_PANEL_LABEL": "Nouveau panneau",
+  "PANEL_SENT_IN_LABEL": "Envoyé dans #{channel}",
+  "PANEL_SENT_LABEL": "Envoyé",
+  "PANEL_NOT_SENT_LABEL": "Pas encore envoyé",
+  "REASONS_SECTION_DESCRIPTION": "Facultatif. Laissez les membres choisir une raison à l'ouverture d'un ticket. Chaque raison peut avoir ses propres rôles du personnel, sa catégorie et ses questions.",
+  "TICKET_CHANNEL_SECTION_TITLE": "Salon du ticket",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "Où les nouveaux tickets sont créés, comment ils sont nommés et combien peuvent être ouverts en même temps.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "Choisissez qui peut voir et gérer les tickets, et ce que chaque groupe peut faire à l'intérieur.",
+  "LOG_SECTION_DESCRIPTION": "Où l'activité des tickets et les transcriptions sont publiées."
 }
