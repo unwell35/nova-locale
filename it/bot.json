@@ -658,7 +658,8 @@
     "interaction": {
       "not_allowed": "Non sei autorizzato a scegliere ruoli",
       "no_changes": "Nessuna modifica, controlla i miei permessi o se i ruoli sono stati eliminati",
-      "changes": "Modifiche: [changes]"
+      "changes": "Modifiche: [changes]",
+      "not_available": "Questo ruolo di reazione non è più disponibile"
     }
   },
   "auto_responder": {

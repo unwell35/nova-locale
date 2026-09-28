@@ -1972,5 +1972,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "حذف الروم الصوتي المؤقت الخاص بك",
   "PANEL_LANGUAGE_LABEL": "لغة اللوحة",
   "USE_LABELS": "إظهار نصوص الأزرار",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "صلاحيات الأعضاء المضافين"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "صلاحيات الأعضاء المضافين",
+  "BUTTON_STYLE_PRIMARY": "أساسي",
+  "BUTTON_STYLE_SECONDARY": "ثانوي",
+  "BUTTON_STYLE_SUCCESS": "نجاح",
+  "BUTTON_STYLE_DANGER": "خطر",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "انتهى اشتراكك",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "جدّده لإعادة الميزات المميزة إلى هذا السيرفر.",
+  "REORDER_QUESTION_LABEL": "اسحب لإعادة ترتيب {question}",
+  "STEP_OF_LABEL": "الخطوة {step} من {total}",
+  "NEW_PANEL_LABEL": "لوحة جديدة",
+  "PANEL_SENT_IN_LABEL": "تم الإرسال في #{channel}",
+  "PANEL_SENT_LABEL": "تم الإرسال",
+  "PANEL_NOT_SENT_LABEL": "لم يتم الإرسال بعد",
+  "REASONS_SECTION_DESCRIPTION": "اختياري. اسمح للأعضاء باختيار سبب عند فتح التذكرة. كل سبب يمكن أن يكون له رتب إدارة وكاتقوري وأسئلة خاصة به.",
+  "TICKET_CHANNEL_SECTION_TITLE": "روم التذكرة",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "مكان إنشاء التذاكر الجديدة، وأسماؤها، وعدد التذاكر التي يمكن أن تكون مفتوحة في نفس الوقت.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "حدد من يمكنه رؤية التذاكر وإدارتها، وما يمكن لكل مجموعة فعله داخل التذكرة.",
+  "LOG_SECTION_DESCRIPTION": "مكان إرسال نشاط التذاكر ونصوص الحوار."
 }

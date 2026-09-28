@@ -1940,5 +1940,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Geçici ses kanalını sil",
   "PANEL_LANGUAGE_LABEL": "Panel Dili",
   "USE_LABELS": "Etiketleri Göster",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "Güvenilir Kullanıcı İzinleri"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Güvenilir Kullanıcı İzinleri",
+  "BUTTON_STYLE_PRIMARY": "Birincil",
+  "BUTTON_STYLE_SECONDARY": "İkincil",
+  "BUTTON_STYLE_SUCCESS": "Başarı",
+  "BUTTON_STYLE_DANGER": "Tehlike",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "Aboneliğin sona erdi",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "Yenile ve premium özellikleri bu sunucuya geri getir.",
+  "REORDER_QUESTION_LABEL": "{question} sırasını değiştirmek için sürükle",
+  "STEP_OF_LABEL": "Adım {step}/{total}",
+  "NEW_PANEL_LABEL": "Yeni panel",
+  "PANEL_SENT_IN_LABEL": "#{channel} kanalına gönderildi",
+  "PANEL_SENT_LABEL": "Gönderildi",
+  "PANEL_NOT_SENT_LABEL": "Henüz gönderilmedi",
+  "REASONS_SECTION_DESCRIPTION": "İsteğe bağlı. Üyeler ticket açarken bir sebep seçebilir. Her sebebin kendi yetkili rolleri, kategorisi ve soruları olabilir.",
+  "TICKET_CHANNEL_SECTION_TITLE": "Ticket Kanalı",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "Yeni ticketların nerede oluşturulacağı, nasıl adlandırılacağı ve aynı anda kaç tanesinin açık kalabileceği.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "Ticketları kimin görüp yönetebileceğini ve her grubun ticket içinde ne yapabileceğini seç.",
+  "LOG_SECTION_DESCRIPTION": "Ticket hareketlerinin ve kayıtlarının gönderileceği yer."
 }

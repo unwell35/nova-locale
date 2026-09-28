@@ -659,7 +659,8 @@
     "interaction": {
       "not_allowed": "Você não pode escolher cargos",
       "no_changes": "Nenhuma mudança, verifique minhas permissões ou se os cargos foram excluídos",
-      "changes": "Mudanças: [changes]"
+      "changes": "Mudanças: [changes]",
+      "not_available": "Este cargo por reação não está mais disponível"
     }
   },
   "auto_responder": {

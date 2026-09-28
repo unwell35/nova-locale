@@ -1940,5 +1940,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Lösche deinen temporären Sprachkanal",
   "PANEL_LANGUAGE_LABEL": "Panel-Sprache",
   "USE_LABELS": "Beschriftungen anzeigen",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "Berechtigungen vertrauter Nutzer"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Berechtigungen vertrauter Nutzer",
+  "BUTTON_STYLE_PRIMARY": "Primär",
+  "BUTTON_STYLE_SECONDARY": "Sekundär",
+  "BUTTON_STYLE_SUCCESS": "Erfolg",
+  "BUTTON_STYLE_DANGER": "Gefahr",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "Dein Abo ist abgelaufen",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "Erneuere es, um die Premium-Funktionen auf diesem Server zurückzuholen.",
+  "REORDER_QUESTION_LABEL": "Zum Umsortieren von {question} ziehen",
+  "STEP_OF_LABEL": "Schritt {step} von {total}",
+  "NEW_PANEL_LABEL": "Neues Panel",
+  "PANEL_SENT_IN_LABEL": "Gesendet in #{channel}",
+  "PANEL_SENT_LABEL": "Gesendet",
+  "PANEL_NOT_SENT_LABEL": "Noch nicht gesendet",
+  "REASONS_SECTION_DESCRIPTION": "Optional. Lass Mitglieder beim Öffnen eines Tickets einen Grund auswählen. Jeder Grund kann eigene Team-Rollen, eine eigene Kategorie und eigene Fragen haben.",
+  "TICKET_CHANNEL_SECTION_TITLE": "Ticket-Kanal",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "Wo neue Tickets erstellt werden, wie sie heißen und wie viele gleichzeitig offen sein dürfen.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "Lege fest, wer Tickets sehen und verwalten darf und was jede Gruppe darin tun kann.",
+  "LOG_SECTION_DESCRIPTION": "Wo Ticket-Aktivität und Transkripte gepostet werden."
 }

@@ -659,7 +659,8 @@
     "interaction": {
       "not_allowed": "Rol seçme iznin yok",
       "no_changes": "Değişiklik yok, yetkilerimi ya da rollerin silinip silinmediğini kontrol et",
-      "changes": "Değişiklikler: [changes]"
+      "changes": "Değişiklikler: [changes]",
+      "not_available": "Bu tepki rolü artık kullanılamıyor"
     }
   },
   "auto_responder": {

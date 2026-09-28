@@ -1935,5 +1935,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Удалить твой временный голосовой канал",
   "PANEL_LANGUAGE_LABEL": "Язык панели",
   "USE_LABELS": "Показывать подписи",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "Права пользователей с доступом"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Права пользователей с доступом",
+  "BUTTON_STYLE_PRIMARY": "Основная",
+  "BUTTON_STYLE_SECONDARY": "Вторичная",
+  "BUTTON_STYLE_SUCCESS": "Успех",
+  "BUTTON_STYLE_DANGER": "Опасность",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "Твоя подписка закончилась",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "Продли её, чтобы вернуть премиум-функции на этот сервер.",
+  "REORDER_QUESTION_LABEL": "Перетащи, чтобы изменить порядок: {question}",
+  "STEP_OF_LABEL": "Шаг {step} из {total}",
+  "NEW_PANEL_LABEL": "Новая панель",
+  "PANEL_SENT_IN_LABEL": "Отправлено в #{channel}",
+  "PANEL_SENT_LABEL": "Отправлено",
+  "PANEL_NOT_SENT_LABEL": "Ещё не отправлено",
+  "REASONS_SECTION_DESCRIPTION": "Необязательно. Позволь участникам выбирать причину при открытии тикета. У каждой причины могут быть свои роли персонала, категория и вопросы.",
+  "TICKET_CHANNEL_SECTION_TITLE": "Канал тикета",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "Где создаются новые тикеты, как они называются и сколько их может быть открыто одновременно.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "Выбери, кто может видеть тикеты и управлять ими, и что каждая группа может делать внутри.",
+  "LOG_SECTION_DESCRIPTION": "Куда отправляются действия по тикетам и транскрипты."
 }

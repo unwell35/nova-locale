@@ -1984,5 +1984,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Elimina il tuo canale vocale temporaneo",
   "PANEL_LANGUAGE_LABEL": "Lingua del Pannello",
   "USE_LABELS": "Mostra Etichette",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "Permessi Utenti Fidati"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Permessi Utenti Fidati",
+  "BUTTON_STYLE_PRIMARY": "Primario",
+  "BUTTON_STYLE_SECONDARY": "Secondario",
+  "BUTTON_STYLE_SUCCESS": "Successo",
+  "BUTTON_STYLE_DANGER": "Pericolo",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "Il tuo abbonamento è terminato",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "Rinnovalo per riportare le funzioni premium su questo server.",
+  "REORDER_QUESTION_LABEL": "Trascina per riordinare {question}",
+  "STEP_OF_LABEL": "Passaggio {step} di {total}",
+  "NEW_PANEL_LABEL": "Nuovo pannello",
+  "PANEL_SENT_IN_LABEL": "Inviato in #{channel}",
+  "PANEL_SENT_LABEL": "Inviato",
+  "PANEL_NOT_SENT_LABEL": "Non ancora inviato",
+  "REASONS_SECTION_DESCRIPTION": "Opzionale. Lascia che i membri scelgano un motivo quando aprono un ticket. Ogni motivo può avere i propri ruoli staff, la propria categoria e le proprie domande.",
+  "TICKET_CHANNEL_SECTION_TITLE": "Canale del Ticket",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "Dove vengono creati i nuovi ticket, come si chiamano e quanti possono restare aperti insieme.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "Scegli chi può vedere e gestire i ticket e cosa può fare ogni gruppo al loro interno.",
+  "LOG_SECTION_DESCRIPTION": "Dove vengono pubblicate l'attività dei ticket e le trascrizioni."
 }

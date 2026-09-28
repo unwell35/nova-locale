@@ -1975,5 +1975,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "임시 음성 채널을 삭제합니다",
   "PANEL_LANGUAGE_LABEL": "패널 언어",
   "USE_LABELS": "라벨 표시",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "허용된 유저 권한"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "허용된 유저 권한",
+  "BUTTON_STYLE_PRIMARY": "기본",
+  "BUTTON_STYLE_SECONDARY": "보조",
+  "BUTTON_STYLE_SUCCESS": "성공",
+  "BUTTON_STYLE_DANGER": "위험",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "구독이 종료되었습니다",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "갱신하면 이 서버에서 프리미엄 기능을 다시 사용할 수 있습니다.",
+  "REORDER_QUESTION_LABEL": "{question}의 순서를 바꾸려면 드래그하세요",
+  "STEP_OF_LABEL": "{total}단계 중 {step}단계",
+  "NEW_PANEL_LABEL": "새 패널",
+  "PANEL_SENT_IN_LABEL": "#{channel}에 전송됨",
+  "PANEL_SENT_LABEL": "전송됨",
+  "PANEL_NOT_SENT_LABEL": "아직 전송되지 않음",
+  "REASONS_SECTION_DESCRIPTION": "선택 사항입니다. 멤버가 티켓을 열 때 사유를 고를 수 있게 합니다. 사유마다 관리진 역할, 카테고리, 질문을 따로 지정할 수 있습니다.",
+  "TICKET_CHANNEL_SECTION_TITLE": "티켓 채널",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "새 티켓이 생성되는 곳, 티켓 이름, 동시에 열 수 있는 개수를 설정합니다.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "누가 티켓을 보고 관리할 수 있는지, 그리고 각 그룹이 티켓 안에서 무엇을 할 수 있는지 정합니다.",
+  "LOG_SECTION_DESCRIPTION": "티켓 활동과 대화 기록이 전송되는 곳입니다."
 }

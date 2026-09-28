@@ -641,7 +641,8 @@
     "interaction": {
       "not_allowed": "Тебе нельзя выбирать роли",
       "no_changes": "Изменений нет — проверь мои права или не удалены ли роли",
-      "changes": "Изменения: [changes]"
+      "changes": "Изменения: [changes]",
+      "not_available": "Эта роль по реакции больше недоступна"
     }
   },
   "auto_responder": {

@@ -641,7 +641,8 @@
     "interaction": {
       "not_allowed": "No tienes permiso para elegir roles",
       "no_changes": "Sin cambios, revisa mis permisos o si los roles fueron eliminados",
-      "changes": "Cambios: [changes]"
+      "changes": "Cambios: [changes]",
+      "not_available": "Este rol por reacción ya no está disponible"
     }
   },
   "auto_responder": {

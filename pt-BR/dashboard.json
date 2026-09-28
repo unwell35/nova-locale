@@ -1958,5 +1958,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Excluir o seu canal de voz temporário",
   "PANEL_LANGUAGE_LABEL": "Idioma do Painel",
   "USE_LABELS": "Mostrar Rótulos",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "Permissões dos Usuários de Confiança"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Permissões dos Usuários de Confiança",
+  "BUTTON_STYLE_PRIMARY": "Primário",
+  "BUTTON_STYLE_SECONDARY": "Secundário",
+  "BUTTON_STYLE_SUCCESS": "Sucesso",
+  "BUTTON_STYLE_DANGER": "Perigo",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "Sua assinatura terminou",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "Renove para trazer os recursos premium de volta para este servidor.",
+  "REORDER_QUESTION_LABEL": "Arraste para reordenar {question}",
+  "STEP_OF_LABEL": "Etapa {step} de {total}",
+  "NEW_PANEL_LABEL": "Novo painel",
+  "PANEL_SENT_IN_LABEL": "Enviado em #{channel}",
+  "PANEL_SENT_LABEL": "Enviado",
+  "PANEL_NOT_SENT_LABEL": "Ainda não enviado",
+  "REASONS_SECTION_DESCRIPTION": "Opcional. Deixe os membros escolherem um motivo ao abrir um ticket. Cada motivo pode ter seus próprios cargos da staff, categoria e perguntas.",
+  "TICKET_CHANNEL_SECTION_TITLE": "Canal do Ticket",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "Onde os novos tickets são criados, como eles são nomeados e quantos podem ficar abertos ao mesmo tempo.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "Escolha quem pode ver e gerenciar os tickets e o que cada grupo pode fazer dentro deles.",
+  "LOG_SECTION_DESCRIPTION": "Onde a atividade dos tickets e as transcrições são enviadas."
 }

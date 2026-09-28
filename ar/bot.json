@@ -659,7 +659,8 @@
     "interaction": {
       "not_allowed": "غير مسموح لك باختيار الرتب",
       "no_changes": "لا تغييرات، يرجى التحقق من صلاحياتي أو ما إذا تم حذف الرتب",
-      "changes": "التغييرات: [changes]"
+      "changes": "التغييرات: [changes]",
+      "not_available": "هذا الرياكشن رول لم يعد متاحاً"
     }
   },
   "auto_responder": {

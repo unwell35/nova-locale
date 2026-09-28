@@ -659,7 +659,8 @@
     "interaction": {
       "not_allowed": "Du darfst keine Rollen auswählen",
       "no_changes": "Keine Änderungen, überprüfe meine Berechtigungen oder ob Rollen gelöscht wurden",
-      "changes": "Änderungen: [changes]"
+      "changes": "Änderungen: [changes]",
+      "not_available": "Diese Reaction-Role ist nicht mehr verfügbar"
     }
   },
   "auto_responder": {
