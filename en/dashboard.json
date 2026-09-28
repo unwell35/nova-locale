@@ -1972,5 +1972,22 @@
   "COMMAND_DESCRIPTION_TEMPCHANNEL_DELETE": "Delete your temporary voice channel",
   "PANEL_LANGUAGE_LABEL": "Panel Language",
   "USE_LABELS": "Use Labels",
-  "TRUSTED_USERS_PERMISSIONS_LABEL": "Trusted Users Permissions"
+  "TRUSTED_USERS_PERMISSIONS_LABEL": "Trusted Users Permissions",
+  "BUTTON_STYLE_PRIMARY": "Primary",
+  "BUTTON_STYLE_SECONDARY": "Secondary",
+  "BUTTON_STYLE_SUCCESS": "Success",
+  "BUTTON_STYLE_DANGER": "Danger",
+  "SUBSCRIPTION_ENDED_DIALOG_TITLE": "Your Subscription Has Ended",
+  "SUBSCRIPTION_ENDED_DIALOG_DESCRIPTION": "Renew it to bring premium features back to this server.",
+  "REORDER_QUESTION_LABEL": "Drag to reorder {question}",
+  "STEP_OF_LABEL": "Step {step} of {total}",
+  "NEW_PANEL_LABEL": "New panel",
+  "PANEL_SENT_IN_LABEL": "Sent in #{channel}",
+  "PANEL_SENT_LABEL": "Sent",
+  "PANEL_NOT_SENT_LABEL": "Not sent yet",
+  "REASONS_SECTION_DESCRIPTION": "Optional. Let members pick a reason when they open a ticket. Each reason can have its own staff roles, category, and questions.",
+  "TICKET_CHANNEL_SECTION_TITLE": "Ticket Channel",
+  "TICKET_CHANNEL_SECTION_DESCRIPTION": "Where new tickets are created, what they’re named, and how many can be open at once.",
+  "PERMISSIONS_SECTION_DESCRIPTION": "Choose who can see and manage tickets, and what each group can do inside one.",
+  "LOG_SECTION_DESCRIPTION": "Where ticket activity and transcripts are posted."
 }
