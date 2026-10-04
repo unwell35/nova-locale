@@ -1934,5 +1934,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "أين يعمل",
   "AUTO_RESPONDER_ACTIONS_TITLE": "إجراءات إضافية",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "اختر رتبة لا تمتلك صلاحيات إدارية، وإلا لن يتم إعطاؤها.",
-  "DONE_BUTTON": "تم"
+  "DONE_BUTTON": "تم",
+  "AUTOMATION_NAME_LABEL": "أسم الإجراء الآلي",
+  "REMOVE_ITEM_LABEL": "إزالة {name}",
+  "CLEAR_FILTERS_BUTTON": "مسح الفلاتر",
+  "LOGS_EMPTY_TITLE": "لا توجد سجلات بعد",
+  "LOGS_NO_RESULTS_TITLE": "لا توجد سجلات مطابقة",
+  "SHOW_MORE_BUTTON": "عرض المزيد",
+  "SHOW_LESS_BUTTON": "عرض أقل",
+  "APPLY_TO_ALL_BUTTON": "تطبيق على الكل",
+  "APPLIED_LABEL": "تم التطبيق",
+  "XP_LABEL": "الخبرة",
+  "COLORS_PREVIEW_SAMPLE": "لا توجد رتب ألوان بعد، يتم عرض ألوان كمثال.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "تحتاج المجموعات إلى عدد ألوان مضاعف لخمسة. لديك {count}."
 }
