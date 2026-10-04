@@ -1903,5 +1903,16 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Où ça fonctionne",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Actions supplémentaires",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Choisissez un rôle sans droits d'administrateur, sinon il ne sera pas attribué.",
-  "DONE_BUTTON": "Terminé"
+  "DONE_BUTTON": "Terminé",
+  "AUTOMATION_NAME_LABEL": "Nom de l'automatisation",
+  "REMOVE_ITEM_LABEL": "Supprimer {name}",
+  "CLEAR_FILTERS_BUTTON": "Effacer les filtres",
+  "LOGS_EMPTY_TITLE": "Aucun journal pour l'instant",
+  "LOGS_NO_RESULTS_TITLE": "Aucun journal correspondant",
+  "SHOW_MORE_BUTTON": "Afficher plus",
+  "SHOW_LESS_BUTTON": "Afficher moins",
+  "APPLY_TO_ALL_BUTTON": "Appliquer à tout",
+  "APPLIED_LABEL": "Appliqué",
+  "COLORS_PREVIEW_SAMPLE": "Aucun rôle de couleur pour l'instant, des couleurs d'exemple sont affichées.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Les groupes ont besoin d'un multiple de 5 couleurs. Vous en avez {count}."
 }
