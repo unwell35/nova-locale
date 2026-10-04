@@ -1976,5 +1976,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "لە کوێ کار دەکات",
   "AUTO_RESPONDER_ACTIONS_TITLE": "کردارەکانی زیادە",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "ڕۆڵێک هەڵبژێرە کە دەسەڵاتی ئەدمینی نەبێت، ئەگەرنا پێنادرێت.",
-  "DONE_BUTTON": "تەواو"
+  "DONE_BUTTON": "تەواو",
+  "AUTOMATION_NAME_LABEL": "ناوی خوودکاری",
+  "REMOVE_ITEM_LABEL": "لابردنی {name}",
+  "CLEAR_FILTERS_BUTTON": "پاککردنەوەی فلتەرەکان",
+  "LOGS_EMPTY_TITLE": "هێشتا هیچ تۆمارێک نییە",
+  "LOGS_NO_RESULTS_TITLE": "هیچ تۆمارێکی گونجاو نییە",
+  "SHOW_MORE_BUTTON": "زیاتر نیشان بدە",
+  "SHOW_LESS_BUTTON": "کەمتر نیشان بدە",
+  "APPLY_TO_ALL_BUTTON": "جێبەجێکردن بۆ هەمووی",
+  "APPLIED_LABEL": "جێبەجێکرا",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "هێشتا هیچ ڕۆڵی ڕەنگ نییە، ڕەنگی نموونە نیشان دەدرێت.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "گروپەکان پێویستیان بە ژمارەی ڕەنگی چەندجارەی ٥ هەیە. تۆ {count} هەیە."
 }

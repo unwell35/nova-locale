@@ -1971,5 +1971,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Dónde funciona",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Acciones adicionales",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Elige un rol sin permisos administrativos o no se dará.",
-  "DONE_BUTTON": "Listo"
+  "DONE_BUTTON": "Listo",
+  "AUTOMATION_NAME_LABEL": "Nombre de la automatización",
+  "REMOVE_ITEM_LABEL": "Quitar {name}",
+  "CLEAR_FILTERS_BUTTON": "Limpiar filtros",
+  "LOGS_EMPTY_TITLE": "Todavía no hay logs",
+  "LOGS_NO_RESULTS_TITLE": "No hay logs que coincidan",
+  "SHOW_MORE_BUTTON": "Mostrar más",
+  "SHOW_LESS_BUTTON": "Mostrar menos",
+  "APPLY_TO_ALL_BUTTON": "Aplicar a todos",
+  "APPLIED_LABEL": "Aplicado",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "Todavía no hay roles de color, se muestran colores de ejemplo.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Los grupos necesitan un múltiplo de 5 colores. Tienes {count}."
 }

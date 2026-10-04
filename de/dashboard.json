@@ -1976,5 +1976,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Wo es greift",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Zusätzliche Aktionen",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Wähle eine Rolle ohne Administrator-Berechtigungen, sonst wird sie nicht vergeben.",
-  "DONE_BUTTON": "Fertig"
+  "DONE_BUTTON": "Fertig",
+  "AUTOMATION_NAME_LABEL": "Name der Automatisierung",
+  "REMOVE_ITEM_LABEL": "{name} entfernen",
+  "CLEAR_FILTERS_BUTTON": "Filter zurücksetzen",
+  "LOGS_EMPTY_TITLE": "Noch keine Logs",
+  "LOGS_NO_RESULTS_TITLE": "Keine passenden Logs",
+  "SHOW_MORE_BUTTON": "Mehr anzeigen",
+  "SHOW_LESS_BUTTON": "Weniger anzeigen",
+  "APPLY_TO_ALL_BUTTON": "Auf alle anwenden",
+  "APPLIED_LABEL": "Angewendet",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "Noch keine Farbrollen, es werden Beispielfarben gezeigt.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Gruppen brauchen ein Vielfaches von 5 Farben. Du hast {count}."
 }

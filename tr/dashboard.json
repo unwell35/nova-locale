@@ -1976,5 +1976,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Nerede Çalışır",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Ek İşlemler",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Yönetici izni olmayan bir rol seç, aksi halde rol verilmez.",
-  "DONE_BUTTON": "Tamam"
+  "DONE_BUTTON": "Tamam",
+  "AUTOMATION_NAME_LABEL": "Otomasyon Adı",
+  "REMOVE_ITEM_LABEL": "{name} öğesini kaldır",
+  "CLEAR_FILTERS_BUTTON": "Filtreleri Temizle",
+  "LOGS_EMPTY_TITLE": "Henüz log yok",
+  "LOGS_NO_RESULTS_TITLE": "Eşleşen log yok",
+  "SHOW_MORE_BUTTON": "Daha Fazla Göster",
+  "SHOW_LESS_BUTTON": "Daha Az Göster",
+  "APPLY_TO_ALL_BUTTON": "Tümüne Uygula",
+  "APPLIED_LABEL": "Uygulandı",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "Henüz renk rolü yok, örnek renkler gösteriliyor.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Gruplar için renk sayısı 5'in katı olmalı. Şu anda {count} tane var."
 }

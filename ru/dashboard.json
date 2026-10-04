@@ -1971,5 +1971,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Где работает",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Дополнительные действия",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Выбери роль без административных прав, иначе она не выдастся.",
-  "DONE_BUTTON": "Готово"
+  "DONE_BUTTON": "Готово",
+  "AUTOMATION_NAME_LABEL": "Название автоматизации",
+  "REMOVE_ITEM_LABEL": "Удалить {name}",
+  "CLEAR_FILTERS_BUTTON": "Сбросить фильтры",
+  "LOGS_EMPTY_TITLE": "Логов пока нет",
+  "LOGS_NO_RESULTS_TITLE": "Подходящих логов нет",
+  "SHOW_MORE_BUTTON": "Показать больше",
+  "SHOW_LESS_BUTTON": "Показать меньше",
+  "APPLY_TO_ALL_BUTTON": "Применить ко всем",
+  "APPLIED_LABEL": "Применено",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "Цветных ролей пока нет, показаны примеры цветов.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Количество цветов в группах должно быть кратно 5. Сейчас: {count}."
 }

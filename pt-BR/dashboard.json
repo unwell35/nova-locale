@@ -1994,5 +1994,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Onde Funciona",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Ações Extras",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Escolha um cargo sem permissões administrativas, ou ele não será dado.",
-  "DONE_BUTTON": "Concluído"
+  "DONE_BUTTON": "Concluído",
+  "AUTOMATION_NAME_LABEL": "Nome da Automação",
+  "REMOVE_ITEM_LABEL": "Remover {name}",
+  "CLEAR_FILTERS_BUTTON": "Limpar Filtros",
+  "LOGS_EMPTY_TITLE": "Nenhum log ainda",
+  "LOGS_NO_RESULTS_TITLE": "Nenhum log corresponde",
+  "SHOW_MORE_BUTTON": "Mostrar Mais",
+  "SHOW_LESS_BUTTON": "Mostrar Menos",
+  "APPLY_TO_ALL_BUTTON": "Aplicar a Todos",
+  "APPLIED_LABEL": "Aplicado",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "Nenhum cargo de cor ainda, mostrando cores de exemplo.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Os grupos precisam de um múltiplo de 5 cores. Você tem {count}."
 }

@@ -2020,5 +2020,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Dove Funziona",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Azioni Extra",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Scegli un ruolo senza permessi amministrativi, altrimenti non verrà assegnato.",
-  "DONE_BUTTON": "Fatto"
+  "DONE_BUTTON": "Fatto",
+  "AUTOMATION_NAME_LABEL": "Nome Automazione",
+  "REMOVE_ITEM_LABEL": "Rimuovi {name}",
+  "CLEAR_FILTERS_BUTTON": "Cancella Filtri",
+  "LOGS_EMPTY_TITLE": "Ancora nessun log",
+  "LOGS_NO_RESULTS_TITLE": "Nessun log corrispondente",
+  "SHOW_MORE_BUTTON": "Mostra Altro",
+  "SHOW_LESS_BUTTON": "Mostra Meno",
+  "APPLY_TO_ALL_BUTTON": "Applica a Tutti",
+  "APPLIED_LABEL": "Applicato",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "Ancora nessun ruolo colore, vengono mostrati colori di esempio.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "I gruppi richiedono un multiplo di 5 colori. Ne hai {count}."
 }
