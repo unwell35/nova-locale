@@ -1946,5 +1946,11 @@
   "APPLIED_LABEL": "تم التطبيق",
   "XP_LABEL": "الخبرة",
   "COLORS_PREVIEW_SAMPLE": "لا توجد رتب ألوان بعد، يتم عرض ألوان كمثال.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "تحتاج المجموعات إلى عدد ألوان مضاعف لخمسة. لديك {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "تحتاج المجموعات إلى عدد ألوان مضاعف لخمسة. لديك {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "اكتب ما لا يقل عن {count} من الأحرف للبحث",
+  "PRESS_ENTER_TO_ADD_ID": "اضغط Enter لإضافة هذا الأيدي",
+  "MAX_LIMIT_REACHED": "تم الوصول إلى الحد",
+  "LOADING": "جاري التحميل...",
+  "SEARCH_THREADS_HINT": "للبحث عن ثريد، الصق أيدي الثريد",
+  "THREAD_NOT_FOUND": "لم يتم العثور على الثريد"
 }
