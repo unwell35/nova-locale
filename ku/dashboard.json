@@ -1980,5 +1980,11 @@
   "APPLY_TO_ALL_BUTTON": "جێبەجێکردن بۆ هەمووی",
   "APPLIED_LABEL": "جێبەجێکرا",
   "COLORS_PREVIEW_SAMPLE": "هێشتا هیچ ڕۆڵی ڕەنگ نییە، ڕەنگی نموونە نیشان دەدرێت.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "گروپەکان پێویستیان بە ژمارەی ڕەنگی چەندجارەی ٥ هەیە. تۆ {count} هەیە."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "گروپەکان پێویستیان بە ژمارەی ڕەنگی چەندجارەی ٥ هەیە. تۆ {count} هەیە.",
+  "SEARCH_USERS_MIN_LENGTH": "بۆ گەڕان بەلایەنی کەمەوە {count} پیت بنووسە",
+  "PRESS_ENTER_TO_ADD_ID": "Enter دابگرە بۆ زیادکردنی ئەم ID",
+  "MAX_LIMIT_REACHED": "سنوور پڕ بوو",
+  "LOADING": "بارکردن...",
+  "SEARCH_THREADS_HINT": "بۆ گەڕان بە دوای ثرەیدێک، ID ـی ثرەیدەکە پەیست بکە",
+  "THREAD_NOT_FOUND": "ثرەید نەدۆزرایەوە"
 }
