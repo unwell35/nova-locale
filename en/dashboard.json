@@ -2008,5 +2008,17 @@
   "AUTO_RESPONDER_SCOPE_TITLE": "Where It Works",
   "AUTO_RESPONDER_ACTIONS_TITLE": "Extra Actions",
   "GIVE_ROLE_AUTO_RESPONDER_HELP": "Choose a role without admin permissions, or it won't be given.",
-  "DONE_BUTTON": "Done"
+  "DONE_BUTTON": "Done",
+  "AUTOMATION_NAME_LABEL": "Automation Name",
+  "REMOVE_ITEM_LABEL": "Remove {name}",
+  "CLEAR_FILTERS_BUTTON": "Clear Filters",
+  "LOGS_EMPTY_TITLE": "No logs yet",
+  "LOGS_NO_RESULTS_TITLE": "No matching logs",
+  "SHOW_MORE_BUTTON": "Show More",
+  "SHOW_LESS_BUTTON": "Show Less",
+  "APPLY_TO_ALL_BUTTON": "Apply to All",
+  "APPLIED_LABEL": "Applied",
+  "XP_LABEL": "XP",
+  "COLORS_PREVIEW_SAMPLE": "No color roles yet, showing sample colors.",
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Groups need a multiple of 5 colors. You have {count}."
 }
