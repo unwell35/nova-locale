@@ -1989,5 +1989,11 @@
   "APPLIED_LABEL": "Appliqué",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "Aucun rôle de couleur pour l'instant, des couleurs d'exemple sont affichées.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Les groupes ont besoin d'un multiple de 5 couleurs. Vous en avez {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Les groupes ont besoin d'un multiple de 5 couleurs. Vous en avez {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "Saisissez au moins {count} caractères pour lancer la recherche",
+  "PRESS_ENTER_TO_ADD_ID": "Appuyez sur Entrée pour ajouter cet ID",
+  "MAX_LIMIT_REACHED": "Limite atteinte",
+  "LOADING": "Chargement...",
+  "SEARCH_THREADS_HINT": "Pour rechercher un fil, collez son ID de fil",
+  "THREAD_NOT_FOUND": "Fil introuvable"
 }

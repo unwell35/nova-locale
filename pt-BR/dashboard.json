@@ -2006,5 +2006,11 @@
   "APPLIED_LABEL": "Aplicado",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "Nenhum cargo de cor ainda, mostrando cores de exemplo.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Os grupos precisam de um múltiplo de 5 cores. Você tem {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Os grupos precisam de um múltiplo de 5 cores. Você tem {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "Digite pelo menos {count} caracteres para pesquisar",
+  "PRESS_ENTER_TO_ADD_ID": "Pressione Enter para adicionar este ID",
+  "MAX_LIMIT_REACHED": "Limite atingido",
+  "LOADING": "Carregando...",
+  "SEARCH_THREADS_HINT": "Para pesquisar uma thread, cole o ID dela",
+  "THREAD_NOT_FOUND": "Thread não encontrada"
 }

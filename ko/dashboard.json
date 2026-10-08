@@ -2023,5 +2023,11 @@
   "APPLIED_LABEL": "적용됨",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "아직 색상 역할이 없어 예시 색상을 보여줍니다.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "그룹은 색상 수가 5의 배수여야 합니다. 현재 {count}개입니다."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "그룹은 색상 수가 5의 배수여야 합니다. 현재 {count}개입니다.",
+  "SEARCH_USERS_MIN_LENGTH": "검색하려면 최소 {count}자 이상 입력하세요",
+  "PRESS_ENTER_TO_ADD_ID": "이 ID를 추가하려면 Enter를 누르세요",
+  "MAX_LIMIT_REACHED": "한도에 도달했습니다",
+  "LOADING": "불러오는 중...",
+  "SEARCH_THREADS_HINT": "스레드를 검색하려면 스레드 ID를 붙여 넣으세요",
+  "THREAD_NOT_FOUND": "스레드를 찾을 수 없습니다"
 }

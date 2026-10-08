@@ -1983,5 +1983,11 @@
   "APPLIED_LABEL": "Aplicado",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "Todavía no hay roles de color, se muestran colores de ejemplo.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Los grupos necesitan un múltiplo de 5 colores. Tienes {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Los grupos necesitan un múltiplo de 5 colores. Tienes {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "Escribe al menos {count} caracteres para buscar",
+  "PRESS_ENTER_TO_ADD_ID": "Pulsa Enter para añadir este ID",
+  "MAX_LIMIT_REACHED": "Límite alcanzado",
+  "LOADING": "Cargando...",
+  "SEARCH_THREADS_HINT": "Para buscar un hilo, pega su ID de hilo",
+  "THREAD_NOT_FOUND": "No se encontró el hilo"
 }

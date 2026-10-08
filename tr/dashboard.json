@@ -1988,5 +1988,11 @@
   "APPLIED_LABEL": "Uygulandı",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "Henüz renk rolü yok, örnek renkler gösteriliyor.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Gruplar için renk sayısı 5'in katı olmalı. Şu anda {count} tane var."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Gruplar için renk sayısı 5'in katı olmalı. Şu anda {count} tane var.",
+  "SEARCH_USERS_MIN_LENGTH": "Aramak için en az {count} karakter yaz",
+  "PRESS_ENTER_TO_ADD_ID": "Bu ID'yi eklemek için Enter'a bas",
+  "MAX_LIMIT_REACHED": "Limite ulaşıldı",
+  "LOADING": "Yükleniyor...",
+  "SEARCH_THREADS_HINT": "Bir thread aramak için thread ID'sini yapıştır",
+  "THREAD_NOT_FOUND": "Thread bulunamadı"
 }

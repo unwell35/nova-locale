@@ -1988,5 +1988,11 @@
   "APPLIED_LABEL": "Angewendet",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "Noch keine Farbrollen, es werden Beispielfarben gezeigt.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Gruppen brauchen ein Vielfaches von 5 Farben. Du hast {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Gruppen brauchen ein Vielfaches von 5 Farben. Du hast {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "Gib mindestens {count} Zeichen ein, um zu suchen",
+  "PRESS_ENTER_TO_ADD_ID": "Drücke Enter, um diese ID hinzuzufügen",
+  "MAX_LIMIT_REACHED": "Limit erreicht",
+  "LOADING": "Wird geladen...",
+  "SEARCH_THREADS_HINT": "Um einen Thread zu suchen, füge seine Thread-ID ein",
+  "THREAD_NOT_FOUND": "Thread nicht gefunden"
 }

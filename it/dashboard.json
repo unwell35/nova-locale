@@ -2032,5 +2032,11 @@
   "APPLIED_LABEL": "Applicato",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "Ancora nessun ruolo colore, vengono mostrati colori di esempio.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "I gruppi richiedono un multiplo di 5 colori. Ne hai {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "I gruppi richiedono un multiplo di 5 colori. Ne hai {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "Digita almeno {count} caratteri per cercare",
+  "PRESS_ENTER_TO_ADD_ID": "Premi Invio per aggiungere questo ID",
+  "MAX_LIMIT_REACHED": "Limite raggiunto",
+  "LOADING": "Caricamento...",
+  "SEARCH_THREADS_HINT": "Per cercare un thread, incolla il suo ID",
+  "THREAD_NOT_FOUND": "Thread non trovato"
 }

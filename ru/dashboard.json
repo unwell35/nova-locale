@@ -1983,5 +1983,11 @@
   "APPLIED_LABEL": "Применено",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "Цветных ролей пока нет, показаны примеры цветов.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Количество цветов в группах должно быть кратно 5. Сейчас: {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Количество цветов в группах должно быть кратно 5. Сейчас: {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "Для поиска введи от {count} символов",
+  "PRESS_ENTER_TO_ADD_ID": "Нажми Enter, чтобы добавить этот ID",
+  "MAX_LIMIT_REACHED": "Лимит достигнут",
+  "LOADING": "Загрузка...",
+  "SEARCH_THREADS_HINT": "Чтобы найти ветку, вставь её ID",
+  "THREAD_NOT_FOUND": "Ветка не найдена"
 }
