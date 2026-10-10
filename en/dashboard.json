@@ -2020,5 +2020,11 @@
   "APPLIED_LABEL": "Applied",
   "XP_LABEL": "XP",
   "COLORS_PREVIEW_SAMPLE": "No color roles yet, showing sample colors.",
-  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Groups need a multiple of 5 colors. You have {count}."
+  "COLORS_GROUP_MULTIPLE_OF_FIVE": "Groups need a multiple of 5 colors. You have {count}.",
+  "SEARCH_USERS_MIN_LENGTH": "Type at least {count} characters to search",
+  "PRESS_ENTER_TO_ADD_ID": "Press Enter to add this ID",
+  "MAX_LIMIT_REACHED": "Limit reached",
+  "LOADING": "Loading…",
+  "SEARCH_THREADS_HINT": "To search for a thread, paste its thread ID",
+  "THREAD_NOT_FOUND": "Thread not found"
 }
