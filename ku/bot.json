@@ -583,7 +583,8 @@
       "stickers_guild_slot": "شوێنی ستیکەرەکان پڕە. هەندێکیان بسڕەوە و دووبارە هەوڵ بدەرەوە.",
       "limit_discord_stickers": "`[count]` ستیکەر زیاد نەکران — سنووری داواکاری دیسکۆرد.",
       "limit_slot_stickers": "`[count]` ستیکەر زیاد نەکران — سنوورەکە پڕ بووە. هەندێکیان بسڕەوە و دووبارە هەوڵ بدەرەوە.",
-      "error_stickers": "`[count]` ستیکەر زیاد نەکران — کێشەیەک ڕوویدا"
+      "error_stickers": "`[count]` ستیکەر زیاد نەکران — کێشەیەک ڕوویدا",
+      "streaks_disabled": "سیستەمی ستریک لەم سێرڤەرەدا ناچالاکە."
     },
     "interaction": {
       "voice_label": "تەنها ڤۆیس",
@@ -634,7 +635,13 @@
       "reset_top_month_note": "لووتکەی مانگانە لە یەکەم ڕۆژی مانگی تازە سفر دەبێتەوە. سفربوونەوی داهاتوو [date].",
       "plugin_name": "زیادکراوی: [name]",
       "usage": "بەکارهێنان",
-      "examples": "نموونەکان"
+      "examples": "نموونەکان",
+      "streak_text_top_title": "لووتکەی ستریکە ڕۆژانەکانی نووسین",
+      "streak_voice_top_title": "لووتکەی ستریکە ڕۆژانەکانی ڤۆیس",
+      "streak": "ستریک",
+      "longest_streak": "درێژترین",
+      "streak_type_text": "نووسین",
+      "streak_type_voice": "ڤۆیس"
     }
   },
   "reaction_roles": {
