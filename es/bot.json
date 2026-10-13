@@ -583,7 +583,8 @@
       "stickers_guild_slot": "No quedan espacios para stickers. Elimina algunos e inténtalo de nuevo.",
       "limit_discord_stickers": "`[count]` stickers no añadidos — límite de velocidad de Discord.",
       "limit_slot_stickers": "`[count]` stickers no añadidos — límite alcanzado. Elimina algunos e inténtalo de nuevo.",
-      "error_stickers": "`[count]` stickers no añadidos — algo salió mal"
+      "error_stickers": "`[count]` stickers no añadidos — algo salió mal",
+      "streaks_disabled": "El sistema de rachas está desactivado en este servidor."
     },
     "interaction": {
       "voice_label": "Solo voz",
@@ -634,7 +635,13 @@
       "reset_top_month_note": "El top mensual se reinicia el día 1 de cada mes. Próximo reinicio: [date].",
       "plugin_name": "Plugin: [name]",
       "usage": "Uso",
-      "examples": "Ejemplos"
+      "examples": "Ejemplos",
+      "streak_text_top_title": "TOP RACHAS DIARIAS DE TEXTO",
+      "streak_voice_top_title": "TOP RACHAS DIARIAS DE VOZ",
+      "streak": "Racha",
+      "longest_streak": "Más larga",
+      "streak_type_text": "texto",
+      "streak_type_voice": "voz"
     }
   },
   "reaction_roles": {

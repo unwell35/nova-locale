@@ -583,7 +583,8 @@
       "stickers_guild_slot": "Слоты для стикеров заполнены. Удали часть и попробуй снова.",
       "limit_discord_stickers": "`[count]` стикеров не добавлено — лимит запросов Discord.",
       "limit_slot_stickers": "`[count]` стикеров не добавлено — достигнут лимит. Удали часть и попробуй снова.",
-      "error_stickers": "`[count]` стикеров не добавлено — что-то пошло не так"
+      "error_stickers": "`[count]` стикеров не добавлено — что-то пошло не так",
+      "streaks_disabled": "Система стриков на этом сервере отключена."
     },
     "interaction": {
       "voice_label": "Только голосовые",
@@ -634,7 +635,13 @@
       "reset_top_month_note": "Топ месяца обнуляется 1-го числа каждого месяца. Следующее обнуление [date].",
       "plugin_name": "Плагин: [name]",
       "usage": "Использование",
-      "examples": "Примеры"
+      "examples": "Примеры",
+      "streak_text_top_title": "ТОП ЕЖЕДНЕВНЫХ ТЕКСТОВЫХ СТРИКОВ",
+      "streak_voice_top_title": "ТОП ЕЖЕДНЕВНЫХ ГОЛОСОВЫХ СТРИКОВ",
+      "streak": "Стрик",
+      "longest_streak": "Самый длинный",
+      "streak_type_text": "текстовый",
+      "streak_type_voice": "голосовой"
     }
   },
   "reaction_roles": {

@@ -583,7 +583,8 @@
       "stickers_guild_slot": "شوێنی ستیکەرەکان پڕە. هەندێکیان بسڕەوە و دووبارە هەوڵ بدەرەوە.",
       "limit_discord_stickers": "`[count]` ستیکەر زیاد نەکران — سنووری داواکاری دیسکۆرد.",
       "limit_slot_stickers": "`[count]` ستیکەر زیاد نەکران — سنوورەکە پڕ بووە. هەندێکیان بسڕەوە و دووبارە هەوڵ بدەرەوە.",
-      "error_stickers": "`[count]` ستیکەر زیاد نەکران — کێشەیەک ڕوویدا"
+      "error_stickers": "`[count]` ستیکەر زیاد نەکران — کێشەیەک ڕوویدا",
+      "streaks_disabled": "سیستەمی ستریک لەم سێرڤەرەدا ناچالاکە."
     },
     "interaction": {
       "voice_label": "تەنها ڤۆیس",
@@ -591,7 +592,7 @@
       "ticket_points_label": "خاڵەکانی تیکت",
       "streaks_label": "تەنها ستریک",
       "voice_streaks_label": "تەنها ستریکەکانی ڤۆیس",
-      "text_streaks_label": "نوسینی ستریکی تەنها",
+      "text_streaks_label": "تەنها ستریکەکانی نووسین",
       "invites_label": "تەنها بانگهێشتەکان",
       "all_label": "هەموو",
       "reset_done": "**[target]** خاڵەکان گەڕێندرانەوە. جۆری گەڕاندنەوە: `[reset_type]`",
@@ -601,8 +602,8 @@
       "voice_top_title": "لووتکەی ڤۆیسەکان",
       "text_top_title": "لووتکەی نوسینەکان",
       "lastseen_top_title": "لوتکەی دوایین بینراو",
-      "voice_streaks_top_title": "لووتکەی ستریکی ڤۆیسەکان",
-      "text_streaks_top_title": "لوتکەی نوسینی ستریکی",
+      "voice_streaks_top_title": "لووتکەی ستریکەکانی ڤۆیس",
+      "text_streaks_top_title": "لووتکەی ستریکەکانی نووسین",
       "in_channel": "لەناو چەناڵی ڤۆیس",
       "top_title": "لووتکە",
       "messages": "نامەکان",
@@ -634,7 +635,13 @@
       "reset_top_month_note": "لووتکەی مانگانە لە یەکەم ڕۆژی مانگی تازە سفر دەبێتەوە. سفربوونەوی داهاتوو [date].",
       "plugin_name": "زیادکراوی: [name]",
       "usage": "بەکارهێنان",
-      "examples": "نموونەکان"
+      "examples": "نموونەکان",
+      "streak_text_top_title": "لووتکەی ستریکە ڕۆژانەکانی نووسین",
+      "streak_voice_top_title": "لووتکەی ستریکە ڕۆژانەکانی ڤۆیس",
+      "streak": "ستریک",
+      "longest_streak": "درێژترین",
+      "streak_type_text": "نووسین",
+      "streak_type_voice": "ڤۆیس"
     }
   },
   "reaction_roles": {

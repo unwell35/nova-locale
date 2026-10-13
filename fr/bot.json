@@ -583,7 +583,8 @@
       "stickers_guild_slot": "Les emplacements d'autocollants sont pleins. Veuillez en supprimer quelques-uns et réessayer.",
       "limit_discord_stickers": "`[count]` autocollants non ajoutés — limite de fréquence Discord.",
       "limit_slot_stickers": "`[count]` autocollants non ajoutés — limite atteinte. Supprimez-en quelques-uns et réessayez.",
-      "error_stickers": "`[count]` autocollants non ajoutés — une erreur s'est produite"
+      "error_stickers": "`[count]` autocollants non ajoutés — une erreur s'est produite",
+      "streaks_disabled": "Le système de séries est désactivé sur ce serveur."
     },
     "interaction": {
       "voice_label": "Voix uniquement",
@@ -634,7 +635,13 @@
       "reset_top_month_note": "Le top du mois se réinitialise le 1er de chaque mois. Prochaine réinitialisation : [date].",
       "plugin_name": "Plugin : [name]",
       "usage": "Utilisation",
-      "examples": "Exemples"
+      "examples": "Exemples",
+      "streak_text_top_title": "TOP SÉRIES TEXTE QUOTIDIENNES",
+      "streak_voice_top_title": "TOP SÉRIES VOCALES QUOTIDIENNES",
+      "streak": "Série",
+      "longest_streak": "Plus longue",
+      "streak_type_text": "texte",
+      "streak_type_voice": "vocal"
     }
   },
   "reaction_roles": {

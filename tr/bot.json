@@ -601,7 +601,8 @@
       "stickers_guild_slot": "Sticker slotu dolu. lütfen birkaçını silip tekrar dene.",
       "limit_discord_stickers": "`[count]` sticker eklenemedi — Discord rate limit.",
       "limit_slot_stickers": "`[count]` sticker eklenemedi — limite ulaşıldı. Birkaçını silip tekrar dene.",
-      "error_stickers": "`[count]` sticker eklenemedi — bir şeyler ters gitti"
+      "error_stickers": "`[count]` sticker eklenemedi — bir şeyler ters gitti",
+      "streaks_disabled": "Seri sistemi bu sunucuda devre dışı."
     },
     "interaction": {
       "voice_label": "Sadece ses",
@@ -652,7 +653,13 @@
       "reset_top_month_note": "Aylık sıralama her ayın 1'inde sıfırlanır. Sonraki sıfırlama [date].",
       "plugin_name": "Eklenti: [name]",
       "usage": "Kullanım",
-      "examples": "Örnekler"
+      "examples": "Örnekler",
+      "streak_text_top_title": "EN İYİ GÜNLÜK YAZI SERİLERİ",
+      "streak_voice_top_title": "EN İYİ GÜNLÜK SES SERİLERİ",
+      "streak": "Seri",
+      "longest_streak": "En uzun",
+      "streak_type_text": "yazı",
+      "streak_type_voice": "ses"
     }
   },
   "reaction_roles": {

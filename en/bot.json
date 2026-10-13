@@ -599,7 +599,8 @@
       "stickers_guild_slot": "Sticker slot is full. please delete some and try again.",
       "limit_discord_stickers": "`[count]` stickers not added — Discord rate limit.",
       "limit_slot_stickers": "`[count]` stickers not added — limit reached. Delete some and try again.",
-      "error_stickers": "`[count]` stickers not added — something went wrong"
+      "error_stickers": "`[count]` stickers not added — something went wrong",
+      "streaks_disabled": "The streak system is disabled in this server."
     },
     "interaction": {
       "voice_label": "Voice only",
@@ -650,7 +651,13 @@
       "reset_top_month_note": "Top month resets 1st of every month. Next reset [date].",
       "plugin_name": "Plugin: [name]",
       "usage": "Usage",
-      "examples": "Examples"
+      "examples": "Examples",
+      "streak_text_top_title": "TOP DAILY TEXT STREAKS",
+      "streak_voice_top_title": "TOP DAILY VOICE STREAKS",
+      "streak": "Streak",
+      "longest_streak": "Longest",
+      "streak_type_text": "text",
+      "streak_type_voice": "voice"
     }
   },
   "reaction_roles": {

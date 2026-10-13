@@ -601,7 +601,8 @@
       "stickers_guild_slot": "As vagas de figurinhas estão cheias. Apague algumas e tente novamente.",
       "limit_discord_stickers": "`[count]` figurinhas não adicionadas — limite de requisições do Discord.",
       "limit_slot_stickers": "`[count]` figurinhas não adicionadas — limite atingido. Apague algumas e tente novamente.",
-      "error_stickers": "`[count]` figurinhas não adicionadas — algo deu errado"
+      "error_stickers": "`[count]` figurinhas não adicionadas — algo deu errado",
+      "streaks_disabled": "O sistema de sequências está desativado neste servidor."
     },
     "interaction": {
       "voice_label": "Somente voz",
@@ -652,7 +653,13 @@
       "reset_top_month_note": "O top do mês reseta todo dia 1º. Próximo reset [date].",
       "plugin_name": "Plugin: [name]",
       "usage": "Uso",
-      "examples": "Exemplos"
+      "examples": "Exemplos",
+      "streak_text_top_title": "TOP SEQUÊNCIAS DIÁRIAS DE TEXTO",
+      "streak_voice_top_title": "TOP SEQUÊNCIAS DIÁRIAS DE VOZ",
+      "streak": "Sequência",
+      "longest_streak": "Maior",
+      "streak_type_text": "texto",
+      "streak_type_voice": "voz"
     }
   },
   "reaction_roles": {

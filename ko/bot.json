@@ -601,7 +601,8 @@
       "stickers_guild_slot": "스티커 슬롯이 가득 찼습니다. 일부를 삭제한 뒤 다시 시도해 주세요.",
       "limit_discord_stickers": "스티커 `[count]`개가 추가되지 않았습니다 — Discord 요청 제한입니다.",
       "limit_slot_stickers": "스티커 `[count]`개가 추가되지 않았습니다 — 슬롯이 가득 찼습니다. 일부를 삭제한 뒤 다시 시도해 주세요.",
-      "error_stickers": "스티커 `[count]`개가 추가되지 않았습니다 — 문제가 발생했습니다"
+      "error_stickers": "스티커 `[count]`개가 추가되지 않았습니다 — 문제가 발생했습니다",
+      "streaks_disabled": "이 서버에서는 스트릭 시스템이 비활성화되어 있습니다."
     },
     "interaction": {
       "voice_label": "음성 전용",
@@ -652,7 +653,13 @@
       "reset_top_month_note": "월간 순위는 매월 1일에 초기화됩니다. 다음 초기화: [date].",
       "plugin_name": "플러그인: [name]",
       "usage": "사용법",
-      "examples": "예시"
+      "examples": "예시",
+      "streak_text_top_title": "일일 텍스트 스트릭 순위",
+      "streak_voice_top_title": "일일 음성 스트릭 순위",
+      "streak": "스트릭",
+      "longest_streak": "최장",
+      "streak_type_text": "텍스트",
+      "streak_type_voice": "음성"
     }
   },
   "reaction_roles": {

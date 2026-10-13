@@ -599,7 +599,8 @@
       "stickers_guild_slot": "Gli slot sticker sono pieni. Eliminane alcuni e riprova.",
       "limit_discord_stickers": "`[count]` sticker non aggiunti — limite di Discord raggiunto.",
       "limit_slot_stickers": "`[count]` sticker non aggiunti — limite raggiunto. Eliminane alcuni e riprova.",
-      "error_stickers": "`[count]` sticker non aggiunti — qualcosa è andato storto"
+      "error_stickers": "`[count]` sticker non aggiunti — qualcosa è andato storto",
+      "streaks_disabled": "Il sistema di streak è disattivato in questo server."
     },
     "interaction": {
       "voice_label": "Solo voce",
@@ -650,7 +651,13 @@
       "reset_top_month_note": "La classifica mensile si resetta il 1° di ogni mese. Prossimo reset [date].",
       "plugin_name": "Plugin: [name]",
       "usage": "Utilizzo",
-      "examples": "Esempi"
+      "examples": "Esempi",
+      "streak_text_top_title": "TOP STREAK GIORNALIERI TESTO",
+      "streak_voice_top_title": "TOP STREAK GIORNALIERI VOCE",
+      "streak": "Streak",
+      "longest_streak": "Più lungo",
+      "streak_type_text": "testo",
+      "streak_type_voice": "voce"
     }
   },
 
