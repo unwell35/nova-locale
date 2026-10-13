@@ -583,7 +583,8 @@
       "stickers_guild_slot": "لا توجد خانات متاحة للملصقات. يرجى حذف بعض الملصقات ثم المحاولة مرة أخرى.",
       "limit_discord_stickers": "لم تتم إضافة `[count]` من الملصقات بسبب حد المعدل من ديسكورد.",
       "limit_slot_stickers": "لم تتم إضافة `[count]` من الملصقات لعدم وجود خانات متاحة. احذف بعض الملصقات ثم حاول مرة أخرى.",
-      "error_stickers": "لم تتم إضافة `[count]` من الملصقات بسبب حدوث خطأ."
+      "error_stickers": "لم تتم إضافة `[count]` من الملصقات بسبب حدوث خطأ.",
+      "streaks_disabled": "نظام الستريك معطل في هذا السيرفر."
     },
     "interaction": {
       "voice_label": "الصوت فقط",
@@ -634,7 +635,13 @@
       "reset_top_month_note": "يتم تصفير التوب الشهري كل بداية شهر. سيتم التصفير خلال [date].",
       "plugin_name": "الأضافة: [name]",
       "usage": "الأستخدام",
-      "examples": "أمثلة للأستخدام"
+      "examples": "أمثلة للأستخدام",
+      "streak_text_top_title": "أفضل ستريك الكتابة اليومي",
+      "streak_voice_top_title": "أفضل ستريك الصوت اليومي",
+      "streak": "الستريك",
+      "longest_streak": "الأطول",
+      "streak_type_text": "الكتابة",
+      "streak_type_voice": "الصوت"
     }
   },
   "reaction_roles": {
