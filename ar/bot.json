@@ -370,6 +370,13 @@
       "reset_command_title": "أمر إعادة تعيين نقاط",
       "set_points_command_title": "أمر تعيين النقاط",
       "set_level_command_title": "أمر تعيين المستوى",
+      "reset_streak_command_title": "أمر إعادة تعيين الستريك",
+      "set_streak_command_title": "أمر تعيين الستريك",
+      "pause_streak_command_title": "أمر إيقاف الستريك مؤقتاً",
+      "resume_streak_command_title": "أمر استئناف الستريك",
+      "streak_type_field": "نوع الستريك",
+      "paused_on_field": "تاريخ الإيقاف",
+      "resume_on_field": "تاريخ الاستئناف",
       "temporary_channel_created_title": "إنشاء الروم المؤقت",
       "temp_channel_ban_title": "حظر الروم المؤقت",
       "temp_channel_unban_title": "إلغاء حظر - الروم المؤقت",
@@ -584,7 +591,17 @@
       "limit_discord_stickers": "لم تتم إضافة `[count]` من الملصقات بسبب حد المعدل من ديسكورد.",
       "limit_slot_stickers": "لم تتم إضافة `[count]` من الملصقات لعدم وجود خانات متاحة. احذف بعض الملصقات ثم حاول مرة أخرى.",
       "error_stickers": "لم تتم إضافة `[count]` من الملصقات بسبب حدوث خطأ.",
-      "streaks_disabled": "نظام الستريك معطل في هذا السيرفر."
+      "streaks_disabled": "نظام الستريك معطل في هذا السيرفر.",
+      "confirm_to_reset_streak": "**هل أنت متأكد أنك تريد إعادة تعيين الستريك اليومي لـ [target]؟ نوع إعادة التعيين: `[reset_type]`**",
+      "provide_streak": "يرجى إدخال ستريك صحيح بين `0` و `9999` يوم.",
+      "streak_manager_only": "يمكن فقط لمالك السيرفر أو لأدمن رتبته أعلى من رتبتي القيام بهذا.",
+      "streaks_already_paused": "الستريك اليومي متوقف مؤقتاً بالفعل.",
+      "streaks_not_paused": "الستريك اليومي غير متوقف.",
+      "streaks_resume_already_scheduled": "الستريك اليومي مجدول بالفعل للاستئناف عند منتصف الليل.",
+      "confirm_to_pause_streak": "**هل أنت متأكد أنك تريد إيقاف الستريك اليومي مؤقتاً؟ لن يُحتسب أي نشاط ولن ينقطع أي ستريك حتى يتم استئنافه.**",
+      "confirm_to_resume_streak": "**هل أنت متأكد أنك تريد استئناف الستريك اليومي؟ سيبدأ الاحتساب من جديد عند منتصف الليل (بتوقيت السيرفر).**",
+      "streaks_paused_note": "",
+      "streaks_paused_resume_note": ""
     },
     "interaction": {
       "voice_label": "الصوت فقط",
@@ -641,7 +658,11 @@
       "streak": "الستريك",
       "longest_streak": "الأطول",
       "streak_type_text": "الكتابة",
-      "streak_type_voice": "الصوت"
+      "streak_type_voice": "الصوت",
+      "reset_streak_done": "تمت إعادة تعيين الستريك اليومي لـ **[target]**. نوع إعادة التعيين: `[reset_type]`",
+      "set_streak_done": "تم تعيين ستريك [type] لـ [target] إلى `[streak]` يوم. الأطول: `[longest]`",
+      "pause_streak_done": "تم إيقاف الستريك اليومي مؤقتاً. لن يُحتسب أي نشاط ولن ينقطع أي ستريك حتى يتم استئنافه.",
+      "resume_streak_done": "سيُستأنف الستريك اليومي عند منتصف الليل (بتوقيت السيرفر). وحتى ذلك الحين يبقى متوقفاً."
     }
   },
   "reaction_roles": {
