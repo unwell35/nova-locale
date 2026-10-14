@@ -2026,6 +2026,18 @@
   "COMMAND_DESCRIPTION_STREAK": "پیشاندانی ستریکە ڕۆژانەکانی خۆت یان ئەندامێکی تر",
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [کەسەکە]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "پیشاندانی لیستی باشترین ئەندامان لە ستریکی ڕۆژانەدا لە سێرڤەرەکە",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "سفرکردنەوەی ستریکە ڕۆژانەکانی ئەندامێک یان سێرڤەرەکە",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [کەسەکە]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "دانانی ستریکی ڕۆژانەی ئەندامێک",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [کەسەکە] 30\n/setstreak [کەسەکە] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "ڕاگرتنی ستریکە ڕۆژانەکانی سێرڤەر تا دەستیان پێ دەکەیتەوە",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "دەستپێکردنەوەی ستریکە ڕۆژانە ڕاگیراوەکان لە نیوەشەوی داهاتوودا",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "ناردنی نامە هەموو ڕۆژێک",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "هەر جارێک ئەندامێک ڕۆژێکی نوێی ستریک بەدەست دەهێنێت نامەکە دەنێرێت، نەک تەنها کاتێک دەگاتە قۆناغێک. لە ڕۆژی قۆناغدا، لە جیاتی ئەوە نامەی ئەو قۆناغە دەنێردرێت."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "هەر جارێک ئەندامێک ڕۆژێکی نوێی ستریک بەدەست دەهێنێت نامەکە دەنێرێت، نەک تەنها کاتێک دەگاتە قۆناغێک. لە ڕۆژی قۆناغدا، لە جیاتی ئەوە نامەی ئەو قۆناغە دەنێردرێت.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "نامەی ڕۆژانەی دەستکاریکراو",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "خولەکی ڤۆیسی ڕۆژانەی دەستکاریکراو",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "ئەو ئەندامانەی بەرەو ئەم قۆناغە دەچن، لە جیاتی مەرجی ڕۆژانەی ستریکەکە هەموو ڕۆژێک پێویستیان بەم بڕە دەبێت. لە قۆناغی پێشووەوە تا گەیشتن بەم قۆناغە کار دەکات.",
+  "RANGE_LABEL": "مەودا",
+  "30_DAYS_OPTION": "٣٠ ڕۆژ",
+  "20_WEEKS_OPTION": "٢٠ هەفتە"
 }
