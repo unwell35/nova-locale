@@ -2053,6 +2053,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [member]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "Ver a lista dos membros com as maiores sequências diárias no servidor",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Resetar as sequências diárias de um membro ou do servidor",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [member]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Definir a sequência diária de um membro",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [member] 30\n/setstreak [member] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Pausar as sequências diárias no servidor até você retomá-las",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Retomar as sequências diárias pausadas na próxima meia-noite",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Enviar Mensagem Todo Dia",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Envia a mensagem toda vez que um membro ganha um novo dia de sequência, não só quando atinge um marco. Em um dia de marco, a mensagem desse marco é enviada no lugar."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Envia a mensagem toda vez que um membro ganha um novo dia de sequência, não só quando atinge um marco. Em um dia de marco, a mensagem desse marco é enviada no lugar.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Mensagens Diárias Personalizadas",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Minutos Diários em Voz Personalizados",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Membros a caminho deste marco precisam dessa quantidade todo dia em vez do requisito diário da sequência. Vale do marco anterior até este ser atingido.",
+  "RANGE_LABEL": "Intervalo",
+  "30_DAYS_OPTION": "30 Dias",
+  "20_WEEKS_OPTION": "20 Semanas"
 }

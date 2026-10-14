@@ -370,6 +370,13 @@
       "reset_command_title": "Commande de réinitialisation",
       "set_points_command_title": "Commande Définir les points",
       "set_level_command_title": "Commande Définir le niveau",
+      "reset_streak_command_title": "Commande Réinitialiser la série",
+      "set_streak_command_title": "Commande Définir la série",
+      "pause_streak_command_title": "Commande Mettre en pause les séries",
+      "resume_streak_command_title": "Commande Reprendre les séries",
+      "streak_type_field": "Type de série",
+      "paused_on_field": "Mis en pause le",
+      "resume_on_field": "Reprise le",
       "temporary_channel_created_title": "Salon temporaire créé",
       "temp_channel_ban_title": "Salon temporaire - Bannissement",
       "temp_channel_unban_title": "Salon temporaire - Annulation du bannissement",
@@ -584,7 +591,15 @@
       "limit_discord_stickers": "`[count]` autocollants non ajoutés — limite de fréquence Discord.",
       "limit_slot_stickers": "`[count]` autocollants non ajoutés — limite atteinte. Supprimez-en quelques-uns et réessayez.",
       "error_stickers": "`[count]` autocollants non ajoutés — une erreur s'est produite",
-      "streaks_disabled": "Le système de séries est désactivé sur ce serveur."
+      "streaks_disabled": "Le système de séries est désactivé sur ce serveur.",
+      "confirm_to_reset_streak": "**Êtes-vous sûr de vouloir réinitialiser les séries quotidiennes de [target] ? Type de réinitialisation : `[reset_type]`**",
+      "provide_streak": "Veuillez indiquer une série valide entre `0` et `9999` jours.",
+      "streak_manager_only": "Seul le propriétaire du serveur ou un administrateur dont le rôle est au-dessus du mien peut faire ça.",
+      "streaks_already_paused": "Les séries quotidiennes sont déjà en pause.",
+      "streaks_not_paused": "Les séries quotidiennes ne sont pas en pause.",
+      "streaks_resume_already_scheduled": "La reprise des séries quotidiennes est déjà prévue à minuit.",
+      "confirm_to_pause_streak": "**Êtes-vous sûr de vouloir mettre en pause les séries quotidiennes ? Rien ne sera compté et aucune série ne sera rompue jusqu'à leur reprise.**",
+      "confirm_to_resume_streak": "**Êtes-vous sûr de vouloir reprendre les séries quotidiennes ? Le décompte reprendra à minuit (heure du serveur).**"
     },
     "interaction": {
       "voice_label": "Voix uniquement",
@@ -641,7 +656,11 @@
       "streak": "Série",
       "longest_streak": "Plus longue",
       "streak_type_text": "texte",
-      "streak_type_voice": "vocal"
+      "streak_type_voice": "vocal",
+      "reset_streak_done": "Les séries quotidiennes de **[target]** ont été réinitialisées. Type de réinitialisation : `[reset_type]`",
+      "set_streak_done": "La série de [target] ([type]) a été définie à `[streak]` jours. Plus longue : `[longest]`",
+      "pause_streak_done": "Les séries quotidiennes sont en pause. Rien n'est compté et aucune série n'est rompue jusqu'à leur reprise.",
+      "resume_streak_done": "Les séries quotidiennes reprendront à minuit (heure du serveur). D'ici là, elles restent en pause."
     }
   },
   "reaction_roles": {

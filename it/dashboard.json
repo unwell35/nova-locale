@@ -2079,6 +2079,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [membro]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "Mostra la classifica dei membri con gli streak giornalieri più lunghi del server",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Resetta gli streak giornalieri di un membro o del server",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [membro]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Imposta lo streak giornaliero di un membro",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [membro] 30\n/setstreak [membro] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Metti in pausa gli streak giornalieri del server finché non li riprendi",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Riprendi gli streak giornalieri in pausa dalla prossima mezzanotte",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Invia Messaggio Ogni Giorno",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Invia il messaggio ogni volta che un membro guadagna un nuovo giorno di streak, non solo quando raggiunge un traguardo. Nei giorni di traguardo viene inviato invece il messaggio di quel traguardo."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Invia il messaggio ogni volta che un membro guadagna un nuovo giorno di streak, non solo quando raggiunge un traguardo. Nei giorni di traguardo viene inviato invece il messaggio di quel traguardo.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Messaggi Giornalieri Personalizzati",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Minuti Voice Giornalieri Personalizzati",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "I membri che puntano a questo traguardo devono raggiungere questa quantità ogni giorno al posto del requisito giornaliero dello streak. Si applica dal traguardo precedente fino al raggiungimento di questo.",
+  "RANGE_LABEL": "Intervallo",
+  "30_DAYS_OPTION": "30 Giorni",
+  "20_WEEKS_OPTION": "20 Settimane"
 }

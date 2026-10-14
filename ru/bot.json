@@ -370,6 +370,13 @@
       "reset_command_title": "Команда reset",
       "set_points_command_title": "Команда setpoints",
       "set_level_command_title": "Команда setlevel",
+      "reset_streak_command_title": "Команда resetstreak",
+      "set_streak_command_title": "Команда setstreak",
+      "pause_streak_command_title": "Команда pausestreak",
+      "resume_streak_command_title": "Команда resumestreak",
+      "streak_type_field": "Тип стрика",
+      "paused_on_field": "На паузе с",
+      "resume_on_field": "Возобновится",
       "temporary_channel_created_title": "Временный канал создан",
       "temp_channel_ban_title": "Временный канал — бан",
       "temp_channel_unban_title": "Временный канал — разбан",
@@ -584,7 +591,15 @@
       "limit_discord_stickers": "`[count]` стикеров не добавлено — лимит запросов Discord.",
       "limit_slot_stickers": "`[count]` стикеров не добавлено — достигнут лимит. Удали часть и попробуй снова.",
       "error_stickers": "`[count]` стикеров не добавлено — что-то пошло не так",
-      "streaks_disabled": "Система стриков на этом сервере отключена."
+      "streaks_disabled": "Система стриков на этом сервере отключена.",
+      "confirm_to_reset_streak": "**Точно сбросить ежедневные стрики [target]? Тип сброса: `[reset_type]`**",
+      "provide_streak": "Укажи корректный стрик от `0` до `9999` дней.",
+      "streak_manager_only": "Это может сделать только владелец сервера или администратор с ролью выше моей.",
+      "streaks_already_paused": "Ежедневные стрики уже на паузе.",
+      "streaks_not_paused": "Ежедневные стрики не на паузе.",
+      "streaks_resume_already_scheduled": "Ежедневные стрики уже запланированы к возобновлению в полночь.",
+      "confirm_to_pause_streak": "**Точно поставить ежедневные стрики на паузу? Пока их не возобновят, ничего не будет засчитываться и ни один стрик не прервётся.**",
+      "confirm_to_resume_streak": "**Точно возобновить ежедневные стрики? Подсчёт начнётся снова в полночь (по времени сервера).**"
     },
     "interaction": {
       "voice_label": "Только голосовые",
@@ -641,7 +656,11 @@
       "streak": "Стрик",
       "longest_streak": "Самый длинный",
       "streak_type_text": "текстовый",
-      "streak_type_voice": "голосовой"
+      "streak_type_voice": "голосовой",
+      "reset_streak_done": "Ежедневные стрики **[target]** сброшены. Тип сброса: `[reset_type]`",
+      "set_streak_done": "Для [target] установлен [type] стрик: `[streak]` дн. Самый длинный: `[longest]`",
+      "pause_streak_done": "Ежедневные стрики на паузе. Пока их не возобновят, ничего не засчитывается и ни один стрик не прерывается.",
+      "resume_streak_done": "Ежедневные стрики возобновятся в полночь (по времени сервера). До этого они остаются на паузе."
     }
   },
   "reaction_roles": {

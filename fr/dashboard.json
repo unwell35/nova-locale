@@ -2036,6 +2036,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [membre]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "Afficher la liste des meilleurs membres par séries quotidiennes sur le serveur",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Réinitialiser les séries quotidiennes d'un membre ou d'un serveur",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [membre]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Définir la série quotidienne d'un membre",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [membre] 30\n/setstreak [membre] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Mettre en pause les séries quotidiennes du serveur jusqu'à leur reprise",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Reprendre les séries quotidiennes en pause à partir du prochain minuit",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Envoyer le message chaque jour",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Envoie le message chaque fois qu'un membre gagne un nouveau jour de série, et pas seulement lorsqu'il atteint un palier. Un jour de palier, c'est le message de ce palier qui est envoyé à la place."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Envoie le message chaque fois qu'un membre gagne un nouveau jour de série, et pas seulement lorsqu'il atteint un palier. Un jour de palier, c'est le message de ce palier qui est envoyé à la place.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Nombre de messages par jour personnalisé",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Nombre de minutes en vocal par jour personnalisé",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Les membres qui visent ce palier doivent atteindre ce nombre chaque jour au lieu de l'exigence quotidienne de la série. Il s'applique du palier précédent jusqu'à ce que celui-ci soit atteint.",
+  "RANGE_LABEL": "Plage",
+  "30_DAYS_OPTION": "30 jours",
+  "20_WEEKS_OPTION": "20 semaines"
 }

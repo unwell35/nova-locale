@@ -370,6 +370,13 @@
       "reset_command_title": "ڕێکخستنەوەی،سفرکردنەوەی کۆماند",
       "set_points_command_title": "دانانی کۆماندی پۆینت",
       "set_level_command_title": "دانانی کۆماندی ئاست",
+      "reset_streak_command_title": "کۆماندی سفرکردنەوەی ستریک",
+      "set_streak_command_title": "کۆماندی دانانی ستریک",
+      "pause_streak_command_title": "کۆماندی ڕاگرتنی ستریک",
+      "resume_streak_command_title": "کۆماندی دەستپێکردنەوەی ستریک",
+      "streak_type_field": "جۆری ستریک",
+      "paused_on_field": "کاتی ڕاگرتن",
+      "resume_on_field": "کاتی دەستپێکردنەوە",
       "temporary_channel_created_title": "چەناڵی کاتی درووستکرا",
       "temp_channel_ban_title": "چەناڵی کاتی - باند",
       "temp_channel_unban_title": "چەناڵی کاتی - باندلابردن",
@@ -584,7 +591,15 @@
       "limit_discord_stickers": "`[count]` ستیکەر زیاد نەکران — سنووری داواکاری دیسکۆرد.",
       "limit_slot_stickers": "`[count]` ستیکەر زیاد نەکران — سنوورەکە پڕ بووە. هەندێکیان بسڕەوە و دووبارە هەوڵ بدەرەوە.",
       "error_stickers": "`[count]` ستیکەر زیاد نەکران — کێشەیەک ڕوویدا",
-      "streaks_disabled": "سیستەمی ستریک لەم سێرڤەرەدا ناچالاکە."
+      "streaks_disabled": "سیستەمی ستریک لەم سێرڤەرەدا ناچالاکە.",
+      "confirm_to_reset_streak": "**ئایا دڵنیایت کە دەتەوێت ستریکە ڕۆژانەکانی [target] سفر بکەیتەوە؟ جۆری سفرکردنەوە: `[reset_type]`**",
+      "provide_streak": "تکایە ستریکێکی دروست لە نێوان `0` و `9999` ڕۆژدا بنووسە.",
+      "streak_manager_only": "تەنها خاوەنی سێرڤەر یان ئەدمینێک کە ڕۆڵەکەی لە ڕۆڵی من بەرزترە دەتوانێت ئەمە بکات.",
+      "streaks_already_paused": "ستریکە ڕۆژانەکان پێشتر ڕاگیراون.",
+      "streaks_not_paused": "ستریکە ڕۆژانەکان ڕانەگیراون.",
+      "streaks_resume_already_scheduled": "ستریکە ڕۆژانەکان پێشتر دانراون بۆ ئەوەی لە نیوەشەودا دەست پێ بکەنەوە.",
+      "confirm_to_pause_streak": "**ئایا دڵنیایت کە دەتەوێت ستریکە ڕۆژانەکان ڕابگریت؟ تا دەستپێکردنەوەیان هیچ شتێک هەژمار ناکرێت و هیچ ستریکێک ناپچڕێت.**",
+      "confirm_to_resume_streak": "**ئایا دڵنیایت کە دەتەوێت ستریکە ڕۆژانەکان دەست پێ بکەیتەوە؟ هەژمارکردن لە نیوەشەودا (بە کاتی سێرڤەر) دەست پێ دەکاتەوە.**"
     },
     "interaction": {
       "voice_label": "تەنها ڤۆیس",
@@ -641,7 +656,11 @@
       "streak": "ستریک",
       "longest_streak": "درێژترین",
       "streak_type_text": "نووسین",
-      "streak_type_voice": "ڤۆیس"
+      "streak_type_voice": "ڤۆیس",
+      "reset_streak_done": "ستریکە ڕۆژانەکانی **[target]** سفر کرانەوە. جۆری سفرکردنەوە: `[reset_type]`",
+      "set_streak_done": "ستریکی [type]ی [target] کرا بە `[streak]` ڕۆژ. درێژترین: `[longest]`",
+      "pause_streak_done": "ستریکە ڕۆژانەکان ڕاگیران. تا دەستپێکردنەوەیان هیچ شتێک هەژمار ناکرێت و هیچ ستریکێک ناپچڕێت.",
+      "resume_streak_done": "ستریکە ڕۆژانەکان لە نیوەشەودا (بە کاتی سێرڤەر) دەست پێ دەکەنەوە. تا ئەو کاتە ڕاگیراو دەمێننەوە."
     }
   },
   "reaction_roles": {

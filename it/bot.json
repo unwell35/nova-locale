@@ -376,6 +376,13 @@
       "reset_command_title": "Comando Reset",
       "set_points_command_title": "Comando Imposta Punti",
       "set_level_command_title": "Comando Imposta Livello",
+      "reset_streak_command_title": "Comando Reset Streak",
+      "set_streak_command_title": "Comando Imposta Streak",
+      "pause_streak_command_title": "Comando Pausa Streak",
+      "resume_streak_command_title": "Comando Riprendi Streak",
+      "streak_type_field": "Tipo di Streak",
+      "paused_on_field": "In Pausa dal",
+      "resume_on_field": "Riprende il",
 
       "temporary_channel_created_title": "Canale Temporaneo Creato",
       "temp_channel_ban_title": "Canale Temporaneo - Ban",
@@ -600,7 +607,15 @@
       "limit_discord_stickers": "`[count]` sticker non aggiunti — limite di Discord raggiunto.",
       "limit_slot_stickers": "`[count]` sticker non aggiunti — limite raggiunto. Eliminane alcuni e riprova.",
       "error_stickers": "`[count]` sticker non aggiunti — qualcosa è andato storto",
-      "streaks_disabled": "Il sistema di streak è disattivato in questo server."
+      "streaks_disabled": "Il sistema di streak è disattivato in questo server.",
+      "confirm_to_reset_streak": "**Sei sicuro di voler resettare gli streak giornalieri di [target]? Tipo di reset: `[reset_type]`**",
+      "provide_streak": "Inserisci uno streak valido tra `0` e `9999` giorni.",
+      "streak_manager_only": "Solo il proprietario del server o un amministratore con un ruolo sopra il mio può farlo.",
+      "streaks_already_paused": "Gli streak giornalieri sono già in pausa.",
+      "streaks_not_paused": "Gli streak giornalieri non sono in pausa.",
+      "streaks_resume_already_scheduled": "La ripresa degli streak giornalieri è già programmata per mezzanotte.",
+      "confirm_to_pause_streak": "**Sei sicuro di voler mettere in pausa gli streak giornalieri? Non verrà conteggiato nulla e nessuno streak si interromperà finché non verranno ripresi.**",
+      "confirm_to_resume_streak": "**Sei sicuro di voler riprendere gli streak giornalieri? Il conteggio ripartirà a mezzanotte (ora del server).**"
     },
     "interaction": {
       "voice_label": "Solo voce",
@@ -657,7 +672,11 @@
       "streak": "Streak",
       "longest_streak": "Più lungo",
       "streak_type_text": "testo",
-      "streak_type_voice": "voce"
+      "streak_type_voice": "voce",
+      "reset_streak_done": "Gli streak giornalieri di **[target]** sono stati resettati. Tipo di reset: `[reset_type]`",
+      "set_streak_done": "Lo streak di [target] ([type]) è stato impostato a `[streak]` giorni. Più lungo: `[longest]`",
+      "pause_streak_done": "Gli streak giornalieri sono in pausa. Non viene conteggiato nulla e nessuno streak si interrompe finché non vengono ripresi.",
+      "resume_streak_done": "Gli streak giornalieri riprenderanno a mezzanotte (ora del server). Fino ad allora restano in pausa."
     }
   },
 

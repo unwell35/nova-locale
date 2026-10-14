@@ -2035,6 +2035,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [member]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "Sunucudaki en uzun günlük serilere sahip üyelerin listesini görüntüle",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Bir üyenin veya sunucunun günlük serilerini sıfırla",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [member]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Bir üyenin günlük serisini ayarla",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [member] 30\n/setstreak [member] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Sunucudaki günlük serileri sen devam ettirene kadar duraklat",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Duraklatılmış günlük serileri bir sonraki gece yarısında devam ettir",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Mesajı Her Gün Gönder",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Mesajı yalnızca bir aşamaya ulaşıldığında değil, üye her yeni seri günü kazandığında gönderir. Aşama günlerinde bunun yerine o aşamanın mesajı gönderilir."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Mesajı yalnızca bir aşamaya ulaşıldığında değil, üye her yeni seri günü kazandığında gönderir. Aşama günlerinde bunun yerine o aşamanın mesajı gönderilir.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Özel Günlük Mesaj",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Özel Günlük Ses Dakikası",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Bu aşamaya ilerleyen üyeler, serinin günlük şartı yerine her gün bu miktarı tamamlamalıdır. Önceki aşamadan bu aşamaya ulaşılana kadar geçerlidir.",
+  "RANGE_LABEL": "Aralık",
+  "30_DAYS_OPTION": "30 Gün",
+  "20_WEEKS_OPTION": "20 Hafta"
 }

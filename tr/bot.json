@@ -377,6 +377,13 @@
       "reset_command_title": "Sıfırla Komutu",
       "set_points_command_title": "Puan Ayarla Komutu",
       "set_level_command_title": "Seviye Ayarla Komutu",
+      "reset_streak_command_title": "Seri Sıfırla Komutu",
+      "set_streak_command_title": "Seri Ayarla Komutu",
+      "pause_streak_command_title": "Seri Duraklat Komutu",
+      "resume_streak_command_title": "Seri Devam Ettir Komutu",
+      "streak_type_field": "Seri Türü",
+      "paused_on_field": "Duraklatılma Tarihi",
+      "resume_on_field": "Devam Tarihi",
 
       "temporary_channel_created_title": "Geçici Kanal Oluşturuldu",
       "temp_channel_ban_title": "Geçici Kanal - Ban",
@@ -602,7 +609,15 @@
       "limit_discord_stickers": "`[count]` sticker eklenemedi — Discord rate limit.",
       "limit_slot_stickers": "`[count]` sticker eklenemedi — limite ulaşıldı. Birkaçını silip tekrar dene.",
       "error_stickers": "`[count]` sticker eklenemedi — bir şeyler ters gitti",
-      "streaks_disabled": "Seri sistemi bu sunucuda devre dışı."
+      "streaks_disabled": "Seri sistemi bu sunucuda devre dışı.",
+      "confirm_to_reset_streak": "**[target] için günlük serileri sıfırlamak istediğinden emin misin? Sıfırlama türü: `[reset_type]`**",
+      "provide_streak": "Lütfen `0` ile `9999` gün arasında geçerli bir seri gir.",
+      "streak_manager_only": "Bunu yalnızca sunucu sahibi veya rolü benimkinden yüksek olan bir yönetici yapabilir.",
+      "streaks_already_paused": "Günlük seriler zaten duraklatılmış.",
+      "streaks_not_paused": "Günlük seriler duraklatılmamış.",
+      "streaks_resume_already_scheduled": "Günlük serilerin gece yarısı devam etmesi zaten ayarlanmış.",
+      "confirm_to_pause_streak": "**Günlük serileri duraklatmak istediğinden emin misin? Devam ettirilene kadar hiçbir şey sayılmaz ve hiçbir seri bozulmaz.**",
+      "confirm_to_resume_streak": "**Günlük serileri devam ettirmek istediğinden emin misin? Sayım gece yarısı (sunucu saatiyle) yeniden başlar.**"
     },
     "interaction": {
       "voice_label": "Sadece ses",
@@ -659,7 +674,11 @@
       "streak": "Seri",
       "longest_streak": "En uzun",
       "streak_type_text": "yazı",
-      "streak_type_voice": "ses"
+      "streak_type_voice": "ses",
+      "reset_streak_done": "**[target]** için günlük seriler sıfırlandı. Sıfırlama türü: `[reset_type]`",
+      "set_streak_done": "[target] için [type] serisi `[streak]` gün olarak ayarlandı. En uzun: `[longest]`",
+      "pause_streak_done": "Günlük seriler duraklatıldı. Devam ettirilene kadar hiçbir şey sayılmaz ve hiçbir seri bozulmaz.",
+      "resume_streak_done": "Günlük seriler gece yarısı (sunucu saatiyle) devam edecek. O zamana kadar duraklatılmış kalır."
     }
   },
   "reaction_roles": {

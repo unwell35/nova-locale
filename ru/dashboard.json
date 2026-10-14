@@ -2030,6 +2030,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [участник]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "Посмотреть топ участников по ежедневным стрикам на сервере",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Сбросить ежедневные стрики участника или всего сервера",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [участник]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Установить ежедневный стрик участнику",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [участник] 30\n/setstreak [участник] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Поставить ежедневные стрики на сервере на паузу, пока ты их не возобновишь",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Возобновить ежедневные стрики с ближайшей полуночи",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Отправлять сообщение каждый день",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Отправляет сообщение каждый раз, когда участник получает новый день стрика, а не только при достижении рубежа. В день рубежа вместо него отправляется сообщение этого рубежа."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Отправляет сообщение каждый раз, когда участник получает новый день стрика, а не только при достижении рубежа. В день рубежа вместо него отправляется сообщение этого рубежа.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Своя норма сообщений в день",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Своя норма минут в голосовых в день",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Участникам на пути к этому рубежу нужно набирать столько каждый день вместо дневной нормы стрика. Действует от предыдущего рубежа до достижения этого.",
+  "RANGE_LABEL": "Диапазон",
+  "30_DAYS_OPTION": "30 дней",
+  "20_WEEKS_OPTION": "20 недель"
 }

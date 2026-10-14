@@ -2030,6 +2030,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [miembro]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "Ver el top de miembros con las rachas diarias más largas del servidor",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Reiniciar las rachas diarias de un miembro o del servidor",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [miembro]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Establecer la racha diaria de un miembro",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [miembro] 30\n/setstreak [miembro] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Pausar las rachas diarias del servidor hasta que las reanudes",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Reanudar las rachas diarias en pausa a la próxima medianoche",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Enviar mensaje todos los días",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Envía el mensaje cada vez que un miembro gana un nuevo día de racha, no solo cuando alcanza un hito. En un día de hito se envía el mensaje de ese hito en su lugar."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Envía el mensaje cada vez que un miembro gana un nuevo día de racha, no solo cuando alcanza un hito. En un día de hito se envía el mensaje de ese hito en su lugar.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Mensajes diarios personalizados",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Minutos diarios en voz personalizados",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Los miembros que van camino de este hito necesitan esta cantidad cada día en lugar del requisito diario de la racha. Se aplica desde el hito anterior hasta alcanzar este.",
+  "RANGE_LABEL": "Rango",
+  "30_DAYS_OPTION": "30 días",
+  "20_WEEKS_OPTION": "20 semanas"
 }

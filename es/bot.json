@@ -370,6 +370,13 @@
       "reset_command_title": "Comando Reset",
       "set_points_command_title": "Comando Set Points",
       "set_level_command_title": "Comando Set Level",
+      "reset_streak_command_title": "Comando Reset Streak",
+      "set_streak_command_title": "Comando Set Streak",
+      "pause_streak_command_title": "Comando Pause Streak",
+      "resume_streak_command_title": "Comando Resume Streak",
+      "streak_type_field": "Tipo de racha",
+      "paused_on_field": "Pausado el",
+      "resume_on_field": "Se reanuda el",
       "temporary_channel_created_title": "Canal temporal creado",
       "temp_channel_ban_title": "Canal temporal - Baneo",
       "temp_channel_unban_title": "Canal temporal - Desbaneo",
@@ -584,7 +591,15 @@
       "limit_discord_stickers": "`[count]` stickers no añadidos — límite de velocidad de Discord.",
       "limit_slot_stickers": "`[count]` stickers no añadidos — límite alcanzado. Elimina algunos e inténtalo de nuevo.",
       "error_stickers": "`[count]` stickers no añadidos — algo salió mal",
-      "streaks_disabled": "El sistema de rachas está desactivado en este servidor."
+      "streaks_disabled": "El sistema de rachas está desactivado en este servidor.",
+      "confirm_to_reset_streak": "**¿Seguro que quieres reiniciar las rachas diarias de [target]? Tipo de reinicio: `[reset_type]`**",
+      "provide_streak": "Indica una racha válida entre `0` y `9999` días.",
+      "streak_manager_only": "Solo el propietario del servidor o un administrador con un rol por encima del mío puede hacer esto.",
+      "streaks_already_paused": "Las rachas diarias ya están en pausa.",
+      "streaks_not_paused": "Las rachas diarias no están en pausa.",
+      "streaks_resume_already_scheduled": "Las rachas diarias ya están programadas para reanudarse a medianoche.",
+      "confirm_to_pause_streak": "**¿Seguro que quieres pausar las rachas diarias? No contará nada y ninguna racha se romperá hasta que se reanuden.**",
+      "confirm_to_resume_streak": "**¿Seguro que quieres reanudar las rachas diarias? El conteo vuelve a empezar a medianoche (hora del servidor).**"
     },
     "interaction": {
       "voice_label": "Solo voz",
@@ -641,7 +656,11 @@
       "streak": "Racha",
       "longest_streak": "Más larga",
       "streak_type_text": "texto",
-      "streak_type_voice": "voz"
+      "streak_type_voice": "voz",
+      "reset_streak_done": "Se reiniciaron las rachas diarias de **[target]**. Tipo de reinicio: `[reset_type]`",
+      "set_streak_done": "La racha de [type] de [target] se ha establecido en `[streak]` días. Más larga: `[longest]`",
+      "pause_streak_done": "Las rachas diarias están en pausa. No cuenta nada y ninguna racha se rompe hasta que se reanuden.",
+      "resume_streak_done": "Las rachas diarias se reanudarán a medianoche (hora del servidor). Hasta entonces siguen en pausa."
     }
   },
   "reaction_roles": {

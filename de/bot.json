@@ -377,6 +377,13 @@
       "reset_command_title": "Reset-Befehl",
       "set_points_command_title": "Set-Points-Befehl",
       "set_level_command_title": "Set-Level-Befehl",
+      "reset_streak_command_title": "Reset-Streak-Befehl",
+      "set_streak_command_title": "Set-Streak-Befehl",
+      "pause_streak_command_title": "Pause-Streak-Befehl",
+      "resume_streak_command_title": "Resume-Streak-Befehl",
+      "streak_type_field": "Streak-Typ",
+      "paused_on_field": "Pausiert am",
+      "resume_on_field": "Wird fortgesetzt am",
 
       "temporary_channel_created_title": "Temp-Kanal erstellt",
       "temp_channel_ban_title": "Temp-Kanal - Bann",
@@ -602,7 +609,15 @@
       "limit_discord_stickers": "`[count]` Sticker nicht hinzugefügt — Discord-Rate-Limit.",
       "limit_slot_stickers": "`[count]` Sticker nicht hinzugefügt — Limit erreicht. Lösche welche und versuche es erneut.",
       "error_stickers": "`[count]` Sticker nicht hinzugefügt — etwas ist schiefgelaufen",
-      "streaks_disabled": "Das Streak-System ist auf diesem Server deaktiviert."
+      "streaks_disabled": "Das Streak-System ist auf diesem Server deaktiviert.",
+      "confirm_to_reset_streak": "**Bist du sicher, dass du die täglichen Streaks von [target] zurücksetzen möchtest? Reset-Typ: `[reset_type]`**",
+      "provide_streak": "Bitte gib einen gültigen Streak zwischen `0` und `9999` Tagen an.",
+      "streak_manager_only": "Das können nur der Server-Owner oder Admins, deren Rolle über meiner liegt.",
+      "streaks_already_paused": "Tägliche Streaks sind bereits pausiert.",
+      "streaks_not_paused": "Tägliche Streaks sind nicht pausiert.",
+      "streaks_resume_already_scheduled": "Tägliche Streaks werden bereits um Mitternacht fortgesetzt.",
+      "confirm_to_pause_streak": "**Bist du sicher, dass du tägliche Streaks pausieren möchtest? Bis sie fortgesetzt werden, zählt nichts und kein Streak reißt.**",
+      "confirm_to_resume_streak": "**Bist du sicher, dass du tägliche Streaks fortsetzen möchtest? Gezählt wird wieder ab Mitternacht (Serverzeit).**"
     },
     "interaction": {
       "voice_label": "Nur Voice",
@@ -659,7 +674,11 @@
       "streak": "Streak",
       "longest_streak": "Längster",
       "streak_type_text": "Text",
-      "streak_type_voice": "Voice"
+      "streak_type_voice": "Voice",
+      "reset_streak_done": "Die täglichen Streaks von **[target]** wurden zurückgesetzt. Reset-Typ: `[reset_type]`",
+      "set_streak_done": "Der [type]-Streak von [target] wurde auf `[streak]` Tage gesetzt. Längster: `[longest]`",
+      "pause_streak_done": "Tägliche Streaks sind pausiert. Bis sie fortgesetzt werden, zählt nichts und kein Streak reißt.",
+      "resume_streak_done": "Tägliche Streaks werden um Mitternacht (Serverzeit) fortgesetzt. Bis dahin bleiben sie pausiert."
     }
   },
   "reaction_roles": {

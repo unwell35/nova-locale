@@ -2070,6 +2070,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [member]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "서버 내 일일 스트릭 상위 멤버 목록을 확인합니다",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "멤버 또는 서버의 일일 스트릭을 초기화합니다",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [member]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "멤버의 일일 스트릭을 설정합니다",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [member] 30\n/setstreak [member] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "재개할 때까지 서버의 일일 스트릭을 일시정지합니다",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "일시정지된 일일 스트릭을 다음 자정에 재개합니다",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "매일 메시지 전송",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "마일스톤에 도달했을 때뿐 아니라 멤버가 스트릭 일수를 새로 채울 때마다 메시지를 전송합니다. 마일스톤 달성일에는 해당 마일스톤의 메시지가 대신 전송됩니다."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "마일스톤에 도달했을 때뿐 아니라 멤버가 스트릭 일수를 새로 채울 때마다 메시지를 전송합니다. 마일스톤 달성일에는 해당 마일스톤의 메시지가 대신 전송됩니다.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "사용자 정의 일일 메시지 수",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "사용자 정의 일일 음성 시간(분)",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "이 마일스톤을 향해 가는 멤버는 스트릭의 일일 기준 대신 매일 이 값을 채워야 합니다. 이전 마일스톤부터 이 마일스톤에 도달할 때까지 적용됩니다.",
+  "RANGE_LABEL": "범위",
+  "30_DAYS_OPTION": "30일",
+  "20_WEEKS_OPTION": "20주"
 }

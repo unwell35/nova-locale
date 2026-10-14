@@ -377,6 +377,13 @@
       "reset_command_title": "Reset Command",
       "set_points_command_title": "Set Points Command",
       "set_level_command_title": "Set Level Command",
+      "reset_streak_command_title": "Reset Streak Command",
+      "set_streak_command_title": "Set Streak Command",
+      "pause_streak_command_title": "Pause Streaks Command",
+      "resume_streak_command_title": "Resume Streaks Command",
+      "streak_type_field": "Streak Type",
+      "paused_on_field": "Paused On",
+      "resume_on_field": "Resumes On",
 
       "temporary_channel_created_title": "Temp Channel Created",
       "temp_channel_ban_title": "Temp Channel - Ban",
@@ -600,7 +607,17 @@
       "limit_discord_stickers": "`[count]` stickers not added — Discord rate limit.",
       "limit_slot_stickers": "`[count]` stickers not added — limit reached. Delete some and try again.",
       "error_stickers": "`[count]` stickers not added — something went wrong",
-      "streaks_disabled": "The streak system is disabled in this server."
+      "streaks_disabled": "The streak system is disabled in this server.",
+      "confirm_to_reset_streak": "**Are you sure you want to reset the daily streaks of [target]? Reset type: `[reset_type]`**",
+      "provide_streak": "Please provide a valid streak between `0` and `9999` days.",
+      "streak_manager_only": "Only the server owner or an administrator with a role above mine can do this.",
+      "streaks_already_paused": "Daily streaks are already paused.",
+      "streaks_not_paused": "Daily streaks aren't paused.",
+      "streaks_resume_already_scheduled": "Daily streaks are already set to resume at midnight.",
+      "confirm_to_pause_streak": "**Are you sure you want to pause daily streaks? Nothing will count and no streak will break until they are resumed.**",
+      "confirm_to_resume_streak": "**Are you sure you want to resume daily streaks? Counting starts again at midnight (server time).**",
+      "streaks_paused_note": "⏸️ Daily streaks are paused in this server. Streaks are frozen until they're resumed.",
+      "streaks_paused_resume_note": "⏸️ Daily streaks are paused and will resume at midnight (server time)."
     },
     "interaction": {
       "voice_label": "Voice only",
@@ -657,7 +674,11 @@
       "streak": "Streak",
       "longest_streak": "Longest",
       "streak_type_text": "text",
-      "streak_type_voice": "voice"
+      "streak_type_voice": "voice",
+      "reset_streak_done": "**[target]**'s daily streaks have been reset. Reset type: `[reset_type]`",
+      "set_streak_done": "[target]'s [type] streak has been set to `[streak]` days. Longest: `[longest]`",
+      "pause_streak_done": "Daily streaks are paused. Nothing counts and no streak breaks until they are resumed.",
+      "resume_streak_done": "Daily streaks will resume at midnight (server time). Until then they stay paused."
     }
   },
   "reaction_roles": {

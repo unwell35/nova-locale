@@ -377,6 +377,13 @@
       "reset_command_title": "Comando Reset",
       "set_points_command_title": "Comando Set Points",
       "set_level_command_title": "Comando Set Level",
+      "reset_streak_command_title": "Comando Reset Streak",
+      "set_streak_command_title": "Comando Set Streak",
+      "pause_streak_command_title": "Comando Pause Streak",
+      "resume_streak_command_title": "Comando Resume Streak",
+      "streak_type_field": "Tipo de Sequência",
+      "paused_on_field": "Pausado Em",
+      "resume_on_field": "Retoma Em",
 
       "temporary_channel_created_title": "Canal Temporário Criado",
       "temp_channel_ban_title": "Canal Temporário - Banir",
@@ -602,7 +609,15 @@
       "limit_discord_stickers": "`[count]` figurinhas não adicionadas — limite de requisições do Discord.",
       "limit_slot_stickers": "`[count]` figurinhas não adicionadas — limite atingido. Apague algumas e tente novamente.",
       "error_stickers": "`[count]` figurinhas não adicionadas — algo deu errado",
-      "streaks_disabled": "O sistema de sequências está desativado neste servidor."
+      "streaks_disabled": "O sistema de sequências está desativado neste servidor.",
+      "confirm_to_reset_streak": "**Tem certeza que quer resetar as sequências diárias de [target]? Tipo de reset: `[reset_type]`**",
+      "provide_streak": "Forneça uma sequência válida entre `0` e `9999` dias.",
+      "streak_manager_only": "Só o dono do servidor ou um administrador com cargo acima do meu pode fazer isso.",
+      "streaks_already_paused": "As sequências diárias já estão pausadas.",
+      "streaks_not_paused": "As sequências diárias não estão pausadas.",
+      "streaks_resume_already_scheduled": "As sequências diárias já estão programadas para voltar à meia-noite.",
+      "confirm_to_pause_streak": "**Tem certeza que quer pausar as sequências diárias? Nada vai contar e nenhuma sequência vai quebrar até que elas sejam retomadas.**",
+      "confirm_to_resume_streak": "**Tem certeza que quer retomar as sequências diárias? A contagem recomeça à meia-noite (horário do servidor).**"
     },
     "interaction": {
       "voice_label": "Somente voz",
@@ -659,7 +674,11 @@
       "streak": "Sequência",
       "longest_streak": "Maior",
       "streak_type_text": "texto",
-      "streak_type_voice": "voz"
+      "streak_type_voice": "voz",
+      "reset_streak_done": "As sequências diárias de **[target]** foram resetadas. Tipo de reset: `[reset_type]`",
+      "set_streak_done": "A sequência de [type] de [target] foi definida para `[streak]` dias. Maior: `[longest]`",
+      "pause_streak_done": "As sequências diárias estão pausadas. Nada conta e nenhuma sequência quebra até que elas sejam retomadas.",
+      "resume_streak_done": "As sequências diárias voltam à meia-noite (horário do servidor). Até lá, continuam pausadas."
     }
   },
   "reaction_roles": {

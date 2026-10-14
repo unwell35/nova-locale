@@ -2035,6 +2035,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [Mitglied]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "Liste der Mitglieder mit den längsten täglichen Streaks auf dem Server anzeigen",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Tägliche Streaks eines Mitglieds oder des Servers zurücksetzen",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [Mitglied]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Täglichen Streak eines Mitglieds festlegen",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [Mitglied] 30\n/setstreak [Mitglied] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Tägliche Streaks auf dem Server pausieren, bis du sie fortsetzt",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Pausierte tägliche Streaks ab der nächsten Mitternacht fortsetzen",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Nachricht jeden Tag senden",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Sendet die Nachricht jedes Mal, wenn ein Mitglied einen neuen Streak-Tag sammelt, nicht nur beim Erreichen eines Meilensteins. An einem Meilenstein-Tag wird stattdessen die Nachricht dieses Meilensteins gesendet."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Sendet die Nachricht jedes Mal, wenn ein Mitglied einen neuen Streak-Tag sammelt, nicht nur beim Erreichen eines Meilensteins. An einem Meilenstein-Tag wird stattdessen die Nachricht dieses Meilensteins gesendet.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Eigene Nachrichten pro Tag",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Eigene Voice-Minuten pro Tag",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Mitglieder auf dem Weg zu diesem Meilenstein brauchen jeden Tag diese Menge statt der täglichen Vorgabe des Streaks. Das gilt ab dem vorherigen Meilenstein, bis dieser erreicht ist.",
+  "RANGE_LABEL": "Zeitraum",
+  "30_DAYS_OPTION": "30 Tage",
+  "20_WEEKS_OPTION": "20 Wochen"
 }
