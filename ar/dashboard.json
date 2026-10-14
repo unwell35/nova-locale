@@ -1992,6 +1992,18 @@
   "COMMAND_DESCRIPTION_STREAK": "عرض الستريك اليومي الخاص بك أو بعضو آخر",
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [عضو]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "عرض قائمة أكثر الأعضاء في الستريك اليومي في السيرفر",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "إعادة تعيين الستريك اليومي لعضو أو للسيرفر",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [عضو]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "تعيين الستريك اليومي لعضو",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [عضو] 30\n/setstreak [عضو] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "إيقاف الستريك اليومي في السيرفر مؤقتاً حتى تستأنفه",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "استئناف الستريك اليومي المتوقف عند منتصف الليل القادم",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "إرسال الرسالة كل يوم",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "تُرسل الرسالة في كل مرة يكسب فيها العضو يوم ستريك جديداً، وليس فقط عند وصوله إلى مرحلة. وفي يوم المرحلة تُرسل رسالة تلك المرحلة بدلاً منها."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "تُرسل الرسالة في كل مرة يكسب فيها العضو يوم ستريك جديداً، وليس فقط عند وصوله إلى مرحلة. وفي يوم المرحلة تُرسل رسالة تلك المرحلة بدلاً منها.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "الرسائل اليومية المخصصة",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "دقائق الصوت اليومية المخصصة",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "الأعضاء الذين يسعون للوصول إلى هذه المرحلة يحتاجون هذا العدد كل يوم بدلاً من المتطلب اليومي للستريك. ويُطبَّق من المرحلة السابقة حتى الوصول إلى هذه المرحلة.",
+  "RANGE_LABEL": "الفترة",
+  "30_DAYS_OPTION": "30 يومًا",
+  "20_WEEKS_OPTION": "20 أسبوعًا"
 }
