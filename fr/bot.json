@@ -25,6 +25,8 @@
       "bots_not_allowed": "Les robots ne sont pas autorisés.",
       "no_data_member": "Je n'ai pas trouvé de données pour ce membre.",
       "no_data_record": "Aucun enregistrement de données trouvé.",
+      "role_filter_loading": "Les données des rôles de ce serveur sont encore en cours de chargement. Veuillez réessayer dans une minute.",
+      "role_filter_unavailable": "Les filtres par rôle ne sont disponibles qu'avec Premium pour les serveurs de plus de [members] membres.",
       "rename_channel_cooldown": "Vous pourrez renommer la chaîne le [date].",
       "channel_name_changed": "Le nom de la chaîne a été remplacé par `[new_name]`.",
       "same_channel_name": "Vous ne pouvez pas changer le nom comme avant.",
@@ -600,8 +602,8 @@
       "streaks_resume_already_scheduled": "La reprise des séries quotidiennes est déjà prévue à minuit.",
       "confirm_to_pause_streak": "**Êtes-vous sûr de vouloir mettre en pause les séries quotidiennes ? Rien ne sera compté et aucune série ne sera rompue jusqu'à leur reprise.**",
       "confirm_to_resume_streak": "**Êtes-vous sûr de vouloir reprendre les séries quotidiennes ? Le décompte reprendra à minuit (heure du serveur).**",
-      "streaks_paused_note": "",
-      "streaks_paused_resume_note": ""
+      "streaks_paused_note": "⏸️ Les séries quotidiennes sont en pause sur ce serveur. Elles sont gelées jusqu'à leur reprise.",
+      "streaks_paused_resume_note": "⏸️ Les séries quotidiennes sont en pause et reprendront à minuit (heure du serveur)."
     },
     "interaction": {
       "voice_label": "Voix uniquement",
