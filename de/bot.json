@@ -25,6 +25,8 @@
       "bots_not_allowed": "Bots sind nicht erlaubt.",
       "no_data_member": "Ich habe keine Daten für dieses Mitglied gefunden.",
       "no_data_record": "Kein Datensatz gefunden.",
+      "role_filter_loading": "Die Rollendaten dieses Servers werden noch geladen. Bitte versuche es in einer Minute erneut.",
+      "role_filter_unavailable": "Rollenfilter sind auf Servern mit mehr als [members] Mitgliedern nur mit Premium verfügbar.",
       "rename_channel_cooldown": "Du kannst den Kanal am [date] wieder umbenennen.",
       "channel_name_changed": "Der Kanalname wurde zu `[new_name]` geändert.",
       "same_channel_name": "Du kannst den Namen nicht auf den gleichen wie vorher ändern.",
@@ -617,7 +619,9 @@
       "streaks_not_paused": "Tägliche Streaks sind nicht pausiert.",
       "streaks_resume_already_scheduled": "Tägliche Streaks werden bereits um Mitternacht fortgesetzt.",
       "confirm_to_pause_streak": "**Bist du sicher, dass du tägliche Streaks pausieren möchtest? Bis sie fortgesetzt werden, zählt nichts und kein Streak reißt.**",
-      "confirm_to_resume_streak": "**Bist du sicher, dass du tägliche Streaks fortsetzen möchtest? Gezählt wird wieder ab Mitternacht (Serverzeit).**"
+      "confirm_to_resume_streak": "**Bist du sicher, dass du tägliche Streaks fortsetzen möchtest? Gezählt wird wieder ab Mitternacht (Serverzeit).**",
+      "streaks_paused_note": "⏸️ Tägliche Streaks sind auf diesem Server pausiert. Die Streaks sind eingefroren, bis sie fortgesetzt werden.",
+      "streaks_paused_resume_note": "⏸️ Tägliche Streaks sind pausiert und werden um Mitternacht (Serverzeit) fortgesetzt."
     },
     "interaction": {
       "voice_label": "Nur Voice",

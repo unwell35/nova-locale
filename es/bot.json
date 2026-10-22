@@ -25,6 +25,8 @@
       "bots_not_allowed": "No se permiten bots.",
       "no_data_member": "No encontré datos de este miembro.",
       "no_data_record": "No se encontraron registros.",
+      "role_filter_loading": "Los datos de roles de este servidor todavía se están cargando. Inténtalo de nuevo en un minuto.",
+      "role_filter_unavailable": "Los filtros por rol solo están disponibles con Premium en servidores de más de [members] miembros.",
       "rename_channel_cooldown": "Podrás volver a renombrar el canal el [date].",
       "channel_name_changed": "El nombre del canal se cambió a `[new_name]`.",
       "same_channel_name": "No puedes poner el mismo nombre que ya tenía.",
@@ -599,7 +601,9 @@
       "streaks_not_paused": "Las rachas diarias no están en pausa.",
       "streaks_resume_already_scheduled": "Las rachas diarias ya están programadas para reanudarse a medianoche.",
       "confirm_to_pause_streak": "**¿Seguro que quieres pausar las rachas diarias? No contará nada y ninguna racha se romperá hasta que se reanuden.**",
-      "confirm_to_resume_streak": "**¿Seguro que quieres reanudar las rachas diarias? El conteo vuelve a empezar a medianoche (hora del servidor).**"
+      "confirm_to_resume_streak": "**¿Seguro que quieres reanudar las rachas diarias? El conteo vuelve a empezar a medianoche (hora del servidor).**",
+      "streaks_paused_note": "⏸️ Las rachas diarias están en pausa en este servidor. Quedan congeladas hasta que se reanuden.",
+      "streaks_paused_resume_note": "⏸️ Las rachas diarias están en pausa y se reanudarán a medianoche (hora del servidor)."
     },
     "interaction": {
       "voice_label": "Solo voz",

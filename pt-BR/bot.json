@@ -25,6 +25,8 @@
       "bots_not_allowed": "Bots não são permitidos.",
       "no_data_member": "Não encontrei dados desse membro.",
       "no_data_record": "Nenhum registro encontrado.",
+      "role_filter_loading": "Os dados de cargos deste servidor ainda estão carregando. Tente novamente em um minuto.",
+      "role_filter_unavailable": "Os filtros por cargo só estão disponíveis no Premium para servidores com mais de [members] membros.",
       "rename_channel_cooldown": "Você pode renomear o canal novamente em [date].",
       "channel_name_changed": "O nome do canal foi alterado para `[new_name]`.",
       "same_channel_name": "Você não pode mudar o nome para o mesmo de antes.",
@@ -617,7 +619,9 @@
       "streaks_not_paused": "As sequências diárias não estão pausadas.",
       "streaks_resume_already_scheduled": "As sequências diárias já estão programadas para voltar à meia-noite.",
       "confirm_to_pause_streak": "**Tem certeza que quer pausar as sequências diárias? Nada vai contar e nenhuma sequência vai quebrar até que elas sejam retomadas.**",
-      "confirm_to_resume_streak": "**Tem certeza que quer retomar as sequências diárias? A contagem recomeça à meia-noite (horário do servidor).**"
+      "confirm_to_resume_streak": "**Tem certeza que quer retomar as sequências diárias? A contagem recomeça à meia-noite (horário do servidor).**",
+      "streaks_paused_note": "⏸️ As sequências diárias estão pausadas neste servidor. Elas ficam congeladas até serem retomadas.",
+      "streaks_paused_resume_note": "⏸️ As sequências diárias estão pausadas e voltam à meia-noite (horário do servidor)."
     },
     "interaction": {
       "voice_label": "Somente voz",

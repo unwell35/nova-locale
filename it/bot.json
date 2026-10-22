@@ -25,6 +25,8 @@
       "bots_not_allowed": "I bot non sono consentiti.",
       "no_data_member": "Non ho trovato dati per questo membro.",
       "no_data_record": "Nessun record trovato.",
+      "role_filter_loading": "I dati dei ruoli di questo server sono ancora in caricamento. Riprova tra un minuto.",
+      "role_filter_unavailable": "I filtri per ruolo sono disponibili solo con Premium per i server con più di [members] membri.",
       "rename_channel_cooldown": "Puoi rinominare il canale di nuovo il [date].",
       "channel_name_changed": "Il nome del canale è stato cambiato in `[new_name]`.",
       "same_channel_name": "Non puoi cambiare il nome con lo stesso di prima.",
@@ -615,7 +617,9 @@
       "streaks_not_paused": "Gli streak giornalieri non sono in pausa.",
       "streaks_resume_already_scheduled": "La ripresa degli streak giornalieri è già programmata per mezzanotte.",
       "confirm_to_pause_streak": "**Sei sicuro di voler mettere in pausa gli streak giornalieri? Non verrà conteggiato nulla e nessuno streak si interromperà finché non verranno ripresi.**",
-      "confirm_to_resume_streak": "**Sei sicuro di voler riprendere gli streak giornalieri? Il conteggio ripartirà a mezzanotte (ora del server).**"
+      "confirm_to_resume_streak": "**Sei sicuro di voler riprendere gli streak giornalieri? Il conteggio ripartirà a mezzanotte (ora del server).**",
+      "streaks_paused_note": "⏸️ Gli streak giornalieri sono in pausa in questo server. Restano congelati finché non vengono ripresi.",
+      "streaks_paused_resume_note": "⏸️ Gli streak giornalieri sono in pausa e riprenderanno a mezzanotte (ora del server)."
     },
     "interaction": {
       "voice_label": "Solo voce",

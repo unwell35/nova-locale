@@ -25,6 +25,8 @@
       "bots_not_allowed": "Botlara izin verilmiyor.",
       "no_data_member": "Bu üye için veri bulamadım.",
       "no_data_record": "Kayıtlı veri bulunamadı.",
+      "role_filter_loading": "Bu sunucunun rol verileri hâlâ yükleniyor. Lütfen bir dakika sonra tekrar dene.",
+      "role_filter_unavailable": "Rol filtreleri, üye sayısı [members] üzerinde olan sunucularda yalnızca Premium ile kullanılabilir.",
       "rename_channel_cooldown": "Kanalın adını [date] tarihinde tekrar değiştirebilirsin.",
       "channel_name_changed": "Kanal adı `[new_name]` olarak değiştirildi.",
       "same_channel_name": "Adı öncekiyle aynı şekilde değiştiremezsin.",
@@ -617,7 +619,9 @@
       "streaks_not_paused": "Günlük seriler duraklatılmamış.",
       "streaks_resume_already_scheduled": "Günlük serilerin gece yarısı devam etmesi zaten ayarlanmış.",
       "confirm_to_pause_streak": "**Günlük serileri duraklatmak istediğinden emin misin? Devam ettirilene kadar hiçbir şey sayılmaz ve hiçbir seri bozulmaz.**",
-      "confirm_to_resume_streak": "**Günlük serileri devam ettirmek istediğinden emin misin? Sayım gece yarısı (sunucu saatiyle) yeniden başlar.**"
+      "confirm_to_resume_streak": "**Günlük serileri devam ettirmek istediğinden emin misin? Sayım gece yarısı (sunucu saatiyle) yeniden başlar.**",
+      "streaks_paused_note": "⏸️ Bu sunucuda günlük seriler duraklatıldı. Seriler devam ettirilene kadar dondurulmuş durumda.",
+      "streaks_paused_resume_note": "⏸️ Günlük seriler duraklatıldı ve gece yarısı (sunucu saatiyle) devam edecek."
     },
     "interaction": {
       "voice_label": "Sadece ses",
