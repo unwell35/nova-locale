@@ -2067,6 +2067,20 @@
   "COMMAND_EXAMPLE_STREAK": "/streak\n/streak [member]",
   "COMMAND_DESCRIPTION_TOPSTREAK": "View a list of top members with daily streaks in the server",
   "COMMAND_EXAMPLE_TOPSTREAK": "/topstreak\n/topstreak [text|voice]",
+  "COMMAND_DESCRIPTION_RESETSTREAK": "Reset a member's or a server's daily streaks",
+  "COMMAND_EXAMPLE_RESETSTREAK": "/resetstreak [member]\n/resetstreak server",
+  "COMMAND_DESCRIPTION_SETSTREAK": "Set a member's daily streak",
+  "COMMAND_EXAMPLE_SETSTREAK": "/setstreak [member] 30\n/setstreak [member] 30 45",
+  "COMMAND_DESCRIPTION_PAUSESTREAK": "Pause daily streaks in the server until you resume them",
+  "COMMAND_EXAMPLE_PAUSESTREAK": "/pausestreak",
+  "COMMAND_DESCRIPTION_RESUMESTREAK": "Resume paused daily streaks at the next midnight",
+  "COMMAND_EXAMPLE_RESUMESTREAK": "/resumestreak",
   "STREAK_MESSAGE_EVERY_DAY_LABEL": "Send Message Every Day",
-  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Sends the message each time a member earns a new streak day, not only when they reach a milestone. On a milestone day, that milestone's message is sent instead."
+  "STREAK_MESSAGE_EVERY_DAY_TOOLTIP": "Sends the message each time a member earns a new streak day, not only when they reach a milestone. On a milestone day, that milestone's message is sent instead.",
+  "STREAK_MILESTONE_TEXT_THRESHOLD_LABEL": "Custom Daily Messages",
+  "STREAK_MILESTONE_VOICE_THRESHOLD_LABEL": "Custom Daily Voice Minutes",
+  "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Members working toward this milestone need this amount each day instead of the streak's daily requirement. It applies from the previous milestone until this one is reached.",
+  "RANGE_LABEL": "Range",
+  "30_DAYS_OPTION": "30 Days",
+  "20_WEEKS_OPTION": "20 Weeks"
 }
