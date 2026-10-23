@@ -25,6 +25,8 @@
       "bots_not_allowed": "Bots are not allowed.",
       "no_data_member": "I didn't find data for this member.",
       "no_data_record": "No data record found.",
+      "role_filter_loading": "Role data for this server is still loading. Please try again in a minute.",
+      "role_filter_unavailable": "Role filters are only available on Premium for servers with more than [members] members.",
       "rename_channel_cooldown": "You can rename the channel again on [date].",
       "channel_name_changed": "Channel name has been changed to `[new_name]`.",
       "same_channel_name": "You cannot change the name to the same as before.",
