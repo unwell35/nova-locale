@@ -1209,7 +1209,7 @@
   "UPGRADE_FEATURES_DIALOG": "Qu'y a-t-il à l'intérieur de Premium",
   "MORE_DETAILS_UPGRADE": "Plus de détails : {pricing}",
   "UPGRADE_TO_PREMIUM_BUTTON": "Passer à Premium",
-  "SAVE_PERCENTAGE": "Économisez %{percentage}",
+  "SAVE_PERCENTAGE": "Économisez {percentage} %",
   "CHOOSE_SUBSCRIPTION_PERIOD": "Choisissez la durée de l'abonnement",
   "SERVER_EVENTS_LABEL": "Événements du serveur",
   "MEMBER_EVENTS_LABEL": "Événements membres",
