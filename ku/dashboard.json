@@ -1276,10 +1276,10 @@
   "MEMBER_DISCONNECTED_PRICING": "تۆماری لەخەت نەمانی کەسێک",
   "MEMBER_MOVED_PRICING": "تۆمارەکای گواستنەوەی کەسێک",
   "UPGRADE_DIALOG_TITLE": "هێزی پریمیوم بکەوە",
-  "UPGRADE_DIALOG_DESCRIPTION": "جیهانێکی بێ سنوور بدۆزەرەوە\nپریمیوم هێز و تایبەتمەندی زیاتر و کۆنتڕۆڵی زیاترت پێ دەبەخشێت",
-  "UPGRADE_FEATURE_1": "دەتوانرێت بگوازرێتەوە بۆ هەر سێرڤەرێک لە هەر کاتێکدا",
-  "UPGRADE_FEATURE_2": "سنوورێکی گەورەتر، هێزێکی بێ سنوور",
-  "UPGRADE_FEATURE_3": "زیادکراوی زیاتر بۆ خزمەتکردنی کۆمەڵگاکەت",
+  "UPGRADE_DIALOG_DESCRIPTION": "لەم سێرڤەرەدا سوودی زیاتر لە Nova وەربگرە.",
+  "UPGRADE_FEATURE_1": "سنووری بەرزتر لە زیادکراوەکانتدا",
+  "UPGRADE_FEATURE_2": "میوزیک لە چەناڵە ڤۆیسەکانتدا",
+  "UPGRADE_FEATURE_3": "زیادکراوی زیاتر، وەک تیکتەکان و پاراستن",
   "UPGRADE_FEATURES_DIALOG": "چی شتێک لەناو پریمیومە",
   "MORE_DETAILS_UPGRADE": "وردەکاری زیاتر: {pricing}",
   "UPGRADE_TO_PREMIUM_BUTTON": "باشترکردن بۆ پریمیوم",
@@ -2107,5 +2107,12 @@
   "30_DAYS_OPTION": "٣٠ ڕۆژ",
   "20_WEEKS_OPTION": "٢٠ هەفتە",
   "NO_CHANNEL_PLACEHOLDER": "هیچ چەناڵێک نییە",
-  "PREVIEW_UNAVAILABLE": "پێشبینین بەردەست نییە"
+  "PREVIEW_UNAVAILABLE": "پێشبینین بەردەست نییە",
+  "UPGRADE_PLAN_GO_TAGLINE": "لەسەر بۆتی هاوبەشی Nova Go کار دەکات",
+  "UPGRADE_PLAN_PRIME_TAGLINE": "بۆتی تایبەت بە خۆت، دەگوازرێتەوە",
+  "UPGRADE_PLAN_PLUS_TAGLINE": "هەموو شتێکی پڕایم، لەگەڵ لەبەرگیراوەکان",
+  "BILLED_1_MONTH": "مانگانە دەدرێت",
+  "BILLED_3_MONTHS": "هەر 3 مانگ جارێک دەدرێت",
+  "BILLED_6_MONTHS": "هەر 6 مانگ جارێک دەدرێت",
+  "BILLED_1_YEAR": "ساڵانە دەدرێت"
 }
