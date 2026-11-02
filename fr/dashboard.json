@@ -2117,5 +2117,7 @@
   "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Les membres qui visent ce palier doivent atteindre ce nombre chaque jour au lieu de l'exigence quotidienne de la série. Il s'applique du palier précédent jusqu'à ce que celui-ci soit atteint.",
   "RANGE_LABEL": "Plage",
   "30_DAYS_OPTION": "30 jours",
-  "20_WEEKS_OPTION": "20 semaines"
+  "20_WEEKS_OPTION": "20 semaines",
+  "NO_CHANNEL_PLACEHOLDER": "Aucun salon",
+  "PREVIEW_UNAVAILABLE": "Aperçu indisponible"
 }

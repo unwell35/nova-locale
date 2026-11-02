@@ -2116,5 +2116,7 @@
   "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Bu aşamaya ilerleyen üyeler, serinin günlük şartı yerine her gün bu miktarı tamamlamalıdır. Önceki aşamadan bu aşamaya ulaşılana kadar geçerlidir.",
   "RANGE_LABEL": "Aralık",
   "30_DAYS_OPTION": "30 Gün",
-  "20_WEEKS_OPTION": "20 Hafta"
+  "20_WEEKS_OPTION": "20 Hafta",
+  "NO_CHANNEL_PLACEHOLDER": "Kanal yok",
+  "PREVIEW_UNAVAILABLE": "Önizleme kullanılamıyor"
 }

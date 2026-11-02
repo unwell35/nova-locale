@@ -2160,5 +2160,7 @@
   "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "I membri che puntano a questo traguardo devono raggiungere questa quantità ogni giorno al posto del requisito giornaliero dello streak. Si applica dal traguardo precedente fino al raggiungimento di questo.",
   "RANGE_LABEL": "Intervallo",
   "30_DAYS_OPTION": "30 Giorni",
-  "20_WEEKS_OPTION": "20 Settimane"
+  "20_WEEKS_OPTION": "20 Settimane",
+  "NO_CHANNEL_PLACEHOLDER": "Nessun canale",
+  "PREVIEW_UNAVAILABLE": "Anteprima non disponibile"
 }

@@ -2116,5 +2116,7 @@
   "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Mitglieder auf dem Weg zu diesem Meilenstein brauchen jeden Tag diese Menge statt der täglichen Vorgabe des Streaks. Das gilt ab dem vorherigen Meilenstein, bis dieser erreicht ist.",
   "RANGE_LABEL": "Zeitraum",
   "30_DAYS_OPTION": "30 Tage",
-  "20_WEEKS_OPTION": "20 Wochen"
+  "20_WEEKS_OPTION": "20 Wochen",
+  "NO_CHANNEL_PLACEHOLDER": "Kein Kanal",
+  "PREVIEW_UNAVAILABLE": "Vorschau nicht verfügbar"
 }

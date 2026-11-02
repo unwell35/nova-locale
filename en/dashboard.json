@@ -2148,5 +2148,7 @@
   "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Members working toward this milestone need this amount each day instead of the streak's daily requirement. It applies from the previous milestone until this one is reached.",
   "RANGE_LABEL": "Range",
   "30_DAYS_OPTION": "30 Days",
-  "20_WEEKS_OPTION": "20 Weeks"
+  "20_WEEKS_OPTION": "20 Weeks",
+  "NO_CHANNEL_PLACEHOLDER": "No channel",
+  "PREVIEW_UNAVAILABLE": "Preview unavailable"
 }

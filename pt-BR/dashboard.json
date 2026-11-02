@@ -2134,5 +2134,7 @@
   "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Membros a caminho deste marco precisam dessa quantidade todo dia em vez do requisito diário da sequência. Vale do marco anterior até este ser atingido.",
   "RANGE_LABEL": "Intervalo",
   "30_DAYS_OPTION": "30 Dias",
-  "20_WEEKS_OPTION": "20 Semanas"
+  "20_WEEKS_OPTION": "20 Semanas",
+  "NO_CHANNEL_PLACEHOLDER": "Nenhum canal",
+  "PREVIEW_UNAVAILABLE": "Visualização indisponível"
 }

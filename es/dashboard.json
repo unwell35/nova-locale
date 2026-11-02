@@ -2111,5 +2111,7 @@
   "STREAK_MILESTONE_THRESHOLD_TOOLTIP": "Los miembros que van camino de este hito necesitan esta cantidad cada día en lugar del requisito diario de la racha. Se aplica desde el hito anterior hasta alcanzar este.",
   "RANGE_LABEL": "Rango",
   "30_DAYS_OPTION": "30 días",
-  "20_WEEKS_OPTION": "20 semanas"
+  "20_WEEKS_OPTION": "20 semanas",
+  "NO_CHANNEL_PLACEHOLDER": "Sin canal",
+  "PREVIEW_UNAVAILABLE": "Vista previa no disponible"
 }
