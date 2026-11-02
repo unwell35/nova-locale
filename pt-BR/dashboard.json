@@ -1292,10 +1292,10 @@
   "MEMBER_DISCONNECTED_PRICING": "Log de Membro Desconectado",
   "MEMBER_MOVED_PRICING": "Log de Membro Movido",
   "UPGRADE_DIALOG_TITLE": "Desbloqueie o Poder Premium",
-  "UPGRADE_DIALOG_DESCRIPTION": "Descubra um mundo sem limites\no premium te dá mais poder, mais recursos e mais controle",
-  "UPGRADE_FEATURE_1": "Transferível para qualquer servidor a qualquer momento",
-  "UPGRADE_FEATURE_2": "Um Limite Maior, Poder Sem Restrições",
-  "UPGRADE_FEATURE_3": "Mais plugins para servir sua comunidade",
+  "UPGRADE_DIALOG_DESCRIPTION": "Aproveite mais a Nova neste servidor.",
+  "UPGRADE_FEATURE_1": "Limites maiores nos seus plugins",
+  "UPGRADE_FEATURE_2": "Música nos seus canais de voz",
+  "UPGRADE_FEATURE_3": "Mais plugins, como Tickets e Proteção",
   "UPGRADE_FEATURES_DIALOG": "O Que Tem no Premium",
   "MORE_DETAILS_UPGRADE": "Mais detalhes: {pricing}",
   "UPGRADE_TO_PREMIUM_BUTTON": "Fazer Upgrade para Premium",
@@ -2136,5 +2136,12 @@
   "30_DAYS_OPTION": "30 Dias",
   "20_WEEKS_OPTION": "20 Semanas",
   "NO_CHANNEL_PLACEHOLDER": "Nenhum canal",
-  "PREVIEW_UNAVAILABLE": "Visualização indisponível"
+  "PREVIEW_UNAVAILABLE": "Visualização indisponível",
+  "UPGRADE_PLAN_GO_TAGLINE": "Roda no bot compartilhado Nova Go",
+  "UPGRADE_PLAN_PRIME_TAGLINE": "Seu próprio bot, transferível",
+  "UPGRADE_PLAN_PLUS_TAGLINE": "Tudo do Prime, mais Backups",
+  "BILLED_1_MONTH": "Cobrado mensalmente",
+  "BILLED_3_MONTHS": "Cobrado a cada 3 meses",
+  "BILLED_6_MONTHS": "Cobrado a cada 6 meses",
+  "BILLED_1_YEAR": "Cobrado anualmente"
 }

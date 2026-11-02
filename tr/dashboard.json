@@ -1276,10 +1276,10 @@
   "MEMBER_DISCONNECTED_PRICING": "Üye Bağlantı Kesme Logu",
   "MEMBER_MOVED_PRICING": "Üye Taşıma Logu",
   "UPGRADE_DIALOG_TITLE": "Premium Gücünün Kilidini Aç",
-  "UPGRADE_DIALOG_DESCRIPTION": "Sınırların olmadığı bir dünyayı keşfet\npremium sana daha fazla güç, daha fazla özellik ve daha fazla kontrol sağlar",
-  "UPGRADE_FEATURE_1": "İstediğin zaman herhangi bir sunucuya transfer edilebilir",
-  "UPGRADE_FEATURE_2": "Daha Yüksek Limit, Sınırsız Güç",
-  "UPGRADE_FEATURE_3": "Topluluğuna hizmet edecek daha fazla eklenti",
+  "UPGRADE_DIALOG_DESCRIPTION": "Bu sunucuda Nova'dan daha fazlasını al.",
+  "UPGRADE_FEATURE_1": "Eklentilerinde daha yüksek limitler",
+  "UPGRADE_FEATURE_2": "Ses kanallarında müzik",
+  "UPGRADE_FEATURE_3": "Ticketlar ve Koruma gibi daha fazla eklenti",
   "UPGRADE_FEATURES_DIALOG": "Premium'un İçinde Neler Var",
   "MORE_DETAILS_UPGRADE": "Daha fazla detay: {pricing}",
   "UPGRADE_TO_PREMIUM_BUTTON": "Premium'a Yükselt",
@@ -2118,5 +2118,12 @@
   "30_DAYS_OPTION": "30 Gün",
   "20_WEEKS_OPTION": "20 Hafta",
   "NO_CHANNEL_PLACEHOLDER": "Kanal yok",
-  "PREVIEW_UNAVAILABLE": "Önizleme kullanılamıyor"
+  "PREVIEW_UNAVAILABLE": "Önizleme kullanılamıyor",
+  "UPGRADE_PLAN_GO_TAGLINE": "Ortak Nova Go botunda çalışır",
+  "UPGRADE_PLAN_PRIME_TAGLINE": "Sana özel bot, transfer edilebilir",
+  "UPGRADE_PLAN_PLUS_TAGLINE": "Prime'daki her şey, artı Yedekler",
+  "BILLED_1_MONTH": "Aylık faturalandırılır",
+  "BILLED_3_MONTHS": "3 ayda bir faturalandırılır",
+  "BILLED_6_MONTHS": "6 ayda bir faturalandırılır",
+  "BILLED_1_YEAR": "Yıllık faturalandırılır"
 }

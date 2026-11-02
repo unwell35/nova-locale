@@ -1305,10 +1305,10 @@
   "MEMBER_DISCONNECTED_PRICING": "سجل طرد العضو من الروم",
   "MEMBER_MOVED_PRICING": "سجل سحب العضو",
   "UPGRADE_DIALOG_TITLE": "افتح القوة المميزة",
-  "UPGRADE_DIALOG_DESCRIPTION": "اكتشف عالماً بلا حدود\nالنسخة المميزة تمنحك المزيد من القوة، المزيد من الميزات، والمزيد من التحكم",
-  "UPGRADE_FEATURE_1": "قابل للتحويل إلى أي سيرفر في أي وقت",
-  "UPGRADE_FEATURE_2": "حد أعلى أكبر، قوة غير محدودة",
-  "UPGRADE_FEATURE_3": "مزيد من الإضافات لخدمة مجتمعك",
+  "UPGRADE_DIALOG_DESCRIPTION": "استفد أكثر من نوفا في هذا السيرفر.",
+  "UPGRADE_FEATURE_1": "حدود أعلى في جميع الإضافات",
+  "UPGRADE_FEATURE_2": "موسيقى في الرومات الصوتية",
+  "UPGRADE_FEATURE_3": "إضافات أكثر، مثل التذاكر والحماية",
   "UPGRADE_FEATURES_DIALOG": "ما الذي يتضمنه النسخة المميزة",
   "MORE_DETAILS_UPGRADE": "مزيد من التفاصيل: {pricing}",
   "UPGRADE_TO_PREMIUM_BUTTON": "ترقية إلى النسخة المميزة",
@@ -2150,5 +2150,12 @@
   "30_DAYS_OPTION": "30 يومًا",
   "20_WEEKS_OPTION": "20 أسبوعًا",
   "NO_CHANNEL_PLACEHOLDER": "لا يوجد روم",
-  "PREVIEW_UNAVAILABLE": "المعاينة غير متاحة"
+  "PREVIEW_UNAVAILABLE": "المعاينة غير متاحة",
+  "UPGRADE_PLAN_GO_TAGLINE": "يعمل على بوت نوفا جو المشترك",
+  "UPGRADE_PLAN_PRIME_TAGLINE": "بوت خاص بك، قابل للنقل",
+  "UPGRADE_PLAN_PLUS_TAGLINE": "كل ما في برايم، مع النسخ الاحتياطية",
+  "BILLED_1_MONTH": "تُدفع شهريًا",
+  "BILLED_3_MONTHS": "تُدفع كل 3 أشهر",
+  "BILLED_6_MONTHS": "تُدفع كل 6 أشهر",
+  "BILLED_1_YEAR": "تُدفع سنويًا"
 }

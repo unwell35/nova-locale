@@ -1307,10 +1307,10 @@
   "MEMBER_DISCONNECTED_PRICING": "멤버 접속 종료 로그",
   "MEMBER_MOVED_PRICING": "멤버 이동 로그",
   "UPGRADE_DIALOG_TITLE": "프리미엄의 힘을 경험하세요",
-  "UPGRADE_DIALOG_DESCRIPTION": "한계가 없는 세상을 만나보세요.\n프리미엄은 더 강력한 권한과 기능, 그리고 정교한 제어 기능을 제공합니다.",
-  "UPGRADE_FEATURE_1": "언제든 원하는 서버로 이전 가능",
-  "UPGRADE_FEATURE_2": "더 높은 제한 수치와 무제한의 성능",
-  "UPGRADE_FEATURE_3": "커뮤니티를 위한 더 많은 플러그인 제공",
+  "UPGRADE_DIALOG_DESCRIPTION": "이 서버에서 Nova를 더 알차게 활용하세요.",
+  "UPGRADE_FEATURE_1": "모든 플러그인의 한도 상향",
+  "UPGRADE_FEATURE_2": "음성 채널에서 음악 재생",
+  "UPGRADE_FEATURE_3": "티켓, 보안 등 더 많은 플러그인",
   "UPGRADE_FEATURES_DIALOG": "프리미엄 혜택 안내",
   "MORE_DETAILS_UPGRADE": "상세 정보: {pricing}",
   "UPGRADE_TO_PREMIUM_BUTTON": "프리미엄으로 업그레이드",
@@ -2153,5 +2153,12 @@
   "30_DAYS_OPTION": "30일",
   "20_WEEKS_OPTION": "20주",
   "NO_CHANNEL_PLACEHOLDER": "채널 없음",
-  "PREVIEW_UNAVAILABLE": "미리보기를 사용할 수 없음"
+  "PREVIEW_UNAVAILABLE": "미리보기를 사용할 수 없음",
+  "UPGRADE_PLAN_GO_TAGLINE": "공용 Nova Go 봇에서 실행",
+  "UPGRADE_PLAN_PRIME_TAGLINE": "나만의 봇, 이전 가능",
+  "UPGRADE_PLAN_PLUS_TAGLINE": "프라임의 모든 기능과 백업",
+  "BILLED_1_MONTH": "매월 결제",
+  "BILLED_3_MONTHS": "3개월마다 결제",
+  "BILLED_6_MONTHS": "6개월마다 결제",
+  "BILLED_1_YEAR": "매년 결제"
 }

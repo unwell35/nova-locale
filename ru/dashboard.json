@@ -1276,10 +1276,10 @@
   "MEMBER_DISCONNECTED_PRICING": "Лог отключений от голосовых",
   "MEMBER_MOVED_PRICING": "Лог перемещений",
   "UPGRADE_DIALOG_TITLE": "Открой всю мощь Premium",
-  "UPGRADE_DIALOG_DESCRIPTION": "Открой мир без ограничений\nPremium даёт больше мощности, больше функций и больше контроля",
-  "UPGRADE_FEATURE_1": "Переносится на любой сервер в любой момент",
-  "UPGRADE_FEATURE_2": "Повышенные лимиты, никаких ограничений",
-  "UPGRADE_FEATURE_3": "Больше плагинов для твоего сообщества",
+  "UPGRADE_DIALOG_DESCRIPTION": "Получи больше от Nova на этом сервере.",
+  "UPGRADE_FEATURE_1": "Повышенные лимиты во всех плагинах",
+  "UPGRADE_FEATURE_2": "Музыка в голосовых каналах",
+  "UPGRADE_FEATURE_3": "Больше плагинов, например «Тикеты» и «Защита»",
   "UPGRADE_FEATURES_DIALOG": "Что входит в Premium",
   "MORE_DETAILS_UPGRADE": "Подробнее: {pricing}",
   "UPGRADE_TO_PREMIUM_BUTTON": "Перейти на Premium",
@@ -2113,5 +2113,12 @@
   "30_DAYS_OPTION": "30 дней",
   "20_WEEKS_OPTION": "20 недель",
   "NO_CHANNEL_PLACEHOLDER": "Нет канала",
-  "PREVIEW_UNAVAILABLE": "Предпросмотр недоступен"
+  "PREVIEW_UNAVAILABLE": "Предпросмотр недоступен",
+  "UPGRADE_PLAN_GO_TAGLINE": "Работает на общем боте Nova Go",
+  "UPGRADE_PLAN_PRIME_TAGLINE": "Собственный бот, можно перенести",
+  "UPGRADE_PLAN_PLUS_TAGLINE": "Всё из Prime, плюс «Бэкапы»",
+  "BILLED_1_MONTH": "Оплата каждый месяц",
+  "BILLED_3_MONTHS": "Оплата каждые 3 месяца",
+  "BILLED_6_MONTHS": "Оплата каждые 6 месяцев",
+  "BILLED_1_YEAR": "Оплата каждый год"
 }
