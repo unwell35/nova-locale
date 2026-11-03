@@ -10,7 +10,7 @@
   "FOOTER_PRIVACY_POLICY": "Política de privacidad",
   "FOOTER_REFUND_POLICY": "Política de reembolso",
   "FOOTER_HEADER_TITLE": "Prueba Nova en tu servidor.\nEmpezar es gratis.",
-  "LANDING_HEADER_TITLE": "Tu aventura en Discord empieza entre las estrellas",
+  "LANDING_HEADER_TITLE": "Tu aventura en <discord>Discord</discord> empieza entre las estrellas",
   "LANDING_HEADER_DESCRIPTION": "Nova modera tu servidor, da la bienvenida a los nuevos miembros, gestiona tickets y sorteos y lleva la cuenta de los niveles. Todo se configura desde el dashboard.",
   "LANDING_HEADER_EXPLORE_MORE_BUTTON": "Ver funciones",
   "OVER_PLUGINS_TITLE": "Más de {plugins_count} plugins para tu servidor",

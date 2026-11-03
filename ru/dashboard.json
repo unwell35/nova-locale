@@ -10,7 +10,7 @@
   "FOOTER_PRIVACY_POLICY": "Политика конфиденциальности",
   "FOOTER_REFUND_POLICY": "Политика возврата средств",
   "FOOTER_HEADER_TITLE": "Попробуй Nova на своём сервере.\nНачать можно бесплатно.",
-  "LANDING_HEADER_TITLE": "Твоё приключение в Discord начинается среди звёзд",
+  "LANDING_HEADER_TITLE": "Твоё приключение в <discord>Discord</discord> начинается среди звёзд",
   "LANDING_HEADER_DESCRIPTION": "Nova модерирует сервер, встречает новых участников, ведёт тикеты и розыгрыши и считает уровни. Всё настраивается в дашборде.",
   "LANDING_HEADER_EXPLORE_MORE_BUTTON": "Смотреть возможности",
   "OVER_PLUGINS_TITLE": "Больше {plugins_count} плагинов для твоего сервера",

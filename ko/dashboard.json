@@ -10,7 +10,7 @@
   "FOOTER_PRIVACY_POLICY": "개인정보 처리방침",
   "FOOTER_REFUND_POLICY": "환불 정책",
   "FOOTER_HEADER_TITLE": "내 서버에서 Nova를 사용해 보세요.\n무료로 시작할 수 있습니다.",
-  "LANDING_HEADER_TITLE": "별들 사이에서 시작되는 당신만의 디스코드 모험",
+  "LANDING_HEADER_TITLE": "별들 사이에서 시작되는 당신만의 <discord>디스코드</discord> 모험",
   "LANDING_HEADER_DESCRIPTION": "Nova는 서버를 관리하고, 새 멤버를 맞이하고, 티켓과 기브어웨이를 운영하며, 레벨을 기록합니다. 모든 설정은 대시보드에서 할 수 있습니다.",
   "LANDING_HEADER_EXPLORE_MORE_BUTTON": "기능 보기",
   "OVER_PLUGINS_TITLE": "서버를 위한 {plugins_count} 개 이상의 플러그인",
