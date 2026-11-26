@@ -1323,5 +1323,10 @@
       "send_application": "Send Application",
       "application_handled_successfully": "Application has been handled successfully."
     }
+  },
+  "flows": {
+    "interaction_expired": "This button or form is no longer active.",
+    "panel_inactive": "This panel isn't active right now.",
+    "done": "✅ Done"
   }
 }
