@@ -1295,5 +1295,10 @@
       "send_application": "ناردنی داواکاری",
       "application_handled_successfully": "داواکارییەکە بە سەرکەوتوویی چارەسەرکرا."
     }
+  },
+  "flows": {
+    "interaction_expired": "ئەم دوگمەیە یان فۆرمە چیتر چالاک نییە.",
+    "panel_inactive": "ئەم پانێڵە لە ئێستادا چالاک نییە.",
+    "done": "✅ تەواو"
   }
 }
