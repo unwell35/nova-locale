@@ -1295,5 +1295,10 @@
       "send_application": "إرسال التقديم",
       "application_handled_successfully": "تمت معالجة التقديم بنجاح."
     }
+  },
+  "flows": {
+    "interaction_expired": "هذا الزر أو النموذج لم يعد فعّالًا.",
+    "panel_inactive": "هذه اللوحة غير مفعّلة حاليًا.",
+    "done": "✅ تم"
   }
 }
