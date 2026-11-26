@@ -1314,5 +1314,10 @@
       "send_application": "Invia Candidatura",
       "application_handled_successfully": "La candidatura è stata gestita con successo."
     }
+  },
+  "flows": {
+    "interaction_expired": "Questo pulsante o modulo non è più attivo.",
+    "panel_inactive": "Questo pannello al momento non è attivo.",
+    "done": "✅ Fatto"
   }
 }

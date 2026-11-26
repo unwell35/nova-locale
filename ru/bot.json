@@ -1295,5 +1295,10 @@
       "send_application": "Отправить заявку",
       "application_handled_successfully": "Заявка обработана."
     }
+  },
+  "flows": {
+    "interaction_expired": "Эта кнопка или форма больше не активна.",
+    "panel_inactive": "Эта панель сейчас не активна.",
+    "done": "✅ Готово"
   }
 }

@@ -1325,5 +1325,10 @@
       "send_application": "Bewerbung senden",
       "application_handled_successfully": "Bewerbung wurde erfolgreich bearbeitet."
     }
+  },
+  "flows": {
+    "interaction_expired": "Dieser Button oder dieses Formular ist nicht mehr aktiv.",
+    "panel_inactive": "Dieses Panel ist gerade nicht aktiv.",
+    "done": "✅ Erledigt"
   }
 }

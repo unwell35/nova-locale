@@ -1295,5 +1295,10 @@
       "send_application": "Enviar solicitud",
       "application_handled_successfully": "La solicitud se gestionó correctamente."
     }
+  },
+  "flows": {
+    "interaction_expired": "Este botón o formulario ya no está activo.",
+    "panel_inactive": "Este panel no está activo ahora mismo.",
+    "done": "✅ Listo"
   }
 }

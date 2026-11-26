@@ -1325,5 +1325,10 @@
       "send_application": "Başvuruyu Gönder",
       "application_handled_successfully": "Başvuru başarıyla işlendi."
     }
+  },
+  "flows": {
+    "interaction_expired": "Bu buton veya form artık aktif değil.",
+    "panel_inactive": "Bu panel şu anda aktif değil.",
+    "done": "✅ Tamamlandı"
   }
 }

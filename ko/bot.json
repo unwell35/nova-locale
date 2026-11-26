@@ -1326,5 +1326,10 @@
       "send_application": "신청서 제출",
       "application_handled_successfully": "신청서가 성공적으로 처리되었습니다."
     }
+  },
+  "flows": {
+    "interaction_expired": "이 버튼 또는 양식은 더 이상 사용할 수 없습니다.",
+    "panel_inactive": "이 패널은 현재 활성화되어 있지 않습니다.",
+    "done": "✅ 완료"
   }
 }

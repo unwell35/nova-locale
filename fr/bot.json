@@ -1295,5 +1295,10 @@
       "send_application": "Envoyer la candidature",
       "application_handled_successfully": "La candidature a été traitée avec succès."
     }
+  },
+  "flows": {
+    "interaction_expired": "Ce bouton ou ce formulaire n'est plus actif.",
+    "panel_inactive": "Ce panneau n'est pas actif pour le moment.",
+    "done": "✅ Terminé"
   }
 }
