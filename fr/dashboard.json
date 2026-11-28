@@ -2130,8 +2130,8 @@
   "FLOW_ZOOM_OUT_LABEL": "Zoom arrière",
   "FLOW_FIT_VIEW_LABEL": "Ajuster à l'écran",
   "FLOW_TIDY_UP_BUTTON": "Ranger",
-  "FLOW_CANVAS_BLOCK_HELP": "Appuyez sur Entrée ou Espace pour sélectionner ce bloc. Appuyez sur Suppr pour le supprimer et sur Échap pour annuler.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Appuyez sur Entrée ou Espace pour sélectionner cette connexion. Appuyez sur Suppr pour la supprimer et sur Échap pour annuler.",
+  "FLOW_CANVAS_BLOCK_HELP": "Appuyez sur Entrée ou Espace pour sélectionner ce bloc, et sur Échap pour annuler.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Appuyez sur Entrée ou Espace pour sélectionner cette connexion, et sur Échap pour annuler.",
   "FLOW_CANVAS_OUTPUT_LABEL": "Point de connexion",
   "FLOW_OUTPUT_TRUE": "Vrai",
   "FLOW_OUTPUT_FALSE": "Faux",
@@ -2993,5 +2993,9 @@
   "ITALIC_TOOLTIP": "Italique",
   "UNDERLINE_TOOLTIP": "Souligné",
   "STRIKETHROUGH_TOOLTIP": "Barré",
-  "QUOTE_TOOLTIP": "Citation"
+  "QUOTE_TOOLTIP": "Citation",
+  "FLOW_FIELD_TICKET_REASON": "Motif du ticket",
+  "FLOW_TICKET_REASON_DEFAULT": "Par défaut du panneau",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "Les questions de ce motif ne sont pas posées quand un workflow ouvre le ticket.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "Avatar de {option}"
 }
