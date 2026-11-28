@@ -2169,8 +2169,8 @@
   "FLOW_ZOOM_OUT_LABEL": "تصغير",
   "FLOW_FIT_VIEW_LABEL": "ملاءمة الشاشة",
   "FLOW_TIDY_UP_BUTTON": "ترتيب",
-  "FLOW_CANVAS_BLOCK_HELP": "اضغط Enter أو Space لتحديد هذا البلوك. اضغط Delete لحذفه و Escape للإلغاء.",
-  "FLOW_CANVAS_CONNECTION_HELP": "اضغط Enter أو Space لتحديد هذا الاتصال. اضغط Delete لحذفه و Escape للإلغاء.",
+  "FLOW_CANVAS_BLOCK_HELP": "اضغط Enter أو Space لتحديد هذا البلوك، و Escape للإلغاء.",
+  "FLOW_CANVAS_CONNECTION_HELP": "اضغط Enter أو Space لتحديد هذا الاتصال، و Escape للإلغاء.",
   "FLOW_CANVAS_OUTPUT_LABEL": "نقطة اتصال",
   "FLOW_OUTPUT_TRUE": "صحيح",
   "FLOW_OUTPUT_FALSE": "خطأ",
@@ -3049,5 +3049,9 @@
   "UNDERLINE_TOOLTIP": "تسطير",
   "STRIKETHROUGH_TOOLTIP": "يتوسطه خط",
   "QUOTE_TOOLTIP": "اقتباس",
-  "CODE_TOOLTIP": "كود"
+  "CODE_TOOLTIP": "كود",
+  "FLOW_FIELD_TICKET_REASON": "سبب التذكرة",
+  "FLOW_TICKET_REASON_DEFAULT": "افتراضي اللوحة",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "أسئلة هذا السبب لا تُطرح عندما يفتح مسار عمل التذكرة.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "أفاتار {option}"
 }
