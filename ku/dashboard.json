@@ -2203,8 +2203,8 @@
   "FLOW_ZOOM_OUT_LABEL": "بچووککردن",
   "FLOW_FIT_VIEW_LABEL": "گونجاندن لەگەڵ شاشە",
   "FLOW_TIDY_UP_BUTTON": "ڕێکخستنەوە",
-  "FLOW_CANVAS_BLOCK_HELP": "Enter یان Space دابگرە بۆ هەڵبژاردنی ئەم بلۆکە. Delete دابگرە بۆ لابردنی و Escape بۆ هەڵوەشاندنەوە.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Enter یان Space دابگرە بۆ هەڵبژاردنی ئەم پەیوەندییە. Delete دابگرە بۆ لابردنی و Escape بۆ هەڵوەشاندنەوە.",
+  "FLOW_CANVAS_BLOCK_HELP": "Enter یان Space دابگرە بۆ هەڵبژاردنی ئەم بلۆکە، و Escape بۆ هەڵوەشاندنەوە.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Enter یان Space دابگرە بۆ هەڵبژاردنی ئەم پەیوەندییە، و Escape بۆ هەڵوەشاندنەوە.",
   "FLOW_CANVAS_OUTPUT_LABEL": "خاڵی پەیوەندی",
   "FLOW_OUTPUT_TRUE": "ڕاست",
   "FLOW_OUTPUT_FALSE": "هەڵە",
@@ -3082,5 +3082,9 @@
   "UNDERLINE_TOOLTIP": "هێڵ بەژێردا",
   "STRIKETHROUGH_TOOLTIP": "هێڵ بەسەردا",
   "QUOTE_TOOLTIP": "وتە",
-  "CODE_TOOLTIP": "کۆد"
+  "CODE_TOOLTIP": "کۆد",
+  "FLOW_FIELD_TICKET_REASON": "هۆکاری تیکت",
+  "FLOW_TICKET_REASON_DEFAULT": "بنەڕەتی پانێڵ",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "کاتێک وۆرکفلۆیەک تیکتەکە دەکاتەوە، پرسیارەکانی ئەم هۆکارە ناپرسرێن.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "ئاڤاتاری {option}"
 }
