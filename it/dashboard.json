@@ -2258,8 +2258,8 @@
   "FLOW_ZOOM_OUT_LABEL": "Riduci",
   "FLOW_FIT_VIEW_LABEL": "Adatta allo schermo",
   "FLOW_TIDY_UP_BUTTON": "Riordina",
-  "FLOW_CANVAS_BLOCK_HELP": "Premi Invio o Spazio per selezionare questo blocco. Premi Canc per rimuoverlo ed Esc per annullare.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Premi Invio o Spazio per selezionare questo collegamento. Premi Canc per rimuoverlo ed Esc per annullare.",
+  "FLOW_CANVAS_BLOCK_HELP": "Premi Invio o Spazio per selezionare questo blocco ed Esc per annullare.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Premi Invio o Spazio per selezionare questo collegamento ed Esc per annullare.",
   "FLOW_CANVAS_OUTPUT_LABEL": "Punto di collegamento",
   "FLOW_OUTPUT_TRUE": "Vero",
   "FLOW_OUTPUT_FALSE": "Falso",
@@ -3160,5 +3160,9 @@
   "UNDERLINE_TOOLTIP": "Sottolineato",
   "STRIKETHROUGH_TOOLTIP": "Barrato",
   "QUOTE_TOOLTIP": "Citazione",
-  "CODE_TOOLTIP": "Codice"
+  "CODE_TOOLTIP": "Codice",
+  "FLOW_FIELD_TICKET_REASON": "Motivo del ticket",
+  "FLOW_TICKET_REASON_DEFAULT": "Predefinito del pannello",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "Le domande di questo motivo non vengono poste quando è un workflow ad aprire il ticket.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "Avatar di {option}"
 }

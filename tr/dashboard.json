@@ -2214,8 +2214,8 @@
   "FLOW_ZOOM_OUT_LABEL": "Uzaklaştır",
   "FLOW_FIT_VIEW_LABEL": "Ekrana sığdır",
   "FLOW_TIDY_UP_BUTTON": "Toparla",
-  "FLOW_CANVAS_BLOCK_HELP": "Bu bloğu seçmek için Enter veya Boşluk tuşuna bas. Silmek için Delete, iptal etmek için Escape tuşuna bas.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Bu bağlantıyı seçmek için Enter veya Boşluk tuşuna bas. Silmek için Delete, iptal etmek için Escape tuşuna bas.",
+  "FLOW_CANVAS_BLOCK_HELP": "Bu bloğu seçmek için Enter veya Boşluk tuşuna, iptal etmek için Escape tuşuna bas.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Bu bağlantıyı seçmek için Enter veya Boşluk tuşuna, iptal etmek için Escape tuşuna bas.",
   "FLOW_CANVAS_OUTPUT_LABEL": "Bağlantı noktası",
   "FLOW_OUTPUT_TRUE": "Doğru",
   "FLOW_OUTPUT_FALSE": "Yanlış",
@@ -3116,5 +3116,9 @@
   "UNDERLINE_TOOLTIP": "Altı çizili",
   "STRIKETHROUGH_TOOLTIP": "Üstü çizili",
   "QUOTE_TOOLTIP": "Alıntı",
-  "CODE_TOOLTIP": "Kod"
+  "CODE_TOOLTIP": "Kod",
+  "FLOW_FIELD_TICKET_REASON": "Ticket sebebi",
+  "FLOW_TICKET_REASON_DEFAULT": "Panel varsayılanı",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "Bir iş akışı ticket'ı açtığında bu sebebin soruları sorulmaz.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "{option} Avatarı"
 }

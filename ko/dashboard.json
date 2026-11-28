@@ -2249,8 +2249,8 @@
   "FLOW_ZOOM_OUT_LABEL": "축소",
   "FLOW_FIT_VIEW_LABEL": "화면에 맞추기",
   "FLOW_TIDY_UP_BUTTON": "정리하기",
-  "FLOW_CANVAS_BLOCK_HELP": "Enter 또는 Space 키를 눌러 이 블록을 선택하세요. Delete 키로 삭제하고 Escape 키로 취소합니다.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Enter 또는 Space 키를 눌러 이 연결을 선택하세요. Delete 키로 삭제하고 Escape 키로 취소합니다.",
+  "FLOW_CANVAS_BLOCK_HELP": "Enter 또는 Space 키를 눌러 이 블록을 선택하고, Escape 키로 취소합니다.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Enter 또는 Space 키를 눌러 이 연결을 선택하고, Escape 키로 취소합니다.",
   "FLOW_CANVAS_OUTPUT_LABEL": "연결 지점",
   "FLOW_OUTPUT_TRUE": "참",
   "FLOW_OUTPUT_FALSE": "거짓",
@@ -3151,5 +3151,9 @@
   "UNDERLINE_TOOLTIP": "밑줄",
   "STRIKETHROUGH_TOOLTIP": "취소선",
   "QUOTE_TOOLTIP": "인용",
-  "CODE_TOOLTIP": "코드"
+  "CODE_TOOLTIP": "코드",
+  "FLOW_FIELD_TICKET_REASON": "티켓 사유",
+  "FLOW_TICKET_REASON_DEFAULT": "패널 기본값",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "워크플로가 티켓을 열 때는 이 사유의 질문을 묻지 않습니다.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "{option} 아바타"
 }

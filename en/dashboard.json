@@ -2246,8 +2246,8 @@
   "FLOW_ZOOM_OUT_LABEL": "Zoom out",
   "FLOW_FIT_VIEW_LABEL": "Fit to screen",
   "FLOW_TIDY_UP_BUTTON": "Tidy Up",
-  "FLOW_CANVAS_BLOCK_HELP": "Press Enter or Space to select this block. Press Delete to remove it and Escape to cancel.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Press Enter or Space to select this connection. Press Delete to remove it and Escape to cancel.",
+  "FLOW_CANVAS_BLOCK_HELP": "Press Enter or Space to select this block and Escape to cancel.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Press Enter or Space to select this connection and Escape to cancel.",
   "FLOW_CANVAS_OUTPUT_LABEL": "Connection point",
   "FLOW_OUTPUT_TRUE": "True",
   "FLOW_OUTPUT_FALSE": "False",
@@ -3148,5 +3148,9 @@
   "UNDERLINE_TOOLTIP": "Underline",
   "STRIKETHROUGH_TOOLTIP": "Strikethrough",
   "QUOTE_TOOLTIP": "Quote",
-  "CODE_TOOLTIP": "Code"
+  "CODE_TOOLTIP": "Code",
+  "FLOW_FIELD_TICKET_REASON": "Ticket reason",
+  "FLOW_TICKET_REASON_DEFAULT": "Panel default",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "This reason's questions aren't asked when a workflow opens the ticket.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "Avatar of {option}"
 }

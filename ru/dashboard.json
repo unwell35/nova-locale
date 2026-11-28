@@ -2209,8 +2209,8 @@
   "FLOW_ZOOM_OUT_LABEL": "Отдалить",
   "FLOW_FIT_VIEW_LABEL": "Вписать в экран",
   "FLOW_TIDY_UP_BUTTON": "Упорядочить",
-  "FLOW_CANVAS_BLOCK_HELP": "Нажми Enter или Пробел, чтобы выбрать этот блок. Нажми Delete, чтобы удалить его, или Escape, чтобы отменить.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Нажми Enter или Пробел, чтобы выбрать эту связь. Нажми Delete, чтобы удалить её, или Escape, чтобы отменить.",
+  "FLOW_CANVAS_BLOCK_HELP": "Нажми Enter или Пробел, чтобы выбрать этот блок, или Escape, чтобы отменить.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Нажми Enter или Пробел, чтобы выбрать эту связь, или Escape, чтобы отменить.",
   "FLOW_CANVAS_OUTPUT_LABEL": "Точка соединения",
   "FLOW_OUTPUT_TRUE": "Да",
   "FLOW_OUTPUT_FALSE": "Нет",
@@ -3111,5 +3111,9 @@
   "UNDERLINE_TOOLTIP": "Подчёркнутый",
   "STRIKETHROUGH_TOOLTIP": "Зачёркнутый",
   "QUOTE_TOOLTIP": "Цитата",
-  "CODE_TOOLTIP": "Код"
+  "CODE_TOOLTIP": "Код",
+  "FLOW_FIELD_TICKET_REASON": "Причина тикета",
+  "FLOW_TICKET_REASON_DEFAULT": "По умолчанию из панели",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "Вопросы этой причины не задаются, когда тикет открывает сценарий.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "Аватар из параметра «{option}»"
 }

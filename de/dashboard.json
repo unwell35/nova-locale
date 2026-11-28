@@ -2214,8 +2214,8 @@
   "FLOW_ZOOM_OUT_LABEL": "Verkleinern",
   "FLOW_FIT_VIEW_LABEL": "An Bildschirm anpassen",
   "FLOW_TIDY_UP_BUTTON": "Aufräumen",
-  "FLOW_CANVAS_BLOCK_HELP": "Drücke Enter oder Leertaste, um diesen Block auszuwählen. Drücke Entf zum Entfernen und Esc zum Abbrechen.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Drücke Enter oder Leertaste, um diese Verbindung auszuwählen. Drücke Entf zum Entfernen und Esc zum Abbrechen.",
+  "FLOW_CANVAS_BLOCK_HELP": "Drücke Enter oder Leertaste, um diesen Block auszuwählen, und Esc zum Abbrechen.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Drücke Enter oder Leertaste, um diese Verbindung auszuwählen, und Esc zum Abbrechen.",
   "FLOW_CANVAS_OUTPUT_LABEL": "Verbindungspunkt",
   "FLOW_OUTPUT_TRUE": "Wahr",
   "FLOW_OUTPUT_FALSE": "Falsch",
@@ -3116,5 +3116,9 @@
   "UNDERLINE_TOOLTIP": "Unterstrichen",
   "STRIKETHROUGH_TOOLTIP": "Durchgestrichen",
   "QUOTE_TOOLTIP": "Zitat",
-  "CODE_TOOLTIP": "Code"
+  "CODE_TOOLTIP": "Code",
+  "FLOW_FIELD_TICKET_REASON": "Ticket-Grund",
+  "FLOW_TICKET_REASON_DEFAULT": "Standard des Panels",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "Die Fragen dieses Grunds werden nicht gestellt, wenn ein Workflow das Ticket öffnet.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "Avatar von {option}"
 }

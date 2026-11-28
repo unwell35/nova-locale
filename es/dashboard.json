@@ -2209,8 +2209,8 @@
   "FLOW_ZOOM_OUT_LABEL": "Alejar",
   "FLOW_FIT_VIEW_LABEL": "Ajustar a la pantalla",
   "FLOW_TIDY_UP_BUTTON": "Ordenar",
-  "FLOW_CANVAS_BLOCK_HELP": "Pulsa Enter o Espacio para seleccionar este bloque. Pulsa Supr para eliminarlo y Esc para cancelar.",
-  "FLOW_CANVAS_CONNECTION_HELP": "Pulsa Enter o Espacio para seleccionar esta conexión. Pulsa Supr para eliminarla y Esc para cancelar.",
+  "FLOW_CANVAS_BLOCK_HELP": "Pulsa Enter o Espacio para seleccionar este bloque y Esc para cancelar.",
+  "FLOW_CANVAS_CONNECTION_HELP": "Pulsa Enter o Espacio para seleccionar esta conexión y Esc para cancelar.",
   "FLOW_CANVAS_OUTPUT_LABEL": "Punto de conexión",
   "FLOW_OUTPUT_TRUE": "Verdadero",
   "FLOW_OUTPUT_FALSE": "Falso",
@@ -3111,5 +3111,9 @@
   "UNDERLINE_TOOLTIP": "Subrayado",
   "STRIKETHROUGH_TOOLTIP": "Tachado",
   "QUOTE_TOOLTIP": "Cita",
-  "CODE_TOOLTIP": "Código"
+  "CODE_TOOLTIP": "Código",
+  "FLOW_FIELD_TICKET_REASON": "Motivo del ticket",
+  "FLOW_TICKET_REASON_DEFAULT": "Predeterminado del panel",
+  "FLOW_TICKET_REASON_QUESTIONS_HINT": "Las preguntas de este motivo no se hacen cuando un flujo de trabajo abre el ticket.",
+  "FLOW_IMAGE_COMMAND_AVATAR": "Avatar de {option}"
 }
